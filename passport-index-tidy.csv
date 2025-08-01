@@ -484,7 +484,7 @@ Algeria,Jamaica,visa required
 Algeria,Japan,visa required
 Algeria,Jordan,visa on arrival
 Algeria,Kazakhstan,e-visa
-Algeria,Kenya,e-visa
+Algeria,Kenya,60
 Algeria,Kiribati,visa required
 Algeria,Kosovo,visa required
 Algeria,Kuwait,visa required
@@ -882,7 +882,7 @@ Angola,Jamaica,visa required
 Angola,Japan,visa required
 Angola,Jordan,visa required
 Angola,Kazakhstan,e-visa
-Angola,Kenya,e-visa
+Angola,Kenya,60
 Angola,Kiribati,visa required
 Angola,Kosovo,visa required
 Angola,Kuwait,visa required
@@ -2023,7 +2023,7 @@ Azerbaijan,Cape Verde,visa on arrival
 Azerbaijan,Central African Republic,visa required
 Azerbaijan,Chad,e-visa
 Azerbaijan,Chile,visa required
-Azerbaijan,China,visa required
+Azerbaijan,China,30
 Azerbaijan,Colombia,90
 Azerbaijan,Comoros,visa on arrival
 Azerbaijan,Congo,visa required
@@ -2275,7 +2275,7 @@ Bahamas,Jamaica,visa free
 Bahamas,Japan,90
 Bahamas,Jordan,visa on arrival
 Bahamas,Kazakhstan,e-visa
-Bahamas,Kenya,e-visa
+Bahamas,Kenya,90
 Bahamas,Kiribati,90
 Bahamas,Kosovo,90
 Bahamas,Kuwait,visa required
@@ -2463,7 +2463,7 @@ Bahrain,Honduras,90
 Bahrain,Hong Kong,30
 Bahrain,Hungary,visa required
 Bahrain,Iceland,visa required
-Bahrain,India,visa required
+Bahrain,India,e-visa
 Bahrain,Indonesia,visa on arrival
 Bahrain,Iran,15
 Bahrain,Iraq,visa on arrival
@@ -2872,7 +2872,7 @@ Barbados,Jamaica,visa free
 Barbados,Japan,90
 Barbados,Jordan,visa on arrival
 Barbados,Kazakhstan,e-visa
-Barbados,Kenya,e-visa
+Barbados,Kenya,90
 Barbados,Kiribati,90
 Barbados,Kosovo,90
 Barbados,Kuwait,visa required
@@ -3469,7 +3469,7 @@ Belize,Jamaica,visa free
 Belize,Japan,visa required
 Belize,Jordan,visa required
 Belize,Kazakhstan,e-visa
-Belize,Kenya,e-visa
+Belize,Kenya,90
 Belize,Kiribati,90
 Belize,Kosovo,90
 Belize,Kuwait,visa required
@@ -3668,7 +3668,7 @@ Benin,Jamaica,visa required
 Benin,Japan,visa required
 Benin,Jordan,visa required
 Benin,Kazakhstan,e-visa
-Benin,Kenya,e-visa
+Benin,Kenya,60
 Benin,Kiribati,visa required
 Benin,Kosovo,visa required
 Benin,Kuwait,visa required
@@ -4464,7 +4464,7 @@ Botswana,Jamaica,visa free
 Botswana,Japan,visa required
 Botswana,Jordan,visa required
 Botswana,Kazakhstan,e-visa
-Botswana,Kenya,e-visa
+Botswana,Kenya,90
 Botswana,Kiribati,90
 Botswana,Kosovo,90
 Botswana,Kuwait,visa required
@@ -4653,7 +4653,7 @@ Brazil,Hong Kong,90
 Brazil,Hungary,90
 Brazil,Iceland,90
 Brazil,India,e-visa
-Brazil,Indonesia,visa on arrival
+Brazil,Indonesia,30
 Brazil,Iran,15
 Brazil,Iraq,e-visa
 Brazil,Ireland,90
@@ -4862,7 +4862,7 @@ Brunei,Jamaica,visa free
 Brunei,Japan,30
 Brunei,Jordan,visa on arrival
 Brunei,Kazakhstan,e-visa
-Brunei,Kenya,e-visa
+Brunei,Kenya,90
 Brunei,Kiribati,90
 Brunei,Kosovo,90
 Brunei,Kuwait,visa on arrival
@@ -5260,7 +5260,7 @@ Burkina Faso,Jamaica,visa required
 Burkina Faso,Japan,visa required
 Burkina Faso,Jordan,visa required
 Burkina Faso,Kazakhstan,e-visa
-Burkina Faso,Kenya,e-visa
+Burkina Faso,Kenya,60
 Burkina Faso,Kiribati,visa required
 Burkina Faso,Kosovo,visa required
 Burkina Faso,Kuwait,visa required
@@ -5459,7 +5459,7 @@ Burundi,Jamaica,visa required
 Burundi,Japan,visa required
 Burundi,Jordan,visa required
 Burundi,Kazakhstan,e-visa
-Burundi,Kenya,visa free
+Burundi,Kenya,180
 Burundi,Kiribati,visa required
 Burundi,Kosovo,visa required
 Burundi,Kuwait,visa required
@@ -5857,7 +5857,7 @@ Cameroon,Jamaica,visa required
 Cameroon,Japan,visa required
 Cameroon,Jordan,visa required
 Cameroon,Kazakhstan,e-visa
-Cameroon,Kenya,e-visa
+Cameroon,Kenya,60
 Cameroon,Kiribati,90
 Cameroon,Kosovo,visa required
 Cameroon,Kuwait,visa required
@@ -6255,7 +6255,7 @@ Cape Verde,Jamaica,visa required
 Cape Verde,Japan,visa required
 Cape Verde,Jordan,visa on arrival
 Cape Verde,Kazakhstan,e-visa
-Cape Verde,Kenya,e-visa
+Cape Verde,Kenya,60
 Cape Verde,Kiribati,visa required
 Cape Verde,Kosovo,visa required
 Cape Verde,Kuwait,visa required
@@ -6454,7 +6454,7 @@ Central African Republic,Jamaica,visa required
 Central African Republic,Japan,visa required
 Central African Republic,Jordan,visa required
 Central African Republic,Kazakhstan,e-visa
-Central African Republic,Kenya,e-visa
+Central African Republic,Kenya,60
 Central African Republic,Kiribati,visa required
 Central African Republic,Kosovo,visa required
 Central African Republic,Kuwait,visa required
@@ -6653,7 +6653,7 @@ Chad,Jamaica,visa required
 Chad,Japan,visa required
 Chad,Jordan,visa required
 Chad,Kazakhstan,e-visa
-Chad,Kenya,e-visa
+Chad,Kenya,60
 Chad,Kiribati,visa required
 Chad,Kosovo,visa required
 Chad,Kuwait,visa required
@@ -7449,7 +7449,7 @@ Comoros,Jamaica,visa required
 Comoros,Japan,visa required
 Comoros,Jordan,visa required
 Comoros,Kazakhstan,e-visa
-Comoros,Kenya,e-visa
+Comoros,Kenya,90
 Comoros,Kiribati,visa required
 Comoros,Kosovo,visa required
 Comoros,Kuwait,visa required
@@ -7648,7 +7648,7 @@ Congo,Jamaica,visa required
 Congo,Japan,visa required
 Congo,Jordan,visa required
 Congo,Kazakhstan,e-visa
-Congo,Kenya,e-visa
+Congo,Kenya,90
 Congo,Kiribati,visa required
 Congo,Kosovo,visa required
 Congo,Kuwait,visa required
@@ -7847,7 +7847,7 @@ DR Congo,Jamaica,visa required
 DR Congo,Japan,visa required
 DR Congo,Jordan,visa required
 DR Congo,Kazakhstan,e-visa
-DR Congo,Kenya,visa free
+DR Congo,Kenya,180
 DR Congo,Kiribati,visa required
 DR Congo,Kosovo,visa required
 DR Congo,Kuwait,visa required
@@ -8245,7 +8245,7 @@ Ivory Coast,Jamaica,visa required
 Ivory Coast,Japan,visa required
 Ivory Coast,Jordan,visa required
 Ivory Coast,Kazakhstan,e-visa
-Ivory Coast,Kenya,e-visa
+Ivory Coast,Kenya,60
 Ivory Coast,Kiribati,visa required
 Ivory Coast,Kosovo,visa required
 Ivory Coast,Kuwait,visa required
@@ -8559,7 +8559,7 @@ Croatia,Afghanistan,visa required
 Cuba,Albania,e-visa
 Cuba,Algeria,visa required
 Cuba,Andorra,visa required
-Cuba,Angola,e-visa
+Cuba,Angola,visa required
 Cuba,Antigua and Barbuda,30
 Cuba,Argentina,visa required
 Cuba,Armenia,e-visa
@@ -8842,7 +8842,7 @@ Cyprus,Jamaica,visa free
 Cyprus,Japan,90
 Cyprus,Jordan,visa on arrival
 Cyprus,Kazakhstan,30
-Cyprus,Kenya,e-visa
+Cyprus,Kenya,90
 Cyprus,Kiribati,90
 Cyprus,Kosovo,90
 Cyprus,Kuwait,visa on arrival
@@ -9439,7 +9439,7 @@ Djibouti,Jamaica,visa required
 Djibouti,Japan,visa required
 Djibouti,Jordan,visa required
 Djibouti,Kazakhstan,e-visa
-Djibouti,Kenya,e-visa
+Djibouti,Kenya,60
 Djibouti,Kiribati,visa required
 Djibouti,Kosovo,visa required
 Djibouti,Kuwait,visa required
@@ -9613,7 +9613,7 @@ Dominica,Finland,90
 Dominica,France,90
 Dominica,Gabon,e-visa
 Dominica,Gambia,90
-Dominica,Georgia,visa required
+Dominica,Georgia,90
 Dominica,Germany,90
 Dominica,Ghana,visa required
 Dominica,Greece,90
@@ -9638,7 +9638,7 @@ Dominica,Jamaica,visa free
 Dominica,Japan,visa required
 Dominica,Jordan,visa on arrival
 Dominica,Kazakhstan,e-visa
-Dominica,Kenya,e-visa
+Dominica,Kenya,90
 Dominica,Kiribati,90
 Dominica,Kosovo,90
 Dominica,Kuwait,visa required
@@ -10226,7 +10226,7 @@ Egypt,Hungary,visa required
 Egypt,Iceland,visa required
 Egypt,India,visa required
 Egypt,Indonesia,visa on arrival
-Egypt,Iran,visa on arrival
+Egypt,Iran,21
 Egypt,Iraq,e-visa
 Egypt,Ireland,visa required
 Egypt,Israel,e-visa
@@ -10235,7 +10235,7 @@ Egypt,Jamaica,visa required
 Egypt,Japan,visa required
 Egypt,Jordan,30
 Egypt,Kazakhstan,e-visa
-Egypt,Kenya,e-visa
+Egypt,Kenya,60
 Egypt,Kiribati,90
 Egypt,Kosovo,visa required
 Egypt,Kuwait,visa required
@@ -10633,7 +10633,7 @@ Equatorial Guinea,Jamaica,visa required
 Equatorial Guinea,Japan,visa required
 Equatorial Guinea,Jordan,visa required
 Equatorial Guinea,Kazakhstan,e-visa
-Equatorial Guinea,Kenya,e-visa
+Equatorial Guinea,Kenya,60
 Equatorial Guinea,Kiribati,visa required
 Equatorial Guinea,Kosovo,visa required
 Equatorial Guinea,Kuwait,visa required
@@ -10832,7 +10832,7 @@ Eritrea,Jamaica,visa required
 Eritrea,Japan,visa required
 Eritrea,Jordan,visa required
 Eritrea,Kazakhstan,e-visa
-Eritrea,Kenya,e-visa
+Eritrea,Kenya,90
 Eritrea,Kiribati,visa required
 Eritrea,Kosovo,visa required
 Eritrea,Kuwait,visa required
@@ -11230,7 +11230,7 @@ Swaziland,Jamaica,visa free
 Swaziland,Japan,visa required
 Swaziland,Jordan,visa on arrival
 Swaziland,Kazakhstan,e-visa
-Swaziland,Kenya,e-visa
+Swaziland,Kenya,90
 Swaziland,Kiribati,90
 Swaziland,Kosovo,90
 Swaziland,Kuwait,visa required
@@ -11429,7 +11429,7 @@ Ethiopia,Jamaica,visa required
 Ethiopia,Japan,visa required
 Ethiopia,Jordan,visa required
 Ethiopia,Kazakhstan,e-visa
-Ethiopia,Kenya,e-visa
+Ethiopia,Kenya,90
 Ethiopia,Kiribati,visa required
 Ethiopia,Kosovo,visa required
 Ethiopia,Kuwait,visa required
@@ -11628,7 +11628,7 @@ Fiji,Jamaica,visa free
 Fiji,Japan,visa required
 Fiji,Jordan,visa on arrival
 Fiji,Kazakhstan,e-visa
-Fiji,Kenya,e-visa
+Fiji,Kenya,90
 Fiji,Kiribati,90
 Fiji,Kosovo,90
 Fiji,Kuwait,visa required
@@ -12225,7 +12225,7 @@ Gabon,Jamaica,visa required
 Gabon,Japan,visa required
 Gabon,Jordan,visa required
 Gabon,Kazakhstan,e-visa
-Gabon,Kenya,e-visa
+Gabon,Kenya,60
 Gabon,Kiribati,90
 Gabon,Kosovo,visa required
 Gabon,Kuwait,visa required
@@ -12424,7 +12424,7 @@ Gambia,Jamaica,visa free
 Gambia,Japan,visa required
 Gambia,Jordan,visa required
 Gambia,Kazakhstan,e-visa
-Gambia,Kenya,e-visa
+Gambia,Kenya,90
 Gambia,Kiribati,90
 Gambia,Kosovo,visa required
 Gambia,Kuwait,visa required
@@ -13021,7 +13021,7 @@ Ghana,Jamaica,visa free
 Ghana,Japan,visa required
 Ghana,Jordan,visa on arrival
 Ghana,Kazakhstan,e-visa
-Ghana,Kenya,e-visa
+Ghana,Kenya,90
 Ghana,Kiribati,90
 Ghana,Kosovo,visa required
 Ghana,Kuwait,visa required
@@ -13419,7 +13419,7 @@ Grenada,Jamaica,visa free
 Grenada,Japan,visa required
 Grenada,Jordan,visa on arrival
 Grenada,Kazakhstan,e-visa
-Grenada,Kenya,e-visa
+Grenada,Kenya,90
 Grenada,Kiribati,90
 Grenada,Kosovo,90
 Grenada,Kuwait,visa required
@@ -13817,7 +13817,7 @@ Guinea,Jamaica,visa required
 Guinea,Japan,visa required
 Guinea,Jordan,visa required
 Guinea,Kazakhstan,e-visa
-Guinea,Kenya,e-visa
+Guinea,Kenya,60
 Guinea,Kiribati,visa required
 Guinea,Kosovo,visa required
 Guinea,Kuwait,visa required
@@ -14016,7 +14016,7 @@ Guinea-Bissau,Jamaica,visa required
 Guinea-Bissau,Japan,visa required
 Guinea-Bissau,Jordan,visa required
 Guinea-Bissau,Kazakhstan,e-visa
-Guinea-Bissau,Kenya,e-visa
+Guinea-Bissau,Kenya,60
 Guinea-Bissau,Kiribati,visa required
 Guinea-Bissau,Kosovo,visa required
 Guinea-Bissau,Kuwait,visa required
@@ -14215,7 +14215,7 @@ Guyana,Jamaica,visa free
 Guyana,Japan,visa required
 Guyana,Jordan,visa on arrival
 Guyana,Kazakhstan,e-visa
-Guyana,Kenya,e-visa
+Guyana,Kenya,90
 Guyana,Kiribati,90
 Guyana,Kosovo,90
 Guyana,Kuwait,visa required
@@ -16802,7 +16802,7 @@ Jamaica,Jamaica,-1
 Jamaica,Japan,visa required
 Jamaica,Jordan,visa on arrival
 Jamaica,Kazakhstan,e-visa
-Jamaica,Kenya,e-visa
+Jamaica,Kenya,90
 Jamaica,Kiribati,90
 Jamaica,Kosovo,visa required
 Jamaica,Kuwait,visa required
@@ -17797,7 +17797,7 @@ Kiribati,Jamaica,visa free
 Kiribati,Japan,visa required
 Kiribati,Jordan,visa on arrival
 Kiribati,Kazakhstan,e-visa
-Kiribati,Kenya,e-visa
+Kiribati,Kenya,90
 Kiribati,Kiribati,-1
 Kiribati,Kosovo,90
 Kiribati,Kuwait,visa required
@@ -17915,7 +17915,7 @@ Kosovo,Andorra,90
 Kosovo,Angola,visa required
 Kosovo,Antigua and Barbuda,90
 Kosovo,Argentina,visa required
-Kosovo,Armenia,no admission
+Kosovo,Armenia,visa required
 Kosovo,Australia,e-visa
 Kosovo,Austria,90
 Kosovo,Azerbaijan,visa required
@@ -17932,7 +17932,7 @@ Kosovo,Bolivia,e-visa
 Kosovo,Bosnia and Herzegovina,visa required
 Kosovo,Botswana,visa required
 Kosovo,Brazil,visa required
-Kosovo,Brunei,visa required
+Kosovo,Brunei,14
 Kosovo,Bulgaria,90
 Kosovo,Burkina Faso,e-visa
 Kosovo,Burundi,visa on arrival
@@ -19190,7 +19190,7 @@ Lesotho,Jamaica,visa free
 Lesotho,Japan,90
 Lesotho,Jordan,visa on arrival
 Lesotho,Kazakhstan,e-visa
-Lesotho,Kenya,e-visa
+Lesotho,Kenya,90
 Lesotho,Kiribati,90
 Lesotho,Kosovo,90
 Lesotho,Kuwait,visa required
@@ -19389,7 +19389,7 @@ Liberia,Jamaica,visa required
 Liberia,Japan,visa required
 Liberia,Jordan,visa required
 Liberia,Kazakhstan,e-visa
-Liberia,Kenya,e-visa
+Liberia,Kenya,60
 Liberia,Kiribati,visa required
 Liberia,Kosovo,visa required
 Liberia,Kuwait,visa required
@@ -20380,7 +20380,7 @@ Macao,Iraq,e-visa
 Macao,Ireland,90
 Macao,Israel,e-visa
 Macao,Italy,90
-Macao,Jamaica,visa required
+Macao,Jamaica,30
 Macao,Japan,90
 Macao,Jordan,visa on arrival
 Macao,Kazakhstan,14
@@ -20482,7 +20482,7 @@ Macao,Turkmenistan,visa required
 Macao,Tuvalu,visa on arrival
 Macao,Turkey,30
 Macao,Uganda,e-visa
-Macao,Ukraine,visa required
+Macao,Ukraine,e-visa
 Macao,United Arab Emirates,30
 Macao,United Kingdom,e-visa
 Macao,United States,visa required
@@ -20583,7 +20583,7 @@ Madagascar,Jamaica,visa required
 Madagascar,Japan,visa required
 Madagascar,Jordan,visa required
 Madagascar,Kazakhstan,e-visa
-Madagascar,Kenya,e-visa
+Madagascar,Kenya,60
 Madagascar,Kiribati,visa required
 Madagascar,Kosovo,visa required
 Madagascar,Kuwait,visa required
@@ -20782,7 +20782,7 @@ Malawi,Jamaica,visa free
 Malawi,Japan,visa required
 Malawi,Jordan,visa on arrival
 Malawi,Kazakhstan,e-visa
-Malawi,Kenya,e-visa
+Malawi,Kenya,90
 Malawi,Kiribati,90
 Malawi,Kosovo,90
 Malawi,Kuwait,visa required
@@ -20981,7 +20981,7 @@ Malaysia,Jamaica,visa free
 Malaysia,Japan,90
 Malaysia,Jordan,visa on arrival
 Malaysia,Kazakhstan,30
-Malaysia,Kenya,e-visa
+Malaysia,Kenya,90
 Malaysia,Kiribati,90
 Malaysia,Kosovo,90
 Malaysia,Kuwait,visa on arrival
@@ -21180,7 +21180,7 @@ Maldives,Jamaica,visa free
 Maldives,Japan,visa required
 Maldives,Jordan,visa on arrival
 Maldives,Kazakhstan,30
-Maldives,Kenya,e-visa
+Maldives,Kenya,90
 Maldives,Kiribati,90
 Maldives,Kosovo,90
 Maldives,Kuwait,visa required
@@ -21379,7 +21379,7 @@ Mali,Jamaica,visa required
 Mali,Japan,visa required
 Mali,Jordan,visa required
 Mali,Kazakhstan,e-visa
-Mali,Kenya,e-visa
+Mali,Kenya,60
 Mali,Kiribati,visa required
 Mali,Kosovo,visa required
 Mali,Kuwait,visa required
@@ -21976,7 +21976,7 @@ Mauritania,Jamaica,visa required
 Mauritania,Japan,visa required
 Mauritania,Jordan,visa required
 Mauritania,Kazakhstan,e-visa
-Mauritania,Kenya,e-visa
+Mauritania,Kenya,60
 Mauritania,Kiribati,visa required
 Mauritania,Kosovo,visa required
 Mauritania,Kuwait,visa required
@@ -22175,7 +22175,7 @@ Mauritius,Jamaica,visa free
 Mauritius,Japan,90
 Mauritius,Jordan,visa on arrival
 Mauritius,Kazakhstan,e-visa
-Mauritius,Kenya,e-visa
+Mauritius,Kenya,90
 Mauritius,Kiribati,90
 Mauritius,Kosovo,90
 Mauritius,Kuwait,visa required
@@ -23568,7 +23568,7 @@ Morocco,Jamaica,visa required
 Morocco,Japan,visa required
 Morocco,Jordan,visa on arrival
 Morocco,Kazakhstan,30
-Morocco,Kenya,e-visa
+Morocco,Kenya,60
 Morocco,Kiribati,90
 Morocco,Kosovo,visa required
 Morocco,Kuwait,visa required
@@ -23767,7 +23767,7 @@ Mozambique,Jamaica,visa free
 Mozambique,Japan,visa required
 Mozambique,Jordan,visa required
 Mozambique,Kazakhstan,e-visa
-Mozambique,Kenya,e-visa
+Mozambique,Kenya,90
 Mozambique,Kiribati,90
 Mozambique,Kosovo,visa required
 Mozambique,Kuwait,visa required
@@ -24165,7 +24165,7 @@ Namibia,Jamaica,visa free
 Namibia,Japan,visa required
 Namibia,Jordan,visa required
 Namibia,Kazakhstan,e-visa
-Namibia,Kenya,e-visa
+Namibia,Kenya,90
 Namibia,Kiribati,90
 Namibia,Kosovo,90
 Namibia,Kuwait,visa required
@@ -24364,7 +24364,7 @@ Nauru,Jamaica,visa free
 Nauru,Japan,visa required
 Nauru,Jordan,visa on arrival
 Nauru,Kazakhstan,e-visa
-Nauru,Kenya,e-visa
+Nauru,Kenya,90
 Nauru,Kiribati,90
 Nauru,Kosovo,90
 Nauru,Kuwait,visa required
@@ -25359,7 +25359,7 @@ Niger,Jamaica,visa required
 Niger,Japan,visa required
 Niger,Jordan,visa required
 Niger,Kazakhstan,e-visa
-Niger,Kenya,e-visa
+Niger,Kenya,60
 Niger,Kiribati,visa required
 Niger,Kosovo,visa required
 Niger,Kuwait,visa required
@@ -25558,7 +25558,7 @@ Nigeria,Jamaica,visa required
 Nigeria,Japan,visa required
 Nigeria,Jordan,visa required
 Nigeria,Kazakhstan,e-visa
-Nigeria,Kenya,e-visa
+Nigeria,Kenya,60
 Nigeria,Kiribati,90
 Nigeria,Kosovo,visa required
 Nigeria,Kuwait,visa required
@@ -26411,7 +26411,7 @@ Oman,Poland,visa required
 Oman,Portugal,visa required
 Oman,Qatar,visa free
 Oman,Romania,visa required
-Oman,Russia,e-visa
+Oman,Russia,30
 Oman,Rwanda,visa on arrival
 Oman,Saint Kitts and Nevis,e-visa
 Oman,Saint Lucia,visa required
@@ -27349,7 +27349,7 @@ Papua New Guinea,Jamaica,visa free
 Papua New Guinea,Japan,visa required
 Papua New Guinea,Jordan,visa required
 Papua New Guinea,Kazakhstan,e-visa
-Papua New Guinea,Kenya,e-visa
+Papua New Guinea,Kenya,90
 Papua New Guinea,Kiribati,90
 Papua New Guinea,Kosovo,90
 Papua New Guinea,Kuwait,visa required
@@ -29140,7 +29140,7 @@ Rwanda,Jamaica,visa required
 Rwanda,Japan,visa required
 Rwanda,Jordan,visa on arrival
 Rwanda,Kazakhstan,e-visa
-Rwanda,Kenya,visa free
+Rwanda,Kenya,180
 Rwanda,Kiribati,90
 Rwanda,Kosovo,visa required
 Rwanda,Kuwait,visa required
@@ -29339,7 +29339,7 @@ Saint Kitts and Nevis,Jamaica,visa free
 Saint Kitts and Nevis,Japan,visa required
 Saint Kitts and Nevis,Jordan,visa on arrival
 Saint Kitts and Nevis,Kazakhstan,90
-Saint Kitts and Nevis,Kenya,e-visa
+Saint Kitts and Nevis,Kenya,90
 Saint Kitts and Nevis,Kiribati,90
 Saint Kitts and Nevis,Kosovo,90
 Saint Kitts and Nevis,Kuwait,visa required
@@ -29538,7 +29538,7 @@ Saint Lucia,Jamaica,visa free
 Saint Lucia,Japan,visa required
 Saint Lucia,Jordan,visa on arrival
 Saint Lucia,Kazakhstan,e-visa
-Saint Lucia,Kenya,e-visa
+Saint Lucia,Kenya,90
 Saint Lucia,Kiribati,90
 Saint Lucia,Kosovo,90
 Saint Lucia,Kuwait,visa required
@@ -29653,7 +29653,7 @@ Saint Lucia,Afghanistan,visa required
 Samoa,Albania,e-visa
 Samoa,Algeria,visa required
 Samoa,Andorra,90
-Samoa,Angola,e-visa
+Samoa,Angola,visa required
 Samoa,Antigua and Barbuda,180
 Samoa,Argentina,visa required
 Samoa,Armenia,e-visa
@@ -29737,7 +29737,7 @@ Samoa,Jamaica,visa free
 Samoa,Japan,visa required
 Samoa,Jordan,visa on arrival
 Samoa,Kazakhstan,e-visa
-Samoa,Kenya,e-visa
+Samoa,Kenya,90
 Samoa,Kiribati,90
 Samoa,Kosovo,90
 Samoa,Kuwait,visa required
@@ -29936,7 +29936,7 @@ San Marino,Jamaica,90
 San Marino,Japan,90
 San Marino,Jordan,visa on arrival
 San Marino,Kazakhstan,90
-San Marino,Kenya,e-visa
+San Marino,Kenya,90
 San Marino,Kiribati,visa required
 San Marino,Kosovo,90
 San Marino,Kuwait,visa on arrival
@@ -30135,7 +30135,7 @@ Sao Tome and Principe,Jamaica,visa required
 Sao Tome and Principe,Japan,visa required
 Sao Tome and Principe,Jordan,visa on arrival
 Sao Tome and Principe,Kazakhstan,e-visa
-Sao Tome and Principe,Kenya,e-visa
+Sao Tome and Principe,Kenya,60
 Sao Tome and Principe,Kiribati,visa required
 Sao Tome and Principe,Kosovo,90
 Sao Tome and Principe,Kuwait,visa required
@@ -30533,7 +30533,7 @@ Senegal,Jamaica,visa required
 Senegal,Japan,visa required
 Senegal,Jordan,visa required
 Senegal,Kazakhstan,e-visa
-Senegal,Kenya,e-visa
+Senegal,Kenya,60
 Senegal,Kiribati,visa required
 Senegal,Kosovo,visa required
 Senegal,Kuwait,visa required
@@ -30931,7 +30931,7 @@ Seychelles,Jamaica,visa free
 Seychelles,Japan,visa required
 Seychelles,Jordan,visa on arrival
 Seychelles,Kazakhstan,30
-Seychelles,Kenya,e-visa
+Seychelles,Kenya,90
 Seychelles,Kiribati,90
 Seychelles,Kosovo,90
 Seychelles,Kuwait,visa required
@@ -31130,7 +31130,7 @@ Sierra Leone,Jamaica,visa free
 Sierra Leone,Japan,visa required
 Sierra Leone,Jordan,visa required
 Sierra Leone,Kazakhstan,e-visa
-Sierra Leone,Kenya,e-visa
+Sierra Leone,Kenya,90
 Sierra Leone,Kiribati,90
 Sierra Leone,Kosovo,visa required
 Sierra Leone,Kuwait,visa required
@@ -31329,7 +31329,7 @@ Singapore,Jamaica,visa free
 Singapore,Japan,90
 Singapore,Jordan,visa on arrival
 Singapore,Kazakhstan,30
-Singapore,Kenya,e-visa
+Singapore,Kenya,90
 Singapore,Kiribati,90
 Singapore,Kosovo,90
 Singapore,Kuwait,visa on arrival
@@ -32125,7 +32125,7 @@ Somalia,Jamaica,visa required
 Somalia,Japan,visa required
 Somalia,Jordan,visa required
 Somalia,Kazakhstan,e-visa
-Somalia,Kenya,visa free
+Somalia,Kenya,60
 Somalia,Kiribati,visa required
 Somalia,Kosovo,visa required
 Somalia,Kuwait,visa required
@@ -32324,7 +32324,7 @@ South Africa,Jamaica,visa free
 South Africa,Japan,e-visa
 South Africa,Jordan,visa on arrival
 South Africa,Kazakhstan,e-visa
-South Africa,Kenya,e-visa
+South Africa,Kenya,90
 South Africa,Kiribati,90
 South Africa,Kosovo,visa required
 South Africa,Kuwait,visa required
@@ -32722,7 +32722,7 @@ South Sudan,Jamaica,visa required
 South Sudan,Japan,visa required
 South Sudan,Jordan,visa required
 South Sudan,Kazakhstan,e-visa
-South Sudan,Kenya,visa free
+South Sudan,Kenya,180
 South Sudan,Kiribati,visa required
 South Sudan,Kosovo,visa required
 South Sudan,Kuwait,visa required
@@ -33319,7 +33319,7 @@ Saint Vincent and the Grenadines,Jamaica,visa free
 Saint Vincent and the Grenadines,Japan,visa required
 Saint Vincent and the Grenadines,Jordan,visa on arrival
 Saint Vincent and the Grenadines,Kazakhstan,e-visa
-Saint Vincent and the Grenadines,Kenya,e-visa
+Saint Vincent and the Grenadines,Kenya,90
 Saint Vincent and the Grenadines,Kiribati,90
 Saint Vincent and the Grenadines,Kosovo,90
 Saint Vincent and the Grenadines,Kuwait,visa required
@@ -33518,7 +33518,7 @@ Sudan,Jamaica,visa required
 Sudan,Japan,visa required
 Sudan,Jordan,visa required
 Sudan,Kazakhstan,e-visa
-Sudan,Kenya,e-visa
+Sudan,Kenya,60
 Sudan,Kiribati,visa required
 Sudan,Kosovo,visa required
 Sudan,Kuwait,visa required
@@ -33602,7 +33602,7 @@ Sudan,Sudan,-1
 Sudan,Suriname,visa required
 Sudan,Sweden,visa required
 Sudan,Switzerland,visa required
-Sudan,Syria,visa required
+Sudan,Syria,visa free
 Sudan,Taiwan,visa required
 Sudan,Tajikistan,visa required
 Sudan,Tanzania,visa on arrival
@@ -34586,7 +34586,7 @@ Taiwan,Singapore,30
 Taiwan,Slovakia,90
 Taiwan,Slovenia,90
 Taiwan,Solomon Islands,visa on arrival
-Taiwan,Somalia,no admission
+Taiwan,Somalia,e-visa
 Taiwan,South Africa,visa required
 Taiwan,South Korea,90
 Taiwan,South Sudan,e-visa
@@ -34911,7 +34911,7 @@ Tanzania,Jamaica,visa free
 Tanzania,Japan,visa required
 Tanzania,Jordan,visa required
 Tanzania,Kazakhstan,e-visa
-Tanzania,Kenya,visa free
+Tanzania,Kenya,180
 Tanzania,Kiribati,90
 Tanzania,Kosovo,visa required
 Tanzania,Kuwait,visa required
@@ -35508,7 +35508,7 @@ Togo,Jamaica,visa required
 Togo,Japan,visa required
 Togo,Jordan,visa required
 Togo,Kazakhstan,e-visa
-Togo,Kenya,e-visa
+Togo,Kenya,60
 Togo,Kiribati,90
 Togo,Kosovo,visa required
 Togo,Kuwait,visa required
@@ -35707,7 +35707,7 @@ Tonga,Jamaica,visa free
 Tonga,Japan,visa required
 Tonga,Jordan,visa on arrival
 Tonga,Kazakhstan,e-visa
-Tonga,Kenya,e-visa
+Tonga,Kenya,90
 Tonga,Kiribati,90
 Tonga,Kosovo,90
 Tonga,Kuwait,visa required
@@ -35906,7 +35906,7 @@ Trinidad and Tobago,Jamaica,visa free
 Trinidad and Tobago,Japan,visa required
 Trinidad and Tobago,Jordan,visa on arrival
 Trinidad and Tobago,Kazakhstan,e-visa
-Trinidad and Tobago,Kenya,e-visa
+Trinidad and Tobago,Kenya,90
 Trinidad and Tobago,Kiribati,90
 Trinidad and Tobago,Kosovo,90
 Trinidad and Tobago,Kuwait,visa required
@@ -36105,7 +36105,7 @@ Tunisia,Jamaica,visa required
 Tunisia,Japan,90
 Tunisia,Jordan,visa on arrival
 Tunisia,Kazakhstan,e-visa
-Tunisia,Kenya,e-visa
+Tunisia,Kenya,60
 Tunisia,Kiribati,visa required
 Tunisia,Kosovo,visa required
 Tunisia,Kuwait,visa required
@@ -36294,7 +36294,7 @@ Turkey,Hong Kong,90
 Turkey,Hungary,visa required
 Turkey,Iceland,visa required
 Turkey,India,visa required
-Turkey,Indonesia,visa on arrival
+Turkey,Indonesia,30
 Turkey,Iran,90
 Turkey,Iraq,e-visa
 Turkey,Ireland,visa required
@@ -36702,7 +36702,7 @@ Tuvalu,Jamaica,visa free
 Tuvalu,Japan,visa required
 Tuvalu,Jordan,visa on arrival
 Tuvalu,Kazakhstan,e-visa
-Tuvalu,Kenya,e-visa
+Tuvalu,Kenya,90
 Tuvalu,Kiribati,90
 Tuvalu,Kosovo,90
 Tuvalu,Kuwait,visa required
@@ -36901,7 +36901,7 @@ Uganda,Jamaica,visa free
 Uganda,Japan,visa required
 Uganda,Jordan,visa required
 Uganda,Kazakhstan,e-visa
-Uganda,Kenya,visa free
+Uganda,Kenya,180
 Uganda,Kiribati,90
 Uganda,Kosovo,visa required
 Uganda,Kuwait,visa required
@@ -37800,7 +37800,7 @@ United States,United Arab Emirates,90
 United States,United Kingdom,e-visa
 United States,United States,-1
 United States,Uruguay,90
-United States,Uzbekistan,5
+United States,Uzbekistan,e-visa
 United States,Vanuatu,120
 United States,Vatican,90
 United States,Venezuela,visa required
@@ -38294,7 +38294,7 @@ Vanuatu,Jamaica,visa free
 Vanuatu,Japan,visa required
 Vanuatu,Jordan,visa on arrival
 Vanuatu,Kazakhstan,e-visa
-Vanuatu,Kenya,e-visa
+Vanuatu,Kenya,90
 Vanuatu,Kiribati,90
 Vanuatu,Kosovo,90
 Vanuatu,Kuwait,visa required
@@ -38608,7 +38608,7 @@ Vatican,Afghanistan,visa required
 Venezuela,Albania,90
 Venezuela,Algeria,visa required
 Venezuela,Andorra,90
-Venezuela,Angola,e-visa
+Venezuela,Angola,visa required
 Venezuela,Antigua and Barbuda,180
 Venezuela,Argentina,90
 Venezuela,Armenia,e-visa
@@ -39289,7 +39289,7 @@ Zambia,Jamaica,visa free
 Zambia,Japan,visa required
 Zambia,Jordan,visa required
 Zambia,Kazakhstan,e-visa
-Zambia,Kenya,e-visa
+Zambia,Kenya,90
 Zambia,Kiribati,90
 Zambia,Kosovo,visa required
 Zambia,Kuwait,visa required
@@ -39488,7 +39488,7 @@ Zimbabwe,Jamaica,visa required
 Zimbabwe,Japan,visa required
 Zimbabwe,Jordan,visa on arrival
 Zimbabwe,Kazakhstan,e-visa
-Zimbabwe,Kenya,e-visa
+Zimbabwe,Kenya,90
 Zimbabwe,Kiribati,visa required
 Zimbabwe,Kosovo,visa required
 Zimbabwe,Kuwait,visa required
