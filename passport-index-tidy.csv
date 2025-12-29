@@ -3019,7 +3019,7 @@ Belarus,Central African Republic,visa required
 Belarus,Chad,e-visa
 Belarus,Chile,visa required
 Belarus,China,30
-Belarus,Colombia,e-visa
+Belarus,Colombia,90
 Belarus,Comoros,visa on arrival
 Belarus,Congo,visa required
 Belarus,DR Congo,e-visa
@@ -4993,7 +4993,7 @@ Bulgaria,Belgium,visa free
 Bulgaria,Belize,visa free
 Bulgaria,Benin,e-visa
 Bulgaria,Bhutan,e-visa
-Bulgaria,Bolivia,e-visa
+Bulgaria,Bolivia,90
 Bulgaria,Bosnia and Herzegovina,90
 Bulgaria,Botswana,90
 Bulgaria,Brazil,90
@@ -5532,7 +5532,7 @@ Burundi,Singapore,30
 Burundi,Slovakia,visa required
 Burundi,Slovenia,visa required
 Burundi,Solomon Islands,visa required
-Burundi,Somalia,e-visa
+Burundi,Somalia,visa on arrival
 Burundi,South Africa,visa required
 Burundi,South Korea,e-visa
 Burundi,South Sudan,visa on arrival
@@ -7108,7 +7108,7 @@ China,Poland,visa required
 China,Portugal,visa required
 China,Qatar,visa on arrival
 China,Romania,visa required
-China,Russia,e-visa
+China,Russia,30
 China,Rwanda,visa on arrival
 China,Saint Kitts and Nevis,e-visa
 China,Saint Lucia,42
@@ -7177,7 +7177,7 @@ Colombia,Bahamas,90
 Colombia,Bahrain,visa on arrival
 Colombia,Bangladesh,visa on arrival
 Colombia,Barbados,90
-Colombia,Belarus,e-visa
+Colombia,Belarus,90
 Colombia,Belgium,90
 Colombia,Belize,30
 Colombia,Benin,e-visa
@@ -7522,7 +7522,7 @@ Comoros,Singapore,30
 Comoros,Slovakia,visa required
 Comoros,Slovenia,visa required
 Comoros,Solomon Islands,visa required
-Comoros,Somalia,e-visa
+Comoros,Somalia,visa on arrival
 Comoros,South Africa,e-visa
 Comoros,South Korea,e-visa
 Comoros,South Sudan,e-visa
@@ -9512,7 +9512,7 @@ Djibouti,Singapore,30
 Djibouti,Slovakia,visa required
 Djibouti,Slovenia,visa required
 Djibouti,Solomon Islands,visa required
-Djibouti,Somalia,e-visa
+Djibouti,Somalia,visa on arrival
 Djibouti,South Africa,visa required
 Djibouti,South Korea,e-visa
 Djibouti,South Sudan,e-visa
@@ -11502,7 +11502,7 @@ Ethiopia,Singapore,30
 Ethiopia,Slovakia,visa required
 Ethiopia,Slovenia,visa required
 Ethiopia,Solomon Islands,visa required
-Ethiopia,Somalia,e-visa
+Ethiopia,Somalia,visa on arrival
 Ethiopia,South Africa,e-visa
 Ethiopia,South Korea,e-visa
 Ethiopia,South Sudan,e-visa
@@ -16336,7 +16336,7 @@ Israel,Belgium,90
 Israel,Belize,90
 Israel,Benin,e-visa
 Israel,Bhutan,e-visa
-Israel,Bolivia,e-visa
+Israel,Bolivia,90
 Israel,Bosnia and Herzegovina,90
 Israel,Botswana,90
 Israel,Brazil,90
@@ -17257,7 +17257,7 @@ Jordan,Poland,visa required
 Jordan,Portugal,visa required
 Jordan,Qatar,e-visa
 Jordan,Romania,visa required
-Jordan,Russia,e-visa
+Jordan,Russia,30
 Jordan,Rwanda,visa on arrival
 Jordan,Saint Kitts and Nevis,e-visa
 Jordan,Saint Lucia,visa required
@@ -18793,7 +18793,7 @@ Latvia,Japan,90
 Latvia,Jordan,visa on arrival
 Latvia,Kazakhstan,30
 Latvia,Kenya,e-visa
-Latvia,Kiribati,visa required
+Latvia,Kiribati,90
 Latvia,Kosovo,90
 Latvia,Kuwait,visa on arrival
 Latvia,Kyrgyzstan,60
@@ -19987,7 +19987,7 @@ Lithuania,Japan,90
 Lithuania,Jordan,visa on arrival
 Lithuania,Kazakhstan,30
 Lithuania,Kenya,e-visa
-Lithuania,Kiribati,visa required
+Lithuania,Kiribati,90
 Lithuania,Kosovo,90
 Lithuania,Kuwait,visa on arrival
 Lithuania,Kyrgyzstan,60
@@ -21510,7 +21510,7 @@ Malta,Belgium,visa free
 Malta,Belize,visa free
 Malta,Benin,e-visa
 Malta,Bhutan,e-visa
-Malta,Bolivia,e-visa
+Malta,Bolivia,90
 Malta,Bosnia and Herzegovina,90
 Malta,Botswana,90
 Malta,Brazil,90
@@ -21579,7 +21579,7 @@ Malta,Japan,90
 Malta,Jordan,visa on arrival
 Malta,Kazakhstan,30
 Malta,Kenya,e-visa
-Malta,Kiribati,visa required
+Malta,Kiribati,90
 Malta,Kosovo,90
 Malta,Kuwait,visa on arrival
 Malta,Kyrgyzstan,60
@@ -23366,7 +23366,7 @@ Montenegro,Ireland,visa required
 Montenegro,Israel,e-visa
 Montenegro,Italy,90
 Montenegro,Jamaica,visa on arrival
-Montenegro,Japan,visa required
+Montenegro,Japan,90
 Montenegro,Jordan,visa on arrival
 Montenegro,Kazakhstan,e-visa
 Montenegro,Kenya,e-visa
@@ -24464,7 +24464,7 @@ Nauru,Turkey,visa required
 Nauru,Uganda,e-visa
 Nauru,Ukraine,e-visa
 Nauru,United Arab Emirates,90
-Nauru,United Kingdom,e-visa
+Nauru,United Kingdom,visa required
 Nauru,United States,visa required
 Nauru,Uruguay,visa required
 Nauru,Uzbekistan,e-visa
@@ -27025,7 +27025,7 @@ Palestine,Slovakia,visa required
 Palestine,Slovenia,visa required
 Palestine,Solomon Islands,visa required
 Palestine,Somalia,e-visa
-Palestine,South Africa,90
+Palestine,South Africa,visa required
 Palestine,South Korea,e-visa
 Palestine,South Sudan,e-visa
 Palestine,Spain,visa required
@@ -28674,7 +28674,7 @@ Romania,Belgium,visa free
 Romania,Belize,visa free
 Romania,Benin,e-visa
 Romania,Bhutan,e-visa
-Romania,Bolivia,e-visa
+Romania,Bolivia,90
 Romania,Bosnia and Herzegovina,90
 Romania,Botswana,90
 Romania,Brazil,90
@@ -28870,7 +28870,7 @@ Russia,Bangladesh,visa on arrival
 Russia,Barbados,90
 Russia,Belarus,visa free
 Russia,Belgium,visa required
-Russia,Belize,visa required
+Russia,Belize,90
 Russia,Benin,e-visa
 Russia,Bhutan,e-visa
 Russia,Bolivia,90
@@ -28939,7 +28939,7 @@ Russia,Israel,e-visa
 Russia,Italy,visa required
 Russia,Jamaica,90
 Russia,Japan,visa required
-Russia,Jordan,visa on arrival
+Russia,Jordan,30
 Russia,Kazakhstan,90
 Russia,Kenya,e-visa
 Russia,Kiribati,90
@@ -29213,7 +29213,7 @@ Rwanda,Singapore,30
 Rwanda,Slovakia,visa required
 Rwanda,Slovenia,visa required
 Rwanda,Solomon Islands,visa required
-Rwanda,Somalia,e-visa
+Rwanda,Somalia,30
 Rwanda,South Africa,visa required
 Rwanda,South Korea,e-visa
 Rwanda,South Sudan,visa on arrival
@@ -32256,7 +32256,7 @@ South Africa,Belgium,visa required
 South Africa,Belize,visa free
 South Africa,Benin,90
 South Africa,Bhutan,e-visa
-South Africa,Bolivia,e-visa
+South Africa,Bolivia,90
 South Africa,Bosnia and Herzegovina,visa required
 South Africa,Botswana,90
 South Africa,Brazil,90
@@ -32455,7 +32455,7 @@ South Korea,Belgium,90
 South Korea,Belize,90
 South Korea,Benin,e-visa
 South Korea,Bhutan,e-visa
-South Korea,Bolivia,e-visa
+South Korea,Bolivia,90
 South Korea,Bosnia and Herzegovina,90
 South Korea,Botswana,90
 South Korea,Brazil,90
@@ -34984,7 +34984,7 @@ Tanzania,Singapore,30
 Tanzania,Slovakia,visa required
 Tanzania,Slovenia,visa required
 Tanzania,Solomon Islands,visa required
-Tanzania,Somalia,e-visa
+Tanzania,Somalia,visa on arrival
 Tanzania,South Africa,90
 Tanzania,South Korea,e-visa
 Tanzania,South Sudan,visa free
@@ -36974,7 +36974,7 @@ Uganda,Singapore,30
 Uganda,Slovakia,visa required
 Uganda,Slovenia,visa required
 Uganda,Solomon Islands,visa required
-Uganda,Somalia,e-visa
+Uganda,Somalia,visa on arrival
 Uganda,South Africa,e-visa
 Uganda,South Korea,e-visa
 Uganda,South Sudan,visa free
@@ -37231,7 +37231,7 @@ United Arab Emirates,Belgium,90
 United Arab Emirates,Belize,visa required
 United Arab Emirates,Benin,e-visa
 United Arab Emirates,Bhutan,e-visa
-United Arab Emirates,Bolivia,e-visa
+United Arab Emirates,Bolivia,90
 United Arab Emirates,Bosnia and Herzegovina,90
 United Arab Emirates,Botswana,90
 United Arab Emirates,Brazil,90
@@ -37267,7 +37267,7 @@ United Arab Emirates,El Salvador,180
 United Arab Emirates,Equatorial Guinea,90
 United Arab Emirates,Eritrea,visa required
 United Arab Emirates,Estonia,90
-United Arab Emirates,Swaziland,visa required
+United Arab Emirates,Swaziland,30
 United Arab Emirates,Ethiopia,visa on arrival
 United Arab Emirates,Fiji,120
 United Arab Emirates,Finland,90
@@ -37629,7 +37629,7 @@ United States,Belgium,90
 United States,Belize,180
 United States,Benin,e-visa
 United States,Bhutan,e-visa
-United States,Bolivia,visa on arrival
+United States,Bolivia,90
 United States,Bosnia and Herzegovina,90
 United States,Botswana,90
 United States,Brazil,e-visa
