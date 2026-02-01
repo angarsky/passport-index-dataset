@@ -514,7 +514,7 @@ Algeria,Moldova,e-visa
 Algeria,Monaco,visa required
 Algeria,Mongolia,visa required
 Algeria,Montenegro,visa required
-Algeria,Morocco,90
+Algeria,Morocco,e-visa
 Algeria,Mozambique,visa on arrival
 Algeria,Myanmar,e-visa
 Algeria,Namibia,e-visa
@@ -5290,7 +5290,7 @@ Burkina Faso,Moldova,e-visa
 Burkina Faso,Monaco,visa required
 Burkina Faso,Mongolia,visa required
 Burkina Faso,Montenegro,visa required
-Burkina Faso,Morocco,90
+Burkina Faso,Morocco,e-visa
 Burkina Faso,Mozambique,visa on arrival
 Burkina Faso,Myanmar,visa required
 Burkina Faso,Namibia,visa on arrival
@@ -17831,7 +17831,7 @@ Kiribati,Morocco,visa required
 Kiribati,Mozambique,visa on arrival
 Kiribati,Myanmar,visa required
 Kiribati,Namibia,visa on arrival
-Kiribati,Nauru,visa required
+Kiribati,Nauru,visa on arrival
 Kiribati,Nepal,visa on arrival
 Kiribati,Netherlands,90
 Kiribati,New Zealand,visa required
@@ -21184,7 +21184,7 @@ Maldives,Kenya,90
 Maldives,Kiribati,90
 Maldives,Kosovo,90
 Maldives,Kuwait,visa required
-Maldives,Kyrgyzstan,e-visa
+Maldives,Kyrgyzstan,30
 Maldives,Laos,visa on arrival
 Maldives,Latvia,visa required
 Maldives,Lebanon,visa required
@@ -23683,7 +23683,7 @@ Morocco,Afghanistan,visa required
 Mozambique,Albania,e-visa
 Mozambique,Algeria,visa required
 Mozambique,Andorra,visa required
-Mozambique,Angola,visa required
+Mozambique,Angola,30
 Mozambique,Antigua and Barbuda,e-visa
 Mozambique,Argentina,visa required
 Mozambique,Armenia,visa required
@@ -23775,7 +23775,7 @@ Mozambique,Kyrgyzstan,e-visa
 Mozambique,Laos,visa required
 Mozambique,Latvia,visa required
 Mozambique,Lebanon,visa required
-Mozambique,Lesotho,visa required
+Mozambique,Lesotho,30
 Mozambique,Liberia,e-visa
 Mozambique,Libya,e-visa
 Mozambique,Liechtenstein,visa required
@@ -25389,7 +25389,7 @@ Niger,Moldova,e-visa
 Niger,Monaco,visa required
 Niger,Mongolia,visa required
 Niger,Montenegro,visa required
-Niger,Morocco,90
+Niger,Morocco,e-visa
 Niger,Mozambique,visa on arrival
 Niger,Myanmar,visa required
 Niger,Namibia,visa on arrival
@@ -30563,7 +30563,7 @@ Senegal,Moldova,e-visa
 Senegal,Monaco,visa required
 Senegal,Mongolia,e-visa
 Senegal,Montenegro,visa required
-Senegal,Morocco,90
+Senegal,Morocco,e-visa
 Senegal,Mozambique,30
 Senegal,Myanmar,visa required
 Senegal,Namibia,e-visa
@@ -34547,7 +34547,7 @@ Taiwan,Morocco,visa required
 Taiwan,Mozambique,visa on arrival
 Taiwan,Myanmar,e-visa
 Taiwan,Namibia,e-visa
-Taiwan,Nauru,visa required
+Taiwan,Nauru,visa on arrival
 Taiwan,Nepal,visa on arrival
 Taiwan,Netherlands,90
 Taiwan,New Zealand,e-visa
@@ -36333,7 +36333,7 @@ Turkey,Micronesia,30
 Turkey,Moldova,90
 Turkey,Monaco,visa required
 Turkey,Mongolia,30
-Turkey,Montenegro,visa required
+Turkey,Montenegro,30
 Turkey,Morocco,90
 Turkey,Mozambique,visa on arrival
 Turkey,Myanmar,e-visa
@@ -36348,7 +36348,7 @@ Turkey,Nigeria,e-visa
 Turkey,North Korea,visa required
 Turkey,North Macedonia,90
 Turkey,Norway,visa required
-Turkey,Oman,visa on arrival
+Turkey,Oman,30
 Turkey,Pakistan,e-visa
 Turkey,Palau,visa on arrival
 Turkey,Palestine,visa free

@@ -514,7 +514,7 @@ DZA,MDA,e-visa
 DZA,MCO,visa required
 DZA,MNG,visa required
 DZA,MNE,visa required
-DZA,MAR,90
+DZA,MAR,e-visa
 DZA,MOZ,visa on arrival
 DZA,MMR,e-visa
 DZA,NAM,e-visa
@@ -5290,7 +5290,7 @@ BFA,MDA,e-visa
 BFA,MCO,visa required
 BFA,MNG,visa required
 BFA,MNE,visa required
-BFA,MAR,90
+BFA,MAR,e-visa
 BFA,MOZ,visa on arrival
 BFA,MMR,visa required
 BFA,NAM,visa on arrival
@@ -17831,7 +17831,7 @@ KIR,MAR,visa required
 KIR,MOZ,visa on arrival
 KIR,MMR,visa required
 KIR,NAM,visa on arrival
-KIR,NRU,visa required
+KIR,NRU,visa on arrival
 KIR,NPL,visa on arrival
 KIR,NLD,90
 KIR,NZL,visa required
@@ -21184,7 +21184,7 @@ MDV,KEN,90
 MDV,KIR,90
 MDV,XKX,90
 MDV,KWT,visa required
-MDV,KGZ,e-visa
+MDV,KGZ,30
 MDV,LAO,visa on arrival
 MDV,LVA,visa required
 MDV,LBN,visa required
@@ -23683,7 +23683,7 @@ MAR,AFG,visa required
 MOZ,ALB,e-visa
 MOZ,DZA,visa required
 MOZ,AND,visa required
-MOZ,AGO,visa required
+MOZ,AGO,30
 MOZ,ATG,e-visa
 MOZ,ARG,visa required
 MOZ,ARM,visa required
@@ -23775,7 +23775,7 @@ MOZ,KGZ,e-visa
 MOZ,LAO,visa required
 MOZ,LVA,visa required
 MOZ,LBN,visa required
-MOZ,LSO,visa required
+MOZ,LSO,30
 MOZ,LBR,e-visa
 MOZ,LBY,e-visa
 MOZ,LIE,visa required
@@ -25389,7 +25389,7 @@ NER,MDA,e-visa
 NER,MCO,visa required
 NER,MNG,visa required
 NER,MNE,visa required
-NER,MAR,90
+NER,MAR,e-visa
 NER,MOZ,visa on arrival
 NER,MMR,visa required
 NER,NAM,visa on arrival
@@ -30563,7 +30563,7 @@ SEN,MDA,e-visa
 SEN,MCO,visa required
 SEN,MNG,e-visa
 SEN,MNE,visa required
-SEN,MAR,90
+SEN,MAR,e-visa
 SEN,MOZ,30
 SEN,MMR,visa required
 SEN,NAM,e-visa
@@ -34547,7 +34547,7 @@ TWN,MAR,visa required
 TWN,MOZ,visa on arrival
 TWN,MMR,e-visa
 TWN,NAM,e-visa
-TWN,NRU,visa required
+TWN,NRU,visa on arrival
 TWN,NPL,visa on arrival
 TWN,NLD,90
 TWN,NZL,e-visa
@@ -36333,7 +36333,7 @@ TUR,FSM,30
 TUR,MDA,90
 TUR,MCO,visa required
 TUR,MNG,30
-TUR,MNE,visa required
+TUR,MNE,30
 TUR,MAR,90
 TUR,MOZ,visa on arrival
 TUR,MMR,e-visa
@@ -36348,7 +36348,7 @@ TUR,NGA,e-visa
 TUR,PRK,visa required
 TUR,MKD,90
 TUR,NOR,visa required
-TUR,OMN,visa on arrival
+TUR,OMN,30
 TUR,PAK,e-visa
 TUR,PLW,visa on arrival
 TUR,PSE,visa free
