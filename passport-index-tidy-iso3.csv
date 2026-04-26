@@ -7278,7 +7278,7 @@ COL,MEX,180
 COL,FSM,30
 COL,MDA,90
 COL,MCO,90
-COL,MNG,30
+COL,MNG,90
 COL,MNE,90
 COL,MAR,90
 COL,MOZ,visa on arrival
@@ -14499,7 +14499,7 @@ HTI,SUR,no admission
 HTI,SWE,visa required
 HTI,CHE,visa required
 HTI,SYR,e-visa
-HTI,TWN,90
+HTI,TWN,e-visa
 HTI,TJK,visa required
 HTI,TZA,visa on arrival
 HTI,THA,e-visa
@@ -14792,7 +14792,7 @@ HKG,DEU,90
 HKG,GHA,visa required
 HKG,GRC,90
 HKG,GRD,90
-HKG,GTM,90
+HKG,GTM,visa required
 HKG,GIN,e-visa
 HKG,GNB,visa on arrival
 HKG,GUY,30
@@ -15906,7 +15906,7 @@ IRN,TUV,visa on arrival
 IRN,TUR,90
 IRN,UGA,e-visa
 IRN,UKR,visa required
-IRN,ARE,e-visa
+IRN,ARE,no admission
 IRN,GBR,visa required
 IRN,USA,no admission
 IRN,URY,visa required
@@ -26608,7 +26608,7 @@ PAK,PER,visa required
 PAK,PHL,visa required
 PAK,POL,visa required
 PAK,PRT,visa required
-PAK,QAT,visa on arrival
+PAK,QAT,e-visa
 PAK,ROU,visa required
 PAK,RUS,visa required
 PAK,RWA,30
@@ -27448,7 +27448,7 @@ PNG,TUV,visa on arrival
 PNG,TUR,visa required
 PNG,UGA,e-visa
 PNG,UKR,visa required
-PNG,ARE,e-visa
+PNG,ARE,90
 PNG,GBR,e-visa
 PNG,USA,visa required
 PNG,URY,visa required
@@ -28456,7 +28456,7 @@ PRT,YEM,visa required
 PRT,ZMB,90
 PRT,ZWE,visa on arrival
 PRT,AFG,e-visa
-QAT,ALB,e-visa
+QAT,ALB,90
 QAT,DZA,visa required
 QAT,AND,visa required
 QAT,AGO,30
@@ -30247,7 +30247,7 @@ STP,YEM,visa required
 STP,ZMB,90
 STP,ZWE,visa on arrival
 STP,AFG,e-visa
-SAU,ALB,e-visa
+SAU,ALB,90
 SAU,DZA,visa required
 SAU,AND,visa required
 SAU,AGO,30
@@ -32791,7 +32791,7 @@ SSD,SEN,visa required
 SSD,SRB,visa required
 SSD,SYC,90
 SSD,SLE,visa on arrival
-SSD,SGP,30
+SSD,SGP,e-visa
 SSD,SVK,visa required
 SSD,SVN,visa required
 SSD,SLB,visa required
@@ -36298,7 +36298,7 @@ TUR,IDN,30
 TUR,IRN,90
 TUR,IRQ,e-visa
 TUR,IRL,visa required
-TUR,ISR,e-visa
+TUR,ISR,visa required
 TUR,ITA,visa required
 TUR,JAM,90
 TUR,JPN,90
@@ -36333,7 +36333,7 @@ TUR,FSM,30
 TUR,MDA,90
 TUR,MCO,visa required
 TUR,MNG,30
-TUR,MNE,30
+TUR,MNE,visa required
 TUR,MAR,90
 TUR,MOZ,visa on arrival
 TUR,MMR,e-visa
@@ -36389,7 +36389,7 @@ TUR,SUR,visa required
 TUR,SWE,visa required
 TUR,CHE,visa required
 TUR,SYR,90
-TUR,TWN,visa on arrival
+TUR,TWN,e-visa
 TUR,TJK,visa required
 TUR,TZA,visa on arrival
 TUR,THA,60
@@ -37396,7 +37396,7 @@ ARE,TUN,90
 ARE,TKM,visa required
 ARE,TUV,visa on arrival
 ARE,TUR,90
-ARE,UGA,visa on arrival
+ARE,UGA,90
 ARE,UKR,90
 ARE,ARE,-1
 ARE,GBR,e-visa

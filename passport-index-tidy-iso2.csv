@@ -7278,7 +7278,7 @@ CO,MX,180
 CO,FM,30
 CO,MD,90
 CO,MC,90
-CO,MN,30
+CO,MN,90
 CO,ME,90
 CO,MA,90
 CO,MZ,visa on arrival
@@ -14499,7 +14499,7 @@ HT,SR,no admission
 HT,SE,visa required
 HT,CH,visa required
 HT,SY,e-visa
-HT,TW,90
+HT,TW,e-visa
 HT,TJ,visa required
 HT,TZ,visa on arrival
 HT,TH,e-visa
@@ -14792,7 +14792,7 @@ HK,DE,90
 HK,GH,visa required
 HK,GR,90
 HK,GD,90
-HK,GT,90
+HK,GT,visa required
 HK,GN,e-visa
 HK,GW,visa on arrival
 HK,GY,30
@@ -15906,7 +15906,7 @@ IR,TV,visa on arrival
 IR,TR,90
 IR,UG,e-visa
 IR,UA,visa required
-IR,AE,e-visa
+IR,AE,no admission
 IR,GB,visa required
 IR,US,no admission
 IR,UY,visa required
@@ -26608,7 +26608,7 @@ PK,PE,visa required
 PK,PH,visa required
 PK,PL,visa required
 PK,PT,visa required
-PK,QA,visa on arrival
+PK,QA,e-visa
 PK,RO,visa required
 PK,RU,visa required
 PK,RW,30
@@ -27448,7 +27448,7 @@ PG,TV,visa on arrival
 PG,TR,visa required
 PG,UG,e-visa
 PG,UA,visa required
-PG,AE,e-visa
+PG,AE,90
 PG,GB,e-visa
 PG,US,visa required
 PG,UY,visa required
@@ -28456,7 +28456,7 @@ PT,YE,visa required
 PT,ZM,90
 PT,ZW,visa on arrival
 PT,AF,e-visa
-QA,AL,e-visa
+QA,AL,90
 QA,DZ,visa required
 QA,AD,visa required
 QA,AO,30
@@ -30247,7 +30247,7 @@ ST,YE,visa required
 ST,ZM,90
 ST,ZW,visa on arrival
 ST,AF,e-visa
-SA,AL,e-visa
+SA,AL,90
 SA,DZ,visa required
 SA,AD,visa required
 SA,AO,30
@@ -32791,7 +32791,7 @@ SS,SN,visa required
 SS,RS,visa required
 SS,SC,90
 SS,SL,visa on arrival
-SS,SG,30
+SS,SG,e-visa
 SS,SK,visa required
 SS,SI,visa required
 SS,SB,visa required
@@ -36298,7 +36298,7 @@ TR,ID,30
 TR,IR,90
 TR,IQ,e-visa
 TR,IE,visa required
-TR,IL,e-visa
+TR,IL,visa required
 TR,IT,visa required
 TR,JM,90
 TR,JP,90
@@ -36333,7 +36333,7 @@ TR,FM,30
 TR,MD,90
 TR,MC,visa required
 TR,MN,30
-TR,ME,30
+TR,ME,visa required
 TR,MA,90
 TR,MZ,visa on arrival
 TR,MM,e-visa
@@ -36389,7 +36389,7 @@ TR,SR,visa required
 TR,SE,visa required
 TR,CH,visa required
 TR,SY,90
-TR,TW,visa on arrival
+TR,TW,e-visa
 TR,TJ,visa required
 TR,TZ,visa on arrival
 TR,TH,60
@@ -37396,7 +37396,7 @@ AE,TN,90
 AE,TM,visa required
 AE,TV,visa on arrival
 AE,TR,90
-AE,UG,visa on arrival
+AE,UG,90
 AE,UA,90
 AE,AE,-1
 AE,GB,e-visa
