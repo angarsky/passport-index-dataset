@@ -124,7 +124,7 @@ Afghanistan,Nauru,visa required
 Afghanistan,Nepal,visa required
 Afghanistan,Netherlands,visa required
 Afghanistan,New Zealand,visa required
-Afghanistan,Nicaragua,visa required
+Afghanistan,Nicaragua,e-visa
 Afghanistan,Niger,visa required
 Afghanistan,Nigeria,e-visa
 Afghanistan,North Korea,visa required
@@ -192,7 +192,7 @@ Afghanistan,Uruguay,visa required
 Afghanistan,Uzbekistan,visa required
 Afghanistan,Vanuatu,e-visa
 Afghanistan,Vatican,visa required
-Afghanistan,Venezuela,visa required
+Afghanistan,Venezuela,e-visa
 Afghanistan,Vietnam,e-visa
 Afghanistan,Yemen,visa required
 Afghanistan,Zambia,e-visa
@@ -391,7 +391,7 @@ Albania,Uruguay,visa required
 Albania,Uzbekistan,e-visa
 Albania,Vanuatu,e-visa
 Albania,Vatican,90
-Albania,Venezuela,visa required
+Albania,Venezuela,e-visa
 Albania,Vietnam,e-visa
 Albania,Yemen,visa required
 Albania,Zambia,90
@@ -557,7 +557,7 @@ Algeria,Singapore,e-visa
 Algeria,Slovakia,visa required
 Algeria,Slovenia,visa required
 Algeria,Solomon Islands,visa required
-Algeria,Somalia,e-visa
+Algeria,Somalia,visa on arrival
 Algeria,South Africa,e-visa
 Algeria,South Korea,e-visa
 Algeria,South Sudan,e-visa
@@ -590,7 +590,7 @@ Algeria,Uruguay,visa required
 Algeria,Uzbekistan,e-visa
 Algeria,Vanuatu,e-visa
 Algeria,Vatican,visa required
-Algeria,Venezuela,visa required
+Algeria,Venezuela,e-visa
 Algeria,Vietnam,e-visa
 Algeria,Yemen,visa on arrival
 Algeria,Zambia,e-visa
@@ -721,7 +721,7 @@ Andorra,Nauru,visa required
 Andorra,Nepal,visa on arrival
 Andorra,Netherlands,90
 Andorra,New Zealand,e-visa
-Andorra,Nicaragua,visa required
+Andorra,Nicaragua,e-visa
 Andorra,Niger,visa required
 Andorra,Nigeria,e-visa
 Andorra,North Korea,visa required
@@ -988,7 +988,7 @@ Angola,Uruguay,visa required
 Angola,Uzbekistan,e-visa
 Angola,Vanuatu,e-visa
 Angola,Vatican,visa required
-Angola,Venezuela,visa required
+Angola,Venezuela,e-visa
 Angola,Vietnam,e-visa
 Angola,Yemen,visa required
 Angola,Zambia,90
@@ -1119,7 +1119,7 @@ Antigua and Barbuda,Nauru,visa required
 Antigua and Barbuda,Nepal,visa on arrival
 Antigua and Barbuda,Netherlands,90
 Antigua and Barbuda,New Zealand,visa required
-Antigua and Barbuda,Nicaragua,visa required
+Antigua and Barbuda,Nicaragua,e-visa
 Antigua and Barbuda,Niger,visa required
 Antigua and Barbuda,Nigeria,e-visa
 Antigua and Barbuda,North Korea,visa required
@@ -1517,7 +1517,7 @@ Armenia,Nauru,visa required
 Armenia,Nepal,visa on arrival
 Armenia,Netherlands,visa required
 Armenia,New Zealand,visa required
-Armenia,Nicaragua,visa required
+Armenia,Nicaragua,e-visa
 Armenia,Niger,visa required
 Armenia,Nigeria,e-visa
 Armenia,North Korea,visa required
@@ -1585,7 +1585,7 @@ Armenia,Uruguay,90
 Armenia,Uzbekistan,visa free
 Armenia,Vanuatu,e-visa
 Armenia,Vatican,visa required
-Armenia,Venezuela,visa required
+Armenia,Venezuela,e-visa
 Armenia,Vietnam,e-visa
 Armenia,Yemen,visa required
 Armenia,Zambia,e-visa
@@ -1961,7 +1961,7 @@ Austria,Sudan,visa required
 Austria,Suriname,visa required
 Austria,Sweden,visa free
 Austria,Switzerland,visa free
-Austria,Syria,e-visa
+Austria,Syria,visa on arrival
 Austria,Taiwan,90
 Austria,Tajikistan,30
 Austria,Tanzania,visa on arrival
@@ -2094,7 +2094,7 @@ Azerbaijan,Macao,visa on arrival
 Azerbaijan,Madagascar,visa on arrival
 Azerbaijan,Malawi,visa on arrival
 Azerbaijan,Malaysia,30
-Azerbaijan,Maldives,visa on arrival
+Azerbaijan,Maldives,90
 Azerbaijan,Mali,visa required
 Azerbaijan,Malta,visa required
 Azerbaijan,Marshall Islands,visa on arrival
@@ -2114,7 +2114,7 @@ Azerbaijan,Nauru,visa required
 Azerbaijan,Nepal,visa on arrival
 Azerbaijan,Netherlands,visa required
 Azerbaijan,New Zealand,visa required
-Azerbaijan,Nicaragua,visa required
+Azerbaijan,Nicaragua,e-visa
 Azerbaijan,Niger,visa required
 Azerbaijan,Nigeria,e-visa
 Azerbaijan,North Korea,visa required
@@ -2182,7 +2182,7 @@ Azerbaijan,Uruguay,visa required
 Azerbaijan,Uzbekistan,visa free
 Azerbaijan,Vanuatu,120
 Azerbaijan,Vatican,visa required
-Azerbaijan,Venezuela,visa required
+Azerbaijan,Venezuela,e-visa
 Azerbaijan,Vietnam,e-visa
 Azerbaijan,Yemen,visa required
 Azerbaijan,Zambia,e-visa
@@ -2313,7 +2313,7 @@ Bahamas,Nauru,visa required
 Bahamas,Nepal,visa on arrival
 Bahamas,Netherlands,90
 Bahamas,New Zealand,visa required
-Bahamas,Nicaragua,visa required
+Bahamas,Nicaragua,e-visa
 Bahamas,Niger,visa required
 Bahamas,Nigeria,e-visa
 Bahamas,North Korea,visa required
@@ -2381,7 +2381,7 @@ Bahamas,Uruguay,90
 Bahamas,Uzbekistan,30
 Bahamas,Vanuatu,120
 Bahamas,Vatican,90
-Bahamas,Venezuela,visa required
+Bahamas,Venezuela,e-visa
 Bahamas,Vietnam,e-visa
 Bahamas,Yemen,visa required
 Bahamas,Zambia,90
@@ -2558,7 +2558,7 @@ Bahrain,Sudan,visa required
 Bahrain,Suriname,visa required
 Bahrain,Sweden,visa required
 Bahrain,Switzerland,visa required
-Bahrain,Syria,visa on arrival
+Bahrain,Syria,e-visa
 Bahrain,Taiwan,e-visa
 Bahrain,Tajikistan,30
 Bahrain,Tanzania,visa on arrival
@@ -2580,7 +2580,7 @@ Bahrain,Uruguay,visa required
 Bahrain,Uzbekistan,10
 Bahrain,Vanuatu,120
 Bahrain,Vatican,visa required
-Bahrain,Venezuela,visa required
+Bahrain,Venezuela,e-visa
 Bahrain,Vietnam,e-visa
 Bahrain,Yemen,visa on arrival
 Bahrain,Zambia,90
@@ -2704,14 +2704,14 @@ Bangladesh,Monaco,visa required
 Bangladesh,Mongolia,visa required
 Bangladesh,Montenegro,visa required
 Bangladesh,Morocco,visa required
-Bangladesh,Mozambique,e-visa
+Bangladesh,Mozambique,visa required
 Bangladesh,Myanmar,e-visa
 Bangladesh,Namibia,e-visa
 Bangladesh,Nauru,visa required
 Bangladesh,Nepal,visa on arrival
 Bangladesh,Netherlands,visa required
 Bangladesh,New Zealand,visa required
-Bangladesh,Nicaragua,visa required
+Bangladesh,Nicaragua,e-visa
 Bangladesh,Niger,visa required
 Bangladesh,Nigeria,e-visa
 Bangladesh,North Korea,visa required
@@ -2779,7 +2779,7 @@ Bangladesh,Uruguay,visa required
 Bangladesh,Uzbekistan,e-visa
 Bangladesh,Vanuatu,120
 Bangladesh,Vatican,visa required
-Bangladesh,Venezuela,visa required
+Bangladesh,Venezuela,e-visa
 Bangladesh,Vietnam,e-visa
 Bangladesh,Yemen,visa required
 Bangladesh,Zambia,e-visa
@@ -2910,7 +2910,7 @@ Barbados,Nauru,visa required
 Barbados,Nepal,visa on arrival
 Barbados,Netherlands,90
 Barbados,New Zealand,visa required
-Barbados,Nicaragua,visa required
+Barbados,Nicaragua,e-visa
 Barbados,Niger,visa required
 Barbados,Nigeria,e-visa
 Barbados,North Korea,visa required
@@ -3354,7 +3354,7 @@ Belgium,Sudan,visa required
 Belgium,Suriname,visa required
 Belgium,Sweden,visa free
 Belgium,Switzerland,visa free
-Belgium,Syria,e-visa
+Belgium,Syria,visa on arrival
 Belgium,Taiwan,90
 Belgium,Tajikistan,30
 Belgium,Tanzania,visa on arrival
@@ -3706,7 +3706,7 @@ Benin,Nauru,visa required
 Benin,Nepal,visa on arrival
 Benin,Netherlands,visa required
 Benin,New Zealand,visa required
-Benin,Nicaragua,visa required
+Benin,Nicaragua,e-visa
 Benin,Niger,visa free
 Benin,Nigeria,visa free
 Benin,North Korea,visa required
@@ -3774,7 +3774,7 @@ Benin,Uruguay,visa required
 Benin,Uzbekistan,visa required
 Benin,Vanuatu,e-visa
 Benin,Vatican,visa required
-Benin,Venezuela,visa required
+Benin,Venezuela,e-visa
 Benin,Vietnam,e-visa
 Benin,Yemen,visa required
 Benin,Zambia,e-visa
@@ -3905,7 +3905,7 @@ Bhutan,Nauru,visa required
 Bhutan,Nepal,visa on arrival
 Bhutan,Netherlands,visa required
 Bhutan,New Zealand,visa required
-Bhutan,Nicaragua,visa required
+Bhutan,Nicaragua,e-visa
 Bhutan,Niger,visa required
 Bhutan,Nigeria,e-visa
 Bhutan,North Korea,visa required
@@ -3973,7 +3973,7 @@ Bhutan,Uruguay,visa required
 Bhutan,Uzbekistan,visa required
 Bhutan,Vanuatu,e-visa
 Bhutan,Vatican,visa required
-Bhutan,Venezuela,visa required
+Bhutan,Venezuela,e-visa
 Bhutan,Vietnam,e-visa
 Bhutan,Yemen,visa required
 Bhutan,Zambia,90
@@ -4303,7 +4303,7 @@ Bosnia and Herzegovina,Nauru,visa required
 Bosnia and Herzegovina,Nepal,visa on arrival
 Bosnia and Herzegovina,Netherlands,90
 Bosnia and Herzegovina,New Zealand,visa required
-Bosnia and Herzegovina,Nicaragua,visa required
+Bosnia and Herzegovina,Nicaragua,e-visa
 Bosnia and Herzegovina,Niger,visa required
 Bosnia and Herzegovina,Nigeria,e-visa
 Bosnia and Herzegovina,North Korea,visa required
@@ -4371,7 +4371,7 @@ Bosnia and Herzegovina,Uruguay,visa required
 Bosnia and Herzegovina,Uzbekistan,30
 Bosnia and Herzegovina,Vanuatu,e-visa
 Bosnia and Herzegovina,Vatican,90
-Bosnia and Herzegovina,Venezuela,visa required
+Bosnia and Herzegovina,Venezuela,e-visa
 Bosnia and Herzegovina,Vietnam,e-visa
 Bosnia and Herzegovina,Yemen,visa required
 Bosnia and Herzegovina,Zambia,90
@@ -4502,7 +4502,7 @@ Botswana,Nauru,visa required
 Botswana,Nepal,visa on arrival
 Botswana,Netherlands,visa required
 Botswana,New Zealand,visa required
-Botswana,Nicaragua,visa required
+Botswana,Nicaragua,e-visa
 Botswana,Niger,visa required
 Botswana,Nigeria,e-visa
 Botswana,North Korea,visa required
@@ -4570,7 +4570,7 @@ Botswana,Uruguay,visa required
 Botswana,Uzbekistan,visa required
 Botswana,Vanuatu,120
 Botswana,Vatican,visa required
-Botswana,Venezuela,visa required
+Botswana,Venezuela,e-visa
 Botswana,Vietnam,e-visa
 Botswana,Yemen,visa required
 Botswana,Zambia,90
@@ -4968,7 +4968,7 @@ Brunei,Uruguay,visa required
 Brunei,Uzbekistan,30
 Brunei,Vanuatu,120
 Brunei,Vatican,90
-Brunei,Venezuela,visa required
+Brunei,Venezuela,e-visa
 Brunei,Vietnam,14
 Brunei,Yemen,visa required
 Brunei,Zambia,90
@@ -5145,7 +5145,7 @@ Bulgaria,Sudan,visa required
 Bulgaria,Suriname,visa required
 Bulgaria,Sweden,visa free
 Bulgaria,Switzerland,visa free
-Bulgaria,Syria,e-visa
+Bulgaria,Syria,visa on arrival
 Bulgaria,Taiwan,90
 Bulgaria,Tajikistan,30
 Bulgaria,Tanzania,visa on arrival
@@ -5298,7 +5298,7 @@ Burkina Faso,Nauru,visa required
 Burkina Faso,Nepal,visa on arrival
 Burkina Faso,Netherlands,visa required
 Burkina Faso,New Zealand,visa required
-Burkina Faso,Nicaragua,visa required
+Burkina Faso,Nicaragua,e-visa
 Burkina Faso,Niger,visa free
 Burkina Faso,Nigeria,visa free
 Burkina Faso,North Korea,visa required
@@ -5366,7 +5366,7 @@ Burkina Faso,Uruguay,visa required
 Burkina Faso,Uzbekistan,visa required
 Burkina Faso,Vanuatu,e-visa
 Burkina Faso,Vatican,visa required
-Burkina Faso,Venezuela,visa required
+Burkina Faso,Venezuela,e-visa
 Burkina Faso,Vietnam,e-visa
 Burkina Faso,Yemen,visa required
 Burkina Faso,Zambia,e-visa
@@ -5497,7 +5497,7 @@ Burundi,Nauru,visa required
 Burundi,Nepal,visa on arrival
 Burundi,Netherlands,visa required
 Burundi,New Zealand,visa required
-Burundi,Nicaragua,visa required
+Burundi,Nicaragua,e-visa
 Burundi,Niger,visa required
 Burundi,Nigeria,e-visa
 Burundi,North Korea,visa required
@@ -5565,7 +5565,7 @@ Burundi,Uruguay,visa required
 Burundi,Uzbekistan,visa required
 Burundi,Vanuatu,e-visa
 Burundi,Vatican,visa required
-Burundi,Venezuela,visa required
+Burundi,Venezuela,e-visa
 Burundi,Vietnam,e-visa
 Burundi,Yemen,visa required
 Burundi,Zambia,visa on arrival
@@ -5696,7 +5696,7 @@ Cambodia,Nauru,visa required
 Cambodia,Nepal,visa on arrival
 Cambodia,Netherlands,visa required
 Cambodia,New Zealand,visa required
-Cambodia,Nicaragua,visa required
+Cambodia,Nicaragua,e-visa
 Cambodia,Niger,visa required
 Cambodia,Nigeria,e-visa
 Cambodia,North Korea,visa required
@@ -5764,7 +5764,7 @@ Cambodia,Uruguay,visa required
 Cambodia,Uzbekistan,e-visa
 Cambodia,Vanuatu,e-visa
 Cambodia,Vatican,visa required
-Cambodia,Venezuela,visa required
+Cambodia,Venezuela,e-visa
 Cambodia,Vietnam,30
 Cambodia,Yemen,visa required
 Cambodia,Zambia,e-visa
@@ -5895,7 +5895,7 @@ Cameroon,Nauru,visa required
 Cameroon,Nepal,visa required
 Cameroon,Netherlands,visa required
 Cameroon,New Zealand,visa required
-Cameroon,Nicaragua,visa required
+Cameroon,Nicaragua,e-visa
 Cameroon,Niger,visa required
 Cameroon,Nigeria,90
 Cameroon,North Korea,visa required
@@ -5963,7 +5963,7 @@ Cameroon,Uruguay,visa required
 Cameroon,Uzbekistan,e-visa
 Cameroon,Vanuatu,120
 Cameroon,Vatican,visa required
-Cameroon,Venezuela,visa required
+Cameroon,Venezuela,e-visa
 Cameroon,Vietnam,e-visa
 Cameroon,Yemen,visa required
 Cameroon,Zambia,e-visa
@@ -6162,7 +6162,7 @@ Canada,Uruguay,90
 Canada,Uzbekistan,30
 Canada,Vanuatu,120
 Canada,Vatican,90
-Canada,Venezuela,visa required
+Canada,Venezuela,e-visa
 Canada,Vietnam,e-visa
 Canada,Yemen,visa required
 Canada,Zambia,90
@@ -6293,7 +6293,7 @@ Cape Verde,Nauru,visa required
 Cape Verde,Nepal,visa on arrival
 Cape Verde,Netherlands,visa required
 Cape Verde,New Zealand,visa required
-Cape Verde,Nicaragua,visa required
+Cape Verde,Nicaragua,e-visa
 Cape Verde,Niger,visa free
 Cape Verde,Nigeria,visa free
 Cape Verde,North Korea,visa required
@@ -6361,7 +6361,7 @@ Cape Verde,Uruguay,visa required
 Cape Verde,Uzbekistan,e-visa
 Cape Verde,Vanuatu,e-visa
 Cape Verde,Vatican,visa required
-Cape Verde,Venezuela,visa required
+Cape Verde,Venezuela,e-visa
 Cape Verde,Vietnam,e-visa
 Cape Verde,Yemen,visa required
 Cape Verde,Zambia,90
@@ -6492,7 +6492,7 @@ Central African Republic,Nauru,visa required
 Central African Republic,Nepal,visa on arrival
 Central African Republic,Netherlands,visa required
 Central African Republic,New Zealand,visa required
-Central African Republic,Nicaragua,visa required
+Central African Republic,Nicaragua,e-visa
 Central African Republic,Niger,visa required
 Central African Republic,Nigeria,e-visa
 Central African Republic,North Korea,visa required
@@ -6560,7 +6560,7 @@ Central African Republic,Uruguay,visa required
 Central African Republic,Uzbekistan,visa required
 Central African Republic,Vanuatu,e-visa
 Central African Republic,Vatican,visa required
-Central African Republic,Venezuela,visa required
+Central African Republic,Venezuela,e-visa
 Central African Republic,Vietnam,e-visa
 Central African Republic,Yemen,visa required
 Central African Republic,Zambia,e-visa
@@ -6691,7 +6691,7 @@ Chad,Nauru,visa required
 Chad,Nepal,visa on arrival
 Chad,Netherlands,visa required
 Chad,New Zealand,visa required
-Chad,Nicaragua,visa required
+Chad,Nicaragua,e-visa
 Chad,Niger,90
 Chad,Nigeria,90
 Chad,North Korea,visa required
@@ -6759,7 +6759,7 @@ Chad,Uruguay,visa required
 Chad,Uzbekistan,visa required
 Chad,Vanuatu,e-visa
 Chad,Vatican,visa required
-Chad,Venezuela,visa required
+Chad,Venezuela,e-visa
 Chad,Vietnam,e-visa
 Chad,Yemen,visa required
 Chad,Zambia,e-visa
@@ -6958,7 +6958,7 @@ Chile,Uruguay,90
 Chile,Uzbekistan,30
 Chile,Vanuatu,120
 Chile,Vatican,90
-Chile,Venezuela,visa required
+Chile,Venezuela,e-visa
 Chile,Vietnam,90
 Chile,Yemen,visa required
 Chile,Zambia,visa on arrival
@@ -6986,7 +6986,7 @@ China,Bhutan,e-visa
 China,Bolivia,e-visa
 China,Bosnia and Herzegovina,90
 China,Botswana,e-visa
-China,Brazil,e-visa
+China,Brazil,30
 China,Brunei,14
 China,Bulgaria,visa required
 China,Burkina Faso,e-visa
@@ -7089,7 +7089,7 @@ China,Nauru,visa required
 China,Nepal,visa on arrival
 China,Netherlands,visa required
 China,New Zealand,visa required
-China,Nicaragua,visa required
+China,Nicaragua,e-visa
 China,Niger,visa required
 China,Nigeria,e-visa
 China,North Korea,visa required
@@ -7157,7 +7157,7 @@ China,Uruguay,visa required
 China,Uzbekistan,30
 China,Vanuatu,120
 China,Vatican,visa required
-China,Venezuela,visa required
+China,Venezuela,e-visa
 China,Vietnam,e-visa
 China,Yemen,visa required
 China,Zambia,90
@@ -7288,7 +7288,7 @@ Colombia,Nauru,visa required
 Colombia,Nepal,visa on arrival
 Colombia,Netherlands,90
 Colombia,New Zealand,visa required
-Colombia,Nicaragua,visa required
+Colombia,Nicaragua,e-visa
 Colombia,Niger,visa required
 Colombia,Nigeria,e-visa
 Colombia,North Korea,visa required
@@ -7487,7 +7487,7 @@ Comoros,Nauru,visa required
 Comoros,Nepal,visa on arrival
 Comoros,Netherlands,visa required
 Comoros,New Zealand,visa required
-Comoros,Nicaragua,visa required
+Comoros,Nicaragua,e-visa
 Comoros,Niger,visa required
 Comoros,Nigeria,e-visa
 Comoros,North Korea,visa required
@@ -7555,7 +7555,7 @@ Comoros,Uruguay,visa required
 Comoros,Uzbekistan,visa required
 Comoros,Vanuatu,e-visa
 Comoros,Vatican,visa required
-Comoros,Venezuela,visa required
+Comoros,Venezuela,e-visa
 Comoros,Vietnam,e-visa
 Comoros,Yemen,visa required
 Comoros,Zambia,90
@@ -7686,7 +7686,7 @@ Congo,Nauru,visa required
 Congo,Nepal,visa on arrival
 Congo,Netherlands,visa required
 Congo,New Zealand,visa required
-Congo,Nicaragua,visa required
+Congo,Nicaragua,e-visa
 Congo,Niger,visa required
 Congo,Nigeria,e-visa
 Congo,North Korea,visa required
@@ -7754,7 +7754,7 @@ Congo,Uruguay,visa required
 Congo,Uzbekistan,visa required
 Congo,Vanuatu,e-visa
 Congo,Vatican,visa required
-Congo,Venezuela,visa required
+Congo,Venezuela,e-visa
 Congo,Vietnam,e-visa
 Congo,Yemen,visa required
 Congo,Zambia,visa on arrival
@@ -7885,7 +7885,7 @@ DR Congo,Nauru,visa required
 DR Congo,Nepal,visa on arrival
 DR Congo,Netherlands,visa required
 DR Congo,New Zealand,visa required
-DR Congo,Nicaragua,visa required
+DR Congo,Nicaragua,e-visa
 DR Congo,Niger,visa required
 DR Congo,Nigeria,e-visa
 DR Congo,North Korea,visa required
@@ -7953,7 +7953,7 @@ DR Congo,Uruguay,visa required
 DR Congo,Uzbekistan,visa required
 DR Congo,Vanuatu,e-visa
 DR Congo,Vatican,visa required
-DR Congo,Venezuela,visa required
+DR Congo,Venezuela,e-visa
 DR Congo,Vietnam,e-visa
 DR Congo,Yemen,visa required
 DR Congo,Zambia,visa on arrival
@@ -8283,7 +8283,7 @@ Ivory Coast,Nauru,visa required
 Ivory Coast,Nepal,visa on arrival
 Ivory Coast,Netherlands,visa required
 Ivory Coast,New Zealand,visa required
-Ivory Coast,Nicaragua,visa required
+Ivory Coast,Nicaragua,e-visa
 Ivory Coast,Niger,visa free
 Ivory Coast,Nigeria,visa free
 Ivory Coast,North Korea,visa required
@@ -8351,7 +8351,7 @@ Ivory Coast,Uruguay,visa required
 Ivory Coast,Uzbekistan,e-visa
 Ivory Coast,Vanuatu,e-visa
 Ivory Coast,Vatican,visa required
-Ivory Coast,Venezuela,visa required
+Ivory Coast,Venezuela,e-visa
 Ivory Coast,Vietnam,e-visa
 Ivory Coast,Yemen,visa required
 Ivory Coast,Zambia,e-visa
@@ -8482,7 +8482,7 @@ Croatia,Nauru,visa required
 Croatia,Nepal,visa on arrival
 Croatia,Netherlands,visa free
 Croatia,New Zealand,e-visa
-Croatia,Nicaragua,visa required
+Croatia,Nicaragua,e-visa
 Croatia,Niger,visa required
 Croatia,Nigeria,e-visa
 Croatia,North Korea,visa required
@@ -8528,7 +8528,7 @@ Croatia,Sudan,visa required
 Croatia,Suriname,visa required
 Croatia,Sweden,visa free
 Croatia,Switzerland,visa free
-Croatia,Syria,e-visa
+Croatia,Syria,visa on arrival
 Croatia,Taiwan,90
 Croatia,Tajikistan,30
 Croatia,Tanzania,visa on arrival
@@ -8681,7 +8681,7 @@ Cuba,Nauru,visa required
 Cuba,Nepal,visa on arrival
 Cuba,Netherlands,visa required
 Cuba,New Zealand,visa required
-Cuba,Nicaragua,visa required
+Cuba,Nicaragua,e-visa
 Cuba,Niger,visa required
 Cuba,Nigeria,e-visa
 Cuba,North Korea,visa required
@@ -8749,7 +8749,7 @@ Cuba,Uruguay,visa required
 Cuba,Uzbekistan,30
 Cuba,Vanuatu,120
 Cuba,Vatican,visa required
-Cuba,Venezuela,visa required
+Cuba,Venezuela,e-visa
 Cuba,Vietnam,e-visa
 Cuba,Yemen,visa required
 Cuba,Zambia,visa on arrival
@@ -8926,7 +8926,7 @@ Cyprus,Sudan,visa required
 Cyprus,Suriname,visa required
 Cyprus,Sweden,visa free
 Cyprus,Switzerland,visa free
-Cyprus,Syria,e-visa
+Cyprus,Syria,visa on arrival
 Cyprus,Taiwan,90
 Cyprus,Tajikistan,30
 Cyprus,Tanzania,90
@@ -9125,7 +9125,7 @@ Czech Republic,Sudan,visa required
 Czech Republic,Suriname,visa required
 Czech Republic,Sweden,visa free
 Czech Republic,Switzerland,visa free
-Czech Republic,Syria,e-visa
+Czech Republic,Syria,visa on arrival
 Czech Republic,Taiwan,90
 Czech Republic,Tajikistan,30
 Czech Republic,Tanzania,visa on arrival
@@ -9324,7 +9324,7 @@ Denmark,Sudan,visa required
 Denmark,Suriname,visa required
 Denmark,Sweden,visa free
 Denmark,Switzerland,visa free
-Denmark,Syria,e-visa
+Denmark,Syria,visa on arrival
 Denmark,Taiwan,90
 Denmark,Tajikistan,30
 Denmark,Tanzania,visa on arrival
@@ -9477,7 +9477,7 @@ Djibouti,Nauru,visa required
 Djibouti,Nepal,visa on arrival
 Djibouti,Netherlands,visa required
 Djibouti,New Zealand,visa required
-Djibouti,Nicaragua,visa required
+Djibouti,Nicaragua,e-visa
 Djibouti,Niger,visa required
 Djibouti,Nigeria,e-visa
 Djibouti,North Korea,visa required
@@ -9545,7 +9545,7 @@ Djibouti,Uruguay,visa required
 Djibouti,Uzbekistan,visa required
 Djibouti,Vanuatu,e-visa
 Djibouti,Vatican,visa required
-Djibouti,Venezuela,visa required
+Djibouti,Venezuela,e-visa
 Djibouti,Vietnam,e-visa
 Djibouti,Yemen,visa required
 Djibouti,Zambia,visa on arrival
@@ -9943,7 +9943,7 @@ Dominican Republic,Uruguay,visa required
 Dominican Republic,Uzbekistan,30
 Dominican Republic,Vanuatu,e-visa
 Dominican Republic,Vatican,visa required
-Dominican Republic,Venezuela,visa required
+Dominican Republic,Venezuela,e-visa
 Dominican Republic,Vietnam,e-visa
 Dominican Republic,Yemen,visa required
 Dominican Republic,Zambia,90
@@ -10273,7 +10273,7 @@ Egypt,Nauru,visa required
 Egypt,Nepal,visa on arrival
 Egypt,Netherlands,visa required
 Egypt,New Zealand,visa required
-Egypt,Nicaragua,visa required
+Egypt,Nicaragua,e-visa
 Egypt,Niger,visa required
 Egypt,Nigeria,e-visa
 Egypt,North Korea,visa required
@@ -10308,7 +10308,7 @@ Egypt,Singapore,e-visa
 Egypt,Slovakia,visa required
 Egypt,Slovenia,visa required
 Egypt,Solomon Islands,visa required
-Egypt,Somalia,e-visa
+Egypt,Somalia,visa on arrival
 Egypt,South Africa,e-visa
 Egypt,South Korea,e-visa
 Egypt,South Sudan,e-visa
@@ -10341,7 +10341,7 @@ Egypt,Uruguay,visa required
 Egypt,Uzbekistan,e-visa
 Egypt,Vanuatu,e-visa
 Egypt,Vatican,visa required
-Egypt,Venezuela,visa required
+Egypt,Venezuela,e-visa
 Egypt,Vietnam,e-visa
 Egypt,Yemen,visa on arrival
 Egypt,Zambia,e-visa
@@ -10540,7 +10540,7 @@ El Salvador,Uruguay,90
 El Salvador,Uzbekistan,30
 El Salvador,Vanuatu,e-visa
 El Salvador,Vatican,90
-El Salvador,Venezuela,visa required
+El Salvador,Venezuela,e-visa
 El Salvador,Vietnam,e-visa
 El Salvador,Yemen,visa required
 El Salvador,Zambia,visa on arrival
@@ -10671,7 +10671,7 @@ Equatorial Guinea,Nauru,visa required
 Equatorial Guinea,Nepal,visa on arrival
 Equatorial Guinea,Netherlands,visa required
 Equatorial Guinea,New Zealand,visa required
-Equatorial Guinea,Nicaragua,visa required
+Equatorial Guinea,Nicaragua,e-visa
 Equatorial Guinea,Niger,visa required
 Equatorial Guinea,Nigeria,e-visa
 Equatorial Guinea,North Korea,visa required
@@ -10739,7 +10739,7 @@ Equatorial Guinea,Uruguay,visa required
 Equatorial Guinea,Uzbekistan,visa required
 Equatorial Guinea,Vanuatu,e-visa
 Equatorial Guinea,Vatican,visa required
-Equatorial Guinea,Venezuela,visa required
+Equatorial Guinea,Venezuela,e-visa
 Equatorial Guinea,Vietnam,e-visa
 Equatorial Guinea,Yemen,visa required
 Equatorial Guinea,Zambia,e-visa
@@ -10870,7 +10870,7 @@ Eritrea,Nauru,visa required
 Eritrea,Nepal,visa on arrival
 Eritrea,Netherlands,visa required
 Eritrea,New Zealand,visa required
-Eritrea,Nicaragua,visa required
+Eritrea,Nicaragua,e-visa
 Eritrea,Niger,visa required
 Eritrea,Nigeria,e-visa
 Eritrea,North Korea,visa required
@@ -10938,7 +10938,7 @@ Eritrea,Uruguay,visa required
 Eritrea,Uzbekistan,visa required
 Eritrea,Vanuatu,e-visa
 Eritrea,Vatican,visa required
-Eritrea,Venezuela,visa required
+Eritrea,Venezuela,e-visa
 Eritrea,Vietnam,e-visa
 Eritrea,Yemen,visa required
 Eritrea,Zambia,visa on arrival
@@ -11069,7 +11069,7 @@ Estonia,Nauru,visa required
 Estonia,Nepal,visa on arrival
 Estonia,Netherlands,visa free
 Estonia,New Zealand,e-visa
-Estonia,Nicaragua,visa required
+Estonia,Nicaragua,e-visa
 Estonia,Niger,visa required
 Estonia,Nigeria,e-visa
 Estonia,North Korea,visa required
@@ -11115,7 +11115,7 @@ Estonia,Sudan,visa required
 Estonia,Suriname,visa required
 Estonia,Sweden,visa free
 Estonia,Switzerland,visa free
-Estonia,Syria,e-visa
+Estonia,Syria,visa on arrival
 Estonia,Taiwan,90
 Estonia,Tajikistan,30
 Estonia,Tanzania,visa on arrival
@@ -11268,7 +11268,7 @@ Swaziland,Nauru,visa required
 Swaziland,Nepal,visa required
 Swaziland,Netherlands,visa required
 Swaziland,New Zealand,visa required
-Swaziland,Nicaragua,visa required
+Swaziland,Nicaragua,e-visa
 Swaziland,Niger,visa required
 Swaziland,Nigeria,e-visa
 Swaziland,North Korea,visa required
@@ -11336,7 +11336,7 @@ Swaziland,Uruguay,visa required
 Swaziland,Uzbekistan,visa required
 Swaziland,Vanuatu,120
 Swaziland,Vatican,visa required
-Swaziland,Venezuela,visa required
+Swaziland,Venezuela,e-visa
 Swaziland,Vietnam,e-visa
 Swaziland,Yemen,visa required
 Swaziland,Zambia,90
@@ -11467,7 +11467,7 @@ Ethiopia,Nauru,visa required
 Ethiopia,Nepal,visa required
 Ethiopia,Netherlands,visa required
 Ethiopia,New Zealand,visa required
-Ethiopia,Nicaragua,visa required
+Ethiopia,Nicaragua,e-visa
 Ethiopia,Niger,visa required
 Ethiopia,Nigeria,e-visa
 Ethiopia,North Korea,visa required
@@ -11535,7 +11535,7 @@ Ethiopia,Uruguay,visa required
 Ethiopia,Uzbekistan,visa required
 Ethiopia,Vanuatu,e-visa
 Ethiopia,Vatican,visa required
-Ethiopia,Venezuela,visa required
+Ethiopia,Venezuela,e-visa
 Ethiopia,Vietnam,e-visa
 Ethiopia,Yemen,visa required
 Ethiopia,Zambia,e-visa
@@ -11666,7 +11666,7 @@ Fiji,Nauru,visa on arrival
 Fiji,Nepal,visa on arrival
 Fiji,Netherlands,visa required
 Fiji,New Zealand,visa required
-Fiji,Nicaragua,visa required
+Fiji,Nicaragua,e-visa
 Fiji,Niger,visa required
 Fiji,Nigeria,e-visa
 Fiji,North Korea,visa required
@@ -11734,7 +11734,7 @@ Fiji,Uruguay,visa required
 Fiji,Uzbekistan,e-visa
 Fiji,Vanuatu,120
 Fiji,Vatican,visa required
-Fiji,Venezuela,visa required
+Fiji,Venezuela,e-visa
 Fiji,Vietnam,e-visa
 Fiji,Yemen,visa required
 Fiji,Zambia,90
@@ -11911,7 +11911,7 @@ Finland,Sudan,visa required
 Finland,Suriname,visa required
 Finland,Sweden,visa free
 Finland,Switzerland,visa free
-Finland,Syria,e-visa
+Finland,Syria,visa on arrival
 Finland,Taiwan,90
 Finland,Tajikistan,30
 Finland,Tanzania,visa on arrival
@@ -12110,7 +12110,7 @@ France,Sudan,visa required
 France,Suriname,visa required
 France,Sweden,visa free
 France,Switzerland,visa free
-France,Syria,e-visa
+France,Syria,visa on arrival
 France,Taiwan,90
 France,Tajikistan,30
 France,Tanzania,visa on arrival
@@ -12263,7 +12263,7 @@ Gabon,Nauru,visa required
 Gabon,Nepal,visa on arrival
 Gabon,Netherlands,visa required
 Gabon,New Zealand,visa required
-Gabon,Nicaragua,visa required
+Gabon,Nicaragua,e-visa
 Gabon,Niger,visa required
 Gabon,Nigeria,e-visa
 Gabon,North Korea,visa required
@@ -12331,7 +12331,7 @@ Gabon,Uruguay,visa required
 Gabon,Uzbekistan,e-visa
 Gabon,Vanuatu,e-visa
 Gabon,Vatican,visa required
-Gabon,Venezuela,visa required
+Gabon,Venezuela,e-visa
 Gabon,Vietnam,e-visa
 Gabon,Yemen,visa required
 Gabon,Zambia,e-visa
@@ -12462,7 +12462,7 @@ Gambia,Nauru,visa required
 Gambia,Nepal,visa on arrival
 Gambia,Netherlands,visa required
 Gambia,New Zealand,visa required
-Gambia,Nicaragua,visa required
+Gambia,Nicaragua,e-visa
 Gambia,Niger,visa free
 Gambia,Nigeria,visa free
 Gambia,North Korea,visa required
@@ -12530,7 +12530,7 @@ Gambia,Uruguay,visa required
 Gambia,Uzbekistan,visa required
 Gambia,Vanuatu,120
 Gambia,Vatican,visa required
-Gambia,Venezuela,visa required
+Gambia,Venezuela,e-visa
 Gambia,Vietnam,e-visa
 Gambia,Yemen,visa required
 Gambia,Zambia,e-visa
@@ -12661,7 +12661,7 @@ Georgia,Nauru,visa required
 Georgia,Nepal,visa on arrival
 Georgia,Netherlands,90
 Georgia,New Zealand,visa required
-Georgia,Nicaragua,visa required
+Georgia,Nicaragua,e-visa
 Georgia,Niger,visa required
 Georgia,Nigeria,e-visa
 Georgia,North Korea,visa required
@@ -12729,7 +12729,7 @@ Georgia,Uruguay,90
 Georgia,Uzbekistan,visa free
 Georgia,Vanuatu,e-visa
 Georgia,Vatican,90
-Georgia,Venezuela,visa required
+Georgia,Venezuela,e-visa
 Georgia,Vietnam,e-visa
 Georgia,Yemen,visa required
 Georgia,Zambia,visa on arrival
@@ -12906,7 +12906,7 @@ Germany,Sudan,visa required
 Germany,Suriname,visa required
 Germany,Sweden,visa free
 Germany,Switzerland,visa free
-Germany,Syria,e-visa
+Germany,Syria,visa on arrival
 Germany,Taiwan,90
 Germany,Tajikistan,30
 Germany,Tanzania,visa on arrival
@@ -13059,7 +13059,7 @@ Ghana,Nauru,visa required
 Ghana,Nepal,visa required
 Ghana,Netherlands,visa required
 Ghana,New Zealand,visa required
-Ghana,Nicaragua,visa required
+Ghana,Nicaragua,e-visa
 Ghana,Niger,visa free
 Ghana,Nigeria,visa free
 Ghana,North Korea,visa required
@@ -13127,10 +13127,10 @@ Ghana,Uruguay,visa required
 Ghana,Uzbekistan,e-visa
 Ghana,Vanuatu,120
 Ghana,Vatican,visa required
-Ghana,Venezuela,visa required
+Ghana,Venezuela,e-visa
 Ghana,Vietnam,e-visa
 Ghana,Yemen,visa required
-Ghana,Zambia,visa on arrival
+Ghana,Zambia,90
 Ghana,Zimbabwe,90
 Ghana,Afghanistan,e-visa
 Greece,Albania,90
@@ -13304,7 +13304,7 @@ Greece,Sudan,visa required
 Greece,Suriname,visa required
 Greece,Sweden,visa free
 Greece,Switzerland,visa free
-Greece,Syria,e-visa
+Greece,Syria,visa on arrival
 Greece,Taiwan,90
 Greece,Tajikistan,30
 Greece,Tanzania,visa on arrival
@@ -13457,7 +13457,7 @@ Grenada,Nauru,visa required
 Grenada,Nepal,visa on arrival
 Grenada,Netherlands,90
 Grenada,New Zealand,visa required
-Grenada,Nicaragua,visa required
+Grenada,Nicaragua,e-visa
 Grenada,Niger,visa required
 Grenada,Nigeria,e-visa
 Grenada,North Korea,visa required
@@ -13724,7 +13724,7 @@ Guatemala,Uruguay,90
 Guatemala,Uzbekistan,30
 Guatemala,Vanuatu,e-visa
 Guatemala,Vatican,90
-Guatemala,Venezuela,visa required
+Guatemala,Venezuela,e-visa
 Guatemala,Vietnam,e-visa
 Guatemala,Yemen,visa required
 Guatemala,Zambia,90
@@ -13855,7 +13855,7 @@ Guinea,Nauru,visa required
 Guinea,Nepal,visa on arrival
 Guinea,Netherlands,visa required
 Guinea,New Zealand,visa required
-Guinea,Nicaragua,visa required
+Guinea,Nicaragua,e-visa
 Guinea,Niger,visa free
 Guinea,Nigeria,visa free
 Guinea,North Korea,visa required
@@ -13923,7 +13923,7 @@ Guinea,Uruguay,visa required
 Guinea,Uzbekistan,visa required
 Guinea,Vanuatu,e-visa
 Guinea,Vatican,visa required
-Guinea,Venezuela,visa required
+Guinea,Venezuela,e-visa
 Guinea,Vietnam,e-visa
 Guinea,Yemen,visa required
 Guinea,Zambia,e-visa
@@ -14054,7 +14054,7 @@ Guinea-Bissau,Nauru,visa required
 Guinea-Bissau,Nepal,visa on arrival
 Guinea-Bissau,Netherlands,visa required
 Guinea-Bissau,New Zealand,visa required
-Guinea-Bissau,Nicaragua,visa required
+Guinea-Bissau,Nicaragua,e-visa
 Guinea-Bissau,Niger,visa free
 Guinea-Bissau,Nigeria,visa free
 Guinea-Bissau,North Korea,visa required
@@ -14122,7 +14122,7 @@ Guinea-Bissau,Uruguay,visa required
 Guinea-Bissau,Uzbekistan,visa required
 Guinea-Bissau,Vanuatu,e-visa
 Guinea-Bissau,Vatican,visa required
-Guinea-Bissau,Venezuela,visa required
+Guinea-Bissau,Venezuela,e-visa
 Guinea-Bissau,Vietnam,e-visa
 Guinea-Bissau,Yemen,visa required
 Guinea-Bissau,Zambia,e-visa
@@ -14253,7 +14253,7 @@ Guyana,Nauru,visa required
 Guyana,Nepal,visa on arrival
 Guyana,Netherlands,visa required
 Guyana,New Zealand,visa required
-Guyana,Nicaragua,visa required
+Guyana,Nicaragua,e-visa
 Guyana,Niger,visa required
 Guyana,Nigeria,e-visa
 Guyana,North Korea,visa required
@@ -14321,7 +14321,7 @@ Guyana,Uruguay,90
 Guyana,Uzbekistan,e-visa
 Guyana,Vanuatu,120
 Guyana,Vatican,visa required
-Guyana,Venezuela,visa required
+Guyana,Venezuela,e-visa
 Guyana,Vietnam,e-visa
 Guyana,Yemen,visa required
 Guyana,Zambia,90
@@ -14452,7 +14452,7 @@ Haiti,Nauru,visa required
 Haiti,Nepal,visa on arrival
 Haiti,Netherlands,visa required
 Haiti,New Zealand,visa required
-Haiti,Nicaragua,visa required
+Haiti,Nicaragua,e-visa
 Haiti,Niger,visa required
 Haiti,Nigeria,e-visa
 Haiti,North Korea,visa required
@@ -14520,7 +14520,7 @@ Haiti,Uruguay,visa required
 Haiti,Uzbekistan,visa required
 Haiti,Vanuatu,e-visa
 Haiti,Vatican,visa required
-Haiti,Venezuela,visa required
+Haiti,Venezuela,e-visa
 Haiti,Vietnam,e-visa
 Haiti,Yemen,visa required
 Haiti,Zambia,visa on arrival
@@ -14719,7 +14719,7 @@ Honduras,Uruguay,90
 Honduras,Uzbekistan,30
 Honduras,Vanuatu,e-visa
 Honduras,Vatican,visa free
-Honduras,Venezuela,visa required
+Honduras,Venezuela,e-visa
 Honduras,Vietnam,e-visa
 Honduras,Yemen,visa required
 Honduras,Zambia,visa on arrival
@@ -15095,7 +15095,7 @@ Hungary,Sudan,visa required
 Hungary,Suriname,visa required
 Hungary,Sweden,visa free
 Hungary,Switzerland,visa free
-Hungary,Syria,e-visa
+Hungary,Syria,visa on arrival
 Hungary,Taiwan,90
 Hungary,Tajikistan,30
 Hungary,Tanzania,visa on arrival
@@ -15248,7 +15248,7 @@ Iceland,Nauru,visa required
 Iceland,Nepal,visa on arrival
 Iceland,Netherlands,visa free
 Iceland,New Zealand,e-visa
-Iceland,Nicaragua,visa required
+Iceland,Nicaragua,e-visa
 Iceland,Niger,visa required
 Iceland,Nigeria,e-visa
 Iceland,North Korea,visa required
@@ -15294,7 +15294,7 @@ Iceland,Sudan,visa required
 Iceland,Suriname,visa required
 Iceland,Sweden,visa free
 Iceland,Switzerland,visa free
-Iceland,Syria,e-visa
+Iceland,Syria,visa on arrival
 Iceland,Taiwan,90
 Iceland,Tajikistan,30
 Iceland,Tanzania,visa on arrival
@@ -15447,7 +15447,7 @@ India,Nauru,visa required
 India,Nepal,visa free
 India,Netherlands,visa required
 India,New Zealand,visa required
-India,Nicaragua,visa required
+India,Nicaragua,e-visa
 India,Niger,visa required
 India,Nigeria,e-visa
 India,North Korea,visa required
@@ -15464,7 +15464,7 @@ India,Peru,visa required
 India,Philippines,14
 India,Poland,visa required
 India,Portugal,visa required
-India,Qatar,visa on arrival
+India,Qatar,e-visa
 India,Romania,visa required
 India,Russia,e-visa
 India,Rwanda,30
@@ -15515,7 +15515,7 @@ India,Uruguay,visa required
 India,Uzbekistan,e-visa
 India,Vanuatu,120
 India,Vatican,visa required
-India,Venezuela,visa required
+India,Venezuela,e-visa
 India,Vietnam,e-visa
 India,Yemen,visa required
 India,Zambia,e-visa
@@ -15646,7 +15646,7 @@ Indonesia,Nauru,visa required
 Indonesia,Nepal,visa on arrival
 Indonesia,Netherlands,visa required
 Indonesia,New Zealand,visa required
-Indonesia,Nicaragua,visa required
+Indonesia,Nicaragua,e-visa
 Indonesia,Niger,visa required
 Indonesia,Nigeria,e-visa
 Indonesia,North Korea,visa required
@@ -15845,7 +15845,7 @@ Iran,Nauru,visa required
 Iran,Nepal,visa on arrival
 Iran,Netherlands,visa required
 Iran,New Zealand,visa required
-Iran,Nicaragua,visa required
+Iran,Nicaragua,e-visa
 Iran,Niger,visa required
 Iran,Nigeria,e-visa
 Iran,North Korea,visa required
@@ -16044,7 +16044,7 @@ Iraq,Nauru,visa required
 Iraq,Nepal,visa required
 Iraq,Netherlands,visa required
 Iraq,New Zealand,visa required
-Iraq,Nicaragua,visa required
+Iraq,Nicaragua,e-visa
 Iraq,Niger,visa required
 Iraq,Nigeria,e-visa
 Iraq,North Korea,visa required
@@ -16112,7 +16112,7 @@ Iraq,Uruguay,visa required
 Iraq,Uzbekistan,visa required
 Iraq,Vanuatu,e-visa
 Iraq,Vatican,visa required
-Iraq,Venezuela,visa required
+Iraq,Venezuela,e-visa
 Iraq,Vietnam,e-visa
 Iraq,Yemen,visa required
 Iraq,Zambia,90
@@ -16289,7 +16289,7 @@ Ireland,Sudan,visa required
 Ireland,Suriname,visa required
 Ireland,Sweden,visa free
 Ireland,Switzerland,visa free
-Ireland,Syria,e-visa
+Ireland,Syria,visa on arrival
 Ireland,Taiwan,90
 Ireland,Tajikistan,30
 Ireland,Tanzania,visa on arrival
@@ -16510,7 +16510,7 @@ Israel,Uruguay,90
 Israel,Uzbekistan,30
 Israel,Vanuatu,120
 Israel,Vatican,90
-Israel,Venezuela,visa required
+Israel,Venezuela,e-visa
 Israel,Vietnam,e-visa
 Israel,Yemen,no admission
 Israel,Zambia,90
@@ -16687,7 +16687,7 @@ Italy,Sudan,visa required
 Italy,Suriname,visa required
 Italy,Sweden,visa free
 Italy,Switzerland,visa free
-Italy,Syria,e-visa
+Italy,Syria,visa on arrival
 Italy,Taiwan,90
 Italy,Tajikistan,30
 Italy,Tanzania,visa on arrival
@@ -16840,7 +16840,7 @@ Jamaica,Nauru,visa required
 Jamaica,Nepal,visa on arrival
 Jamaica,Netherlands,visa required
 Jamaica,New Zealand,visa required
-Jamaica,Nicaragua,visa required
+Jamaica,Nicaragua,e-visa
 Jamaica,Niger,visa required
 Jamaica,Nigeria,e-visa
 Jamaica,North Korea,visa required
@@ -17050,7 +17050,7 @@ Japan,Pakistan,e-visa
 Japan,Palau,visa on arrival
 Japan,Palestine,visa free
 Japan,Panama,90
-Japan,Papua New Guinea,e-visa
+Japan,Papua New Guinea,visa on arrival
 Japan,Paraguay,90
 Japan,Peru,180
 Japan,Philippines,30
@@ -17238,7 +17238,7 @@ Jordan,Nauru,visa required
 Jordan,Nepal,visa on arrival
 Jordan,Netherlands,visa required
 Jordan,New Zealand,visa required
-Jordan,Nicaragua,visa required
+Jordan,Nicaragua,e-visa
 Jordan,Niger,visa required
 Jordan,Nigeria,e-visa
 Jordan,North Korea,visa required
@@ -17306,7 +17306,7 @@ Jordan,Uruguay,visa required
 Jordan,Uzbekistan,30
 Jordan,Vanuatu,e-visa
 Jordan,Vatican,visa required
-Jordan,Venezuela,visa required
+Jordan,Venezuela,e-visa
 Jordan,Vietnam,e-visa
 Jordan,Yemen,visa on arrival
 Jordan,Zambia,e-visa
@@ -17362,7 +17362,7 @@ Kazakhstan,Djibouti,visa on arrival
 Kazakhstan,Dominica,21
 Kazakhstan,Dominican Republic,visa free
 Kazakhstan,Ecuador,90
-Kazakhstan,Egypt,visa on arrival
+Kazakhstan,Egypt,e-visa
 Kazakhstan,El Salvador,e-visa
 Kazakhstan,Equatorial Guinea,e-visa
 Kazakhstan,Eritrea,visa required
@@ -17428,7 +17428,7 @@ Kazakhstan,Micronesia,30
 Kazakhstan,Moldova,90
 Kazakhstan,Monaco,visa required
 Kazakhstan,Mongolia,90
-Kazakhstan,Montenegro,visa required
+Kazakhstan,Montenegro,30
 Kazakhstan,Morocco,30
 Kazakhstan,Mozambique,visa on arrival
 Kazakhstan,Myanmar,e-visa
@@ -17505,7 +17505,7 @@ Kazakhstan,Uruguay,visa required
 Kazakhstan,Uzbekistan,visa free
 Kazakhstan,Vanuatu,e-visa
 Kazakhstan,Vatican,visa required
-Kazakhstan,Venezuela,visa required
+Kazakhstan,Venezuela,e-visa
 Kazakhstan,Vietnam,30
 Kazakhstan,Yemen,visa required
 Kazakhstan,Zambia,visa on arrival
@@ -17636,7 +17636,7 @@ Kenya,Nauru,visa required
 Kenya,Nepal,visa on arrival
 Kenya,Netherlands,visa required
 Kenya,New Zealand,visa required
-Kenya,Nicaragua,visa required
+Kenya,Nicaragua,e-visa
 Kenya,Niger,visa required
 Kenya,Nigeria,e-visa
 Kenya,North Korea,visa required
@@ -17704,7 +17704,7 @@ Kenya,Uruguay,visa required
 Kenya,Uzbekistan,visa required
 Kenya,Vanuatu,120
 Kenya,Vatican,visa required
-Kenya,Venezuela,visa required
+Kenya,Venezuela,e-visa
 Kenya,Vietnam,e-visa
 Kenya,Yemen,visa required
 Kenya,Zambia,90
@@ -17835,7 +17835,7 @@ Kiribati,Nauru,visa on arrival
 Kiribati,Nepal,visa on arrival
 Kiribati,Netherlands,90
 Kiribati,New Zealand,visa required
-Kiribati,Nicaragua,visa required
+Kiribati,Nicaragua,e-visa
 Kiribati,Niger,visa required
 Kiribati,Nigeria,e-visa
 Kiribati,North Korea,visa required
@@ -17903,7 +17903,7 @@ Kiribati,Uruguay,visa required
 Kiribati,Uzbekistan,e-visa
 Kiribati,Vanuatu,120
 Kiribati,Vatican,90
-Kiribati,Venezuela,visa required
+Kiribati,Venezuela,e-visa
 Kiribati,Vietnam,e-visa
 Kiribati,Yemen,visa required
 Kiribati,Zambia,90
@@ -18034,7 +18034,7 @@ Kosovo,Nauru,visa required
 Kosovo,Nepal,visa on arrival
 Kosovo,Netherlands,90
 Kosovo,New Zealand,visa required
-Kosovo,Nicaragua,visa required
+Kosovo,Nicaragua,e-visa
 Kosovo,Niger,visa required
 Kosovo,Nigeria,e-visa
 Kosovo,North Korea,visa required
@@ -18102,7 +18102,7 @@ Kosovo,Uruguay,visa required
 Kosovo,Uzbekistan,visa required
 Kosovo,Vanuatu,e-visa
 Kosovo,Vatican,90
-Kosovo,Venezuela,visa required
+Kosovo,Venezuela,e-visa
 Kosovo,Vietnam,e-visa
 Kosovo,Yemen,visa required
 Kosovo,Zambia,e-visa
@@ -18432,7 +18432,7 @@ Kyrgyzstan,Nauru,visa required
 Kyrgyzstan,Nepal,visa on arrival
 Kyrgyzstan,Netherlands,visa required
 Kyrgyzstan,New Zealand,visa required
-Kyrgyzstan,Nicaragua,visa required
+Kyrgyzstan,Nicaragua,e-visa
 Kyrgyzstan,Niger,visa required
 Kyrgyzstan,Nigeria,e-visa
 Kyrgyzstan,North Korea,visa required
@@ -18500,7 +18500,7 @@ Kyrgyzstan,Uruguay,visa required
 Kyrgyzstan,Uzbekistan,60
 Kyrgyzstan,Vanuatu,e-visa
 Kyrgyzstan,Vatican,visa required
-Kyrgyzstan,Venezuela,visa required
+Kyrgyzstan,Venezuela,e-visa
 Kyrgyzstan,Vietnam,30
 Kyrgyzstan,Yemen,visa required
 Kyrgyzstan,Zambia,e-visa
@@ -18631,7 +18631,7 @@ Laos,Nauru,visa required
 Laos,Nepal,visa on arrival
 Laos,Netherlands,visa required
 Laos,New Zealand,visa required
-Laos,Nicaragua,visa required
+Laos,Nicaragua,e-visa
 Laos,Niger,visa required
 Laos,Nigeria,e-visa
 Laos,North Korea,visa required
@@ -18699,7 +18699,7 @@ Laos,Uruguay,visa required
 Laos,Uzbekistan,e-visa
 Laos,Vanuatu,e-visa
 Laos,Vatican,visa required
-Laos,Venezuela,visa required
+Laos,Venezuela,e-visa
 Laos,Vietnam,30
 Laos,Yemen,visa required
 Laos,Zambia,90
@@ -18876,7 +18876,7 @@ Latvia,Sudan,visa required
 Latvia,Suriname,visa required
 Latvia,Sweden,visa free
 Latvia,Switzerland,visa free
-Latvia,Syria,e-visa
+Latvia,Syria,visa on arrival
 Latvia,Taiwan,90
 Latvia,Tajikistan,30
 Latvia,Tanzania,visa on arrival
@@ -19029,7 +19029,7 @@ Lebanon,Nauru,visa required
 Lebanon,Nepal,visa on arrival
 Lebanon,Netherlands,visa required
 Lebanon,New Zealand,visa required
-Lebanon,Nicaragua,visa required
+Lebanon,Nicaragua,e-visa
 Lebanon,Niger,visa required
 Lebanon,Nigeria,e-visa
 Lebanon,North Korea,visa required
@@ -19097,7 +19097,7 @@ Lebanon,Uruguay,visa required
 Lebanon,Uzbekistan,e-visa
 Lebanon,Vanuatu,e-visa
 Lebanon,Vatican,visa required
-Lebanon,Venezuela,visa required
+Lebanon,Venezuela,e-visa
 Lebanon,Vietnam,e-visa
 Lebanon,Yemen,visa required
 Lebanon,Zambia,e-visa
@@ -19228,7 +19228,7 @@ Lesotho,Nauru,visa required
 Lesotho,Nepal,visa on arrival
 Lesotho,Netherlands,visa required
 Lesotho,New Zealand,visa required
-Lesotho,Nicaragua,visa required
+Lesotho,Nicaragua,e-visa
 Lesotho,Niger,visa required
 Lesotho,Nigeria,e-visa
 Lesotho,North Korea,visa required
@@ -19296,7 +19296,7 @@ Lesotho,Uruguay,visa required
 Lesotho,Uzbekistan,visa required
 Lesotho,Vanuatu,120
 Lesotho,Vatican,visa required
-Lesotho,Venezuela,visa required
+Lesotho,Venezuela,e-visa
 Lesotho,Vietnam,e-visa
 Lesotho,Yemen,visa required
 Lesotho,Zambia,90
@@ -19427,7 +19427,7 @@ Liberia,Nauru,visa required
 Liberia,Nepal,visa required
 Liberia,Netherlands,visa required
 Liberia,New Zealand,visa required
-Liberia,Nicaragua,visa required
+Liberia,Nicaragua,e-visa
 Liberia,Niger,visa free
 Liberia,Nigeria,visa free
 Liberia,North Korea,visa required
@@ -19495,7 +19495,7 @@ Liberia,Uruguay,visa required
 Liberia,Uzbekistan,visa required
 Liberia,Vanuatu,e-visa
 Liberia,Vatican,visa required
-Liberia,Venezuela,visa required
+Liberia,Venezuela,e-visa
 Liberia,Vietnam,e-visa
 Liberia,Yemen,visa required
 Liberia,Zambia,90
@@ -19626,7 +19626,7 @@ Libya,Nauru,visa required
 Libya,Nepal,visa on arrival
 Libya,Netherlands,visa required
 Libya,New Zealand,visa required
-Libya,Nicaragua,visa required
+Libya,Nicaragua,e-visa
 Libya,Niger,visa required
 Libya,Nigeria,e-visa
 Libya,North Korea,visa required
@@ -19661,7 +19661,7 @@ Libya,Singapore,e-visa
 Libya,Slovakia,visa required
 Libya,Slovenia,visa required
 Libya,Solomon Islands,visa required
-Libya,Somalia,e-visa
+Libya,Somalia,visa on arrival
 Libya,South Africa,visa required
 Libya,South Korea,e-visa
 Libya,South Sudan,e-visa
@@ -19694,7 +19694,7 @@ Libya,Uruguay,visa required
 Libya,Uzbekistan,visa required
 Libya,Vanuatu,e-visa
 Libya,Vatican,visa required
-Libya,Venezuela,visa required
+Libya,Venezuela,e-visa
 Libya,Vietnam,e-visa
 Libya,Yemen,visa required
 Libya,Zambia,e-visa
@@ -19825,7 +19825,7 @@ Liechtenstein,Nauru,visa required
 Liechtenstein,Nepal,visa on arrival
 Liechtenstein,Netherlands,visa free
 Liechtenstein,New Zealand,e-visa
-Liechtenstein,Nicaragua,visa required
+Liechtenstein,Nicaragua,e-visa
 Liechtenstein,Niger,visa required
 Liechtenstein,Nigeria,e-visa
 Liechtenstein,North Korea,visa required
@@ -19871,7 +19871,7 @@ Liechtenstein,Sudan,visa required
 Liechtenstein,Suriname,visa required
 Liechtenstein,Sweden,visa free
 Liechtenstein,Switzerland,visa free
-Liechtenstein,Syria,e-visa
+Liechtenstein,Syria,visa on arrival
 Liechtenstein,Taiwan,90
 Liechtenstein,Tajikistan,30
 Liechtenstein,Tanzania,visa on arrival
@@ -20024,7 +20024,7 @@ Lithuania,Nauru,visa required
 Lithuania,Nepal,visa on arrival
 Lithuania,Netherlands,visa free
 Lithuania,New Zealand,e-visa
-Lithuania,Nicaragua,visa required
+Lithuania,Nicaragua,e-visa
 Lithuania,Niger,visa required
 Lithuania,Nigeria,e-visa
 Lithuania,North Korea,visa required
@@ -20070,7 +20070,7 @@ Lithuania,Sudan,visa required
 Lithuania,Suriname,visa required
 Lithuania,Sweden,visa free
 Lithuania,Switzerland,visa free
-Lithuania,Syria,e-visa
+Lithuania,Syria,visa on arrival
 Lithuania,Taiwan,90
 Lithuania,Tajikistan,30
 Lithuania,Tanzania,visa on arrival
@@ -20269,7 +20269,7 @@ Luxembourg,Sudan,visa required
 Luxembourg,Suriname,visa required
 Luxembourg,Sweden,visa free
 Luxembourg,Switzerland,visa free
-Luxembourg,Syria,e-visa
+Luxembourg,Syria,visa on arrival
 Luxembourg,Taiwan,90
 Luxembourg,Tajikistan,30
 Luxembourg,Tanzania,visa on arrival
@@ -20422,7 +20422,7 @@ Macao,Nauru,visa required
 Macao,Nepal,visa on arrival
 Macao,Netherlands,90
 Macao,New Zealand,e-visa
-Macao,Nicaragua,visa required
+Macao,Nicaragua,e-visa
 Macao,Niger,visa required
 Macao,Nigeria,e-visa
 Macao,North Korea,visa required
@@ -20490,7 +20490,7 @@ Macao,Uruguay,90
 Macao,Uzbekistan,10
 Macao,Vanuatu,120
 Macao,Vatican,90
-Macao,Venezuela,visa required
+Macao,Venezuela,e-visa
 Macao,Vietnam,e-visa
 Macao,Yemen,visa required
 Macao,Zambia,e-visa
@@ -20621,7 +20621,7 @@ Madagascar,Nauru,visa required
 Madagascar,Nepal,visa on arrival
 Madagascar,Netherlands,visa required
 Madagascar,New Zealand,visa required
-Madagascar,Nicaragua,visa required
+Madagascar,Nicaragua,e-visa
 Madagascar,Niger,visa required
 Madagascar,Nigeria,e-visa
 Madagascar,North Korea,visa required
@@ -20689,7 +20689,7 @@ Madagascar,Uruguay,visa required
 Madagascar,Uzbekistan,visa required
 Madagascar,Vanuatu,e-visa
 Madagascar,Vatican,visa required
-Madagascar,Venezuela,visa required
+Madagascar,Venezuela,e-visa
 Madagascar,Vietnam,e-visa
 Madagascar,Yemen,visa required
 Madagascar,Zambia,90
@@ -20820,7 +20820,7 @@ Malawi,Nauru,visa required
 Malawi,Nepal,visa on arrival
 Malawi,Netherlands,visa required
 Malawi,New Zealand,visa required
-Malawi,Nicaragua,visa required
+Malawi,Nicaragua,e-visa
 Malawi,Niger,visa required
 Malawi,Nigeria,e-visa
 Malawi,North Korea,visa required
@@ -20888,7 +20888,7 @@ Malawi,Uruguay,visa required
 Malawi,Uzbekistan,visa required
 Malawi,Vanuatu,120
 Malawi,Vatican,visa required
-Malawi,Venezuela,visa required
+Malawi,Venezuela,e-visa
 Malawi,Vietnam,e-visa
 Malawi,Yemen,visa required
 Malawi,Zambia,90
@@ -21102,7 +21102,7 @@ Maldives,Argentina,visa required
 Maldives,Armenia,e-visa
 Maldives,Australia,e-visa
 Maldives,Austria,visa required
-Maldives,Azerbaijan,e-visa
+Maldives,Azerbaijan,90
 Maldives,Bahamas,90
 Maldives,Bahrain,e-visa
 Maldives,Bangladesh,90
@@ -21218,7 +21218,7 @@ Maldives,Nauru,visa required
 Maldives,Nepal,visa on arrival
 Maldives,Netherlands,visa required
 Maldives,New Zealand,visa required
-Maldives,Nicaragua,visa required
+Maldives,Nicaragua,e-visa
 Maldives,Niger,visa required
 Maldives,Nigeria,e-visa
 Maldives,North Korea,visa required
@@ -21417,7 +21417,7 @@ Mali,Nauru,visa required
 Mali,Nepal,visa on arrival
 Mali,Netherlands,visa required
 Mali,New Zealand,visa required
-Mali,Nicaragua,visa required
+Mali,Nicaragua,e-visa
 Mali,Niger,visa free
 Mali,Nigeria,visa free
 Mali,North Korea,visa required
@@ -21485,7 +21485,7 @@ Mali,Uruguay,visa required
 Mali,Uzbekistan,visa required
 Mali,Vanuatu,e-visa
 Mali,Vatican,visa required
-Mali,Venezuela,visa required
+Mali,Venezuela,e-visa
 Mali,Vietnam,e-visa
 Mali,Yemen,visa required
 Mali,Zambia,e-visa
@@ -21662,7 +21662,7 @@ Malta,Sudan,visa required
 Malta,Suriname,visa required
 Malta,Sweden,visa free
 Malta,Switzerland,visa free
-Malta,Syria,e-visa
+Malta,Syria,visa on arrival
 Malta,Taiwan,90
 Malta,Tajikistan,30
 Malta,Tanzania,90
@@ -21815,7 +21815,7 @@ Marshall Islands,Nauru,visa on arrival
 Marshall Islands,Nepal,visa on arrival
 Marshall Islands,Netherlands,90
 Marshall Islands,New Zealand,visa required
-Marshall Islands,Nicaragua,visa required
+Marshall Islands,Nicaragua,e-visa
 Marshall Islands,Niger,visa required
 Marshall Islands,Nigeria,e-visa
 Marshall Islands,North Korea,visa required
@@ -21883,7 +21883,7 @@ Marshall Islands,Uruguay,visa required
 Marshall Islands,Uzbekistan,e-visa
 Marshall Islands,Vanuatu,120
 Marshall Islands,Vatican,90
-Marshall Islands,Venezuela,visa required
+Marshall Islands,Venezuela,e-visa
 Marshall Islands,Vietnam,e-visa
 Marshall Islands,Yemen,visa required
 Marshall Islands,Zambia,90
@@ -22014,7 +22014,7 @@ Mauritania,Nauru,visa required
 Mauritania,Nepal,visa on arrival
 Mauritania,Netherlands,visa required
 Mauritania,New Zealand,visa required
-Mauritania,Nicaragua,visa required
+Mauritania,Nicaragua,e-visa
 Mauritania,Niger,90
 Mauritania,Nigeria,e-visa
 Mauritania,North Korea,visa required
@@ -22049,7 +22049,7 @@ Mauritania,Singapore,30
 Mauritania,Slovakia,visa required
 Mauritania,Slovenia,visa required
 Mauritania,Solomon Islands,visa required
-Mauritania,Somalia,e-visa
+Mauritania,Somalia,visa on arrival
 Mauritania,South Africa,visa required
 Mauritania,South Korea,e-visa
 Mauritania,South Sudan,e-visa
@@ -22082,7 +22082,7 @@ Mauritania,Uruguay,visa required
 Mauritania,Uzbekistan,visa required
 Mauritania,Vanuatu,e-visa
 Mauritania,Vatican,visa required
-Mauritania,Venezuela,visa required
+Mauritania,Venezuela,e-visa
 Mauritania,Vietnam,e-visa
 Mauritania,Yemen,visa required
 Mauritania,Zambia,e-visa
@@ -22213,7 +22213,7 @@ Mauritius,Nauru,visa required
 Mauritius,Nepal,visa on arrival
 Mauritius,Netherlands,90
 Mauritius,New Zealand,e-visa
-Mauritius,Nicaragua,visa required
+Mauritius,Nicaragua,e-visa
 Mauritius,Niger,visa required
 Mauritius,Nigeria,e-visa
 Mauritius,North Korea,visa required
@@ -22281,7 +22281,7 @@ Mauritius,Uruguay,visa required
 Mauritius,Uzbekistan,e-visa
 Mauritius,Vanuatu,120
 Mauritius,Vatican,90
-Mauritius,Venezuela,visa required
+Mauritius,Venezuela,e-visa
 Mauritius,Vietnam,e-visa
 Mauritius,Yemen,visa required
 Mauritius,Zambia,90
@@ -22412,7 +22412,7 @@ Mexico,Nauru,visa required
 Mexico,Nepal,visa on arrival
 Mexico,Netherlands,90
 Mexico,New Zealand,e-visa
-Mexico,Nicaragua,visa required
+Mexico,Nicaragua,e-visa
 Mexico,Niger,visa required
 Mexico,Nigeria,e-visa
 Mexico,North Korea,visa required
@@ -22611,7 +22611,7 @@ Micronesia,Nauru,visa on arrival
 Micronesia,Nepal,visa on arrival
 Micronesia,Netherlands,90
 Micronesia,New Zealand,visa required
-Micronesia,Nicaragua,visa required
+Micronesia,Nicaragua,e-visa
 Micronesia,Niger,visa required
 Micronesia,Nigeria,e-visa
 Micronesia,North Korea,visa required
@@ -22679,7 +22679,7 @@ Micronesia,Uruguay,visa required
 Micronesia,Uzbekistan,e-visa
 Micronesia,Vanuatu,120
 Micronesia,Vatican,90
-Micronesia,Venezuela,visa required
+Micronesia,Venezuela,e-visa
 Micronesia,Vietnam,e-visa
 Micronesia,Yemen,visa required
 Micronesia,Zambia,90
@@ -22878,7 +22878,7 @@ Moldova,Uruguay,visa required
 Moldova,Uzbekistan,visa free
 Moldova,Vanuatu,e-visa
 Moldova,Vatican,90
-Moldova,Venezuela,visa required
+Moldova,Venezuela,e-visa
 Moldova,Vietnam,e-visa
 Moldova,Yemen,visa required
 Moldova,Zambia,90
@@ -23009,7 +23009,7 @@ Monaco,Nauru,visa required
 Monaco,Nepal,visa on arrival
 Monaco,Netherlands,90
 Monaco,New Zealand,e-visa
-Monaco,Nicaragua,visa required
+Monaco,Nicaragua,e-visa
 Monaco,Niger,visa required
 Monaco,Nigeria,e-visa
 Monaco,North Korea,visa required
@@ -23055,7 +23055,7 @@ Monaco,Sudan,visa required
 Monaco,Suriname,visa required
 Monaco,Sweden,90
 Monaco,Switzerland,90
-Monaco,Syria,e-visa
+Monaco,Syria,visa on arrival
 Monaco,Taiwan,90
 Monaco,Tajikistan,30
 Monaco,Tanzania,visa on arrival
@@ -23208,7 +23208,7 @@ Mongolia,Nauru,visa required
 Mongolia,Nepal,visa on arrival
 Mongolia,Netherlands,visa required
 Mongolia,New Zealand,visa required
-Mongolia,Nicaragua,visa required
+Mongolia,Nicaragua,e-visa
 Mongolia,Niger,visa required
 Mongolia,Nigeria,e-visa
 Mongolia,North Korea,visa required
@@ -23276,7 +23276,7 @@ Mongolia,Uruguay,30
 Mongolia,Uzbekistan,30
 Mongolia,Vanuatu,e-visa
 Mongolia,Vatican,visa required
-Mongolia,Venezuela,visa required
+Mongolia,Venezuela,e-visa
 Mongolia,Vietnam,30
 Mongolia,Yemen,visa required
 Mongolia,Zambia,visa on arrival
@@ -23407,7 +23407,7 @@ Montenegro,Nauru,visa required
 Montenegro,Nepal,visa on arrival
 Montenegro,Netherlands,90
 Montenegro,New Zealand,visa required
-Montenegro,Nicaragua,visa required
+Montenegro,Nicaragua,e-visa
 Montenegro,Niger,visa required
 Montenegro,Nigeria,e-visa
 Montenegro,North Korea,visa required
@@ -23475,7 +23475,7 @@ Montenegro,Uruguay,90
 Montenegro,Uzbekistan,30
 Montenegro,Vanuatu,e-visa
 Montenegro,Vatican,90
-Montenegro,Venezuela,visa required
+Montenegro,Venezuela,e-visa
 Montenegro,Vietnam,e-visa
 Montenegro,Yemen,visa required
 Montenegro,Zambia,90
@@ -23606,7 +23606,7 @@ Morocco,Nauru,visa required
 Morocco,Nepal,visa on arrival
 Morocco,Netherlands,visa required
 Morocco,New Zealand,visa required
-Morocco,Nicaragua,visa required
+Morocco,Nicaragua,e-visa
 Morocco,Niger,90
 Morocco,Nigeria,e-visa
 Morocco,North Korea,visa required
@@ -23674,7 +23674,7 @@ Morocco,Uruguay,visa required
 Morocco,Uzbekistan,e-visa
 Morocco,Vanuatu,120
 Morocco,Vatican,visa required
-Morocco,Venezuela,visa required
+Morocco,Venezuela,e-visa
 Morocco,Vietnam,e-visa
 Morocco,Yemen,visa required
 Morocco,Zambia,90
@@ -23805,7 +23805,7 @@ Mozambique,Nauru,visa required
 Mozambique,Nepal,visa on arrival
 Mozambique,Netherlands,visa required
 Mozambique,New Zealand,visa required
-Mozambique,Nicaragua,visa required
+Mozambique,Nicaragua,e-visa
 Mozambique,Niger,visa required
 Mozambique,Nigeria,e-visa
 Mozambique,North Korea,visa required
@@ -23873,7 +23873,7 @@ Mozambique,Uruguay,visa required
 Mozambique,Uzbekistan,visa required
 Mozambique,Vanuatu,120
 Mozambique,Vatican,visa required
-Mozambique,Venezuela,visa required
+Mozambique,Venezuela,e-visa
 Mozambique,Vietnam,e-visa
 Mozambique,Yemen,visa required
 Mozambique,Zambia,90
@@ -24004,7 +24004,7 @@ Myanmar,Nauru,visa required
 Myanmar,Nepal,visa on arrival
 Myanmar,Netherlands,visa required
 Myanmar,New Zealand,visa required
-Myanmar,Nicaragua,visa required
+Myanmar,Nicaragua,e-visa
 Myanmar,Niger,visa required
 Myanmar,Nigeria,e-visa
 Myanmar,North Korea,visa required
@@ -24072,7 +24072,7 @@ Myanmar,Uruguay,visa required
 Myanmar,Uzbekistan,visa required
 Myanmar,Vanuatu,e-visa
 Myanmar,Vatican,visa required
-Myanmar,Venezuela,visa required
+Myanmar,Venezuela,e-visa
 Myanmar,Vietnam,30
 Myanmar,Yemen,visa required
 Myanmar,Zambia,visa on arrival
@@ -24203,7 +24203,7 @@ Namibia,Nauru,visa required
 Namibia,Nepal,visa on arrival
 Namibia,Netherlands,visa required
 Namibia,New Zealand,visa required
-Namibia,Nicaragua,visa required
+Namibia,Nicaragua,e-visa
 Namibia,Niger,visa required
 Namibia,Nigeria,e-visa
 Namibia,North Korea,visa required
@@ -24271,7 +24271,7 @@ Namibia,Uruguay,visa required
 Namibia,Uzbekistan,visa required
 Namibia,Vanuatu,120
 Namibia,Vatican,visa required
-Namibia,Venezuela,visa required
+Namibia,Venezuela,e-visa
 Namibia,Vietnam,e-visa
 Namibia,Yemen,visa required
 Namibia,Zambia,90
@@ -24402,7 +24402,7 @@ Nauru,Nauru,-1
 Nauru,Nepal,visa on arrival
 Nauru,Netherlands,visa required
 Nauru,New Zealand,visa required
-Nauru,Nicaragua,visa required
+Nauru,Nicaragua,e-visa
 Nauru,Niger,visa required
 Nauru,Nigeria,e-visa
 Nauru,North Korea,visa required
@@ -24470,7 +24470,7 @@ Nauru,Uruguay,visa required
 Nauru,Uzbekistan,e-visa
 Nauru,Vanuatu,120
 Nauru,Vatican,visa required
-Nauru,Venezuela,visa required
+Nauru,Venezuela,e-visa
 Nauru,Vietnam,e-visa
 Nauru,Yemen,visa required
 Nauru,Zambia,90
@@ -24601,7 +24601,7 @@ Nepal,Nauru,visa required
 Nepal,Nepal,-1
 Nepal,Netherlands,visa required
 Nepal,New Zealand,visa required
-Nepal,Nicaragua,visa required
+Nepal,Nicaragua,e-visa
 Nepal,Niger,visa required
 Nepal,Nigeria,e-visa
 Nepal,North Korea,visa required
@@ -24669,7 +24669,7 @@ Nepal,Uruguay,visa required
 Nepal,Uzbekistan,e-visa
 Nepal,Vanuatu,e-visa
 Nepal,Vatican,visa required
-Nepal,Venezuela,visa required
+Nepal,Venezuela,e-visa
 Nepal,Vietnam,e-visa
 Nepal,Yemen,visa required
 Nepal,Zambia,e-visa
@@ -24846,7 +24846,7 @@ Netherlands,Sudan,visa required
 Netherlands,Suriname,visa required
 Netherlands,Sweden,visa free
 Netherlands,Switzerland,visa free
-Netherlands,Syria,e-visa
+Netherlands,Syria,visa on arrival
 Netherlands,Taiwan,90
 Netherlands,Tajikistan,30
 Netherlands,Tanzania,visa on arrival
@@ -24999,7 +24999,7 @@ New Zealand,Nauru,visa required
 New Zealand,Nepal,visa on arrival
 New Zealand,Netherlands,90
 New Zealand,New Zealand,-1
-New Zealand,Nicaragua,visa required
+New Zealand,Nicaragua,e-visa
 New Zealand,Niger,visa required
 New Zealand,Nigeria,e-visa
 New Zealand,North Korea,visa required
@@ -25397,7 +25397,7 @@ Niger,Nauru,visa required
 Niger,Nepal,visa on arrival
 Niger,Netherlands,visa required
 Niger,New Zealand,visa required
-Niger,Nicaragua,visa required
+Niger,Nicaragua,e-visa
 Niger,Niger,-1
 Niger,Nigeria,visa free
 Niger,North Korea,visa required
@@ -25465,7 +25465,7 @@ Niger,Uruguay,visa required
 Niger,Uzbekistan,visa required
 Niger,Vanuatu,e-visa
 Niger,Vatican,visa required
-Niger,Venezuela,visa required
+Niger,Venezuela,e-visa
 Niger,Vietnam,e-visa
 Niger,Yemen,visa required
 Niger,Zambia,e-visa
@@ -25596,7 +25596,7 @@ Nigeria,Nauru,visa required
 Nigeria,Nepal,visa required
 Nigeria,Netherlands,visa required
 Nigeria,New Zealand,visa required
-Nigeria,Nicaragua,visa required
+Nigeria,Nicaragua,e-visa
 Nigeria,Niger,visa free
 Nigeria,Nigeria,-1
 Nigeria,North Korea,visa required
@@ -25664,7 +25664,7 @@ Nigeria,Uruguay,visa required
 Nigeria,Uzbekistan,visa required
 Nigeria,Vanuatu,120
 Nigeria,Vatican,visa required
-Nigeria,Venezuela,visa required
+Nigeria,Venezuela,e-visa
 Nigeria,Vietnam,e-visa
 Nigeria,Yemen,visa required
 Nigeria,Zambia,e-visa
@@ -25795,7 +25795,7 @@ North Korea,Nauru,visa required
 North Korea,Nepal,visa on arrival
 North Korea,Netherlands,visa required
 North Korea,New Zealand,visa required
-North Korea,Nicaragua,visa required
+North Korea,Nicaragua,e-visa
 North Korea,Niger,visa required
 North Korea,Nigeria,e-visa
 North Korea,North Korea,-1
@@ -25863,7 +25863,7 @@ North Korea,Uruguay,visa required
 North Korea,Uzbekistan,visa required
 North Korea,Vanuatu,e-visa
 North Korea,Vatican,visa required
-North Korea,Venezuela,visa required
+North Korea,Venezuela,e-visa
 North Korea,Vietnam,e-visa
 North Korea,Yemen,visa required
 North Korea,Zambia,e-visa
@@ -25994,7 +25994,7 @@ North Macedonia,Nauru,visa required
 North Macedonia,Nepal,visa on arrival
 North Macedonia,Netherlands,90
 North Macedonia,New Zealand,visa required
-North Macedonia,Nicaragua,visa required
+North Macedonia,Nicaragua,e-visa
 North Macedonia,Niger,visa required
 North Macedonia,Nigeria,e-visa
 North Macedonia,North Korea,visa required
@@ -26062,7 +26062,7 @@ North Macedonia,Uruguay,visa required
 North Macedonia,Uzbekistan,e-visa
 North Macedonia,Vanuatu,e-visa
 North Macedonia,Vatican,90
-North Macedonia,Venezuela,visa required
+North Macedonia,Venezuela,e-visa
 North Macedonia,Vietnam,e-visa
 North Macedonia,Yemen,visa required
 North Macedonia,Zambia,90
@@ -26239,7 +26239,7 @@ Norway,Sudan,visa required
 Norway,Suriname,visa required
 Norway,Sweden,visa free
 Norway,Switzerland,visa free
-Norway,Syria,e-visa
+Norway,Syria,visa on arrival
 Norway,Taiwan,90
 Norway,Tajikistan,30
 Norway,Tanzania,visa on arrival
@@ -26392,7 +26392,7 @@ Oman,Nauru,visa required
 Oman,Nepal,visa on arrival
 Oman,Netherlands,visa required
 Oman,New Zealand,e-visa
-Oman,Nicaragua,visa required
+Oman,Nicaragua,e-visa
 Oman,Niger,visa required
 Oman,Nigeria,e-visa
 Oman,North Korea,visa required
@@ -26584,14 +26584,14 @@ Pakistan,Monaco,visa required
 Pakistan,Mongolia,visa required
 Pakistan,Montenegro,visa required
 Pakistan,Morocco,visa required
-Pakistan,Mozambique,e-visa
+Pakistan,Mozambique,visa required
 Pakistan,Myanmar,e-visa
 Pakistan,Namibia,e-visa
 Pakistan,Nauru,visa required
 Pakistan,Nepal,visa on arrival
 Pakistan,Netherlands,visa required
 Pakistan,New Zealand,visa required
-Pakistan,Nicaragua,visa required
+Pakistan,Nicaragua,e-visa
 Pakistan,Niger,visa required
 Pakistan,Nigeria,e-visa
 Pakistan,North Korea,visa required
@@ -26659,7 +26659,7 @@ Pakistan,Uruguay,visa required
 Pakistan,Uzbekistan,visa required
 Pakistan,Vanuatu,120
 Pakistan,Vatican,visa required
-Pakistan,Venezuela,visa required
+Pakistan,Venezuela,e-visa
 Pakistan,Vietnam,e-visa
 Pakistan,Yemen,visa required
 Pakistan,Zambia,e-visa
@@ -26790,7 +26790,7 @@ Palau,Nauru,visa on arrival
 Palau,Nepal,visa on arrival
 Palau,Netherlands,90
 Palau,New Zealand,visa required
-Palau,Nicaragua,visa required
+Palau,Nicaragua,e-visa
 Palau,Niger,visa required
 Palau,Nigeria,e-visa
 Palau,North Korea,visa required
@@ -26858,7 +26858,7 @@ Palau,Uruguay,visa required
 Palau,Uzbekistan,e-visa
 Palau,Vanuatu,120
 Palau,Vatican,90
-Palau,Venezuela,visa required
+Palau,Venezuela,e-visa
 Palau,Vietnam,e-visa
 Palau,Yemen,visa required
 Palau,Zambia,90
@@ -27256,7 +27256,7 @@ Panama,Uruguay,90
 Panama,Uzbekistan,30
 Panama,Vanuatu,e-visa
 Panama,Vatican,90
-Panama,Venezuela,visa required
+Panama,Venezuela,e-visa
 Panama,Vietnam,90
 Panama,Yemen,visa required
 Panama,Zambia,90
@@ -27387,7 +27387,7 @@ Papua New Guinea,Nauru,visa on arrival
 Papua New Guinea,Nepal,visa on arrival
 Papua New Guinea,Netherlands,visa required
 Papua New Guinea,New Zealand,visa required
-Papua New Guinea,Nicaragua,visa required
+Papua New Guinea,Nicaragua,e-visa
 Papua New Guinea,Niger,visa required
 Papua New Guinea,Nigeria,e-visa
 Papua New Guinea,North Korea,visa required
@@ -27455,7 +27455,7 @@ Papua New Guinea,Uruguay,visa required
 Papua New Guinea,Uzbekistan,visa required
 Papua New Guinea,Vanuatu,120
 Papua New Guinea,Vatican,visa required
-Papua New Guinea,Venezuela,visa required
+Papua New Guinea,Venezuela,e-visa
 Papua New Guinea,Vietnam,e-visa
 Papua New Guinea,Yemen,visa required
 Papua New Guinea,Zambia,90
@@ -27785,7 +27785,7 @@ Peru,Nauru,visa required
 Peru,Nepal,visa on arrival
 Peru,Netherlands,90
 Peru,New Zealand,visa required
-Peru,Nicaragua,visa required
+Peru,Nicaragua,e-visa
 Peru,Niger,visa required
 Peru,Nigeria,e-visa
 Peru,North Korea,visa required
@@ -27853,7 +27853,7 @@ Peru,Uruguay,90
 Peru,Uzbekistan,e-visa
 Peru,Vanuatu,120
 Peru,Vatican,90
-Peru,Venezuela,visa required
+Peru,Venezuela,e-visa
 Peru,Vietnam,e-visa
 Peru,Yemen,visa required
 Peru,Zambia,visa on arrival
@@ -28052,7 +28052,7 @@ Philippines,Uruguay,visa required
 Philippines,Uzbekistan,e-visa
 Philippines,Vanuatu,120
 Philippines,Vatican,visa required
-Philippines,Venezuela,visa required
+Philippines,Venezuela,e-visa
 Philippines,Vietnam,21
 Philippines,Yemen,visa required
 Philippines,Zambia,e-visa
@@ -28229,7 +28229,7 @@ Poland,Sudan,visa required
 Poland,Suriname,visa required
 Poland,Sweden,visa free
 Poland,Switzerland,visa free
-Poland,Syria,e-visa
+Poland,Syria,visa on arrival
 Poland,Taiwan,90
 Poland,Tajikistan,30
 Poland,Tanzania,visa on arrival
@@ -28428,7 +28428,7 @@ Portugal,Sudan,visa required
 Portugal,Suriname,visa required
 Portugal,Sweden,visa free
 Portugal,Switzerland,visa free
-Portugal,Syria,e-visa
+Portugal,Syria,visa on arrival
 Portugal,Taiwan,90
 Portugal,Tajikistan,30
 Portugal,Tanzania,visa on arrival
@@ -28826,7 +28826,7 @@ Romania,Sudan,visa required
 Romania,Suriname,visa required
 Romania,Sweden,visa free
 Romania,Switzerland,visa free
-Romania,Syria,e-visa
+Romania,Syria,visa on arrival
 Romania,Taiwan,90
 Romania,Tajikistan,30
 Romania,Tanzania,90
@@ -29005,7 +29005,7 @@ Russia,Saint Lucia,42
 Russia,Samoa,90
 Russia,San Marino,visa required
 Russia,Sao Tome and Principe,15
-Russia,Saudi Arabia,visa on arrival
+Russia,Saudi Arabia,90
 Russia,Senegal,visa on arrival
 Russia,Serbia,30
 Russia,Seychelles,90
@@ -29178,7 +29178,7 @@ Rwanda,Nauru,visa required
 Rwanda,Nepal,visa on arrival
 Rwanda,Netherlands,visa required
 Rwanda,New Zealand,visa required
-Rwanda,Nicaragua,visa required
+Rwanda,Nicaragua,e-visa
 Rwanda,Niger,visa required
 Rwanda,Nigeria,e-visa
 Rwanda,North Korea,visa required
@@ -29246,7 +29246,7 @@ Rwanda,Uruguay,visa required
 Rwanda,Uzbekistan,visa required
 Rwanda,Vanuatu,120
 Rwanda,Vatican,visa required
-Rwanda,Venezuela,visa required
+Rwanda,Venezuela,e-visa
 Rwanda,Vietnam,e-visa
 Rwanda,Yemen,visa required
 Rwanda,Zambia,visa on arrival
@@ -29316,7 +29316,7 @@ Saint Kitts and Nevis,Gabon,e-visa
 Saint Kitts and Nevis,Gambia,90
 Saint Kitts and Nevis,Georgia,90
 Saint Kitts and Nevis,Germany,90
-Saint Kitts and Nevis,Ghana,visa required
+Saint Kitts and Nevis,Ghana,60
 Saint Kitts and Nevis,Greece,90
 Saint Kitts and Nevis,Grenada,visa free
 Saint Kitts and Nevis,Guatemala,90
@@ -29377,7 +29377,7 @@ Saint Kitts and Nevis,Nauru,visa required
 Saint Kitts and Nevis,Nepal,visa on arrival
 Saint Kitts and Nevis,Netherlands,90
 Saint Kitts and Nevis,New Zealand,visa required
-Saint Kitts and Nevis,Nicaragua,visa required
+Saint Kitts and Nevis,Nicaragua,e-visa
 Saint Kitts and Nevis,Niger,visa required
 Saint Kitts and Nevis,Nigeria,90
 Saint Kitts and Nevis,North Korea,visa required
@@ -29576,7 +29576,7 @@ Saint Lucia,Nauru,visa required
 Saint Lucia,Nepal,visa on arrival
 Saint Lucia,Netherlands,90
 Saint Lucia,New Zealand,visa required
-Saint Lucia,Nicaragua,visa required
+Saint Lucia,Nicaragua,e-visa
 Saint Lucia,Niger,visa required
 Saint Lucia,Nigeria,e-visa
 Saint Lucia,North Korea,visa required
@@ -29775,7 +29775,7 @@ Samoa,Nauru,visa on arrival
 Samoa,Nepal,visa on arrival
 Samoa,Netherlands,90
 Samoa,New Zealand,visa required
-Samoa,Nicaragua,visa required
+Samoa,Nicaragua,e-visa
 Samoa,Niger,visa required
 Samoa,Nigeria,e-visa
 Samoa,North Korea,visa required
@@ -29843,7 +29843,7 @@ Samoa,Uruguay,visa required
 Samoa,Uzbekistan,e-visa
 Samoa,Vanuatu,120
 Samoa,Vatican,90
-Samoa,Venezuela,visa required
+Samoa,Venezuela,e-visa
 Samoa,Vietnam,e-visa
 Samoa,Yemen,visa required
 Samoa,Zambia,90
@@ -29974,7 +29974,7 @@ San Marino,Nauru,visa required
 San Marino,Nepal,visa on arrival
 San Marino,Netherlands,90
 San Marino,New Zealand,e-visa
-San Marino,Nicaragua,visa required
+San Marino,Nicaragua,e-visa
 San Marino,Niger,visa required
 San Marino,Nigeria,e-visa
 San Marino,North Korea,visa required
@@ -30173,7 +30173,7 @@ Sao Tome and Principe,Nauru,visa required
 Sao Tome and Principe,Nepal,visa on arrival
 Sao Tome and Principe,Netherlands,visa required
 Sao Tome and Principe,New Zealand,visa required
-Sao Tome and Principe,Nicaragua,visa required
+Sao Tome and Principe,Nicaragua,e-visa
 Sao Tome and Principe,Niger,visa required
 Sao Tome and Principe,Nigeria,e-visa
 Sao Tome and Principe,North Korea,visa required
@@ -30241,7 +30241,7 @@ Sao Tome and Principe,Uruguay,visa required
 Sao Tome and Principe,Uzbekistan,visa required
 Sao Tome and Principe,Vanuatu,e-visa
 Sao Tome and Principe,Vatican,visa required
-Sao Tome and Principe,Venezuela,visa required
+Sao Tome and Principe,Venezuela,e-visa
 Sao Tome and Principe,Vietnam,e-visa
 Sao Tome and Principe,Yemen,visa required
 Sao Tome and Principe,Zambia,90
@@ -30391,7 +30391,7 @@ Saudi Arabia,Poland,visa required
 Saudi Arabia,Portugal,visa required
 Saudi Arabia,Qatar,visa free
 Saudi Arabia,Romania,visa required
-Saudi Arabia,Russia,e-visa
+Saudi Arabia,Russia,60
 Saudi Arabia,Rwanda,visa on arrival
 Saudi Arabia,Saint Kitts and Nevis,e-visa
 Saudi Arabia,Saint Lucia,visa required
@@ -30440,7 +30440,7 @@ Saudi Arabia,Uruguay,visa required
 Saudi Arabia,Uzbekistan,90
 Saudi Arabia,Vanuatu,120
 Saudi Arabia,Vatican,visa required
-Saudi Arabia,Venezuela,visa required
+Saudi Arabia,Venezuela,e-visa
 Saudi Arabia,Vietnam,e-visa
 Saudi Arabia,Yemen,visa on arrival
 Saudi Arabia,Zambia,90
@@ -30571,7 +30571,7 @@ Senegal,Nauru,visa required
 Senegal,Nepal,visa on arrival
 Senegal,Netherlands,visa required
 Senegal,New Zealand,visa required
-Senegal,Nicaragua,visa required
+Senegal,Nicaragua,e-visa
 Senegal,Niger,visa free
 Senegal,Nigeria,visa free
 Senegal,North Korea,visa required
@@ -30639,7 +30639,7 @@ Senegal,Uruguay,visa required
 Senegal,Uzbekistan,e-visa
 Senegal,Vanuatu,e-visa
 Senegal,Vatican,visa required
-Senegal,Venezuela,visa required
+Senegal,Venezuela,e-visa
 Senegal,Vietnam,e-visa
 Senegal,Yemen,visa required
 Senegal,Zambia,e-visa
@@ -30770,7 +30770,7 @@ Serbia,Nauru,visa required
 Serbia,Nepal,visa on arrival
 Serbia,Netherlands,90
 Serbia,New Zealand,visa required
-Serbia,Nicaragua,visa required
+Serbia,Nicaragua,e-visa
 Serbia,Niger,visa required
 Serbia,Nigeria,e-visa
 Serbia,North Korea,visa required
@@ -30969,7 +30969,7 @@ Seychelles,Nauru,visa required
 Seychelles,Nepal,visa on arrival
 Seychelles,Netherlands,90
 Seychelles,New Zealand,e-visa
-Seychelles,Nicaragua,visa required
+Seychelles,Nicaragua,e-visa
 Seychelles,Niger,visa required
 Seychelles,Nigeria,90
 Seychelles,North Korea,visa required
@@ -31037,7 +31037,7 @@ Seychelles,Uruguay,90
 Seychelles,Uzbekistan,e-visa
 Seychelles,Vanuatu,120
 Seychelles,Vatican,90
-Seychelles,Venezuela,visa required
+Seychelles,Venezuela,e-visa
 Seychelles,Vietnam,e-visa
 Seychelles,Yemen,visa required
 Seychelles,Zambia,90
@@ -31168,7 +31168,7 @@ Sierra Leone,Nauru,visa required
 Sierra Leone,Nepal,visa on arrival
 Sierra Leone,Netherlands,visa required
 Sierra Leone,New Zealand,visa required
-Sierra Leone,Nicaragua,visa required
+Sierra Leone,Nicaragua,e-visa
 Sierra Leone,Niger,visa free
 Sierra Leone,Nigeria,visa free
 Sierra Leone,North Korea,visa required
@@ -31236,7 +31236,7 @@ Sierra Leone,Uruguay,visa required
 Sierra Leone,Uzbekistan,visa required
 Sierra Leone,Vanuatu,120
 Sierra Leone,Vatican,visa required
-Sierra Leone,Venezuela,visa required
+Sierra Leone,Venezuela,e-visa
 Sierra Leone,Vietnam,e-visa
 Sierra Leone,Yemen,visa required
 Sierra Leone,Zambia,e-visa
@@ -31435,7 +31435,7 @@ Singapore,Uruguay,90
 Singapore,Uzbekistan,30
 Singapore,Vanuatu,120
 Singapore,Vatican,90
-Singapore,Venezuela,visa required
+Singapore,Venezuela,e-visa
 Singapore,Vietnam,30
 Singapore,Yemen,visa required
 Singapore,Zambia,90
@@ -31566,7 +31566,7 @@ Slovakia,Nauru,visa required
 Slovakia,Nepal,visa on arrival
 Slovakia,Netherlands,visa free
 Slovakia,New Zealand,e-visa
-Slovakia,Nicaragua,visa required
+Slovakia,Nicaragua,e-visa
 Slovakia,Niger,visa required
 Slovakia,Nigeria,e-visa
 Slovakia,North Korea,visa required
@@ -31612,7 +31612,7 @@ Slovakia,Sudan,visa required
 Slovakia,Suriname,visa required
 Slovakia,Sweden,visa free
 Slovakia,Switzerland,visa free
-Slovakia,Syria,e-visa
+Slovakia,Syria,visa on arrival
 Slovakia,Taiwan,90
 Slovakia,Tajikistan,30
 Slovakia,Tanzania,visa on arrival
@@ -31765,7 +31765,7 @@ Slovenia,Nauru,visa required
 Slovenia,Nepal,visa on arrival
 Slovenia,Netherlands,visa free
 Slovenia,New Zealand,e-visa
-Slovenia,Nicaragua,visa required
+Slovenia,Nicaragua,e-visa
 Slovenia,Niger,visa required
 Slovenia,Nigeria,e-visa
 Slovenia,North Korea,visa required
@@ -31811,7 +31811,7 @@ Slovenia,Sudan,visa required
 Slovenia,Suriname,visa required
 Slovenia,Sweden,visa free
 Slovenia,Switzerland,visa free
-Slovenia,Syria,e-visa
+Slovenia,Syria,visa on arrival
 Slovenia,Taiwan,90
 Slovenia,Tajikistan,30
 Slovenia,Tanzania,visa on arrival
@@ -32032,7 +32032,7 @@ Solomon Islands,Uruguay,visa required
 Solomon Islands,Uzbekistan,e-visa
 Solomon Islands,Vanuatu,120
 Solomon Islands,Vatican,90
-Solomon Islands,Venezuela,visa required
+Solomon Islands,Venezuela,e-visa
 Solomon Islands,Vietnam,e-visa
 Solomon Islands,Yemen,visa required
 Solomon Islands,Zambia,90
@@ -32156,14 +32156,14 @@ Somalia,Monaco,visa required
 Somalia,Mongolia,visa required
 Somalia,Montenegro,visa required
 Somalia,Morocco,visa required
-Somalia,Mozambique,e-visa
+Somalia,Mozambique,visa required
 Somalia,Myanmar,visa required
 Somalia,Namibia,e-visa
 Somalia,Nauru,visa required
 Somalia,Nepal,visa required
 Somalia,Netherlands,visa required
 Somalia,New Zealand,visa required
-Somalia,Nicaragua,visa required
+Somalia,Nicaragua,e-visa
 Somalia,Niger,visa required
 Somalia,Nigeria,e-visa
 Somalia,North Korea,visa required
@@ -32231,7 +32231,7 @@ Somalia,Uruguay,visa required
 Somalia,Uzbekistan,visa required
 Somalia,Vanuatu,e-visa
 Somalia,Vatican,visa required
-Somalia,Venezuela,visa required
+Somalia,Venezuela,e-visa
 Somalia,Vietnam,e-visa
 Somalia,Yemen,visa required
 Somalia,Zambia,e-visa
@@ -32760,7 +32760,7 @@ South Sudan,Nauru,visa required
 South Sudan,Nepal,visa on arrival
 South Sudan,Netherlands,visa required
 South Sudan,New Zealand,visa required
-South Sudan,Nicaragua,visa required
+South Sudan,Nicaragua,e-visa
 South Sudan,Niger,visa required
 South Sudan,Nigeria,e-visa
 South Sudan,North Korea,visa required
@@ -32828,7 +32828,7 @@ South Sudan,Uruguay,visa required
 South Sudan,Uzbekistan,visa required
 South Sudan,Vanuatu,e-visa
 South Sudan,Vatican,visa required
-South Sudan,Venezuela,visa required
+South Sudan,Venezuela,e-visa
 South Sudan,Vietnam,e-visa
 South Sudan,Yemen,visa required
 South Sudan,Zambia,e-visa
@@ -33005,7 +33005,7 @@ Spain,Sudan,visa required
 Spain,Suriname,visa required
 Spain,Sweden,visa free
 Spain,Switzerland,visa free
-Spain,Syria,e-visa
+Spain,Syria,visa on arrival
 Spain,Taiwan,90
 Spain,Tajikistan,30
 Spain,Tanzania,visa on arrival
@@ -33158,7 +33158,7 @@ Sri Lanka,Nauru,visa required
 Sri Lanka,Nepal,visa on arrival
 Sri Lanka,Netherlands,visa required
 Sri Lanka,New Zealand,visa required
-Sri Lanka,Nicaragua,visa required
+Sri Lanka,Nicaragua,e-visa
 Sri Lanka,Niger,visa required
 Sri Lanka,Nigeria,e-visa
 Sri Lanka,North Korea,visa required
@@ -33357,7 +33357,7 @@ Saint Vincent and the Grenadines,Nauru,visa required
 Saint Vincent and the Grenadines,Nepal,visa on arrival
 Saint Vincent and the Grenadines,Netherlands,90
 Saint Vincent and the Grenadines,New Zealand,visa required
-Saint Vincent and the Grenadines,Nicaragua,visa required
+Saint Vincent and the Grenadines,Nicaragua,e-visa
 Saint Vincent and the Grenadines,Niger,visa required
 Saint Vincent and the Grenadines,Nigeria,e-visa
 Saint Vincent and the Grenadines,North Korea,visa required
@@ -33556,7 +33556,7 @@ Sudan,Nauru,visa required
 Sudan,Nepal,visa on arrival
 Sudan,Netherlands,visa required
 Sudan,New Zealand,visa required
-Sudan,Nicaragua,visa required
+Sudan,Nicaragua,e-visa
 Sudan,Niger,visa required
 Sudan,Nigeria,e-visa
 Sudan,North Korea,visa required
@@ -33624,7 +33624,7 @@ Sudan,Uruguay,visa required
 Sudan,Uzbekistan,visa required
 Sudan,Vanuatu,e-visa
 Sudan,Vatican,visa required
-Sudan,Venezuela,visa required
+Sudan,Venezuela,e-visa
 Sudan,Vietnam,e-visa
 Sudan,Yemen,visa required
 Sudan,Zambia,e-visa
@@ -33755,7 +33755,7 @@ Suriname,Nauru,visa required
 Suriname,Nepal,visa on arrival
 Suriname,Netherlands,visa required
 Suriname,New Zealand,visa required
-Suriname,Nicaragua,visa required
+Suriname,Nicaragua,e-visa
 Suriname,Niger,visa required
 Suriname,Nigeria,e-visa
 Suriname,North Korea,visa required
@@ -33823,7 +33823,7 @@ Suriname,Uruguay,visa required
 Suriname,Uzbekistan,e-visa
 Suriname,Vanuatu,e-visa
 Suriname,Vatican,visa required
-Suriname,Venezuela,visa required
+Suriname,Venezuela,e-visa
 Suriname,Vietnam,e-visa
 Suriname,Yemen,visa required
 Suriname,Zambia,90
@@ -34000,7 +34000,7 @@ Sweden,Sudan,visa required
 Sweden,Suriname,visa required
 Sweden,Sweden,-1
 Sweden,Switzerland,visa free
-Sweden,Syria,e-visa
+Sweden,Syria,visa on arrival
 Sweden,Taiwan,90
 Sweden,Tajikistan,30
 Sweden,Tanzania,visa on arrival
@@ -34199,7 +34199,7 @@ Switzerland,Sudan,visa required
 Switzerland,Suriname,visa required
 Switzerland,Sweden,visa free
 Switzerland,Switzerland,-1
-Switzerland,Syria,e-visa
+Switzerland,Syria,visa on arrival
 Switzerland,Taiwan,90
 Switzerland,Tajikistan,30
 Switzerland,Tanzania,visa on arrival
@@ -34352,7 +34352,7 @@ Syria,Nauru,visa required
 Syria,Nepal,visa required
 Syria,Netherlands,visa required
 Syria,New Zealand,visa required
-Syria,Nicaragua,visa required
+Syria,Nicaragua,e-visa
 Syria,Niger,visa required
 Syria,Nigeria,e-visa
 Syria,North Korea,visa required
@@ -34420,7 +34420,7 @@ Syria,Uruguay,visa required
 Syria,Uzbekistan,visa required
 Syria,Vanuatu,e-visa
 Syria,Vatican,visa required
-Syria,Venezuela,visa required
+Syria,Venezuela,e-visa
 Syria,Vietnam,e-visa
 Syria,Yemen,visa on arrival
 Syria,Zambia,e-visa
@@ -34551,7 +34551,7 @@ Taiwan,Nauru,visa on arrival
 Taiwan,Nepal,visa on arrival
 Taiwan,Netherlands,90
 Taiwan,New Zealand,e-visa
-Taiwan,Nicaragua,visa required
+Taiwan,Nicaragua,e-visa
 Taiwan,Niger,visa required
 Taiwan,Nigeria,e-visa
 Taiwan,North Korea,visa required
@@ -34619,7 +34619,7 @@ Taiwan,Uruguay,visa required
 Taiwan,Uzbekistan,visa required
 Taiwan,Vanuatu,120
 Taiwan,Vatican,90
-Taiwan,Venezuela,visa required
+Taiwan,Venezuela,e-visa
 Taiwan,Vietnam,e-visa
 Taiwan,Yemen,visa required
 Taiwan,Zambia,e-visa
@@ -34750,7 +34750,7 @@ Tajikistan,Nauru,visa required
 Tajikistan,Nepal,visa on arrival
 Tajikistan,Netherlands,visa required
 Tajikistan,New Zealand,visa required
-Tajikistan,Nicaragua,visa required
+Tajikistan,Nicaragua,e-visa
 Tajikistan,Niger,visa required
 Tajikistan,Nigeria,e-visa
 Tajikistan,North Korea,visa required
@@ -34818,7 +34818,7 @@ Tajikistan,Uruguay,visa required
 Tajikistan,Uzbekistan,30
 Tajikistan,Vanuatu,e-visa
 Tajikistan,Vatican,visa required
-Tajikistan,Venezuela,visa required
+Tajikistan,Venezuela,e-visa
 Tajikistan,Vietnam,e-visa
 Tajikistan,Yemen,visa required
 Tajikistan,Zambia,e-visa
@@ -34949,7 +34949,7 @@ Tanzania,Nauru,visa required
 Tanzania,Nepal,visa on arrival
 Tanzania,Netherlands,visa required
 Tanzania,New Zealand,visa required
-Tanzania,Nicaragua,visa required
+Tanzania,Nicaragua,e-visa
 Tanzania,Niger,visa required
 Tanzania,Nigeria,e-visa
 Tanzania,North Korea,visa required
@@ -35017,7 +35017,7 @@ Tanzania,Uruguay,visa required
 Tanzania,Uzbekistan,visa required
 Tanzania,Vanuatu,120
 Tanzania,Vatican,visa required
-Tanzania,Venezuela,visa required
+Tanzania,Venezuela,e-visa
 Tanzania,Vietnam,e-visa
 Tanzania,Yemen,visa required
 Tanzania,Zambia,90
@@ -35148,7 +35148,7 @@ Thailand,Nauru,visa required
 Thailand,Nepal,visa on arrival
 Thailand,Netherlands,visa required
 Thailand,New Zealand,visa required
-Thailand,Nicaragua,visa required
+Thailand,Nicaragua,e-visa
 Thailand,Niger,visa required
 Thailand,Nigeria,e-visa
 Thailand,North Korea,visa required
@@ -35165,7 +35165,7 @@ Thailand,Peru,180
 Thailand,Philippines,30
 Thailand,Poland,visa required
 Thailand,Portugal,visa required
-Thailand,Qatar,visa on arrival
+Thailand,Qatar,e-visa
 Thailand,Romania,visa required
 Thailand,Russia,30
 Thailand,Rwanda,visa on arrival
@@ -35216,7 +35216,7 @@ Thailand,Uruguay,visa required
 Thailand,Uzbekistan,e-visa
 Thailand,Vanuatu,120
 Thailand,Vatican,visa required
-Thailand,Venezuela,visa required
+Thailand,Venezuela,e-visa
 Thailand,Vietnam,30
 Thailand,Yemen,visa required
 Thailand,Zambia,visa on arrival
@@ -35347,7 +35347,7 @@ Timor-Leste,Nauru,visa required
 Timor-Leste,Nepal,visa on arrival
 Timor-Leste,Netherlands,90
 Timor-Leste,New Zealand,visa required
-Timor-Leste,Nicaragua,visa required
+Timor-Leste,Nicaragua,e-visa
 Timor-Leste,Niger,visa required
 Timor-Leste,Nigeria,e-visa
 Timor-Leste,North Korea,visa required
@@ -35415,7 +35415,7 @@ Timor-Leste,Uruguay,visa required
 Timor-Leste,Uzbekistan,visa required
 Timor-Leste,Vanuatu,e-visa
 Timor-Leste,Vatican,90
-Timor-Leste,Venezuela,visa required
+Timor-Leste,Venezuela,e-visa
 Timor-Leste,Vietnam,e-visa
 Timor-Leste,Yemen,visa required
 Timor-Leste,Zambia,e-visa
@@ -35546,7 +35546,7 @@ Togo,Nauru,visa required
 Togo,Nepal,visa on arrival
 Togo,Netherlands,visa required
 Togo,New Zealand,visa required
-Togo,Nicaragua,visa required
+Togo,Nicaragua,e-visa
 Togo,Niger,visa free
 Togo,Nigeria,visa free
 Togo,North Korea,visa required
@@ -35614,7 +35614,7 @@ Togo,Uruguay,visa required
 Togo,Uzbekistan,visa required
 Togo,Vanuatu,e-visa
 Togo,Vatican,visa required
-Togo,Venezuela,visa required
+Togo,Venezuela,e-visa
 Togo,Vietnam,e-visa
 Togo,Yemen,visa required
 Togo,Zambia,e-visa
@@ -35745,7 +35745,7 @@ Tonga,Nauru,visa on arrival
 Tonga,Nepal,visa on arrival
 Tonga,Netherlands,90
 Tonga,New Zealand,visa required
-Tonga,Nicaragua,visa required
+Tonga,Nicaragua,e-visa
 Tonga,Niger,visa required
 Tonga,Nigeria,e-visa
 Tonga,North Korea,visa required
@@ -35813,7 +35813,7 @@ Tonga,Uruguay,visa required
 Tonga,Uzbekistan,e-visa
 Tonga,Vanuatu,120
 Tonga,Vatican,90
-Tonga,Venezuela,visa required
+Tonga,Venezuela,e-visa
 Tonga,Vietnam,e-visa
 Tonga,Yemen,visa required
 Tonga,Zambia,90
@@ -35944,7 +35944,7 @@ Trinidad and Tobago,Nauru,visa required
 Trinidad and Tobago,Nepal,visa on arrival
 Trinidad and Tobago,Netherlands,90
 Trinidad and Tobago,New Zealand,visa required
-Trinidad and Tobago,Nicaragua,visa required
+Trinidad and Tobago,Nicaragua,e-visa
 Trinidad and Tobago,Niger,visa required
 Trinidad and Tobago,Nigeria,e-visa
 Trinidad and Tobago,North Korea,visa required
@@ -36143,7 +36143,7 @@ Tunisia,Nauru,visa required
 Tunisia,Nepal,visa on arrival
 Tunisia,Netherlands,visa required
 Tunisia,New Zealand,visa required
-Tunisia,Nicaragua,visa required
+Tunisia,Nicaragua,e-visa
 Tunisia,Niger,90
 Tunisia,Nigeria,e-visa
 Tunisia,North Korea,visa required
@@ -36178,7 +36178,7 @@ Tunisia,Singapore,e-visa
 Tunisia,Slovakia,visa required
 Tunisia,Slovenia,visa required
 Tunisia,Solomon Islands,visa required
-Tunisia,Somalia,e-visa
+Tunisia,Somalia,visa on arrival
 Tunisia,South Africa,90
 Tunisia,South Korea,e-visa
 Tunisia,South Sudan,e-visa
@@ -36211,7 +36211,7 @@ Tunisia,Uruguay,visa required
 Tunisia,Uzbekistan,e-visa
 Tunisia,Vanuatu,120
 Tunisia,Vatican,visa required
-Tunisia,Venezuela,visa required
+Tunisia,Venezuela,e-visa
 Tunisia,Vietnam,e-visa
 Tunisia,Yemen,visa required
 Tunisia,Zambia,e-visa
@@ -36333,7 +36333,7 @@ Turkey,Micronesia,30
 Turkey,Moldova,90
 Turkey,Monaco,visa required
 Turkey,Mongolia,30
-Turkey,Montenegro,visa required
+Turkey,Montenegro,30
 Turkey,Morocco,90
 Turkey,Mozambique,visa on arrival
 Turkey,Myanmar,e-visa
@@ -36541,7 +36541,7 @@ Turkmenistan,Nauru,visa required
 Turkmenistan,Nepal,visa on arrival
 Turkmenistan,Netherlands,visa required
 Turkmenistan,New Zealand,visa required
-Turkmenistan,Nicaragua,visa required
+Turkmenistan,Nicaragua,e-visa
 Turkmenistan,Niger,visa required
 Turkmenistan,Nigeria,e-visa
 Turkmenistan,North Korea,visa required
@@ -36609,7 +36609,7 @@ Turkmenistan,Uruguay,visa required
 Turkmenistan,Uzbekistan,visa required
 Turkmenistan,Vanuatu,e-visa
 Turkmenistan,Vatican,visa required
-Turkmenistan,Venezuela,visa required
+Turkmenistan,Venezuela,e-visa
 Turkmenistan,Vietnam,e-visa
 Turkmenistan,Yemen,visa required
 Turkmenistan,Zambia,e-visa
@@ -36740,7 +36740,7 @@ Tuvalu,Nauru,visa on arrival
 Tuvalu,Nepal,visa on arrival
 Tuvalu,Netherlands,90
 Tuvalu,New Zealand,visa required
-Tuvalu,Nicaragua,visa required
+Tuvalu,Nicaragua,e-visa
 Tuvalu,Niger,visa required
 Tuvalu,Nigeria,e-visa
 Tuvalu,North Korea,visa required
@@ -36808,7 +36808,7 @@ Tuvalu,Uruguay,visa required
 Tuvalu,Uzbekistan,visa required
 Tuvalu,Vanuatu,120
 Tuvalu,Vatican,90
-Tuvalu,Venezuela,visa required
+Tuvalu,Venezuela,e-visa
 Tuvalu,Vietnam,e-visa
 Tuvalu,Yemen,visa required
 Tuvalu,Zambia,90
@@ -36939,7 +36939,7 @@ Uganda,Nauru,visa required
 Uganda,Nepal,visa on arrival
 Uganda,Netherlands,visa required
 Uganda,New Zealand,visa required
-Uganda,Nicaragua,visa required
+Uganda,Nicaragua,e-visa
 Uganda,Niger,visa required
 Uganda,Nigeria,e-visa
 Uganda,North Korea,visa required
@@ -37007,7 +37007,7 @@ Uganda,Uruguay,visa required
 Uganda,Uzbekistan,visa required
 Uganda,Vanuatu,120
 Uganda,Vatican,visa required
-Uganda,Venezuela,visa required
+Uganda,Venezuela,e-visa
 Uganda,Vietnam,e-visa
 Uganda,Yemen,visa required
 Uganda,Zambia,90
@@ -37138,7 +37138,7 @@ Ukraine,Nauru,visa required
 Ukraine,Nepal,visa on arrival
 Ukraine,Netherlands,90
 Ukraine,New Zealand,visa required
-Ukraine,Nicaragua,visa required
+Ukraine,Nicaragua,e-visa
 Ukraine,Niger,visa required
 Ukraine,Nigeria,e-visa
 Ukraine,North Korea,visa required
@@ -37206,7 +37206,7 @@ Ukraine,Uruguay,90
 Ukraine,Uzbekistan,visa free
 Ukraine,Vanuatu,120
 Ukraine,Vatican,90
-Ukraine,Venezuela,visa required
+Ukraine,Venezuela,e-visa
 Ukraine,Vietnam,e-visa
 Ukraine,Yemen,visa required
 Ukraine,Zambia,90
@@ -37337,7 +37337,7 @@ United Arab Emirates,Nauru,visa free
 United Arab Emirates,Nepal,visa on arrival
 United Arab Emirates,Netherlands,90
 United Arab Emirates,New Zealand,e-visa
-United Arab Emirates,Nicaragua,visa required
+United Arab Emirates,Nicaragua,e-visa
 United Arab Emirates,Niger,visa on arrival
 United Arab Emirates,Nigeria,e-visa
 United Arab Emirates,North Korea,visa required
@@ -37348,7 +37348,7 @@ United Arab Emirates,Pakistan,90
 United Arab Emirates,Palau,visa on arrival
 United Arab Emirates,Palestine,visa free
 United Arab Emirates,Panama,90
-United Arab Emirates,Papua New Guinea,e-visa
+United Arab Emirates,Papua New Guinea,visa on arrival
 United Arab Emirates,Paraguay,90
 United Arab Emirates,Peru,90
 United Arab Emirates,Philippines,30
@@ -37391,7 +37391,7 @@ United Arab Emirates,Thailand,60
 United Arab Emirates,Timor-Leste,visa on arrival
 United Arab Emirates,Togo,e-visa
 United Arab Emirates,Tonga,60
-United Arab Emirates,Trinidad and Tobago,visa on arrival
+United Arab Emirates,Trinidad and Tobago,90
 United Arab Emirates,Tunisia,90
 United Arab Emirates,Turkmenistan,visa required
 United Arab Emirates,Tuvalu,visa on arrival
@@ -37405,7 +37405,7 @@ United Arab Emirates,Uruguay,90
 United Arab Emirates,Uzbekistan,30
 United Arab Emirates,Vanuatu,120
 United Arab Emirates,Vatican,90
-United Arab Emirates,Venezuela,visa required
+United Arab Emirates,Venezuela,e-visa
 United Arab Emirates,Vietnam,e-visa
 United Arab Emirates,Yemen,visa on arrival
 United Arab Emirates,Zambia,90
@@ -37582,7 +37582,7 @@ United Kingdom,Sudan,visa required
 United Kingdom,Suriname,visa required
 United Kingdom,Sweden,90
 United Kingdom,Switzerland,90
-United Kingdom,Syria,e-visa
+United Kingdom,Syria,visa on arrival
 United Kingdom,Taiwan,90
 United Kingdom,Tajikistan,e-visa
 United Kingdom,Tanzania,visa on arrival
@@ -37781,7 +37781,7 @@ United States,Sudan,visa required
 United States,Suriname,visa required
 United States,Sweden,90
 United States,Switzerland,90
-United States,Syria,e-visa
+United States,Syria,visa on arrival
 United States,Taiwan,90
 United States,Tajikistan,30
 United States,Tanzania,visa on arrival
@@ -37803,7 +37803,7 @@ United States,Uruguay,90
 United States,Uzbekistan,30
 United States,Vanuatu,120
 United States,Vatican,90
-United States,Venezuela,visa required
+United States,Venezuela,e-visa
 United States,Vietnam,e-visa
 United States,Yemen,visa required
 United States,Zambia,90
@@ -38133,7 +38133,7 @@ Uzbekistan,Nauru,visa required
 Uzbekistan,Nepal,visa on arrival
 Uzbekistan,Netherlands,visa required
 Uzbekistan,New Zealand,visa required
-Uzbekistan,Nicaragua,visa required
+Uzbekistan,Nicaragua,e-visa
 Uzbekistan,Niger,visa required
 Uzbekistan,Nigeria,e-visa
 Uzbekistan,North Korea,visa required
@@ -38201,7 +38201,7 @@ Uzbekistan,Uruguay,visa required
 Uzbekistan,Uzbekistan,-1
 Uzbekistan,Vanuatu,e-visa
 Uzbekistan,Vatican,visa required
-Uzbekistan,Venezuela,visa required
+Uzbekistan,Venezuela,e-visa
 Uzbekistan,Vietnam,e-visa
 Uzbekistan,Yemen,visa required
 Uzbekistan,Zambia,e-visa
@@ -38332,7 +38332,7 @@ Vanuatu,Nauru,visa on arrival
 Vanuatu,Nepal,visa on arrival
 Vanuatu,Netherlands,visa required
 Vanuatu,New Zealand,visa required
-Vanuatu,Nicaragua,visa required
+Vanuatu,Nicaragua,e-visa
 Vanuatu,Niger,visa required
 Vanuatu,Nigeria,e-visa
 Vanuatu,North Korea,visa required
@@ -38400,7 +38400,7 @@ Vanuatu,Uruguay,visa required
 Vanuatu,Uzbekistan,e-visa
 Vanuatu,Vanuatu,-1
 Vanuatu,Vatican,visa required
-Vanuatu,Venezuela,visa required
+Vanuatu,Venezuela,e-visa
 Vanuatu,Vietnam,e-visa
 Vanuatu,Yemen,visa required
 Vanuatu,Zambia,90
@@ -38599,7 +38599,7 @@ Vatican,Uruguay,90
 Vatican,Uzbekistan,30
 Vatican,Vanuatu,120
 Vatican,Vatican,-1
-Vatican,Venezuela,visa required
+Vatican,Venezuela,e-visa
 Vatican,Vietnam,e-visa
 Vatican,Yemen,visa required
 Vatican,Zambia,90
@@ -38730,7 +38730,7 @@ Venezuela,Nauru,visa required
 Venezuela,Nepal,visa on arrival
 Venezuela,Netherlands,90
 Venezuela,New Zealand,visa required
-Venezuela,Nicaragua,visa required
+Venezuela,Nicaragua,e-visa
 Venezuela,Niger,visa required
 Venezuela,Nigeria,e-visa
 Venezuela,North Korea,visa required
@@ -38929,7 +38929,7 @@ Vietnam,Nauru,visa required
 Vietnam,Nepal,visa on arrival
 Vietnam,Netherlands,visa required
 Vietnam,New Zealand,visa required
-Vietnam,Nicaragua,visa required
+Vietnam,Nicaragua,e-visa
 Vietnam,Niger,visa required
 Vietnam,Nigeria,e-visa
 Vietnam,North Korea,visa required
@@ -38997,7 +38997,7 @@ Vietnam,Uruguay,visa required
 Vietnam,Uzbekistan,e-visa
 Vietnam,Vanuatu,e-visa
 Vietnam,Vatican,visa required
-Vietnam,Venezuela,visa required
+Vietnam,Venezuela,e-visa
 Vietnam,Vietnam,-1
 Vietnam,Yemen,visa required
 Vietnam,Zambia,e-visa
@@ -39128,7 +39128,7 @@ Yemen,Nauru,visa required
 Yemen,Nepal,visa on arrival
 Yemen,Netherlands,visa required
 Yemen,New Zealand,visa required
-Yemen,Nicaragua,visa required
+Yemen,Nicaragua,e-visa
 Yemen,Niger,visa required
 Yemen,Nigeria,e-visa
 Yemen,North Korea,visa required
@@ -39196,7 +39196,7 @@ Yemen,Uruguay,visa required
 Yemen,Uzbekistan,visa required
 Yemen,Vanuatu,e-visa
 Yemen,Vatican,visa required
-Yemen,Venezuela,visa required
+Yemen,Venezuela,e-visa
 Yemen,Vietnam,e-visa
 Yemen,Yemen,-1
 Yemen,Zambia,e-visa
@@ -39266,7 +39266,7 @@ Zambia,Gabon,e-visa
 Zambia,Gambia,90
 Zambia,Georgia,e-visa
 Zambia,Germany,visa required
-Zambia,Ghana,visa on arrival
+Zambia,Ghana,30
 Zambia,Greece,visa required
 Zambia,Grenada,90
 Zambia,Guatemala,visa required
@@ -39327,7 +39327,7 @@ Zambia,Nauru,visa required
 Zambia,Nepal,visa on arrival
 Zambia,Netherlands,visa required
 Zambia,New Zealand,visa required
-Zambia,Nicaragua,visa required
+Zambia,Nicaragua,e-visa
 Zambia,Niger,visa required
 Zambia,Nigeria,e-visa
 Zambia,North Korea,visa required
@@ -39395,7 +39395,7 @@ Zambia,Uruguay,visa required
 Zambia,Uzbekistan,visa required
 Zambia,Vanuatu,120
 Zambia,Vatican,visa required
-Zambia,Venezuela,visa required
+Zambia,Venezuela,e-visa
 Zambia,Vietnam,e-visa
 Zambia,Yemen,visa required
 Zambia,Zambia,-1
@@ -39526,7 +39526,7 @@ Zimbabwe,Nauru,visa required
 Zimbabwe,Nepal,visa required
 Zimbabwe,Netherlands,visa required
 Zimbabwe,New Zealand,visa required
-Zimbabwe,Nicaragua,visa required
+Zimbabwe,Nicaragua,e-visa
 Zimbabwe,Niger,visa required
 Zimbabwe,Nigeria,e-visa
 Zimbabwe,North Korea,visa required
@@ -39594,7 +39594,7 @@ Zimbabwe,Uruguay,visa required
 Zimbabwe,Uzbekistan,visa required
 Zimbabwe,Vanuatu,120
 Zimbabwe,Vatican,visa required
-Zimbabwe,Venezuela,visa required
+Zimbabwe,Venezuela,e-visa
 Zimbabwe,Vietnam,e-visa
 Zimbabwe,Yemen,visa required
 Zimbabwe,Zambia,90
