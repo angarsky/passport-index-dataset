@@ -2,7 +2,7 @@ Passport,Destination,Requirement
 AFG,ALB,e-visa
 AFG,DZA,visa required
 AFG,AND,visa required
-AFG,AGO,visa required
+AFG,AGO,e-visa
 AFG,ATG,e-visa
 AFG,ARG,visa required
 AFG,ARM,visa required
@@ -201,7 +201,7 @@ AFG,AFG,-1
 ALB,ALB,-1
 ALB,DZA,visa required
 ALB,AND,90
-ALB,AGO,visa required
+ALB,AGO,e-visa
 ALB,ATG,180
 ALB,ARG,visa required
 ALB,ARM,180
@@ -599,7 +599,7 @@ DZA,AFG,e-visa
 AND,ALB,90
 AND,DZA,visa required
 AND,AND,-1
-AND,AGO,visa required
+AND,AGO,e-visa
 AND,ATG,180
 AND,ARG,90
 AND,ARM,180
@@ -1395,7 +1395,7 @@ ARG,AFG,e-visa
 ARM,ALB,90
 ARM,DZA,visa required
 ARM,AND,visa required
-ARM,AGO,visa required
+ARM,AGO,e-visa
 ARM,ATG,180
 ARM,ARG,90
 ARM,ARM,-1
@@ -1992,7 +1992,7 @@ AUT,AFG,e-visa
 AZE,ALB,90
 AZE,DZA,visa required
 AZE,AND,visa required
-AZE,AGO,visa required
+AZE,AGO,e-visa
 AZE,ATG,180
 AZE,ARG,visa required
 AZE,ARM,180
@@ -2390,7 +2390,7 @@ BHS,AFG,e-visa
 BHR,ALB,e-visa
 BHR,DZA,visa required
 BHR,AND,visa required
-BHR,AGO,visa required
+BHR,AGO,e-visa
 BHR,ATG,e-visa
 BHR,ARG,visa required
 BHR,ARM,180
@@ -2589,7 +2589,7 @@ BHR,AFG,e-visa
 BGD,ALB,e-visa
 BGD,DZA,visa required
 BGD,AND,visa required
-BGD,AGO,visa required
+BGD,AGO,e-visa
 BGD,ATG,e-visa
 BGD,ARG,visa required
 BGD,ARM,visa required
@@ -2662,7 +2662,7 @@ BGD,HND,visa required
 BGD,HKG,e-visa
 BGD,HUN,visa required
 BGD,ISL,visa required
-BGD,IND,visa required
+BGD,IND,e-visa
 BGD,IDN,e-visa
 BGD,IRN,visa required
 BGD,IRQ,no admission
@@ -2987,7 +2987,7 @@ BRB,AFG,e-visa
 BLR,ALB,e-visa
 BLR,DZA,visa required
 BLR,AND,visa required
-BLR,AGO,visa required
+BLR,AGO,e-visa
 BLR,ATG,180
 BLR,ARG,90
 BLR,ARM,180
@@ -3584,7 +3584,7 @@ BLZ,AFG,e-visa
 BEN,ALB,e-visa
 BEN,DZA,visa required
 BEN,AND,visa required
-BEN,AGO,visa required
+BEN,AGO,e-visa
 BEN,ATG,e-visa
 BEN,ARG,visa required
 BEN,ARM,visa required
@@ -3783,7 +3783,7 @@ BEN,AFG,e-visa
 BTN,ALB,e-visa
 BTN,DZA,visa required
 BTN,AND,visa required
-BTN,AGO,visa required
+BTN,AGO,e-visa
 BTN,ATG,e-visa
 BTN,ARG,visa required
 BTN,ARM,e-visa
@@ -3982,7 +3982,7 @@ BTN,AFG,e-visa
 BOL,ALB,e-visa
 BOL,DZA,visa required
 BOL,AND,visa required
-BOL,AGO,visa required
+BOL,AGO,e-visa
 BOL,ATG,90
 BOL,ARG,90
 BOL,ARM,e-visa
@@ -4181,7 +4181,7 @@ BOL,AFG,e-visa
 BIH,ALB,90
 BIH,DZA,visa required
 BIH,AND,90
-BIH,AGO,visa required
+BIH,AGO,e-visa
 BIH,ATG,e-visa
 BIH,ARG,90
 BIH,ARM,visa on arrival
@@ -4778,7 +4778,7 @@ BRA,AFG,e-visa
 BRN,ALB,90
 BRN,DZA,visa required
 BRN,AND,90
-BRN,AGO,visa required
+BRN,AGO,e-visa
 BRN,ATG,180
 BRN,ARG,visa required
 BRN,ARM,e-visa
@@ -5176,7 +5176,7 @@ BGR,AFG,e-visa
 BFA,ALB,e-visa
 BFA,DZA,visa required
 BFA,AND,visa required
-BFA,AGO,visa required
+BFA,AGO,e-visa
 BFA,ATG,e-visa
 BFA,ARG,visa required
 BFA,ARM,visa required
@@ -5375,7 +5375,7 @@ BFA,AFG,e-visa
 BDI,ALB,e-visa
 BDI,DZA,visa required
 BDI,AND,visa required
-BDI,AGO,visa required
+BDI,AGO,e-visa
 BDI,ATG,e-visa
 BDI,ARG,visa required
 BDI,ARM,visa required
@@ -5574,7 +5574,7 @@ BDI,AFG,e-visa
 KHM,ALB,e-visa
 KHM,DZA,visa required
 KHM,AND,visa required
-KHM,AGO,visa required
+KHM,AGO,e-visa
 KHM,ATG,e-visa
 KHM,ARG,visa required
 KHM,ARM,e-visa
@@ -5773,7 +5773,7 @@ KHM,AFG,e-visa
 CMR,ALB,e-visa
 CMR,DZA,visa required
 CMR,AND,visa required
-CMR,AGO,visa required
+CMR,AGO,e-visa
 CMR,ATG,e-visa
 CMR,ARG,visa required
 CMR,ARM,visa required
@@ -6370,7 +6370,7 @@ CPV,AFG,e-visa
 CAF,ALB,e-visa
 CAF,DZA,visa required
 CAF,AND,visa required
-CAF,AGO,visa required
+CAF,AGO,e-visa
 CAF,ATG,e-visa
 CAF,ARG,visa required
 CAF,ARM,visa required
@@ -6569,7 +6569,7 @@ CAF,AFG,e-visa
 TCD,ALB,e-visa
 TCD,DZA,visa required
 TCD,AND,visa required
-TCD,AGO,visa required
+TCD,AGO,e-visa
 TCD,ATG,e-visa
 TCD,ARG,visa required
 TCD,ARM,visa required
@@ -7166,7 +7166,7 @@ CHN,AFG,visa required
 COL,ALB,90
 COL,DZA,visa required
 COL,AND,90
-COL,AGO,visa required
+COL,AGO,e-visa
 COL,ATG,visa free
 COL,ARG,90
 COL,ARM,e-visa
@@ -7365,7 +7365,7 @@ COL,AFG,e-visa
 COM,ALB,e-visa
 COM,DZA,visa required
 COM,AND,visa required
-COM,AGO,visa required
+COM,AGO,e-visa
 COM,ATG,e-visa
 COM,ARG,visa required
 COM,ARM,visa required
@@ -7564,7 +7564,7 @@ COM,AFG,e-visa
 COG,ALB,e-visa
 COG,DZA,visa required
 COG,AND,visa required
-COG,AGO,visa required
+COG,AGO,e-visa
 COG,ATG,e-visa
 COG,ARG,visa required
 COG,ARM,visa required
@@ -7763,7 +7763,7 @@ COG,AFG,e-visa
 COD,ALB,e-visa
 COD,DZA,visa required
 COD,AND,visa required
-COD,AGO,visa required
+COD,AGO,e-visa
 COD,ATG,e-visa
 COD,ARG,visa required
 COD,ARM,visa required
@@ -7962,7 +7962,7 @@ COD,AFG,e-visa
 CRI,ALB,90
 CRI,DZA,visa required
 CRI,AND,90
-CRI,AGO,visa required
+CRI,AGO,e-visa
 CRI,ATG,e-visa
 CRI,ARG,90
 CRI,ARM,e-visa
@@ -8161,7 +8161,7 @@ CRI,AFG,e-visa
 CIV,ALB,e-visa
 CIV,DZA,visa required
 CIV,AND,visa required
-CIV,AGO,visa required
+CIV,AGO,e-visa
 CIV,ATG,e-visa
 CIV,ARG,visa required
 CIV,ARM,visa required
@@ -8559,7 +8559,7 @@ HRV,AFG,e-visa
 CUB,ALB,e-visa
 CUB,DZA,visa required
 CUB,AND,visa required
-CUB,AGO,visa required
+CUB,AGO,e-visa
 CUB,ATG,30
 CUB,ARG,visa required
 CUB,ARM,e-visa
@@ -9355,7 +9355,7 @@ DNK,AFG,e-visa
 DJI,ALB,e-visa
 DJI,DZA,visa required
 DJI,AND,visa required
-DJI,AGO,visa required
+DJI,AGO,e-visa
 DJI,ATG,e-visa
 DJI,ARG,visa required
 DJI,ARM,visa required
@@ -9554,7 +9554,7 @@ DJI,AFG,e-visa
 DMA,ALB,e-visa
 DMA,DZA,visa required
 DMA,AND,90
-DMA,AGO,visa required
+DMA,AGO,e-visa
 DMA,ATG,visa free
 DMA,ARG,90
 DMA,ARM,visa on arrival
@@ -9724,7 +9724,7 @@ DMA,SWE,90
 DMA,CHE,90
 DMA,SYR,e-visa
 DMA,TWN,e-visa
-DMA,TJK,e-visa
+DMA,TJK,30
 DMA,TZA,90
 DMA,THA,visa free
 DMA,TLS,visa on arrival
@@ -9952,7 +9952,7 @@ DOM,AFG,e-visa
 ECU,ALB,e-visa
 ECU,DZA,visa required
 ECU,AND,visa required
-ECU,AGO,visa required
+ECU,AGO,e-visa
 ECU,ATG,90
 ECU,ARG,90
 ECU,ARM,180
@@ -10151,7 +10151,7 @@ ECU,AFG,e-visa
 EGY,ALB,e-visa
 EGY,DZA,visa required
 EGY,AND,visa required
-EGY,AGO,visa required
+EGY,AGO,e-visa
 EGY,ATG,e-visa
 EGY,ARG,visa required
 EGY,ARM,e-visa
@@ -10350,7 +10350,7 @@ EGY,AFG,e-visa
 SLV,ALB,90
 SLV,DZA,visa required
 SLV,AND,90
-SLV,AGO,visa required
+SLV,AGO,e-visa
 SLV,ATG,e-visa
 SLV,ARG,90
 SLV,ARM,e-visa
@@ -10748,7 +10748,7 @@ GNQ,AFG,e-visa
 ERI,ALB,e-visa
 ERI,DZA,visa required
 ERI,AND,visa required
-ERI,AGO,visa required
+ERI,AGO,e-visa
 ERI,ATG,e-visa
 ERI,ARG,visa required
 ERI,ARM,visa required
@@ -11345,7 +11345,7 @@ SWZ,AFG,e-visa
 ETH,ALB,e-visa
 ETH,DZA,visa required
 ETH,AND,visa required
-ETH,AGO,visa required
+ETH,AGO,e-visa
 ETH,ATG,e-visa
 ETH,ARG,visa required
 ETH,ARM,visa required
@@ -12141,7 +12141,7 @@ FRA,AFG,e-visa
 GAB,ALB,e-visa
 GAB,DZA,visa required
 GAB,AND,visa required
-GAB,AGO,visa required
+GAB,AGO,e-visa
 GAB,ATG,e-visa
 GAB,ARG,visa required
 GAB,ARM,visa required
@@ -12340,7 +12340,7 @@ GAB,AFG,e-visa
 GMB,ALB,e-visa
 GMB,DZA,visa required
 GMB,AND,visa required
-GMB,AGO,visa required
+GMB,AGO,e-visa
 GMB,ATG,e-visa
 GMB,ARG,visa required
 GMB,ARM,visa required
@@ -12539,7 +12539,7 @@ GMB,AFG,e-visa
 GEO,ALB,90
 GEO,DZA,visa required
 GEO,AND,90
-GEO,AGO,visa required
+GEO,AGO,e-visa
 GEO,ATG,180
 GEO,ARG,90
 GEO,ARM,90
@@ -12937,7 +12937,7 @@ DEU,AFG,e-visa
 GHA,ALB,e-visa
 GHA,DZA,visa required
 GHA,AND,visa required
-GHA,AGO,visa required
+GHA,AGO,e-visa
 GHA,ATG,e-visa
 GHA,ARG,visa required
 GHA,ARM,visa required
@@ -13534,7 +13534,7 @@ GRD,AFG,e-visa
 GTM,ALB,90
 GTM,DZA,visa required
 GTM,AND,90
-GTM,AGO,visa required
+GTM,AGO,e-visa
 GTM,ATG,e-visa
 GTM,ARG,90
 GTM,ARM,e-visa
@@ -13733,7 +13733,7 @@ GTM,AFG,e-visa
 GIN,ALB,e-visa
 GIN,DZA,visa required
 GIN,AND,visa required
-GIN,AGO,visa required
+GIN,AGO,e-visa
 GIN,ATG,e-visa
 GIN,ARG,visa required
 GIN,ARM,visa required
@@ -13932,7 +13932,7 @@ GIN,AFG,e-visa
 GNB,ALB,e-visa
 GNB,DZA,visa required
 GNB,AND,visa required
-GNB,AGO,visa required
+GNB,AGO,e-visa
 GNB,ATG,e-visa
 GNB,ARG,visa required
 GNB,ARM,visa required
@@ -14529,7 +14529,7 @@ HTI,AFG,e-visa
 HND,ALB,90
 HND,DZA,visa required
 HND,AND,90
-HND,AGO,visa required
+HND,AGO,e-visa
 HND,ATG,e-visa
 HND,ARG,90
 HND,ARM,e-visa
@@ -15723,7 +15723,7 @@ IDN,AFG,visa required
 IRN,ALB,e-visa
 IRN,DZA,visa required
 IRN,AND,visa required
-IRN,AGO,visa required
+IRN,AGO,e-visa
 IRN,ATG,e-visa
 IRN,ARG,visa required
 IRN,ARM,90
@@ -15922,7 +15922,7 @@ IRN,AFG,visa required
 IRQ,ALB,e-visa
 IRQ,DZA,visa required
 IRQ,AND,visa required
-IRQ,AGO,visa required
+IRQ,AGO,e-visa
 IRQ,ATG,e-visa
 IRQ,ARG,visa required
 IRQ,ARM,e-visa
@@ -17116,7 +17116,7 @@ JPN,AFG,e-visa
 JOR,ALB,e-visa
 JOR,DZA,visa required
 JOR,AND,visa required
-JOR,AGO,visa required
+JOR,AGO,e-visa
 JOR,ATG,e-visa
 JOR,ARG,visa required
 JOR,ARM,visa on arrival
@@ -17315,7 +17315,7 @@ JOR,AFG,e-visa
 KAZ,ALB,90
 KAZ,DZA,visa required
 KAZ,AND,visa required
-KAZ,AGO,visa required
+KAZ,AGO,e-visa
 KAZ,ATG,180
 KAZ,ARG,90
 KAZ,ARM,180
@@ -17514,7 +17514,7 @@ KAZ,AFG,visa required
 KEN,ALB,e-visa
 KEN,DZA,visa required
 KEN,AND,visa required
-KEN,AGO,visa required
+KEN,AGO,e-visa
 KEN,ATG,180
 KEN,ARG,visa required
 KEN,ARM,visa required
@@ -17912,7 +17912,7 @@ KIR,AFG,e-visa
 XKX,ALB,90
 XKX,DZA,visa required
 XKX,AND,90
-XKX,AGO,visa required
+XKX,AGO,e-visa
 XKX,ATG,90
 XKX,ARG,visa required
 XKX,ARM,no admission
@@ -18111,7 +18111,7 @@ XKX,AFG,e-visa
 KWT,ALB,90
 KWT,DZA,visa required
 KWT,AND,visa required
-KWT,AGO,visa required
+KWT,AGO,e-visa
 KWT,ATG,e-visa
 KWT,ARG,visa required
 KWT,ARM,180
@@ -18310,7 +18310,7 @@ KWT,AFG,e-visa
 KGZ,ALB,e-visa
 KGZ,DZA,visa required
 KGZ,AND,visa required
-KGZ,AGO,visa required
+KGZ,AGO,e-visa
 KGZ,ATG,180
 KGZ,ARG,visa required
 KGZ,ARM,180
@@ -18509,7 +18509,7 @@ KGZ,AFG,visa required
 LAO,ALB,e-visa
 LAO,DZA,visa required
 LAO,AND,visa required
-LAO,AGO,visa required
+LAO,AGO,e-visa
 LAO,ATG,e-visa
 LAO,ARG,visa required
 LAO,ARM,e-visa
@@ -18907,7 +18907,7 @@ LVA,AFG,e-visa
 LBN,ALB,e-visa
 LBN,DZA,visa required
 LBN,AND,visa required
-LBN,AGO,visa required
+LBN,AGO,e-visa
 LBN,ATG,e-visa
 LBN,ARG,visa required
 LBN,ARM,visa on arrival
@@ -19305,7 +19305,7 @@ LSO,AFG,e-visa
 LBR,ALB,e-visa
 LBR,DZA,visa required
 LBR,AND,visa required
-LBR,AGO,visa required
+LBR,AGO,e-visa
 LBR,ATG,e-visa
 LBR,ARG,visa required
 LBR,ARM,visa required
@@ -19504,7 +19504,7 @@ LBR,AFG,e-visa
 LBY,ALB,e-visa
 LBY,DZA,90
 LBY,AND,visa required
-LBY,AGO,visa required
+LBY,AGO,e-visa
 LBY,ATG,e-visa
 LBY,ARG,visa required
 LBY,ARM,visa required
@@ -19703,7 +19703,7 @@ LBY,AFG,e-visa
 LIE,ALB,90
 LIE,DZA,visa required
 LIE,AND,visa free
-LIE,AGO,visa required
+LIE,AGO,e-visa
 LIE,ATG,180
 LIE,ARG,90
 LIE,ARM,180
@@ -20300,7 +20300,7 @@ LUX,AFG,e-visa
 MAC,ALB,90
 MAC,DZA,visa required
 MAC,AND,90
-MAC,AGO,visa required
+MAC,AGO,e-visa
 MAC,ATG,30
 MAC,ARG,90
 MAC,ARM,90
@@ -20447,7 +20447,7 @@ MAC,KNA,e-visa
 MAC,LCA,visa on arrival
 MAC,WSM,30
 MAC,SMR,90
-MAC,STP,e-visa
+MAC,STP,visa free
 MAC,SAU,visa on arrival
 MAC,SEN,visa required
 MAC,SRB,90
@@ -20897,7 +20897,7 @@ MWI,AFG,e-visa
 MYS,ALB,90
 MYS,DZA,90
 MYS,AND,90
-MYS,AGO,visa required
+MYS,AGO,e-visa
 MYS,ATG,180
 MYS,ARG,30
 MYS,ARM,e-visa
@@ -21096,7 +21096,7 @@ MYS,AFG,visa required
 MDV,ALB,e-visa
 MDV,DZA,visa required
 MDV,AND,visa required
-MDV,AGO,visa required
+MDV,AGO,e-visa
 MDV,ATG,180
 MDV,ARG,visa required
 MDV,ARM,e-visa
@@ -21295,7 +21295,7 @@ MDV,AFG,e-visa
 MLI,ALB,e-visa
 MLI,DZA,90
 MLI,AND,visa required
-MLI,AGO,visa required
+MLI,AGO,e-visa
 MLI,ATG,e-visa
 MLI,ARG,visa required
 MLI,ARM,visa required
@@ -21409,7 +21409,7 @@ MLI,MDA,e-visa
 MLI,MCO,visa required
 MLI,MNG,visa required
 MLI,MNE,visa required
-MLI,MAR,e-visa
+MLI,MAR,90
 MLI,MOZ,visa on arrival
 MLI,MMR,visa required
 MLI,NAM,e-visa
@@ -21892,7 +21892,7 @@ MHL,AFG,e-visa
 MRT,ALB,e-visa
 MRT,DZA,90
 MRT,AND,visa required
-MRT,AGO,visa required
+MRT,AGO,e-visa
 MRT,ATG,e-visa
 MRT,ARG,visa required
 MRT,ARM,visa required
@@ -22688,7 +22688,7 @@ FSM,AFG,e-visa
 MDA,ALB,90
 MDA,DZA,visa required
 MDA,AND,90
-MDA,AGO,visa required
+MDA,AGO,e-visa
 MDA,ATG,180
 MDA,ARG,visa required
 MDA,ARM,180
@@ -23086,7 +23086,7 @@ MCO,AFG,e-visa
 MNG,ALB,e-visa
 MNG,DZA,visa required
 MNG,AND,visa required
-MNG,AGO,visa required
+MNG,AGO,e-visa
 MNG,ATG,e-visa
 MNG,ARG,90
 MNG,ARM,e-visa
@@ -23285,7 +23285,7 @@ MNG,AFG,e-visa
 MNE,ALB,90
 MNE,DZA,visa required
 MNE,AND,90
-MNE,AGO,visa required
+MNE,AGO,e-visa
 MNE,ATG,e-visa
 MNE,ARG,90
 MNE,ARM,180
@@ -23882,7 +23882,7 @@ MOZ,AFG,e-visa
 MMR,ALB,e-visa
 MMR,DZA,visa required
 MMR,AND,visa required
-MMR,AGO,visa required
+MMR,AGO,e-visa
 MMR,ATG,e-visa
 MMR,ARG,visa required
 MMR,ARM,e-visa
@@ -24479,7 +24479,7 @@ NRU,AFG,e-visa
 NPL,ALB,e-visa
 NPL,DZA,visa required
 NPL,AND,visa required
-NPL,AGO,visa required
+NPL,AGO,e-visa
 NPL,ATG,e-visa
 NPL,ARG,visa required
 NPL,ARM,visa required
@@ -25076,7 +25076,7 @@ NZL,AFG,e-visa
 NIC,ALB,90
 NIC,DZA,visa required
 NIC,AND,90
-NIC,AGO,visa required
+NIC,AGO,e-visa
 NIC,ATG,e-visa
 NIC,ARG,90
 NIC,ARM,e-visa
@@ -25153,7 +25153,7 @@ NIC,IND,e-visa
 NIC,IDN,e-visa
 NIC,IRN,visa on arrival
 NIC,IRQ,e-visa
-NIC,IRL,90
+NIC,IRL,visa required
 NIC,ISR,e-visa
 NIC,ITA,90
 NIC,JAM,visa required
@@ -25275,7 +25275,7 @@ NIC,AFG,e-visa
 NER,ALB,e-visa
 NER,DZA,visa required
 NER,AND,visa required
-NER,AGO,visa required
+NER,AGO,e-visa
 NER,ATG,e-visa
 NER,ARG,visa required
 NER,ARM,visa required
@@ -25474,7 +25474,7 @@ NER,AFG,e-visa
 NGA,ALB,e-visa
 NGA,DZA,visa required
 NGA,AND,visa required
-NGA,AGO,visa required
+NGA,AGO,e-visa
 NGA,ATG,e-visa
 NGA,ARG,visa required
 NGA,ARM,visa required
@@ -25673,7 +25673,7 @@ NGA,AFG,e-visa
 PRK,ALB,e-visa
 PRK,DZA,visa required
 PRK,AND,visa required
-PRK,AGO,visa required
+PRK,AGO,e-visa
 PRK,ATG,e-visa
 PRK,ARG,visa required
 PRK,ARM,visa on arrival
@@ -25872,7 +25872,7 @@ PRK,AFG,e-visa
 MKD,ALB,90
 MKD,DZA,visa required
 MKD,AND,90
-MKD,AGO,visa required
+MKD,AGO,e-visa
 MKD,ATG,180
 MKD,ARG,90
 MKD,ARM,visa on arrival
@@ -26270,7 +26270,7 @@ NOR,AFG,e-visa
 OMN,ALB,e-visa
 OMN,DZA,visa required
 OMN,AND,visa required
-OMN,AGO,visa required
+OMN,AGO,e-visa
 OMN,ATG,e-visa
 OMN,ARG,visa required
 OMN,ARM,180
@@ -26469,7 +26469,7 @@ OMN,AFG,visa required
 PAK,ALB,e-visa
 PAK,DZA,visa required
 PAK,AND,visa required
-PAK,AGO,visa required
+PAK,AGO,e-visa
 PAK,ATG,e-visa
 PAK,ARG,visa required
 PAK,ARM,visa required
@@ -26867,7 +26867,7 @@ PLW,AFG,e-visa
 PSE,ALB,e-visa
 PSE,DZA,visa required
 PSE,AND,visa required
-PSE,AGO,visa required
+PSE,AGO,e-visa
 PSE,ATG,e-visa
 PSE,ARG,visa required
 PSE,ARM,visa required
@@ -27464,7 +27464,7 @@ PNG,AFG,e-visa
 PRY,ALB,90
 PRY,DZA,visa required
 PRY,AND,90
-PRY,AGO,visa required
+PRY,AGO,e-visa
 PRY,ATG,e-visa
 PRY,ARG,90
 PRY,ARM,e-visa
@@ -27663,7 +27663,7 @@ PRY,AFG,e-visa
 PER,ALB,90
 PER,DZA,visa required
 PER,AND,90
-PER,AGO,visa required
+PER,AGO,e-visa
 PER,ATG,180
 PER,ARG,90
 PER,ARM,visa on arrival
@@ -27862,7 +27862,7 @@ PER,AFG,e-visa
 PHL,ALB,e-visa
 PHL,DZA,visa required
 PHL,AND,visa required
-PHL,AGO,visa required
+PHL,AGO,30
 PHL,ATG,e-visa
 PHL,ARG,visa required
 PHL,ARM,e-visa
@@ -29332,7 +29332,7 @@ KNA,IND,e-visa
 KNA,IDN,e-visa
 KNA,IRN,visa on arrival
 KNA,IRQ,e-visa
-KNA,IRL,90
+KNA,IRL,visa required
 KNA,ISR,e-visa
 KNA,ITA,90
 KNA,JAM,visa free
@@ -29531,7 +29531,7 @@ LCA,IND,e-visa
 LCA,IDN,e-visa
 LCA,IRN,visa on arrival
 LCA,IRQ,e-visa
-LCA,IRL,90
+LCA,IRL,visa required
 LCA,ISR,e-visa
 LCA,ITA,90
 LCA,JAM,visa free
@@ -29653,7 +29653,7 @@ LCA,AFG,e-visa
 WSM,ALB,e-visa
 WSM,DZA,visa required
 WSM,AND,90
-WSM,AGO,visa required
+WSM,AGO,e-visa
 WSM,ATG,180
 WSM,ARG,visa required
 WSM,ARM,e-visa
@@ -29852,7 +29852,7 @@ WSM,AFG,e-visa
 SMR,ALB,90
 SMR,DZA,visa required
 SMR,AND,90
-SMR,AGO,visa required
+SMR,AGO,e-visa
 SMR,ATG,180
 SMR,ARG,90
 SMR,ARM,180
@@ -30449,7 +30449,7 @@ SAU,AFG,visa required
 SEN,ALB,e-visa
 SEN,DZA,visa required
 SEN,AND,visa required
-SEN,AGO,visa required
+SEN,AGO,e-visa
 SEN,ATG,e-visa
 SEN,ARG,visa required
 SEN,ARM,visa required
@@ -30648,7 +30648,7 @@ SEN,AFG,e-visa
 SRB,ALB,90
 SRB,DZA,visa required
 SRB,AND,90
-SRB,AGO,visa required
+SRB,AGO,e-visa
 SRB,ATG,180
 SRB,ARG,90
 SRB,ARM,180
@@ -31046,7 +31046,7 @@ SYC,AFG,e-visa
 SLE,ALB,e-visa
 SLE,DZA,visa required
 SLE,AND,visa required
-SLE,AGO,visa required
+SLE,AGO,e-visa
 SLE,ATG,e-visa
 SLE,ARG,visa required
 SLE,ARM,visa required
@@ -32041,7 +32041,7 @@ SLB,AFG,e-visa
 SOM,ALB,e-visa
 SOM,DZA,visa required
 SOM,AND,visa required
-SOM,AGO,visa required
+SOM,AGO,e-visa
 SOM,ATG,e-visa
 SOM,ARG,visa required
 SOM,ARM,visa required
@@ -32638,7 +32638,7 @@ KOR,AFG,e-visa
 SSD,ALB,e-visa
 SSD,DZA,visa required
 SSD,AND,visa required
-SSD,AGO,visa required
+SSD,AGO,e-visa
 SSD,ATG,e-visa
 SSD,ARG,visa required
 SSD,ARM,visa required
@@ -33036,7 +33036,7 @@ ESP,AFG,e-visa
 LKA,ALB,e-visa
 LKA,DZA,visa required
 LKA,AND,visa required
-LKA,AGO,visa required
+LKA,AGO,e-visa
 LKA,ATG,e-visa
 LKA,ARG,visa required
 LKA,ARM,visa required
@@ -33434,7 +33434,7 @@ VCT,AFG,e-visa
 SDN,ALB,e-visa
 SDN,DZA,visa required
 SDN,AND,visa required
-SDN,AGO,visa required
+SDN,AGO,e-visa
 SDN,ATG,e-visa
 SDN,ARG,visa required
 SDN,ARM,visa required
@@ -34230,7 +34230,7 @@ CHE,AFG,e-visa
 SYR,ALB,e-visa
 SYR,DZA,visa required
 SYR,AND,visa required
-SYR,AGO,visa required
+SYR,AGO,e-visa
 SYR,ATG,e-visa
 SYR,ARG,visa required
 SYR,ARM,visa required
@@ -34429,7 +34429,7 @@ SYR,AFG,e-visa
 TWN,ALB,90
 TWN,DZA,visa required
 TWN,AND,90
-TWN,AGO,visa required
+TWN,AGO,e-visa
 TWN,ATG,30
 TWN,ARG,visa required
 TWN,ARM,e-visa
@@ -34576,7 +34576,7 @@ TWN,KNA,e-visa
 TWN,LCA,42
 TWN,WSM,visa on arrival
 TWN,SMR,90
-TWN,STP,e-visa
+TWN,STP,visa free
 TWN,SAU,visa on arrival
 TWN,SEN,visa required
 TWN,SRB,visa required
@@ -34628,7 +34628,7 @@ TWN,AFG,e-visa
 TJK,ALB,e-visa
 TJK,DZA,visa required
 TJK,AND,visa required
-TJK,AGO,visa required
+TJK,AGO,e-visa
 TJK,ATG,180
 TJK,ARG,visa required
 TJK,ARM,180
@@ -35026,7 +35026,7 @@ TZA,AFG,e-visa
 THA,ALB,e-visa
 THA,DZA,visa required
 THA,AND,visa required
-THA,AGO,visa required
+THA,AGO,e-visa
 THA,ATG,e-visa
 THA,ARG,90
 THA,ARM,visa on arrival
@@ -35424,7 +35424,7 @@ TLS,AFG,e-visa
 TGO,ALB,e-visa
 TGO,DZA,visa required
 TGO,AND,visa required
-TGO,AGO,visa required
+TGO,AGO,e-visa
 TGO,ATG,e-visa
 TGO,ARG,visa required
 TGO,ARM,visa required
@@ -36021,7 +36021,7 @@ TTO,AFG,e-visa
 TUN,ALB,e-visa
 TUN,DZA,90
 TUN,AND,visa required
-TUN,AGO,visa required
+TUN,AGO,e-visa
 TUN,ATG,e-visa
 TUN,ARG,visa required
 TUN,ARM,e-visa
@@ -36419,7 +36419,7 @@ TUR,AFG,visa required
 TKM,ALB,e-visa
 TKM,DZA,visa required
 TKM,AND,visa required
-TKM,AGO,visa required
+TKM,AGO,e-visa
 TKM,ATG,180
 TKM,ARG,visa required
 TKM,ARM,e-visa
@@ -36817,7 +36817,7 @@ TUV,AFG,e-visa
 UGA,ALB,e-visa
 UGA,DZA,visa required
 UGA,AND,visa required
-UGA,AGO,visa required
+UGA,AGO,e-visa
 UGA,ATG,180
 UGA,ARG,visa required
 UGA,ARM,visa required
@@ -37016,7 +37016,7 @@ UGA,AFG,e-visa
 UKR,ALB,90
 UKR,DZA,visa required
 UKR,AND,90
-UKR,AGO,visa required
+UKR,AGO,e-visa
 UKR,ATG,180
 UKR,ARG,90
 UKR,ARM,180
@@ -37635,14 +37635,14 @@ USA,BWA,90
 USA,BRA,e-visa
 USA,BRN,90
 USA,BGR,90
-USA,BFA,e-visa
+USA,BFA,no admission
 USA,BDI,visa on arrival
 USA,KHM,visa on arrival
 USA,CMR,e-visa
 USA,CAN,180
 USA,CPV,30
 USA,CAF,visa required
-USA,TCD,e-visa
+USA,TCD,no admission
 USA,CHL,90
 USA,CHN,visa required
 USA,COL,90
@@ -37670,7 +37670,7 @@ USA,ETH,visa on arrival
 USA,FJI,120
 USA,FIN,90
 USA,FRA,90
-USA,GAB,e-visa
+USA,GAB,no admission
 USA,GMB,visa on arrival
 USA,GEO,360
 USA,DEU,90
@@ -38011,7 +38011,7 @@ URY,AFG,e-visa
 UZB,ALB,e-visa
 UZB,DZA,visa required
 UZB,AND,visa required
-UZB,AGO,visa required
+UZB,AGO,e-visa
 UZB,ATG,180
 UZB,ARG,visa required
 UZB,ARM,180
@@ -38608,7 +38608,7 @@ VAT,AFG,e-visa
 VEN,ALB,90
 VEN,DZA,visa required
 VEN,AND,90
-VEN,AGO,visa required
+VEN,AGO,e-visa
 VEN,ATG,180
 VEN,ARG,90
 VEN,ARM,e-visa
@@ -38807,7 +38807,7 @@ VEN,AFG,e-visa
 VNM,ALB,e-visa
 VNM,DZA,visa required
 VNM,AND,visa required
-VNM,AGO,visa required
+VNM,AGO,e-visa
 VNM,ATG,e-visa
 VNM,ARG,visa required
 VNM,ARM,e-visa
@@ -39006,7 +39006,7 @@ VNM,AFG,e-visa
 YEM,ALB,e-visa
 YEM,DZA,visa required
 YEM,AND,visa required
-YEM,AGO,visa required
+YEM,AGO,e-visa
 YEM,ATG,e-visa
 YEM,ARG,visa required
 YEM,ARM,visa required
