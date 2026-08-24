@@ -32,7 +32,7 @@ Afghanistan,Canada,visa required
 Afghanistan,Cape Verde,visa required
 Afghanistan,Central African Republic,visa required
 Afghanistan,Chad,e-visa
-Afghanistan,Chile,visa required
+Afghanistan,Chile,e-visa
 Afghanistan,China,visa required
 Afghanistan,Colombia,e-visa
 Afghanistan,Comoros,visa on arrival
@@ -276,7 +276,7 @@ Albania,Hungary,90
 Albania,Iceland,90
 Albania,India,e-visa
 Albania,Indonesia,visa on arrival
-Albania,Iran,visa on arrival
+Albania,Iran,e-visa
 Albania,Iraq,e-visa
 Albania,Ireland,visa required
 Albania,Israel,e-visa
@@ -363,7 +363,7 @@ Albania,South Africa,e-visa
 Albania,South Korea,e-visa
 Albania,South Sudan,e-visa
 Albania,Spain,90
-Albania,Sri Lanka,visa on arrival
+Albania,Sri Lanka,e-visa
 Albania,Saint Vincent and the Grenadines,90
 Albania,Sudan,visa required
 Albania,Suriname,visa required
@@ -430,7 +430,7 @@ Algeria,Canada,visa required
 Algeria,Cape Verde,visa required
 Algeria,Central African Republic,visa required
 Algeria,Chad,e-visa
-Algeria,Chile,visa required
+Algeria,Chile,e-visa
 Algeria,China,visa required
 Algeria,Colombia,e-visa
 Algeria,Comoros,visa on arrival
@@ -475,7 +475,7 @@ Algeria,Hungary,visa required
 Algeria,Iceland,visa required
 Algeria,India,visa required
 Algeria,Indonesia,e-visa
-Algeria,Iran,visa on arrival
+Algeria,Iran,e-visa
 Algeria,Iraq,e-visa
 Algeria,Ireland,visa required
 Algeria,Israel,e-visa
@@ -491,7 +491,7 @@ Algeria,Kuwait,visa required
 Algeria,Kyrgyzstan,e-visa
 Algeria,Laos,visa required
 Algeria,Latvia,visa required
-Algeria,Lebanon,visa on arrival
+Algeria,Lebanon,visa required
 Algeria,Lesotho,visa required
 Algeria,Liberia,e-visa
 Algeria,Libya,visa free
@@ -562,7 +562,7 @@ Algeria,South Africa,e-visa
 Algeria,South Korea,e-visa
 Algeria,South Sudan,e-visa
 Algeria,Spain,visa required
-Algeria,Sri Lanka,visa on arrival
+Algeria,Sri Lanka,e-visa
 Algeria,Saint Vincent and the Grenadines,90
 Algeria,Sudan,visa required
 Algeria,Suriname,visa required
@@ -674,7 +674,7 @@ Andorra,Hungary,90
 Andorra,Iceland,90
 Andorra,India,e-visa
 Andorra,Indonesia,visa on arrival
-Andorra,Iran,visa on arrival
+Andorra,Iran,e-visa
 Andorra,Iraq,e-visa
 Andorra,Ireland,90
 Andorra,Israel,e-visa
@@ -761,7 +761,7 @@ Andorra,South Africa,90
 Andorra,South Korea,e-visa
 Andorra,South Sudan,e-visa
 Andorra,Spain,90
-Andorra,Sri Lanka,visa on arrival
+Andorra,Sri Lanka,e-visa
 Andorra,Saint Vincent and the Grenadines,90
 Andorra,Sudan,visa required
 Andorra,Suriname,visa required
@@ -828,7 +828,7 @@ Angola,Canada,visa required
 Angola,Cape Verde,visa free
 Angola,Central African Republic,visa required
 Angola,Chad,e-visa
-Angola,Chile,visa required
+Angola,Chile,e-visa
 Angola,China,visa required
 Angola,Colombia,e-visa
 Angola,Comoros,visa on arrival
@@ -873,7 +873,7 @@ Angola,Hungary,visa required
 Angola,Iceland,visa required
 Angola,India,e-visa
 Angola,Indonesia,e-visa
-Angola,Iran,visa on arrival
+Angola,Iran,e-visa
 Angola,Iraq,e-visa
 Angola,Ireland,visa required
 Angola,Israel,e-visa
@@ -960,7 +960,7 @@ Angola,South Africa,30
 Angola,South Korea,e-visa
 Angola,South Sudan,e-visa
 Angola,Spain,visa required
-Angola,Sri Lanka,visa on arrival
+Angola,Sri Lanka,e-visa
 Angola,Saint Vincent and the Grenadines,90
 Angola,Sudan,visa required
 Angola,Suriname,e-visa
@@ -1072,7 +1072,7 @@ Antigua and Barbuda,Hungary,90
 Antigua and Barbuda,Iceland,90
 Antigua and Barbuda,India,e-visa
 Antigua and Barbuda,Indonesia,e-visa
-Antigua and Barbuda,Iran,visa on arrival
+Antigua and Barbuda,Iran,e-visa
 Antigua and Barbuda,Iraq,e-visa
 Antigua and Barbuda,Ireland,90
 Antigua and Barbuda,Israel,e-visa
@@ -1159,7 +1159,7 @@ Antigua and Barbuda,South Africa,30
 Antigua and Barbuda,South Korea,e-visa
 Antigua and Barbuda,South Sudan,e-visa
 Antigua and Barbuda,Spain,90
-Antigua and Barbuda,Sri Lanka,visa on arrival
+Antigua and Barbuda,Sri Lanka,e-visa
 Antigua and Barbuda,Saint Vincent and the Grenadines,visa free
 Antigua and Barbuda,Sudan,visa required
 Antigua and Barbuda,Suriname,180
@@ -1271,7 +1271,7 @@ Argentina,Hungary,90
 Argentina,Iceland,90
 Argentina,India,e-visa
 Argentina,Indonesia,visa on arrival
-Argentina,Iran,visa on arrival
+Argentina,Iran,e-visa
 Argentina,Iraq,e-visa
 Argentina,Ireland,90
 Argentina,Israel,e-visa
@@ -1358,7 +1358,7 @@ Argentina,South Africa,90
 Argentina,South Korea,e-visa
 Argentina,South Sudan,e-visa
 Argentina,Spain,90
-Argentina,Sri Lanka,visa on arrival
+Argentina,Sri Lanka,e-visa
 Argentina,Saint Vincent and the Grenadines,90
 Argentina,Sudan,visa required
 Argentina,Suriname,180
@@ -1425,7 +1425,7 @@ Armenia,Canada,visa required
 Armenia,Cape Verde,visa required
 Armenia,Central African Republic,visa required
 Armenia,Chad,e-visa
-Armenia,Chile,visa required
+Armenia,Chile,e-visa
 Armenia,China,90
 Armenia,Colombia,e-visa
 Armenia,Comoros,visa on arrival
@@ -1557,7 +1557,7 @@ Armenia,South Africa,visa required
 Armenia,South Korea,e-visa
 Armenia,South Sudan,e-visa
 Armenia,Spain,visa required
-Armenia,Sri Lanka,visa on arrival
+Armenia,Sri Lanka,e-visa
 Armenia,Saint Vincent and the Grenadines,90
 Armenia,Sudan,visa required
 Armenia,Suriname,visa required
@@ -1669,7 +1669,7 @@ Australia,Hungary,90
 Australia,Iceland,90
 Australia,India,e-visa
 Australia,Indonesia,visa on arrival
-Australia,Iran,visa on arrival
+Australia,Iran,e-visa
 Australia,Iraq,e-visa
 Australia,Ireland,90
 Australia,Israel,e-visa
@@ -1756,7 +1756,7 @@ Australia,South Africa,90
 Australia,South Korea,90
 Australia,South Sudan,e-visa
 Australia,Spain,90
-Australia,Sri Lanka,visa on arrival
+Australia,Sri Lanka,e-visa
 Australia,Saint Vincent and the Grenadines,90
 Australia,Sudan,visa required
 Australia,Suriname,visa required
@@ -1868,7 +1868,7 @@ Austria,Hungary,visa free
 Austria,Iceland,visa free
 Austria,India,e-visa
 Austria,Indonesia,visa on arrival
-Austria,Iran,visa on arrival
+Austria,Iran,e-visa
 Austria,Iraq,e-visa
 Austria,Ireland,visa free
 Austria,Israel,e-visa
@@ -1881,7 +1881,7 @@ Austria,Kenya,e-visa
 Austria,Kiribati,90
 Austria,Kosovo,90
 Austria,Kuwait,visa on arrival
-Austria,Kyrgyzstan,60
+Austria,Kyrgyzstan,30
 Austria,Laos,visa on arrival
 Austria,Latvia,visa free
 Austria,Lebanon,visa on arrival
@@ -1955,7 +1955,7 @@ Austria,South Africa,90
 Austria,South Korea,90
 Austria,South Sudan,e-visa
 Austria,Spain,visa free
-Austria,Sri Lanka,visa on arrival
+Austria,Sri Lanka,e-visa
 Austria,Saint Vincent and the Grenadines,90
 Austria,Sudan,visa required
 Austria,Suriname,visa required
@@ -2022,7 +2022,7 @@ Azerbaijan,Canada,visa required
 Azerbaijan,Cape Verde,visa required
 Azerbaijan,Central African Republic,visa required
 Azerbaijan,Chad,e-visa
-Azerbaijan,Chile,visa required
+Azerbaijan,Chile,e-visa
 Azerbaijan,China,30
 Azerbaijan,Colombia,90
 Azerbaijan,Comoros,visa on arrival
@@ -2154,7 +2154,7 @@ Azerbaijan,South Africa,visa required
 Azerbaijan,South Korea,e-visa
 Azerbaijan,South Sudan,e-visa
 Azerbaijan,Spain,visa required
-Azerbaijan,Sri Lanka,visa on arrival
+Azerbaijan,Sri Lanka,e-visa
 Azerbaijan,Saint Vincent and the Grenadines,90
 Azerbaijan,Sudan,visa required
 Azerbaijan,Suriname,visa required
@@ -2266,7 +2266,7 @@ Bahamas,Hungary,90
 Bahamas,Iceland,90
 Bahamas,India,e-visa
 Bahamas,Indonesia,e-visa
-Bahamas,Iran,visa on arrival
+Bahamas,Iran,e-visa
 Bahamas,Iraq,e-visa
 Bahamas,Ireland,90
 Bahamas,Israel,e-visa
@@ -2353,7 +2353,7 @@ Bahamas,South Africa,30
 Bahamas,South Korea,e-visa
 Bahamas,South Sudan,e-visa
 Bahamas,Spain,90
-Bahamas,Sri Lanka,visa on arrival
+Bahamas,Sri Lanka,e-visa
 Bahamas,Saint Vincent and the Grenadines,180
 Bahamas,Sudan,visa required
 Bahamas,Suriname,180
@@ -2420,7 +2420,7 @@ Bahrain,Canada,visa required
 Bahrain,Cape Verde,visa required
 Bahrain,Central African Republic,visa required
 Bahrain,Chad,e-visa
-Bahrain,Chile,visa required
+Bahrain,Chile,e-visa
 Bahrain,China,30
 Bahrain,Colombia,e-visa
 Bahrain,Comoros,visa on arrival
@@ -2552,7 +2552,7 @@ Bahrain,South Africa,visa required
 Bahrain,South Korea,30
 Bahrain,South Sudan,e-visa
 Bahrain,Spain,visa required
-Bahrain,Sri Lanka,visa on arrival
+Bahrain,Sri Lanka,e-visa
 Bahrain,Saint Vincent and the Grenadines,90
 Bahrain,Sudan,visa required
 Bahrain,Suriname,visa required
@@ -2619,7 +2619,7 @@ Bangladesh,Canada,visa required
 Bangladesh,Cape Verde,visa required
 Bangladesh,Central African Republic,visa required
 Bangladesh,Chad,e-visa
-Bangladesh,Chile,visa required
+Bangladesh,Chile,e-visa
 Bangladesh,China,visa required
 Bangladesh,Colombia,e-visa
 Bangladesh,Comoros,visa on arrival
@@ -2751,7 +2751,7 @@ Bangladesh,South Africa,visa required
 Bangladesh,South Korea,e-visa
 Bangladesh,South Sudan,e-visa
 Bangladesh,Spain,visa required
-Bangladesh,Sri Lanka,visa on arrival
+Bangladesh,Sri Lanka,e-visa
 Bangladesh,Saint Vincent and the Grenadines,90
 Bangladesh,Sudan,visa required
 Bangladesh,Suriname,e-visa
@@ -2863,7 +2863,7 @@ Barbados,Hungary,90
 Barbados,Iceland,90
 Barbados,India,e-visa
 Barbados,Indonesia,e-visa
-Barbados,Iran,visa on arrival
+Barbados,Iran,e-visa
 Barbados,Iraq,e-visa
 Barbados,Ireland,90
 Barbados,Israel,e-visa
@@ -2950,7 +2950,7 @@ Barbados,South Africa,30
 Barbados,South Korea,e-visa
 Barbados,South Sudan,e-visa
 Barbados,Spain,90
-Barbados,Sri Lanka,visa on arrival
+Barbados,Sri Lanka,e-visa
 Barbados,Saint Vincent and the Grenadines,180
 Barbados,Sudan,visa required
 Barbados,Suriname,180
@@ -3017,7 +3017,7 @@ Belarus,Canada,visa required
 Belarus,Cape Verde,visa required
 Belarus,Central African Republic,visa required
 Belarus,Chad,e-visa
-Belarus,Chile,visa required
+Belarus,Chile,e-visa
 Belarus,China,30
 Belarus,Colombia,90
 Belarus,Comoros,visa on arrival
@@ -3061,7 +3061,7 @@ Belarus,Hong Kong,30
 Belarus,Hungary,visa required
 Belarus,Iceland,visa required
 Belarus,India,e-visa
-Belarus,Indonesia,visa on arrival
+Belarus,Indonesia,30
 Belarus,Iran,15
 Belarus,Iraq,e-visa
 Belarus,Ireland,visa required
@@ -3103,7 +3103,7 @@ Belarus,Mongolia,90
 Belarus,Montenegro,30
 Belarus,Morocco,visa required
 Belarus,Mozambique,visa on arrival
-Belarus,Myanmar,e-visa
+Belarus,Myanmar,30
 Belarus,Namibia,visa on arrival
 Belarus,Nauru,visa required
 Belarus,Nepal,visa on arrival
@@ -3149,7 +3149,7 @@ Belarus,South Africa,e-visa
 Belarus,South Korea,e-visa
 Belarus,South Sudan,e-visa
 Belarus,Spain,visa required
-Belarus,Sri Lanka,visa on arrival
+Belarus,Sri Lanka,e-visa
 Belarus,Saint Vincent and the Grenadines,90
 Belarus,Sudan,visa required
 Belarus,Suriname,visa required
@@ -3261,7 +3261,7 @@ Belgium,Hungary,visa free
 Belgium,Iceland,visa free
 Belgium,India,e-visa
 Belgium,Indonesia,visa on arrival
-Belgium,Iran,visa on arrival
+Belgium,Iran,e-visa
 Belgium,Iraq,e-visa
 Belgium,Ireland,visa free
 Belgium,Israel,e-visa
@@ -3274,7 +3274,7 @@ Belgium,Kenya,e-visa
 Belgium,Kiribati,90
 Belgium,Kosovo,90
 Belgium,Kuwait,visa on arrival
-Belgium,Kyrgyzstan,60
+Belgium,Kyrgyzstan,30
 Belgium,Laos,visa on arrival
 Belgium,Latvia,visa free
 Belgium,Lebanon,visa on arrival
@@ -3348,7 +3348,7 @@ Belgium,South Africa,90
 Belgium,South Korea,90
 Belgium,South Sudan,e-visa
 Belgium,Spain,visa free
-Belgium,Sri Lanka,visa on arrival
+Belgium,Sri Lanka,e-visa
 Belgium,Saint Vincent and the Grenadines,90
 Belgium,Sudan,visa required
 Belgium,Suriname,visa required
@@ -3460,7 +3460,7 @@ Belize,Hungary,visa required
 Belize,Iceland,visa required
 Belize,India,e-visa
 Belize,Indonesia,e-visa
-Belize,Iran,visa on arrival
+Belize,Iran,e-visa
 Belize,Iraq,e-visa
 Belize,Ireland,90
 Belize,Israel,e-visa
@@ -3547,7 +3547,7 @@ Belize,South Africa,30
 Belize,South Korea,e-visa
 Belize,South Sudan,e-visa
 Belize,Spain,visa required
-Belize,Sri Lanka,visa on arrival
+Belize,Sri Lanka,e-visa
 Belize,Saint Vincent and the Grenadines,180
 Belize,Sudan,visa required
 Belize,Suriname,180
@@ -3614,7 +3614,7 @@ Benin,Canada,visa required
 Benin,Cape Verde,visa free
 Benin,Central African Republic,90
 Benin,Chad,90
-Benin,Chile,visa required
+Benin,Chile,e-visa
 Benin,China,visa required
 Benin,Colombia,e-visa
 Benin,Comoros,visa on arrival
@@ -3645,7 +3645,7 @@ Benin,Gabon,e-visa
 Benin,Gambia,90
 Benin,Georgia,e-visa
 Benin,Germany,visa required
-Benin,Ghana,e-visa
+Benin,Ghana,90
 Benin,Greece,visa required
 Benin,Grenada,visa required
 Benin,Guatemala,visa required
@@ -3659,7 +3659,7 @@ Benin,Hungary,visa required
 Benin,Iceland,visa required
 Benin,India,e-visa
 Benin,Indonesia,e-visa
-Benin,Iran,visa on arrival
+Benin,Iran,e-visa
 Benin,Iraq,e-visa
 Benin,Ireland,visa required
 Benin,Israel,e-visa
@@ -3746,7 +3746,7 @@ Benin,South Africa,30
 Benin,South Korea,e-visa
 Benin,South Sudan,e-visa
 Benin,Spain,visa required
-Benin,Sri Lanka,visa on arrival
+Benin,Sri Lanka,e-visa
 Benin,Saint Vincent and the Grenadines,90
 Benin,Sudan,visa required
 Benin,Suriname,visa required
@@ -3813,7 +3813,7 @@ Bhutan,Canada,visa required
 Bhutan,Cape Verde,visa required
 Bhutan,Central African Republic,visa required
 Bhutan,Chad,e-visa
-Bhutan,Chile,visa required
+Bhutan,Chile,e-visa
 Bhutan,China,visa required
 Bhutan,Colombia,90
 Bhutan,Comoros,visa on arrival
@@ -3858,7 +3858,7 @@ Bhutan,Hungary,visa required
 Bhutan,Iceland,visa required
 Bhutan,India,visa free
 Bhutan,Indonesia,e-visa
-Bhutan,Iran,visa on arrival
+Bhutan,Iran,e-visa
 Bhutan,Iraq,e-visa
 Bhutan,Ireland,visa required
 Bhutan,Israel,e-visa
@@ -3945,7 +3945,7 @@ Bhutan,South Africa,visa required
 Bhutan,South Korea,e-visa
 Bhutan,South Sudan,e-visa
 Bhutan,Spain,visa required
-Bhutan,Sri Lanka,visa on arrival
+Bhutan,Sri Lanka,e-visa
 Bhutan,Saint Vincent and the Grenadines,90
 Bhutan,Sudan,visa required
 Bhutan,Suriname,visa required
@@ -4057,7 +4057,7 @@ Bolivia,Hungary,visa required
 Bolivia,Iceland,visa required
 Bolivia,India,e-visa
 Bolivia,Indonesia,e-visa
-Bolivia,Iran,visa on arrival
+Bolivia,Iran,e-visa
 Bolivia,Iraq,e-visa
 Bolivia,Ireland,visa required
 Bolivia,Israel,e-visa
@@ -4144,7 +4144,7 @@ Bolivia,South Africa,30
 Bolivia,South Korea,e-visa
 Bolivia,South Sudan,e-visa
 Bolivia,Spain,visa required
-Bolivia,Sri Lanka,visa on arrival
+Bolivia,Sri Lanka,e-visa
 Bolivia,Saint Vincent and the Grenadines,90
 Bolivia,Sudan,visa required
 Bolivia,Suriname,visa required
@@ -4187,7 +4187,7 @@ Bosnia and Herzegovina,Argentina,90
 Bosnia and Herzegovina,Armenia,visa on arrival
 Bosnia and Herzegovina,Australia,e-visa
 Bosnia and Herzegovina,Austria,90
-Bosnia and Herzegovina,Azerbaijan,e-visa
+Bosnia and Herzegovina,Azerbaijan,30
 Bosnia and Herzegovina,Bahamas,e-visa
 Bosnia and Herzegovina,Bahrain,e-visa
 Bosnia and Herzegovina,Bangladesh,visa on arrival
@@ -4343,7 +4343,7 @@ Bosnia and Herzegovina,South Africa,visa required
 Bosnia and Herzegovina,South Korea,e-visa
 Bosnia and Herzegovina,South Sudan,e-visa
 Bosnia and Herzegovina,Spain,90
-Bosnia and Herzegovina,Sri Lanka,visa on arrival
+Bosnia and Herzegovina,Sri Lanka,e-visa
 Bosnia and Herzegovina,Saint Vincent and the Grenadines,90
 Bosnia and Herzegovina,Sudan,visa required
 Bosnia and Herzegovina,Suriname,visa required
@@ -4410,7 +4410,7 @@ Botswana,Canada,visa required
 Botswana,Cape Verde,visa required
 Botswana,Central African Republic,visa required
 Botswana,Chad,e-visa
-Botswana,Chile,visa required
+Botswana,Chile,e-visa
 Botswana,China,visa required
 Botswana,Colombia,e-visa
 Botswana,Comoros,visa on arrival
@@ -4455,7 +4455,7 @@ Botswana,Hungary,visa required
 Botswana,Iceland,visa required
 Botswana,India,e-visa
 Botswana,Indonesia,e-visa
-Botswana,Iran,visa on arrival
+Botswana,Iran,e-visa
 Botswana,Iraq,e-visa
 Botswana,Ireland,visa required
 Botswana,Israel,e-visa
@@ -4542,7 +4542,7 @@ Botswana,South Africa,90
 Botswana,South Korea,e-visa
 Botswana,South Sudan,e-visa
 Botswana,Spain,visa required
-Botswana,Sri Lanka,visa on arrival
+Botswana,Sri Lanka,e-visa
 Botswana,Saint Vincent and the Grenadines,90
 Botswana,Sudan,visa required
 Botswana,Suriname,visa required
@@ -4741,7 +4741,7 @@ Brazil,South Africa,90
 Brazil,South Korea,e-visa
 Brazil,South Sudan,e-visa
 Brazil,Spain,90
-Brazil,Sri Lanka,visa on arrival
+Brazil,Sri Lanka,e-visa
 Brazil,Saint Vincent and the Grenadines,90
 Brazil,Sudan,visa required
 Brazil,Suriname,180
@@ -4808,7 +4808,7 @@ Brunei,Canada,e-visa
 Brunei,Cape Verde,visa required
 Brunei,Central African Republic,visa required
 Brunei,Chad,e-visa
-Brunei,Chile,visa required
+Brunei,Chile,e-visa
 Brunei,China,30
 Brunei,Colombia,90
 Brunei,Comoros,visa on arrival
@@ -4940,7 +4940,7 @@ Brunei,South Africa,visa required
 Brunei,South Korea,30
 Brunei,South Sudan,e-visa
 Brunei,Spain,90
-Brunei,Sri Lanka,visa on arrival
+Brunei,Sri Lanka,e-visa
 Brunei,Saint Vincent and the Grenadines,90
 Brunei,Sudan,visa required
 Brunei,Suriname,visa required
@@ -5052,7 +5052,7 @@ Bulgaria,Hungary,visa free
 Bulgaria,Iceland,visa free
 Bulgaria,India,e-visa
 Bulgaria,Indonesia,visa on arrival
-Bulgaria,Iran,visa on arrival
+Bulgaria,Iran,e-visa
 Bulgaria,Iraq,e-visa
 Bulgaria,Ireland,visa free
 Bulgaria,Israel,e-visa
@@ -5065,7 +5065,7 @@ Bulgaria,Kenya,e-visa
 Bulgaria,Kiribati,90
 Bulgaria,Kosovo,90
 Bulgaria,Kuwait,visa on arrival
-Bulgaria,Kyrgyzstan,60
+Bulgaria,Kyrgyzstan,30
 Bulgaria,Laos,visa on arrival
 Bulgaria,Latvia,visa free
 Bulgaria,Lebanon,visa on arrival
@@ -5139,7 +5139,7 @@ Bulgaria,South Africa,90
 Bulgaria,South Korea,90
 Bulgaria,South Sudan,e-visa
 Bulgaria,Spain,visa free
-Bulgaria,Sri Lanka,visa on arrival
+Bulgaria,Sri Lanka,e-visa
 Bulgaria,Saint Vincent and the Grenadines,90
 Bulgaria,Sudan,visa required
 Bulgaria,Suriname,visa required
@@ -5206,7 +5206,7 @@ Burkina Faso,Canada,visa required
 Burkina Faso,Cape Verde,visa free
 Burkina Faso,Central African Republic,90
 Burkina Faso,Chad,90
-Burkina Faso,Chile,visa required
+Burkina Faso,Chile,e-visa
 Burkina Faso,China,visa required
 Burkina Faso,Colombia,e-visa
 Burkina Faso,Comoros,visa on arrival
@@ -5237,7 +5237,7 @@ Burkina Faso,Gabon,e-visa
 Burkina Faso,Gambia,90
 Burkina Faso,Georgia,e-visa
 Burkina Faso,Germany,visa required
-Burkina Faso,Ghana,e-visa
+Burkina Faso,Ghana,90
 Burkina Faso,Greece,visa required
 Burkina Faso,Grenada,visa required
 Burkina Faso,Guatemala,visa required
@@ -5251,7 +5251,7 @@ Burkina Faso,Hungary,visa required
 Burkina Faso,Iceland,visa required
 Burkina Faso,India,visa required
 Burkina Faso,Indonesia,e-visa
-Burkina Faso,Iran,visa on arrival
+Burkina Faso,Iran,e-visa
 Burkina Faso,Iraq,e-visa
 Burkina Faso,Ireland,visa required
 Burkina Faso,Israel,e-visa
@@ -5338,7 +5338,7 @@ Burkina Faso,South Africa,visa required
 Burkina Faso,South Korea,e-visa
 Burkina Faso,South Sudan,e-visa
 Burkina Faso,Spain,visa required
-Burkina Faso,Sri Lanka,visa on arrival
+Burkina Faso,Sri Lanka,e-visa
 Burkina Faso,Saint Vincent and the Grenadines,30
 Burkina Faso,Sudan,visa required
 Burkina Faso,Suriname,visa required
@@ -5405,7 +5405,7 @@ Burundi,Canada,visa required
 Burundi,Cape Verde,visa required
 Burundi,Central African Republic,90
 Burundi,Chad,e-visa
-Burundi,Chile,visa required
+Burundi,Chile,e-visa
 Burundi,China,visa required
 Burundi,Colombia,e-visa
 Burundi,Comoros,visa on arrival
@@ -5450,7 +5450,7 @@ Burundi,Hungary,visa required
 Burundi,Iceland,visa required
 Burundi,India,e-visa
 Burundi,Indonesia,e-visa
-Burundi,Iran,visa on arrival
+Burundi,Iran,e-visa
 Burundi,Iraq,e-visa
 Burundi,Ireland,visa required
 Burundi,Israel,e-visa
@@ -5537,7 +5537,7 @@ Burundi,South Africa,visa required
 Burundi,South Korea,e-visa
 Burundi,South Sudan,visa on arrival
 Burundi,Spain,visa required
-Burundi,Sri Lanka,visa on arrival
+Burundi,Sri Lanka,e-visa
 Burundi,Saint Vincent and the Grenadines,90
 Burundi,Sudan,visa required
 Burundi,Suriname,visa required
@@ -5604,7 +5604,7 @@ Cambodia,Canada,visa required
 Cambodia,Cape Verde,visa required
 Cambodia,Central African Republic,visa required
 Cambodia,Chad,e-visa
-Cambodia,Chile,visa required
+Cambodia,Chile,e-visa
 Cambodia,China,visa required
 Cambodia,Colombia,e-visa
 Cambodia,Comoros,visa on arrival
@@ -5736,7 +5736,7 @@ Cambodia,South Africa,visa required
 Cambodia,South Korea,e-visa
 Cambodia,South Sudan,e-visa
 Cambodia,Spain,visa required
-Cambodia,Sri Lanka,visa on arrival
+Cambodia,Sri Lanka,e-visa
 Cambodia,Saint Vincent and the Grenadines,90
 Cambodia,Sudan,visa required
 Cambodia,Suriname,visa required
@@ -5803,7 +5803,7 @@ Cameroon,Canada,visa required
 Cameroon,Cape Verde,visa required
 Cameroon,Central African Republic,90
 Cameroon,Chad,90
-Cameroon,Chile,visa required
+Cameroon,Chile,e-visa
 Cameroon,China,visa required
 Cameroon,Colombia,e-visa
 Cameroon,Comoros,visa on arrival
@@ -5848,7 +5848,7 @@ Cameroon,Hungary,visa required
 Cameroon,Iceland,visa required
 Cameroon,India,e-visa
 Cameroon,Indonesia,e-visa
-Cameroon,Iran,visa on arrival
+Cameroon,Iran,e-visa
 Cameroon,Iraq,e-visa
 Cameroon,Ireland,visa required
 Cameroon,Israel,e-visa
@@ -6134,7 +6134,7 @@ Canada,South Africa,90
 Canada,South Korea,180
 Canada,South Sudan,e-visa
 Canada,Spain,90
-Canada,Sri Lanka,visa on arrival
+Canada,Sri Lanka,e-visa
 Canada,Saint Vincent and the Grenadines,180
 Canada,Sudan,visa required
 Canada,Suriname,visa required
@@ -6201,7 +6201,7 @@ Cape Verde,Canada,visa required
 Cape Verde,Cape Verde,-1
 Cape Verde,Central African Republic,visa required
 Cape Verde,Chad,e-visa
-Cape Verde,Chile,visa required
+Cape Verde,Chile,e-visa
 Cape Verde,China,visa required
 Cape Verde,Colombia,e-visa
 Cape Verde,Comoros,visa on arrival
@@ -6232,7 +6232,7 @@ Cape Verde,Gabon,e-visa
 Cape Verde,Gambia,90
 Cape Verde,Georgia,e-visa
 Cape Verde,Germany,visa required
-Cape Verde,Ghana,e-visa
+Cape Verde,Ghana,90
 Cape Verde,Greece,visa required
 Cape Verde,Grenada,visa required
 Cape Verde,Guatemala,visa required
@@ -6246,7 +6246,7 @@ Cape Verde,Hungary,visa required
 Cape Verde,Iceland,visa required
 Cape Verde,India,e-visa
 Cape Verde,Indonesia,e-visa
-Cape Verde,Iran,visa on arrival
+Cape Verde,Iran,e-visa
 Cape Verde,Iraq,e-visa
 Cape Verde,Ireland,visa required
 Cape Verde,Israel,e-visa
@@ -6333,7 +6333,7 @@ Cape Verde,South Africa,30
 Cape Verde,South Korea,e-visa
 Cape Verde,South Sudan,e-visa
 Cape Verde,Spain,visa required
-Cape Verde,Sri Lanka,visa on arrival
+Cape Verde,Sri Lanka,e-visa
 Cape Verde,Saint Vincent and the Grenadines,90
 Cape Verde,Sudan,visa required
 Cape Verde,Suriname,visa required
@@ -6400,7 +6400,7 @@ Central African Republic,Canada,visa required
 Central African Republic,Cape Verde,visa required
 Central African Republic,Central African Republic,-1
 Central African Republic,Chad,90
-Central African Republic,Chile,visa required
+Central African Republic,Chile,e-visa
 Central African Republic,China,visa required
 Central African Republic,Colombia,e-visa
 Central African Republic,Comoros,visa on arrival
@@ -6445,7 +6445,7 @@ Central African Republic,Hungary,visa required
 Central African Republic,Iceland,visa required
 Central African Republic,India,visa required
 Central African Republic,Indonesia,e-visa
-Central African Republic,Iran,visa on arrival
+Central African Republic,Iran,e-visa
 Central African Republic,Iraq,e-visa
 Central African Republic,Ireland,visa required
 Central African Republic,Israel,e-visa
@@ -6532,7 +6532,7 @@ Central African Republic,South Africa,visa required
 Central African Republic,South Korea,e-visa
 Central African Republic,South Sudan,e-visa
 Central African Republic,Spain,visa required
-Central African Republic,Sri Lanka,visa on arrival
+Central African Republic,Sri Lanka,e-visa
 Central African Republic,Saint Vincent and the Grenadines,90
 Central African Republic,Sudan,visa required
 Central African Republic,Suriname,visa required
@@ -6599,7 +6599,7 @@ Chad,Canada,visa required
 Chad,Cape Verde,visa required
 Chad,Central African Republic,90
 Chad,Chad,-1
-Chad,Chile,visa required
+Chad,Chile,e-visa
 Chad,China,visa required
 Chad,Colombia,e-visa
 Chad,Comoros,visa on arrival
@@ -6644,7 +6644,7 @@ Chad,Hungary,visa required
 Chad,Iceland,visa required
 Chad,India,visa required
 Chad,Indonesia,e-visa
-Chad,Iran,visa on arrival
+Chad,Iran,e-visa
 Chad,Iraq,e-visa
 Chad,Ireland,visa required
 Chad,Israel,e-visa
@@ -6731,7 +6731,7 @@ Chad,South Africa,visa required
 Chad,South Korea,e-visa
 Chad,South Sudan,e-visa
 Chad,Spain,visa required
-Chad,Sri Lanka,visa on arrival
+Chad,Sri Lanka,e-visa
 Chad,Saint Vincent and the Grenadines,90
 Chad,Sudan,visa required
 Chad,Suriname,visa required
@@ -6843,7 +6843,7 @@ Chile,Hungary,90
 Chile,Iceland,90
 Chile,India,e-visa
 Chile,Indonesia,visa on arrival
-Chile,Iran,visa on arrival
+Chile,Iran,e-visa
 Chile,Iraq,e-visa
 Chile,Ireland,90
 Chile,Israel,e-visa
@@ -6930,7 +6930,7 @@ Chile,South Africa,90
 Chile,South Korea,e-visa
 Chile,South Sudan,e-visa
 Chile,Spain,90
-Chile,Sri Lanka,visa on arrival
+Chile,Sri Lanka,e-visa
 Chile,Saint Vincent and the Grenadines,90
 Chile,Sudan,visa required
 Chile,Suriname,90
@@ -6997,7 +6997,7 @@ China,Canada,visa required
 China,Cape Verde,visa on arrival
 China,Central African Republic,visa required
 China,Chad,e-visa
-China,Chile,visa required
+China,Chile,e-visa
 China,China,-1
 China,Colombia,e-visa
 China,Comoros,visa on arrival
@@ -7129,9 +7129,9 @@ China,South Africa,e-visa
 China,South Korea,e-visa
 China,South Sudan,e-visa
 China,Spain,visa required
-China,Sri Lanka,visa on arrival
+China,Sri Lanka,e-visa
 China,Saint Vincent and the Grenadines,visa required
-China,Sudan,visa required
+China,Sudan,visa on arrival
 China,Suriname,30
 China,Sweden,visa required
 China,Switzerland,visa required
@@ -7328,7 +7328,7 @@ Colombia,South Africa,visa required
 Colombia,South Korea,90
 Colombia,South Sudan,e-visa
 Colombia,Spain,90
-Colombia,Sri Lanka,visa on arrival
+Colombia,Sri Lanka,visa required
 Colombia,Saint Vincent and the Grenadines,90
 Colombia,Sudan,visa required
 Colombia,Suriname,visa required
@@ -7395,7 +7395,7 @@ Comoros,Canada,visa required
 Comoros,Cape Verde,visa required
 Comoros,Central African Republic,visa required
 Comoros,Chad,e-visa
-Comoros,Chile,visa required
+Comoros,Chile,e-visa
 Comoros,China,visa required
 Comoros,Colombia,e-visa
 Comoros,Comoros,-1
@@ -7440,7 +7440,7 @@ Comoros,Hungary,visa required
 Comoros,Iceland,visa required
 Comoros,India,e-visa
 Comoros,Indonesia,e-visa
-Comoros,Iran,visa on arrival
+Comoros,Iran,e-visa
 Comoros,Iraq,e-visa
 Comoros,Ireland,visa required
 Comoros,Israel,e-visa
@@ -7527,7 +7527,7 @@ Comoros,South Africa,e-visa
 Comoros,South Korea,e-visa
 Comoros,South Sudan,e-visa
 Comoros,Spain,visa required
-Comoros,Sri Lanka,visa on arrival
+Comoros,Sri Lanka,e-visa
 Comoros,Saint Vincent and the Grenadines,90
 Comoros,Sudan,visa required
 Comoros,Suriname,visa required
@@ -7594,7 +7594,7 @@ Congo,Canada,visa required
 Congo,Cape Verde,visa required
 Congo,Central African Republic,90
 Congo,Chad,90
-Congo,Chile,visa required
+Congo,Chile,e-visa
 Congo,China,visa required
 Congo,Colombia,e-visa
 Congo,Comoros,visa on arrival
@@ -7639,7 +7639,7 @@ Congo,Hungary,visa required
 Congo,Iceland,visa required
 Congo,India,visa required
 Congo,Indonesia,e-visa
-Congo,Iran,visa on arrival
+Congo,Iran,e-visa
 Congo,Iraq,e-visa
 Congo,Ireland,visa required
 Congo,Israel,e-visa
@@ -7726,7 +7726,7 @@ Congo,South Africa,e-visa
 Congo,South Korea,e-visa
 Congo,South Sudan,e-visa
 Congo,Spain,visa required
-Congo,Sri Lanka,visa on arrival
+Congo,Sri Lanka,e-visa
 Congo,Saint Vincent and the Grenadines,90
 Congo,Sudan,visa required
 Congo,Suriname,visa required
@@ -7793,7 +7793,7 @@ DR Congo,Canada,visa required
 DR Congo,Cape Verde,visa required
 DR Congo,Central African Republic,visa required
 DR Congo,Chad,e-visa
-DR Congo,Chile,visa required
+DR Congo,Chile,e-visa
 DR Congo,China,visa required
 DR Congo,Colombia,e-visa
 DR Congo,Comoros,visa on arrival
@@ -7838,7 +7838,7 @@ DR Congo,Hungary,visa required
 DR Congo,Iceland,visa required
 DR Congo,India,visa required
 DR Congo,Indonesia,e-visa
-DR Congo,Iran,visa on arrival
+DR Congo,Iran,e-visa
 DR Congo,Iraq,e-visa
 DR Congo,Ireland,visa required
 DR Congo,Israel,e-visa
@@ -7925,7 +7925,7 @@ DR Congo,South Africa,e-visa
 DR Congo,South Korea,e-visa
 DR Congo,South Sudan,e-visa
 DR Congo,Spain,visa required
-DR Congo,Sri Lanka,visa on arrival
+DR Congo,Sri Lanka,e-visa
 DR Congo,Saint Vincent and the Grenadines,90
 DR Congo,Sudan,visa required
 DR Congo,Suriname,visa required
@@ -8037,7 +8037,7 @@ Costa Rica,Hungary,90
 Costa Rica,Iceland,90
 Costa Rica,India,e-visa
 Costa Rica,Indonesia,e-visa
-Costa Rica,Iran,visa on arrival
+Costa Rica,Iran,e-visa
 Costa Rica,Iraq,e-visa
 Costa Rica,Ireland,90
 Costa Rica,Israel,e-visa
@@ -8124,7 +8124,7 @@ Costa Rica,South Africa,30
 Costa Rica,South Korea,e-visa
 Costa Rica,South Sudan,e-visa
 Costa Rica,Spain,90
-Costa Rica,Sri Lanka,visa on arrival
+Costa Rica,Sri Lanka,e-visa
 Costa Rica,Saint Vincent and the Grenadines,90
 Costa Rica,Sudan,visa required
 Costa Rica,Suriname,visa required
@@ -8191,7 +8191,7 @@ Ivory Coast,Canada,visa required
 Ivory Coast,Cape Verde,visa free
 Ivory Coast,Central African Republic,90
 Ivory Coast,Chad,90
-Ivory Coast,Chile,visa required
+Ivory Coast,Chile,e-visa
 Ivory Coast,China,visa required
 Ivory Coast,Colombia,e-visa
 Ivory Coast,Comoros,visa on arrival
@@ -8222,7 +8222,7 @@ Ivory Coast,Gabon,e-visa
 Ivory Coast,Gambia,90
 Ivory Coast,Georgia,visa required
 Ivory Coast,Germany,visa required
-Ivory Coast,Ghana,e-visa
+Ivory Coast,Ghana,90
 Ivory Coast,Greece,visa required
 Ivory Coast,Grenada,visa required
 Ivory Coast,Guatemala,visa required
@@ -8236,7 +8236,7 @@ Ivory Coast,Hungary,visa required
 Ivory Coast,Iceland,visa required
 Ivory Coast,India,e-visa
 Ivory Coast,Indonesia,e-visa
-Ivory Coast,Iran,visa on arrival
+Ivory Coast,Iran,e-visa
 Ivory Coast,Iraq,e-visa
 Ivory Coast,Ireland,visa required
 Ivory Coast,Israel,e-visa
@@ -8448,7 +8448,7 @@ Croatia,Kenya,e-visa
 Croatia,Kiribati,90
 Croatia,Kosovo,90
 Croatia,Kuwait,visa on arrival
-Croatia,Kyrgyzstan,60
+Croatia,Kyrgyzstan,30
 Croatia,Laos,visa on arrival
 Croatia,Latvia,visa free
 Croatia,Lebanon,visa on arrival
@@ -8522,7 +8522,7 @@ Croatia,South Africa,90
 Croatia,South Korea,90
 Croatia,South Sudan,e-visa
 Croatia,Spain,visa free
-Croatia,Sri Lanka,visa on arrival
+Croatia,Sri Lanka,e-visa
 Croatia,Saint Vincent and the Grenadines,90
 Croatia,Sudan,visa required
 Croatia,Suriname,visa required
@@ -8589,7 +8589,7 @@ Cuba,Canada,visa required
 Cuba,Cape Verde,visa on arrival
 Cuba,Central African Republic,visa required
 Cuba,Chad,e-visa
-Cuba,Chile,visa required
+Cuba,Chile,e-visa
 Cuba,China,visa required
 Cuba,Colombia,e-visa
 Cuba,Comoros,visa on arrival
@@ -8721,7 +8721,7 @@ Cuba,South Africa,e-visa
 Cuba,South Korea,e-visa
 Cuba,South Sudan,e-visa
 Cuba,Spain,visa required
-Cuba,Sri Lanka,visa on arrival
+Cuba,Sri Lanka,e-visa
 Cuba,Saint Vincent and the Grenadines,90
 Cuba,Sudan,visa required
 Cuba,Suriname,e-visa
@@ -8833,7 +8833,7 @@ Cyprus,Hungary,visa free
 Cyprus,Iceland,visa free
 Cyprus,India,e-visa
 Cyprus,Indonesia,visa on arrival
-Cyprus,Iran,visa on arrival
+Cyprus,Iran,e-visa
 Cyprus,Iraq,e-visa
 Cyprus,Ireland,visa free
 Cyprus,Israel,e-visa
@@ -8846,7 +8846,7 @@ Cyprus,Kenya,90
 Cyprus,Kiribati,90
 Cyprus,Kosovo,90
 Cyprus,Kuwait,visa on arrival
-Cyprus,Kyrgyzstan,60
+Cyprus,Kyrgyzstan,30
 Cyprus,Laos,visa on arrival
 Cyprus,Latvia,visa free
 Cyprus,Lebanon,visa on arrival
@@ -8920,7 +8920,7 @@ Cyprus,South Africa,30
 Cyprus,South Korea,30
 Cyprus,South Sudan,e-visa
 Cyprus,Spain,visa free
-Cyprus,Sri Lanka,visa on arrival
+Cyprus,Sri Lanka,e-visa
 Cyprus,Saint Vincent and the Grenadines,90
 Cyprus,Sudan,visa required
 Cyprus,Suriname,visa required
@@ -9032,7 +9032,7 @@ Czech Republic,Hungary,visa free
 Czech Republic,Iceland,visa free
 Czech Republic,India,e-visa
 Czech Republic,Indonesia,visa on arrival
-Czech Republic,Iran,visa on arrival
+Czech Republic,Iran,e-visa
 Czech Republic,Iraq,e-visa
 Czech Republic,Ireland,visa free
 Czech Republic,Israel,e-visa
@@ -9045,7 +9045,7 @@ Czech Republic,Kenya,e-visa
 Czech Republic,Kiribati,90
 Czech Republic,Kosovo,90
 Czech Republic,Kuwait,visa on arrival
-Czech Republic,Kyrgyzstan,60
+Czech Republic,Kyrgyzstan,30
 Czech Republic,Laos,visa on arrival
 Czech Republic,Latvia,visa free
 Czech Republic,Lebanon,visa on arrival
@@ -9119,7 +9119,7 @@ Czech Republic,South Africa,90
 Czech Republic,South Korea,90
 Czech Republic,South Sudan,e-visa
 Czech Republic,Spain,visa free
-Czech Republic,Sri Lanka,visa on arrival
+Czech Republic,Sri Lanka,e-visa
 Czech Republic,Saint Vincent and the Grenadines,90
 Czech Republic,Sudan,visa required
 Czech Republic,Suriname,visa required
@@ -9231,7 +9231,7 @@ Denmark,Hungary,visa free
 Denmark,Iceland,visa free
 Denmark,India,e-visa
 Denmark,Indonesia,visa on arrival
-Denmark,Iran,visa on arrival
+Denmark,Iran,e-visa
 Denmark,Iraq,e-visa
 Denmark,Ireland,visa free
 Denmark,Israel,e-visa
@@ -9244,7 +9244,7 @@ Denmark,Kenya,e-visa
 Denmark,Kiribati,90
 Denmark,Kosovo,90
 Denmark,Kuwait,visa on arrival
-Denmark,Kyrgyzstan,60
+Denmark,Kyrgyzstan,30
 Denmark,Laos,visa on arrival
 Denmark,Latvia,visa free
 Denmark,Lebanon,visa on arrival
@@ -9318,7 +9318,7 @@ Denmark,South Africa,90
 Denmark,South Korea,90
 Denmark,South Sudan,e-visa
 Denmark,Spain,visa free
-Denmark,Sri Lanka,visa on arrival
+Denmark,Sri Lanka,e-visa
 Denmark,Saint Vincent and the Grenadines,90
 Denmark,Sudan,visa required
 Denmark,Suriname,visa required
@@ -9385,7 +9385,7 @@ Djibouti,Canada,visa required
 Djibouti,Cape Verde,visa required
 Djibouti,Central African Republic,visa required
 Djibouti,Chad,e-visa
-Djibouti,Chile,visa required
+Djibouti,Chile,e-visa
 Djibouti,China,visa required
 Djibouti,Colombia,e-visa
 Djibouti,Comoros,visa on arrival
@@ -9430,7 +9430,7 @@ Djibouti,Hungary,visa required
 Djibouti,Iceland,visa required
 Djibouti,India,e-visa
 Djibouti,Indonesia,e-visa
-Djibouti,Iran,visa on arrival
+Djibouti,Iran,e-visa
 Djibouti,Iraq,e-visa
 Djibouti,Ireland,visa required
 Djibouti,Israel,e-visa
@@ -9517,7 +9517,7 @@ Djibouti,South Africa,visa required
 Djibouti,South Korea,e-visa
 Djibouti,South Sudan,e-visa
 Djibouti,Spain,visa required
-Djibouti,Sri Lanka,visa on arrival
+Djibouti,Sri Lanka,e-visa
 Djibouti,Saint Vincent and the Grenadines,90
 Djibouti,Sudan,visa required
 Djibouti,Suriname,visa required
@@ -9584,7 +9584,7 @@ Dominica,Canada,visa required
 Dominica,Cape Verde,visa required
 Dominica,Central African Republic,visa required
 Dominica,Chad,e-visa
-Dominica,Chile,visa required
+Dominica,Chile,e-visa
 Dominica,China,30
 Dominica,Colombia,90
 Dominica,Comoros,visa on arrival
@@ -9629,7 +9629,7 @@ Dominica,Hungary,90
 Dominica,Iceland,90
 Dominica,India,e-visa
 Dominica,Indonesia,e-visa
-Dominica,Iran,visa on arrival
+Dominica,Iran,e-visa
 Dominica,Iraq,e-visa
 Dominica,Ireland,visa required
 Dominica,Israel,e-visa
@@ -9716,7 +9716,7 @@ Dominica,South Africa,visa required
 Dominica,South Korea,e-visa
 Dominica,South Sudan,e-visa
 Dominica,Spain,90
-Dominica,Sri Lanka,visa on arrival
+Dominica,Sri Lanka,e-visa
 Dominica,Saint Vincent and the Grenadines,visa free
 Dominica,Sudan,visa required
 Dominica,Suriname,180
@@ -9769,7 +9769,7 @@ Dominican Republic,Belgium,visa required
 Dominican Republic,Belize,visa required
 Dominican Republic,Benin,e-visa
 Dominican Republic,Bhutan,e-visa
-Dominican Republic,Bolivia,e-visa
+Dominican Republic,Bolivia,90
 Dominican Republic,Bosnia and Herzegovina,visa required
 Dominican Republic,Botswana,90
 Dominican Republic,Brazil,60
@@ -9783,7 +9783,7 @@ Dominican Republic,Canada,visa required
 Dominican Republic,Cape Verde,visa required
 Dominican Republic,Central African Republic,visa required
 Dominican Republic,Chad,e-visa
-Dominican Republic,Chile,visa required
+Dominican Republic,Chile,e-visa
 Dominican Republic,China,visa required
 Dominican Republic,Colombia,90
 Dominican Republic,Comoros,visa on arrival
@@ -9828,7 +9828,7 @@ Dominican Republic,Hungary,visa required
 Dominican Republic,Iceland,visa required
 Dominican Republic,India,e-visa
 Dominican Republic,Indonesia,e-visa
-Dominican Republic,Iran,visa on arrival
+Dominican Republic,Iran,e-visa
 Dominican Republic,Iraq,e-visa
 Dominican Republic,Ireland,visa required
 Dominican Republic,Israel,e-visa
@@ -9885,7 +9885,7 @@ Dominican Republic,Oman,e-visa
 Dominican Republic,Pakistan,e-visa
 Dominican Republic,Palau,visa on arrival
 Dominican Republic,Palestine,visa free
-Dominican Republic,Panama,visa required
+Dominican Republic,Panama,90
 Dominican Republic,Papua New Guinea,e-visa
 Dominican Republic,Paraguay,60
 Dominican Republic,Peru,60
@@ -9915,7 +9915,7 @@ Dominican Republic,South Africa,visa required
 Dominican Republic,South Korea,e-visa
 Dominican Republic,South Sudan,e-visa
 Dominican Republic,Spain,visa required
-Dominican Republic,Sri Lanka,visa on arrival
+Dominican Republic,Sri Lanka,e-visa
 Dominican Republic,Saint Vincent and the Grenadines,visa required
 Dominican Republic,Sudan,visa required
 Dominican Republic,Suriname,e-visa
@@ -10027,7 +10027,7 @@ Ecuador,Hungary,visa required
 Ecuador,Iceland,visa required
 Ecuador,India,e-visa
 Ecuador,Indonesia,visa on arrival
-Ecuador,Iran,visa on arrival
+Ecuador,Iran,e-visa
 Ecuador,Iraq,e-visa
 Ecuador,Ireland,visa required
 Ecuador,Israel,e-visa
@@ -10114,7 +10114,7 @@ Ecuador,South Africa,90
 Ecuador,South Korea,e-visa
 Ecuador,South Sudan,e-visa
 Ecuador,Spain,visa required
-Ecuador,Sri Lanka,visa on arrival
+Ecuador,Sri Lanka,e-visa
 Ecuador,Saint Vincent and the Grenadines,90
 Ecuador,Sudan,visa required
 Ecuador,Suriname,visa required
@@ -10181,7 +10181,7 @@ Egypt,Canada,visa required
 Egypt,Cape Verde,visa required
 Egypt,Central African Republic,visa required
 Egypt,Chad,e-visa
-Egypt,Chile,visa required
+Egypt,Chile,e-visa
 Egypt,China,visa required
 Egypt,Colombia,e-visa
 Egypt,Comoros,visa on arrival
@@ -10242,7 +10242,7 @@ Egypt,Kuwait,visa required
 Egypt,Kyrgyzstan,e-visa
 Egypt,Laos,visa on arrival
 Egypt,Latvia,visa required
-Egypt,Lebanon,visa on arrival
+Egypt,Lebanon,visa required
 Egypt,Lesotho,visa required
 Egypt,Liberia,visa required
 Egypt,Libya,visa required
@@ -10313,7 +10313,7 @@ Egypt,South Africa,e-visa
 Egypt,South Korea,e-visa
 Egypt,South Sudan,e-visa
 Egypt,Spain,visa required
-Egypt,Sri Lanka,visa on arrival
+Egypt,Sri Lanka,e-visa
 Egypt,Saint Vincent and the Grenadines,90
 Egypt,Sudan,visa required
 Egypt,Suriname,e-visa
@@ -10425,7 +10425,7 @@ El Salvador,Hungary,90
 El Salvador,Iceland,90
 El Salvador,India,e-visa
 El Salvador,Indonesia,e-visa
-El Salvador,Iran,visa on arrival
+El Salvador,Iran,e-visa
 El Salvador,Iraq,e-visa
 El Salvador,Ireland,90
 El Salvador,Israel,e-visa
@@ -10512,7 +10512,7 @@ El Salvador,South Africa,visa required
 El Salvador,South Korea,e-visa
 El Salvador,South Sudan,e-visa
 El Salvador,Spain,90
-El Salvador,Sri Lanka,visa on arrival
+El Salvador,Sri Lanka,e-visa
 El Salvador,Saint Vincent and the Grenadines,90
 El Salvador,Sudan,visa required
 El Salvador,Suriname,visa required
@@ -10579,7 +10579,7 @@ Equatorial Guinea,Canada,visa required
 Equatorial Guinea,Cape Verde,visa on arrival
 Equatorial Guinea,Central African Republic,90
 Equatorial Guinea,Chad,90
-Equatorial Guinea,Chile,visa required
+Equatorial Guinea,Chile,e-visa
 Equatorial Guinea,China,visa required
 Equatorial Guinea,Colombia,e-visa
 Equatorial Guinea,Comoros,visa on arrival
@@ -10624,7 +10624,7 @@ Equatorial Guinea,Hungary,visa required
 Equatorial Guinea,Iceland,visa required
 Equatorial Guinea,India,e-visa
 Equatorial Guinea,Indonesia,e-visa
-Equatorial Guinea,Iran,visa on arrival
+Equatorial Guinea,Iran,e-visa
 Equatorial Guinea,Iraq,e-visa
 Equatorial Guinea,Ireland,visa required
 Equatorial Guinea,Israel,e-visa
@@ -10711,7 +10711,7 @@ Equatorial Guinea,South Africa,visa required
 Equatorial Guinea,South Korea,e-visa
 Equatorial Guinea,South Sudan,e-visa
 Equatorial Guinea,Spain,visa required
-Equatorial Guinea,Sri Lanka,visa on arrival
+Equatorial Guinea,Sri Lanka,e-visa
 Equatorial Guinea,Saint Vincent and the Grenadines,90
 Equatorial Guinea,Sudan,visa required
 Equatorial Guinea,Suriname,visa required
@@ -10778,7 +10778,7 @@ Eritrea,Canada,visa required
 Eritrea,Cape Verde,visa required
 Eritrea,Central African Republic,visa required
 Eritrea,Chad,e-visa
-Eritrea,Chile,visa required
+Eritrea,Chile,e-visa
 Eritrea,China,visa required
 Eritrea,Colombia,e-visa
 Eritrea,Comoros,visa on arrival
@@ -10823,7 +10823,7 @@ Eritrea,Hungary,visa required
 Eritrea,Iceland,visa required
 Eritrea,India,e-visa
 Eritrea,Indonesia,e-visa
-Eritrea,Iran,visa on arrival
+Eritrea,Iran,e-visa
 Eritrea,Iraq,e-visa
 Eritrea,Ireland,visa required
 Eritrea,Israel,e-visa
@@ -10910,7 +10910,7 @@ Eritrea,South Africa,visa required
 Eritrea,South Korea,e-visa
 Eritrea,South Sudan,e-visa
 Eritrea,Spain,visa required
-Eritrea,Sri Lanka,visa on arrival
+Eritrea,Sri Lanka,e-visa
 Eritrea,Saint Vincent and the Grenadines,90
 Eritrea,Sudan,visa required
 Eritrea,Suriname,e-visa
@@ -11022,7 +11022,7 @@ Estonia,Hungary,visa free
 Estonia,Iceland,visa free
 Estonia,India,e-visa
 Estonia,Indonesia,visa on arrival
-Estonia,Iran,visa on arrival
+Estonia,Iran,e-visa
 Estonia,Iraq,e-visa
 Estonia,Ireland,visa free
 Estonia,Israel,e-visa
@@ -11035,7 +11035,7 @@ Estonia,Kenya,e-visa
 Estonia,Kiribati,90
 Estonia,Kosovo,90
 Estonia,Kuwait,visa on arrival
-Estonia,Kyrgyzstan,60
+Estonia,Kyrgyzstan,30
 Estonia,Laos,visa on arrival
 Estonia,Latvia,visa free
 Estonia,Lebanon,visa on arrival
@@ -11109,7 +11109,7 @@ Estonia,South Africa,90
 Estonia,South Korea,90
 Estonia,South Sudan,e-visa
 Estonia,Spain,visa free
-Estonia,Sri Lanka,visa on arrival
+Estonia,Sri Lanka,e-visa
 Estonia,Saint Vincent and the Grenadines,90
 Estonia,Sudan,visa required
 Estonia,Suriname,visa required
@@ -11176,7 +11176,7 @@ Swaziland,Canada,visa required
 Swaziland,Cape Verde,visa required
 Swaziland,Central African Republic,visa required
 Swaziland,Chad,e-visa
-Swaziland,Chile,visa required
+Swaziland,Chile,e-visa
 Swaziland,China,visa required
 Swaziland,Colombia,e-visa
 Swaziland,Comoros,visa on arrival
@@ -11221,7 +11221,7 @@ Swaziland,Hungary,visa required
 Swaziland,Iceland,visa required
 Swaziland,India,e-visa
 Swaziland,Indonesia,e-visa
-Swaziland,Iran,visa on arrival
+Swaziland,Iran,e-visa
 Swaziland,Iraq,e-visa
 Swaziland,Ireland,visa required
 Swaziland,Israel,e-visa
@@ -11308,7 +11308,7 @@ Swaziland,South Africa,30
 Swaziland,South Korea,e-visa
 Swaziland,South Sudan,e-visa
 Swaziland,Spain,visa required
-Swaziland,Sri Lanka,visa on arrival
+Swaziland,Sri Lanka,e-visa
 Swaziland,Saint Vincent and the Grenadines,90
 Swaziland,Sudan,visa required
 Swaziland,Suriname,visa required
@@ -11375,7 +11375,7 @@ Ethiopia,Canada,visa required
 Ethiopia,Cape Verde,visa required
 Ethiopia,Central African Republic,visa required
 Ethiopia,Chad,e-visa
-Ethiopia,Chile,visa required
+Ethiopia,Chile,e-visa
 Ethiopia,China,visa required
 Ethiopia,Colombia,e-visa
 Ethiopia,Comoros,visa on arrival
@@ -11420,7 +11420,7 @@ Ethiopia,Hungary,visa required
 Ethiopia,Iceland,visa required
 Ethiopia,India,visa required
 Ethiopia,Indonesia,e-visa
-Ethiopia,Iran,visa on arrival
+Ethiopia,Iran,e-visa
 Ethiopia,Iraq,e-visa
 Ethiopia,Ireland,visa required
 Ethiopia,Israel,e-visa
@@ -11507,7 +11507,7 @@ Ethiopia,South Africa,e-visa
 Ethiopia,South Korea,e-visa
 Ethiopia,South Sudan,e-visa
 Ethiopia,Spain,visa required
-Ethiopia,Sri Lanka,visa on arrival
+Ethiopia,Sri Lanka,e-visa
 Ethiopia,Saint Vincent and the Grenadines,90
 Ethiopia,Sudan,visa required
 Ethiopia,Suriname,visa required
@@ -11619,7 +11619,7 @@ Fiji,Hungary,visa required
 Fiji,Iceland,visa required
 Fiji,India,e-visa
 Fiji,Indonesia,e-visa
-Fiji,Iran,visa on arrival
+Fiji,Iran,e-visa
 Fiji,Iraq,e-visa
 Fiji,Ireland,90
 Fiji,Israel,e-visa
@@ -11706,7 +11706,7 @@ Fiji,South Africa,visa required
 Fiji,South Korea,30
 Fiji,South Sudan,e-visa
 Fiji,Spain,visa required
-Fiji,Sri Lanka,visa on arrival
+Fiji,Sri Lanka,e-visa
 Fiji,Saint Vincent and the Grenadines,90
 Fiji,Sudan,visa required
 Fiji,Suriname,visa required
@@ -11818,7 +11818,7 @@ Finland,Hungary,visa free
 Finland,Iceland,visa free
 Finland,India,e-visa
 Finland,Indonesia,visa on arrival
-Finland,Iran,visa on arrival
+Finland,Iran,e-visa
 Finland,Iraq,e-visa
 Finland,Ireland,visa free
 Finland,Israel,e-visa
@@ -11831,7 +11831,7 @@ Finland,Kenya,e-visa
 Finland,Kiribati,90
 Finland,Kosovo,90
 Finland,Kuwait,visa on arrival
-Finland,Kyrgyzstan,60
+Finland,Kyrgyzstan,30
 Finland,Laos,visa on arrival
 Finland,Latvia,visa free
 Finland,Lebanon,visa on arrival
@@ -11905,7 +11905,7 @@ Finland,South Africa,90
 Finland,South Korea,90
 Finland,South Sudan,e-visa
 Finland,Spain,visa free
-Finland,Sri Lanka,visa on arrival
+Finland,Sri Lanka,e-visa
 Finland,Saint Vincent and the Grenadines,90
 Finland,Sudan,visa required
 Finland,Suriname,visa required
@@ -12017,7 +12017,7 @@ France,Hungary,visa free
 France,Iceland,visa free
 France,India,e-visa
 France,Indonesia,visa on arrival
-France,Iran,visa on arrival
+France,Iran,e-visa
 France,Iraq,e-visa
 France,Ireland,visa free
 France,Israel,e-visa
@@ -12030,7 +12030,7 @@ France,Kenya,e-visa
 France,Kiribati,90
 France,Kosovo,90
 France,Kuwait,visa on arrival
-France,Kyrgyzstan,60
+France,Kyrgyzstan,30
 France,Laos,visa on arrival
 France,Latvia,visa free
 France,Lebanon,visa on arrival
@@ -12104,7 +12104,7 @@ France,South Africa,90
 France,South Korea,90
 France,South Sudan,e-visa
 France,Spain,visa free
-France,Sri Lanka,visa on arrival
+France,Sri Lanka,e-visa
 France,Saint Vincent and the Grenadines,90
 France,Sudan,visa required
 France,Suriname,visa required
@@ -12171,7 +12171,7 @@ Gabon,Canada,visa required
 Gabon,Cape Verde,visa required
 Gabon,Central African Republic,90
 Gabon,Chad,90
-Gabon,Chile,visa required
+Gabon,Chile,e-visa
 Gabon,China,visa required
 Gabon,Colombia,e-visa
 Gabon,Comoros,visa on arrival
@@ -12216,7 +12216,7 @@ Gabon,Hungary,visa required
 Gabon,Iceland,visa required
 Gabon,India,e-visa
 Gabon,Indonesia,e-visa
-Gabon,Iran,visa on arrival
+Gabon,Iran,e-visa
 Gabon,Iraq,e-visa
 Gabon,Ireland,visa required
 Gabon,Israel,e-visa
@@ -12303,7 +12303,7 @@ Gabon,South Africa,30
 Gabon,South Korea,e-visa
 Gabon,South Sudan,e-visa
 Gabon,Spain,visa required
-Gabon,Sri Lanka,visa on arrival
+Gabon,Sri Lanka,e-visa
 Gabon,Saint Vincent and the Grenadines,90
 Gabon,Sudan,visa required
 Gabon,Suriname,visa required
@@ -12370,7 +12370,7 @@ Gambia,Canada,visa required
 Gambia,Cape Verde,visa free
 Gambia,Central African Republic,visa required
 Gambia,Chad,e-visa
-Gambia,Chile,visa required
+Gambia,Chile,e-visa
 Gambia,China,visa required
 Gambia,Colombia,e-visa
 Gambia,Comoros,visa on arrival
@@ -12401,7 +12401,7 @@ Gambia,Gabon,e-visa
 Gambia,Gambia,-1
 Gambia,Georgia,visa required
 Gambia,Germany,visa required
-Gambia,Ghana,e-visa
+Gambia,Ghana,90
 Gambia,Greece,visa required
 Gambia,Grenada,90
 Gambia,Guatemala,visa required
@@ -12415,7 +12415,7 @@ Gambia,Hungary,visa required
 Gambia,Iceland,visa required
 Gambia,India,e-visa
 Gambia,Indonesia,e-visa
-Gambia,Iran,visa on arrival
+Gambia,Iran,e-visa
 Gambia,Iraq,e-visa
 Gambia,Ireland,visa required
 Gambia,Israel,e-visa
@@ -12502,7 +12502,7 @@ Gambia,South Africa,visa required
 Gambia,South Korea,e-visa
 Gambia,South Sudan,e-visa
 Gambia,Spain,visa required
-Gambia,Sri Lanka,visa on arrival
+Gambia,Sri Lanka,e-visa
 Gambia,Saint Vincent and the Grenadines,90
 Gambia,Sudan,visa required
 Gambia,Suriname,visa required
@@ -12701,7 +12701,7 @@ Georgia,South Africa,visa required
 Georgia,South Korea,e-visa
 Georgia,South Sudan,e-visa
 Georgia,Spain,90
-Georgia,Sri Lanka,visa on arrival
+Georgia,Sri Lanka,e-visa
 Georgia,Saint Vincent and the Grenadines,90
 Georgia,Sudan,visa required
 Georgia,Suriname,visa required
@@ -12813,7 +12813,7 @@ Germany,Hungary,visa free
 Germany,Iceland,visa free
 Germany,India,e-visa
 Germany,Indonesia,visa on arrival
-Germany,Iran,visa on arrival
+Germany,Iran,e-visa
 Germany,Iraq,e-visa
 Germany,Ireland,visa free
 Germany,Israel,e-visa
@@ -12826,7 +12826,7 @@ Germany,Kenya,e-visa
 Germany,Kiribati,90
 Germany,Kosovo,90
 Germany,Kuwait,visa on arrival
-Germany,Kyrgyzstan,60
+Germany,Kyrgyzstan,30
 Germany,Laos,visa on arrival
 Germany,Latvia,visa free
 Germany,Lebanon,visa on arrival
@@ -12900,7 +12900,7 @@ Germany,South Africa,90
 Germany,South Korea,90
 Germany,South Sudan,e-visa
 Germany,Spain,visa free
-Germany,Sri Lanka,visa on arrival
+Germany,Sri Lanka,e-visa
 Germany,Saint Vincent and the Grenadines,90
 Germany,Sudan,visa required
 Germany,Suriname,visa required
@@ -12967,7 +12967,7 @@ Ghana,Canada,visa required
 Ghana,Cape Verde,visa free
 Ghana,Central African Republic,visa required
 Ghana,Chad,e-visa
-Ghana,Chile,visa required
+Ghana,Chile,e-visa
 Ghana,China,visa required
 Ghana,Colombia,e-visa
 Ghana,Comoros,visa on arrival
@@ -13012,7 +13012,7 @@ Ghana,Hungary,visa required
 Ghana,Iceland,visa required
 Ghana,India,e-visa
 Ghana,Indonesia,e-visa
-Ghana,Iran,visa on arrival
+Ghana,Iran,e-visa
 Ghana,Iraq,e-visa
 Ghana,Ireland,visa required
 Ghana,Israel,e-visa
@@ -13211,7 +13211,7 @@ Greece,Hungary,visa free
 Greece,Iceland,visa free
 Greece,India,e-visa
 Greece,Indonesia,visa on arrival
-Greece,Iran,visa on arrival
+Greece,Iran,e-visa
 Greece,Iraq,e-visa
 Greece,Ireland,visa free
 Greece,Israel,e-visa
@@ -13224,7 +13224,7 @@ Greece,Kenya,e-visa
 Greece,Kiribati,90
 Greece,Kosovo,90
 Greece,Kuwait,visa on arrival
-Greece,Kyrgyzstan,60
+Greece,Kyrgyzstan,30
 Greece,Laos,visa on arrival
 Greece,Latvia,visa free
 Greece,Lebanon,visa on arrival
@@ -13298,7 +13298,7 @@ Greece,South Africa,90
 Greece,South Korea,90
 Greece,South Sudan,e-visa
 Greece,Spain,visa free
-Greece,Sri Lanka,visa on arrival
+Greece,Sri Lanka,e-visa
 Greece,Saint Vincent and the Grenadines,90
 Greece,Sudan,visa required
 Greece,Suriname,visa required
@@ -13410,7 +13410,7 @@ Grenada,Hungary,90
 Grenada,Iceland,90
 Grenada,India,e-visa
 Grenada,Indonesia,e-visa
-Grenada,Iran,visa on arrival
+Grenada,Iran,e-visa
 Grenada,Iraq,e-visa
 Grenada,Ireland,90
 Grenada,Israel,e-visa
@@ -13497,7 +13497,7 @@ Grenada,South Africa,visa required
 Grenada,South Korea,e-visa
 Grenada,South Sudan,e-visa
 Grenada,Spain,90
-Grenada,Sri Lanka,visa on arrival
+Grenada,Sri Lanka,e-visa
 Grenada,Saint Vincent and the Grenadines,visa free
 Grenada,Sudan,visa required
 Grenada,Suriname,180
@@ -13609,7 +13609,7 @@ Guatemala,Hungary,90
 Guatemala,Iceland,90
 Guatemala,India,e-visa
 Guatemala,Indonesia,visa on arrival
-Guatemala,Iran,visa on arrival
+Guatemala,Iran,e-visa
 Guatemala,Iraq,e-visa
 Guatemala,Ireland,90
 Guatemala,Israel,e-visa
@@ -13696,7 +13696,7 @@ Guatemala,South Africa,visa required
 Guatemala,South Korea,e-visa
 Guatemala,South Sudan,e-visa
 Guatemala,Spain,90
-Guatemala,Sri Lanka,visa on arrival
+Guatemala,Sri Lanka,e-visa
 Guatemala,Saint Vincent and the Grenadines,90
 Guatemala,Sudan,visa required
 Guatemala,Suriname,visa required
@@ -13763,7 +13763,7 @@ Guinea,Canada,visa required
 Guinea,Cape Verde,visa free
 Guinea,Central African Republic,visa required
 Guinea,Chad,e-visa
-Guinea,Chile,visa required
+Guinea,Chile,e-visa
 Guinea,China,visa required
 Guinea,Colombia,e-visa
 Guinea,Comoros,visa on arrival
@@ -13794,7 +13794,7 @@ Guinea,Gabon,e-visa
 Guinea,Gambia,90
 Guinea,Georgia,visa required
 Guinea,Germany,visa required
-Guinea,Ghana,e-visa
+Guinea,Ghana,90
 Guinea,Greece,visa required
 Guinea,Grenada,visa required
 Guinea,Guatemala,visa required
@@ -13808,7 +13808,7 @@ Guinea,Hungary,visa required
 Guinea,Iceland,visa required
 Guinea,India,e-visa
 Guinea,Indonesia,e-visa
-Guinea,Iran,visa on arrival
+Guinea,Iran,e-visa
 Guinea,Iraq,e-visa
 Guinea,Ireland,visa required
 Guinea,Israel,e-visa
@@ -13895,7 +13895,7 @@ Guinea,South Africa,e-visa
 Guinea,South Korea,e-visa
 Guinea,South Sudan,e-visa
 Guinea,Spain,visa required
-Guinea,Sri Lanka,visa on arrival
+Guinea,Sri Lanka,e-visa
 Guinea,Saint Vincent and the Grenadines,90
 Guinea,Sudan,visa required
 Guinea,Suriname,visa required
@@ -13962,7 +13962,7 @@ Guinea-Bissau,Canada,visa required
 Guinea-Bissau,Cape Verde,visa free
 Guinea-Bissau,Central African Republic,visa required
 Guinea-Bissau,Chad,e-visa
-Guinea-Bissau,Chile,visa required
+Guinea-Bissau,Chile,e-visa
 Guinea-Bissau,China,visa required
 Guinea-Bissau,Colombia,e-visa
 Guinea-Bissau,Comoros,visa on arrival
@@ -13993,7 +13993,7 @@ Guinea-Bissau,Gabon,e-visa
 Guinea-Bissau,Gambia,90
 Guinea-Bissau,Georgia,e-visa
 Guinea-Bissau,Germany,visa required
-Guinea-Bissau,Ghana,e-visa
+Guinea-Bissau,Ghana,90
 Guinea-Bissau,Greece,visa required
 Guinea-Bissau,Grenada,visa required
 Guinea-Bissau,Guatemala,visa required
@@ -14007,7 +14007,7 @@ Guinea-Bissau,Hungary,visa required
 Guinea-Bissau,Iceland,visa required
 Guinea-Bissau,India,visa required
 Guinea-Bissau,Indonesia,e-visa
-Guinea-Bissau,Iran,visa on arrival
+Guinea-Bissau,Iran,e-visa
 Guinea-Bissau,Iraq,e-visa
 Guinea-Bissau,Ireland,visa required
 Guinea-Bissau,Israel,e-visa
@@ -14094,7 +14094,7 @@ Guinea-Bissau,South Africa,visa required
 Guinea-Bissau,South Korea,e-visa
 Guinea-Bissau,South Sudan,e-visa
 Guinea-Bissau,Spain,visa required
-Guinea-Bissau,Sri Lanka,visa on arrival
+Guinea-Bissau,Sri Lanka,e-visa
 Guinea-Bissau,Saint Vincent and the Grenadines,90
 Guinea-Bissau,Sudan,visa required
 Guinea-Bissau,Suriname,visa required
@@ -14206,7 +14206,7 @@ Guyana,Hungary,visa required
 Guyana,Iceland,visa required
 Guyana,India,e-visa
 Guyana,Indonesia,e-visa
-Guyana,Iran,visa on arrival
+Guyana,Iran,e-visa
 Guyana,Iraq,e-visa
 Guyana,Ireland,90
 Guyana,Israel,e-visa
@@ -14293,7 +14293,7 @@ Guyana,South Africa,30
 Guyana,South Korea,e-visa
 Guyana,South Sudan,e-visa
 Guyana,Spain,visa required
-Guyana,Sri Lanka,visa on arrival
+Guyana,Sri Lanka,e-visa
 Guyana,Saint Vincent and the Grenadines,180
 Guyana,Sudan,visa required
 Guyana,Suriname,180
@@ -14360,7 +14360,7 @@ Haiti,Canada,visa required
 Haiti,Cape Verde,visa required
 Haiti,Central African Republic,visa required
 Haiti,Chad,e-visa
-Haiti,Chile,visa required
+Haiti,Chile,e-visa
 Haiti,China,visa required
 Haiti,Colombia,e-visa
 Haiti,Comoros,visa on arrival
@@ -14405,7 +14405,7 @@ Haiti,Hungary,visa required
 Haiti,Iceland,visa required
 Haiti,India,e-visa
 Haiti,Indonesia,e-visa
-Haiti,Iran,visa on arrival
+Haiti,Iran,e-visa
 Haiti,Iraq,e-visa
 Haiti,Ireland,visa required
 Haiti,Israel,e-visa
@@ -14492,7 +14492,7 @@ Haiti,South Africa,visa required
 Haiti,South Korea,e-visa
 Haiti,South Sudan,e-visa
 Haiti,Spain,visa required
-Haiti,Sri Lanka,visa on arrival
+Haiti,Sri Lanka,e-visa
 Haiti,Saint Vincent and the Grenadines,visa required
 Haiti,Sudan,visa required
 Haiti,Suriname,no admission
@@ -14604,7 +14604,7 @@ Honduras,Hungary,90
 Honduras,Iceland,90
 Honduras,India,e-visa
 Honduras,Indonesia,e-visa
-Honduras,Iran,visa on arrival
+Honduras,Iran,e-visa
 Honduras,Iraq,e-visa
 Honduras,Ireland,visa required
 Honduras,Israel,e-visa
@@ -14691,7 +14691,7 @@ Honduras,South Africa,visa required
 Honduras,South Korea,e-visa
 Honduras,South Sudan,e-visa
 Honduras,Spain,90
-Honduras,Sri Lanka,visa on arrival
+Honduras,Sri Lanka,e-visa
 Honduras,Saint Vincent and the Grenadines,90
 Honduras,Sudan,visa required
 Honduras,Suriname,visa required
@@ -14726,7 +14726,7 @@ Honduras,Zambia,visa on arrival
 Honduras,Zimbabwe,visa on arrival
 Honduras,Afghanistan,e-visa
 Hong Kong,Albania,90
-Hong Kong,Algeria,90
+Hong Kong,Algeria,14
 Hong Kong,Andorra,90
 Hong Kong,Angola,visa on arrival
 Hong Kong,Antigua and Barbuda,30
@@ -14890,7 +14890,7 @@ Hong Kong,South Africa,30
 Hong Kong,South Korea,90
 Hong Kong,South Sudan,e-visa
 Hong Kong,Spain,90
-Hong Kong,Sri Lanka,visa on arrival
+Hong Kong,Sri Lanka,e-visa
 Hong Kong,Saint Vincent and the Grenadines,90
 Hong Kong,Sudan,visa required
 Hong Kong,Suriname,90
@@ -15002,7 +15002,7 @@ Hungary,Hungary,-1
 Hungary,Iceland,visa free
 Hungary,India,e-visa
 Hungary,Indonesia,visa on arrival
-Hungary,Iran,visa on arrival
+Hungary,Iran,e-visa
 Hungary,Iraq,e-visa
 Hungary,Ireland,visa free
 Hungary,Israel,e-visa
@@ -15015,7 +15015,7 @@ Hungary,Kenya,e-visa
 Hungary,Kiribati,90
 Hungary,Kosovo,90
 Hungary,Kuwait,visa on arrival
-Hungary,Kyrgyzstan,60
+Hungary,Kyrgyzstan,30
 Hungary,Laos,visa on arrival
 Hungary,Latvia,visa free
 Hungary,Lebanon,visa on arrival
@@ -15089,7 +15089,7 @@ Hungary,South Africa,30
 Hungary,South Korea,90
 Hungary,South Sudan,e-visa
 Hungary,Spain,visa free
-Hungary,Sri Lanka,visa on arrival
+Hungary,Sri Lanka,e-visa
 Hungary,Saint Vincent and the Grenadines,90
 Hungary,Sudan,visa required
 Hungary,Suriname,visa required
@@ -15201,7 +15201,7 @@ Iceland,Hungary,visa free
 Iceland,Iceland,-1
 Iceland,India,e-visa
 Iceland,Indonesia,visa on arrival
-Iceland,Iran,visa on arrival
+Iceland,Iran,e-visa
 Iceland,Iraq,e-visa
 Iceland,Ireland,visa free
 Iceland,Israel,e-visa
@@ -15288,7 +15288,7 @@ Iceland,South Africa,90
 Iceland,South Korea,90
 Iceland,South Sudan,e-visa
 Iceland,Spain,visa free
-Iceland,Sri Lanka,visa on arrival
+Iceland,Sri Lanka,e-visa
 Iceland,Saint Vincent and the Grenadines,90
 Iceland,Sudan,visa required
 Iceland,Suriname,visa required
@@ -15355,7 +15355,7 @@ India,Canada,visa required
 India,Cape Verde,visa required
 India,Central African Republic,visa required
 India,Chad,e-visa
-India,Chile,visa required
+India,Chile,e-visa
 India,China,visa required
 India,Colombia,e-visa
 India,Comoros,visa on arrival
@@ -15400,7 +15400,7 @@ India,Hungary,visa required
 India,Iceland,visa required
 India,India,-1
 India,Indonesia,visa on arrival
-India,Iran,visa on arrival
+India,Iran,e-visa
 India,Iraq,e-visa
 India,Ireland,visa required
 India,Israel,e-visa
@@ -15487,7 +15487,7 @@ India,South Africa,e-visa
 India,South Korea,e-visa
 India,South Sudan,e-visa
 India,Spain,visa required
-India,Sri Lanka,visa on arrival
+India,Sri Lanka,e-visa
 India,Saint Vincent and the Grenadines,90
 India,Sudan,visa required
 India,Suriname,e-visa
@@ -15686,7 +15686,7 @@ Indonesia,South Africa,e-visa
 Indonesia,South Korea,e-visa
 Indonesia,South Sudan,e-visa
 Indonesia,Spain,visa required
-Indonesia,Sri Lanka,visa on arrival
+Indonesia,Sri Lanka,e-visa
 Indonesia,Saint Vincent and the Grenadines,90
 Indonesia,Sudan,visa required
 Indonesia,Suriname,visa required
@@ -15753,7 +15753,7 @@ Iran,Canada,visa required
 Iran,Cape Verde,visa required
 Iran,Central African Republic,visa required
 Iran,Chad,e-visa
-Iran,Chile,visa required
+Iran,Chile,e-visa
 Iran,China,visa required
 Iran,Colombia,e-visa
 Iran,Comoros,visa on arrival
@@ -15842,7 +15842,7 @@ Iran,Mozambique,visa on arrival
 Iran,Myanmar,visa required
 Iran,Namibia,e-visa
 Iran,Nauru,visa required
-Iran,Nepal,visa on arrival
+Iran,Nepal,visa required
 Iran,Netherlands,visa required
 Iran,New Zealand,visa required
 Iran,Nicaragua,e-visa
@@ -15885,7 +15885,7 @@ Iran,South Africa,e-visa
 Iran,South Korea,e-visa
 Iran,South Sudan,e-visa
 Iran,Spain,visa required
-Iran,Sri Lanka,visa on arrival
+Iran,Sri Lanka,e-visa
 Iran,Saint Vincent and the Grenadines,visa required
 Iran,Sudan,visa required
 Iran,Suriname,visa required
@@ -15952,7 +15952,7 @@ Iraq,Canada,visa required
 Iraq,Cape Verde,visa required
 Iraq,Central African Republic,visa required
 Iraq,Chad,e-visa
-Iraq,Chile,visa required
+Iraq,Chile,e-visa
 Iraq,China,visa required
 Iraq,Colombia,e-visa
 Iraq,Comoros,visa on arrival
@@ -16084,7 +16084,7 @@ Iraq,South Africa,visa required
 Iraq,South Korea,e-visa
 Iraq,South Sudan,e-visa
 Iraq,Spain,visa required
-Iraq,Sri Lanka,visa on arrival
+Iraq,Sri Lanka,e-visa
 Iraq,Saint Vincent and the Grenadines,visa required
 Iraq,Sudan,visa required
 Iraq,Suriname,visa required
@@ -16196,7 +16196,7 @@ Ireland,Hungary,visa free
 Ireland,Iceland,visa free
 Ireland,India,e-visa
 Ireland,Indonesia,visa on arrival
-Ireland,Iran,visa on arrival
+Ireland,Iran,e-visa
 Ireland,Iraq,e-visa
 Ireland,Ireland,-1
 Ireland,Israel,e-visa
@@ -16209,7 +16209,7 @@ Ireland,Kenya,e-visa
 Ireland,Kiribati,90
 Ireland,Kosovo,90
 Ireland,Kuwait,visa on arrival
-Ireland,Kyrgyzstan,60
+Ireland,Kyrgyzstan,30
 Ireland,Laos,visa on arrival
 Ireland,Latvia,visa free
 Ireland,Lebanon,visa on arrival
@@ -16283,7 +16283,7 @@ Ireland,South Africa,90
 Ireland,South Korea,90
 Ireland,South Sudan,e-visa
 Ireland,Spain,visa free
-Ireland,Sri Lanka,visa on arrival
+Ireland,Sri Lanka,e-visa
 Ireland,Saint Vincent and the Grenadines,90
 Ireland,Sudan,visa required
 Ireland,Suriname,visa required
@@ -16482,7 +16482,7 @@ Israel,South Africa,90
 Israel,South Korea,90
 Israel,South Sudan,e-visa
 Israel,Spain,90
-Israel,Sri Lanka,visa on arrival
+Israel,Sri Lanka,e-visa
 Israel,Saint Vincent and the Grenadines,90
 Israel,Sudan,visa required
 Israel,Suriname,180
@@ -16594,7 +16594,7 @@ Italy,Hungary,visa free
 Italy,Iceland,visa free
 Italy,India,e-visa
 Italy,Indonesia,visa on arrival
-Italy,Iran,visa on arrival
+Italy,Iran,e-visa
 Italy,Iraq,e-visa
 Italy,Ireland,visa free
 Italy,Israel,e-visa
@@ -16607,7 +16607,7 @@ Italy,Kenya,e-visa
 Italy,Kiribati,90
 Italy,Kosovo,90
 Italy,Kuwait,visa on arrival
-Italy,Kyrgyzstan,60
+Italy,Kyrgyzstan,30
 Italy,Laos,visa on arrival
 Italy,Latvia,visa free
 Italy,Lebanon,visa on arrival
@@ -16681,7 +16681,7 @@ Italy,South Africa,90
 Italy,South Korea,90
 Italy,South Sudan,e-visa
 Italy,Spain,visa free
-Italy,Sri Lanka,visa on arrival
+Italy,Sri Lanka,e-visa
 Italy,Saint Vincent and the Grenadines,90
 Italy,Sudan,visa required
 Italy,Suriname,visa required
@@ -16793,7 +16793,7 @@ Jamaica,Hungary,visa required
 Jamaica,Iceland,visa required
 Jamaica,India,e-visa
 Jamaica,Indonesia,e-visa
-Jamaica,Iran,visa on arrival
+Jamaica,Iran,e-visa
 Jamaica,Iraq,e-visa
 Jamaica,Ireland,visa required
 Jamaica,Israel,e-visa
@@ -16880,7 +16880,7 @@ Jamaica,South Africa,90
 Jamaica,South Korea,e-visa
 Jamaica,South Sudan,e-visa
 Jamaica,Spain,visa required
-Jamaica,Sri Lanka,visa on arrival
+Jamaica,Sri Lanka,e-visa
 Jamaica,Saint Vincent and the Grenadines,180
 Jamaica,Sudan,visa required
 Jamaica,Suriname,180
@@ -16923,7 +16923,7 @@ Japan,Argentina,90
 Japan,Armenia,180
 Japan,Australia,e-visa
 Japan,Austria,90
-Japan,Azerbaijan,visa on arrival
+Japan,Azerbaijan,30
 Japan,Bahamas,90
 Japan,Bahrain,visa on arrival
 Japan,Bangladesh,visa on arrival
@@ -17079,7 +17079,7 @@ Japan,South Africa,90
 Japan,South Korea,90
 Japan,South Sudan,e-visa
 Japan,Spain,90
-Japan,Sri Lanka,visa on arrival
+Japan,Sri Lanka,e-visa
 Japan,Saint Vincent and the Grenadines,90
 Japan,Sudan,visa required
 Japan,Suriname,visa required
@@ -17146,7 +17146,7 @@ Jordan,Canada,visa required
 Jordan,Cape Verde,visa required
 Jordan,Central African Republic,visa required
 Jordan,Chad,e-visa
-Jordan,Chile,visa required
+Jordan,Chile,e-visa
 Jordan,China,visa required
 Jordan,Colombia,e-visa
 Jordan,Comoros,visa on arrival
@@ -17278,7 +17278,7 @@ Jordan,South Africa,30
 Jordan,South Korea,e-visa
 Jordan,South Sudan,e-visa
 Jordan,Spain,visa required
-Jordan,Sri Lanka,visa on arrival
+Jordan,Sri Lanka,e-visa
 Jordan,Saint Vincent and the Grenadines,visa required
 Jordan,Sudan,visa required
 Jordan,Suriname,visa required
@@ -17345,7 +17345,7 @@ Kazakhstan,Canada,visa required
 Kazakhstan,Cape Verde,visa required
 Kazakhstan,Central African Republic,visa required
 Kazakhstan,Chad,e-visa
-Kazakhstan,Chile,visa required
+Kazakhstan,Chile,e-visa
 Kazakhstan,China,30
 Kazakhstan,Colombia,90
 Kazakhstan,Comoros,visa on arrival
@@ -17389,7 +17389,7 @@ Kazakhstan,Hong Kong,14
 Kazakhstan,Hungary,visa required
 Kazakhstan,Iceland,visa required
 Kazakhstan,India,e-visa
-Kazakhstan,Indonesia,visa on arrival
+Kazakhstan,Indonesia,30
 Kazakhstan,Iran,14
 Kazakhstan,Iraq,e-visa
 Kazakhstan,Ireland,visa required
@@ -17477,7 +17477,7 @@ Kazakhstan,South Africa,visa required
 Kazakhstan,South Korea,e-visa
 Kazakhstan,South Sudan,e-visa
 Kazakhstan,Spain,visa required
-Kazakhstan,Sri Lanka,visa on arrival
+Kazakhstan,Sri Lanka,e-visa
 Kazakhstan,Saint Vincent and the Grenadines,90
 Kazakhstan,Sudan,visa required
 Kazakhstan,Suriname,visa required
@@ -17544,7 +17544,7 @@ Kenya,Canada,visa required
 Kenya,Cape Verde,visa on arrival
 Kenya,Central African Republic,visa required
 Kenya,Chad,e-visa
-Kenya,Chile,visa required
+Kenya,Chile,e-visa
 Kenya,China,visa required
 Kenya,Colombia,e-visa
 Kenya,Comoros,visa on arrival
@@ -17589,7 +17589,7 @@ Kenya,Hungary,visa required
 Kenya,Iceland,visa required
 Kenya,India,e-visa
 Kenya,Indonesia,visa on arrival
-Kenya,Iran,visa on arrival
+Kenya,Iran,e-visa
 Kenya,Iraq,e-visa
 Kenya,Ireland,visa required
 Kenya,Israel,e-visa
@@ -17676,7 +17676,7 @@ Kenya,South Africa,90
 Kenya,South Korea,e-visa
 Kenya,South Sudan,visa free
 Kenya,Spain,visa required
-Kenya,Sri Lanka,visa on arrival
+Kenya,Sri Lanka,e-visa
 Kenya,Saint Vincent and the Grenadines,90
 Kenya,Sudan,visa on arrival
 Kenya,Suriname,e-visa
@@ -17743,7 +17743,7 @@ Kiribati,Canada,visa required
 Kiribati,Cape Verde,visa required
 Kiribati,Central African Republic,visa required
 Kiribati,Chad,e-visa
-Kiribati,Chile,visa required
+Kiribati,Chile,e-visa
 Kiribati,China,visa required
 Kiribati,Colombia,e-visa
 Kiribati,Comoros,visa on arrival
@@ -17788,7 +17788,7 @@ Kiribati,Hungary,90
 Kiribati,Iceland,90
 Kiribati,India,e-visa
 Kiribati,Indonesia,e-visa
-Kiribati,Iran,visa on arrival
+Kiribati,Iran,e-visa
 Kiribati,Iraq,e-visa
 Kiribati,Ireland,90
 Kiribati,Israel,e-visa
@@ -17875,7 +17875,7 @@ Kiribati,South Africa,visa required
 Kiribati,South Korea,30
 Kiribati,South Sudan,e-visa
 Kiribati,Spain,90
-Kiribati,Sri Lanka,visa on arrival
+Kiribati,Sri Lanka,e-visa
 Kiribati,Saint Vincent and the Grenadines,90
 Kiribati,Sudan,visa required
 Kiribati,Suriname,visa required
@@ -17942,7 +17942,7 @@ Kosovo,Canada,visa required
 Kosovo,Cape Verde,visa on arrival
 Kosovo,Central African Republic,visa required
 Kosovo,Chad,e-visa
-Kosovo,Chile,visa required
+Kosovo,Chile,e-visa
 Kosovo,China,visa required
 Kosovo,Colombia,e-visa
 Kosovo,Comoros,visa on arrival
@@ -17987,7 +17987,7 @@ Kosovo,Hungary,90
 Kosovo,Iceland,90
 Kosovo,India,visa required
 Kosovo,Indonesia,e-visa
-Kosovo,Iran,visa on arrival
+Kosovo,Iran,e-visa
 Kosovo,Iraq,e-visa
 Kosovo,Ireland,visa required
 Kosovo,Israel,e-visa
@@ -18074,7 +18074,7 @@ Kosovo,South Africa,visa required
 Kosovo,South Korea,e-visa
 Kosovo,South Sudan,e-visa
 Kosovo,Spain,90
-Kosovo,Sri Lanka,visa on arrival
+Kosovo,Sri Lanka,e-visa
 Kosovo,Saint Vincent and the Grenadines,90
 Kosovo,Sudan,visa required
 Kosovo,Suriname,visa required
@@ -18141,7 +18141,7 @@ Kuwait,Canada,visa required
 Kuwait,Cape Verde,visa on arrival
 Kuwait,Central African Republic,visa required
 Kuwait,Chad,e-visa
-Kuwait,Chile,visa required
+Kuwait,Chile,e-visa
 Kuwait,China,30
 Kuwait,Colombia,e-visa
 Kuwait,Comoros,visa on arrival
@@ -18273,7 +18273,7 @@ Kuwait,South Africa,visa required
 Kuwait,South Korea,30
 Kuwait,South Sudan,e-visa
 Kuwait,Spain,visa required
-Kuwait,Sri Lanka,visa on arrival
+Kuwait,Sri Lanka,e-visa
 Kuwait,Saint Vincent and the Grenadines,90
 Kuwait,Sudan,visa free
 Kuwait,Suriname,visa required
@@ -18340,7 +18340,7 @@ Kyrgyzstan,Canada,visa required
 Kyrgyzstan,Cape Verde,visa required
 Kyrgyzstan,Central African Republic,visa required
 Kyrgyzstan,Chad,e-visa
-Kyrgyzstan,Chile,visa required
+Kyrgyzstan,Chile,e-visa
 Kyrgyzstan,China,visa required
 Kyrgyzstan,Colombia,e-visa
 Kyrgyzstan,Comoros,visa on arrival
@@ -18472,7 +18472,7 @@ Kyrgyzstan,South Africa,visa required
 Kyrgyzstan,South Korea,e-visa
 Kyrgyzstan,South Sudan,e-visa
 Kyrgyzstan,Spain,visa required
-Kyrgyzstan,Sri Lanka,visa on arrival
+Kyrgyzstan,Sri Lanka,e-visa
 Kyrgyzstan,Saint Vincent and the Grenadines,90
 Kyrgyzstan,Sudan,visa required
 Kyrgyzstan,Suriname,visa required
@@ -18539,7 +18539,7 @@ Laos,Canada,visa required
 Laos,Cape Verde,visa required
 Laos,Central African Republic,visa required
 Laos,Chad,e-visa
-Laos,Chile,visa required
+Laos,Chile,e-visa
 Laos,China,visa required
 Laos,Colombia,e-visa
 Laos,Comoros,visa on arrival
@@ -18584,7 +18584,7 @@ Laos,Hungary,visa required
 Laos,Iceland,visa required
 Laos,India,e-visa
 Laos,Indonesia,30
-Laos,Iran,visa on arrival
+Laos,Iran,e-visa
 Laos,Iraq,e-visa
 Laos,Ireland,visa required
 Laos,Israel,e-visa
@@ -18671,7 +18671,7 @@ Laos,South Africa,visa required
 Laos,South Korea,e-visa
 Laos,South Sudan,e-visa
 Laos,Spain,visa required
-Laos,Sri Lanka,visa on arrival
+Laos,Sri Lanka,e-visa
 Laos,Saint Vincent and the Grenadines,90
 Laos,Sudan,visa required
 Laos,Suriname,visa required
@@ -18783,7 +18783,7 @@ Latvia,Hungary,visa free
 Latvia,Iceland,visa free
 Latvia,India,e-visa
 Latvia,Indonesia,visa on arrival
-Latvia,Iran,visa on arrival
+Latvia,Iran,e-visa
 Latvia,Iraq,e-visa
 Latvia,Ireland,visa free
 Latvia,Israel,e-visa
@@ -18796,7 +18796,7 @@ Latvia,Kenya,e-visa
 Latvia,Kiribati,90
 Latvia,Kosovo,90
 Latvia,Kuwait,visa on arrival
-Latvia,Kyrgyzstan,60
+Latvia,Kyrgyzstan,30
 Latvia,Laos,visa on arrival
 Latvia,Latvia,-1
 Latvia,Lebanon,visa on arrival
@@ -18870,7 +18870,7 @@ Latvia,South Africa,90
 Latvia,South Korea,90
 Latvia,South Sudan,e-visa
 Latvia,Spain,visa free
-Latvia,Sri Lanka,visa on arrival
+Latvia,Sri Lanka,e-visa
 Latvia,Saint Vincent and the Grenadines,90
 Latvia,Sudan,visa required
 Latvia,Suriname,visa required
@@ -18937,7 +18937,7 @@ Lebanon,Canada,visa required
 Lebanon,Cape Verde,visa required
 Lebanon,Central African Republic,visa required
 Lebanon,Chad,e-visa
-Lebanon,Chile,visa required
+Lebanon,Chile,e-visa
 Lebanon,China,visa required
 Lebanon,Colombia,e-visa
 Lebanon,Comoros,visa on arrival
@@ -19069,7 +19069,7 @@ Lebanon,South Africa,visa required
 Lebanon,South Korea,e-visa
 Lebanon,South Sudan,e-visa
 Lebanon,Spain,visa required
-Lebanon,Sri Lanka,visa on arrival
+Lebanon,Sri Lanka,e-visa
 Lebanon,Saint Vincent and the Grenadines,visa required
 Lebanon,Sudan,visa required
 Lebanon,Suriname,visa required
@@ -19136,7 +19136,7 @@ Lesotho,Canada,visa required
 Lesotho,Cape Verde,visa required
 Lesotho,Central African Republic,visa required
 Lesotho,Chad,e-visa
-Lesotho,Chile,visa required
+Lesotho,Chile,e-visa
 Lesotho,China,visa required
 Lesotho,Colombia,e-visa
 Lesotho,Comoros,visa on arrival
@@ -19181,7 +19181,7 @@ Lesotho,Hungary,visa required
 Lesotho,Iceland,visa required
 Lesotho,India,e-visa
 Lesotho,Indonesia,e-visa
-Lesotho,Iran,visa on arrival
+Lesotho,Iran,e-visa
 Lesotho,Iraq,e-visa
 Lesotho,Ireland,visa required
 Lesotho,Israel,e-visa
@@ -19268,7 +19268,7 @@ Lesotho,South Africa,30
 Lesotho,South Korea,e-visa
 Lesotho,South Sudan,e-visa
 Lesotho,Spain,visa required
-Lesotho,Sri Lanka,visa on arrival
+Lesotho,Sri Lanka,e-visa
 Lesotho,Saint Vincent and the Grenadines,90
 Lesotho,Sudan,visa required
 Lesotho,Suriname,visa required
@@ -19335,7 +19335,7 @@ Liberia,Canada,visa required
 Liberia,Cape Verde,visa free
 Liberia,Central African Republic,90
 Liberia,Chad,e-visa
-Liberia,Chile,visa required
+Liberia,Chile,e-visa
 Liberia,China,visa required
 Liberia,Colombia,e-visa
 Liberia,Comoros,visa on arrival
@@ -19366,7 +19366,7 @@ Liberia,Gabon,e-visa
 Liberia,Gambia,90
 Liberia,Georgia,visa required
 Liberia,Germany,visa required
-Liberia,Ghana,e-visa
+Liberia,Ghana,90
 Liberia,Greece,visa required
 Liberia,Grenada,visa required
 Liberia,Guatemala,visa required
@@ -19380,7 +19380,7 @@ Liberia,Hungary,visa required
 Liberia,Iceland,visa required
 Liberia,India,e-visa
 Liberia,Indonesia,e-visa
-Liberia,Iran,visa on arrival
+Liberia,Iran,e-visa
 Liberia,Iraq,e-visa
 Liberia,Ireland,visa required
 Liberia,Israel,e-visa
@@ -19467,7 +19467,7 @@ Liberia,South Africa,e-visa
 Liberia,South Korea,e-visa
 Liberia,South Sudan,e-visa
 Liberia,Spain,visa required
-Liberia,Sri Lanka,visa on arrival
+Liberia,Sri Lanka,e-visa
 Liberia,Saint Vincent and the Grenadines,90
 Liberia,Sudan,visa required
 Liberia,Suriname,visa required
@@ -19515,7 +19515,7 @@ Libya,Bahamas,e-visa
 Libya,Bahrain,e-visa
 Libya,Bangladesh,visa required
 Libya,Barbados,visa required
-Libya,Belarus,90
+Libya,Belarus,visa required
 Libya,Belgium,visa required
 Libya,Belize,visa required
 Libya,Benin,90
@@ -19534,7 +19534,7 @@ Libya,Canada,visa required
 Libya,Cape Verde,visa required
 Libya,Central African Republic,visa required
 Libya,Chad,e-visa
-Libya,Chile,visa required
+Libya,Chile,e-visa
 Libya,China,visa required
 Libya,Colombia,e-visa
 Libya,Comoros,visa on arrival
@@ -19579,7 +19579,7 @@ Libya,Hungary,visa required
 Libya,Iceland,visa required
 Libya,India,visa required
 Libya,Indonesia,e-visa
-Libya,Iran,visa on arrival
+Libya,Iran,e-visa
 Libya,Iraq,e-visa
 Libya,Ireland,visa required
 Libya,Israel,e-visa
@@ -19595,7 +19595,7 @@ Libya,Kuwait,visa required
 Libya,Kyrgyzstan,e-visa
 Libya,Laos,visa required
 Libya,Latvia,visa required
-Libya,Lebanon,visa on arrival
+Libya,Lebanon,visa required
 Libya,Lesotho,visa required
 Libya,Liberia,e-visa
 Libya,Libya,-1
@@ -19666,7 +19666,7 @@ Libya,South Africa,visa required
 Libya,South Korea,e-visa
 Libya,South Sudan,e-visa
 Libya,Spain,visa required
-Libya,Sri Lanka,visa on arrival
+Libya,Sri Lanka,e-visa
 Libya,Saint Vincent and the Grenadines,90
 Libya,Sudan,visa required
 Libya,Suriname,visa required
@@ -19778,7 +19778,7 @@ Liechtenstein,Hungary,visa free
 Liechtenstein,Iceland,visa free
 Liechtenstein,India,e-visa
 Liechtenstein,Indonesia,visa on arrival
-Liechtenstein,Iran,visa on arrival
+Liechtenstein,Iran,e-visa
 Liechtenstein,Iraq,e-visa
 Liechtenstein,Ireland,visa free
 Liechtenstein,Israel,e-visa
@@ -19865,7 +19865,7 @@ Liechtenstein,South Africa,90
 Liechtenstein,South Korea,90
 Liechtenstein,South Sudan,e-visa
 Liechtenstein,Spain,visa free
-Liechtenstein,Sri Lanka,visa on arrival
+Liechtenstein,Sri Lanka,e-visa
 Liechtenstein,Saint Vincent and the Grenadines,90
 Liechtenstein,Sudan,visa required
 Liechtenstein,Suriname,visa required
@@ -19977,7 +19977,7 @@ Lithuania,Hungary,visa free
 Lithuania,Iceland,visa free
 Lithuania,India,e-visa
 Lithuania,Indonesia,visa on arrival
-Lithuania,Iran,visa on arrival
+Lithuania,Iran,e-visa
 Lithuania,Iraq,e-visa
 Lithuania,Ireland,visa free
 Lithuania,Israel,e-visa
@@ -19990,7 +19990,7 @@ Lithuania,Kenya,e-visa
 Lithuania,Kiribati,90
 Lithuania,Kosovo,90
 Lithuania,Kuwait,visa on arrival
-Lithuania,Kyrgyzstan,60
+Lithuania,Kyrgyzstan,30
 Lithuania,Laos,visa on arrival
 Lithuania,Latvia,visa free
 Lithuania,Lebanon,visa on arrival
@@ -20064,7 +20064,7 @@ Lithuania,South Africa,90
 Lithuania,South Korea,90
 Lithuania,South Sudan,e-visa
 Lithuania,Spain,visa free
-Lithuania,Sri Lanka,visa on arrival
+Lithuania,Sri Lanka,e-visa
 Lithuania,Saint Vincent and the Grenadines,90
 Lithuania,Sudan,visa required
 Lithuania,Suriname,visa required
@@ -20176,7 +20176,7 @@ Luxembourg,Hungary,visa free
 Luxembourg,Iceland,visa free
 Luxembourg,India,e-visa
 Luxembourg,Indonesia,visa on arrival
-Luxembourg,Iran,visa on arrival
+Luxembourg,Iran,e-visa
 Luxembourg,Iraq,e-visa
 Luxembourg,Ireland,visa free
 Luxembourg,Israel,e-visa
@@ -20189,7 +20189,7 @@ Luxembourg,Kenya,e-visa
 Luxembourg,Kiribati,90
 Luxembourg,Kosovo,90
 Luxembourg,Kuwait,visa on arrival
-Luxembourg,Kyrgyzstan,60
+Luxembourg,Kyrgyzstan,30
 Luxembourg,Laos,15
 Luxembourg,Latvia,visa free
 Luxembourg,Lebanon,visa on arrival
@@ -20263,7 +20263,7 @@ Luxembourg,South Africa,90
 Luxembourg,South Korea,90
 Luxembourg,South Sudan,e-visa
 Luxembourg,Spain,visa free
-Luxembourg,Sri Lanka,visa on arrival
+Luxembourg,Sri Lanka,e-visa
 Luxembourg,Saint Vincent and the Grenadines,90
 Luxembourg,Sudan,visa required
 Luxembourg,Suriname,visa required
@@ -20346,7 +20346,7 @@ Macao,Denmark,90
 Macao,Djibouti,visa on arrival
 Macao,Dominica,180
 Macao,Dominican Republic,visa free
-Macao,Ecuador,90
+Macao,Ecuador,e-visa
 Macao,Egypt,90
 Macao,El Salvador,e-visa
 Macao,Equatorial Guinea,e-visa
@@ -20374,7 +20374,7 @@ Macao,Hong Kong,7
 Macao,Hungary,90
 Macao,Iceland,90
 Macao,India,visa required
-Macao,Indonesia,e-visa
+Macao,Indonesia,30
 Macao,Iran,21
 Macao,Iraq,e-visa
 Macao,Ireland,90
@@ -20462,7 +20462,7 @@ Macao,South Africa,30
 Macao,South Korea,90
 Macao,South Sudan,e-visa
 Macao,Spain,90
-Macao,Sri Lanka,visa on arrival
+Macao,Sri Lanka,e-visa
 Macao,Saint Vincent and the Grenadines,90
 Macao,Sudan,visa required
 Macao,Suriname,visa required
@@ -20529,7 +20529,7 @@ Madagascar,Canada,visa required
 Madagascar,Cape Verde,visa required
 Madagascar,Central African Republic,visa required
 Madagascar,Chad,e-visa
-Madagascar,Chile,visa required
+Madagascar,Chile,e-visa
 Madagascar,China,visa required
 Madagascar,Colombia,e-visa
 Madagascar,Comoros,visa on arrival
@@ -20574,7 +20574,7 @@ Madagascar,Hungary,visa required
 Madagascar,Iceland,visa required
 Madagascar,India,e-visa
 Madagascar,Indonesia,e-visa
-Madagascar,Iran,visa on arrival
+Madagascar,Iran,e-visa
 Madagascar,Iraq,e-visa
 Madagascar,Ireland,visa required
 Madagascar,Israel,e-visa
@@ -20661,7 +20661,7 @@ Madagascar,South Africa,90
 Madagascar,South Korea,e-visa
 Madagascar,South Sudan,e-visa
 Madagascar,Spain,visa required
-Madagascar,Sri Lanka,visa on arrival
+Madagascar,Sri Lanka,visa required
 Madagascar,Saint Vincent and the Grenadines,90
 Madagascar,Sudan,visa required
 Madagascar,Suriname,visa required
@@ -20728,7 +20728,7 @@ Malawi,Canada,visa required
 Malawi,Cape Verde,visa required
 Malawi,Central African Republic,visa required
 Malawi,Chad,e-visa
-Malawi,Chile,visa required
+Malawi,Chile,e-visa
 Malawi,China,visa required
 Malawi,Colombia,e-visa
 Malawi,Comoros,visa on arrival
@@ -20773,7 +20773,7 @@ Malawi,Hungary,visa required
 Malawi,Iceland,visa required
 Malawi,India,e-visa
 Malawi,Indonesia,e-visa
-Malawi,Iran,visa on arrival
+Malawi,Iran,e-visa
 Malawi,Iraq,e-visa
 Malawi,Ireland,visa required
 Malawi,Israel,e-visa
@@ -20860,7 +20860,7 @@ Malawi,South Africa,30
 Malawi,South Korea,e-visa
 Malawi,South Sudan,e-visa
 Malawi,Spain,visa required
-Malawi,Sri Lanka,visa on arrival
+Malawi,Sri Lanka,e-visa
 Malawi,Saint Vincent and the Grenadines,90
 Malawi,Sudan,visa required
 Malawi,Suriname,visa required
@@ -21059,7 +21059,7 @@ Malaysia,South Africa,90
 Malaysia,South Korea,e-visa
 Malaysia,South Sudan,e-visa
 Malaysia,Spain,90
-Malaysia,Sri Lanka,visa on arrival
+Malaysia,Sri Lanka,e-visa
 Malaysia,Saint Vincent and the Grenadines,90
 Malaysia,Sudan,visa on arrival
 Malaysia,Suriname,30
@@ -21126,7 +21126,7 @@ Maldives,Canada,visa required
 Maldives,Cape Verde,visa on arrival
 Maldives,Central African Republic,visa required
 Maldives,Chad,e-visa
-Maldives,Chile,visa required
+Maldives,Chile,e-visa
 Maldives,China,30
 Maldives,Colombia,e-visa
 Maldives,Comoros,visa on arrival
@@ -21171,7 +21171,7 @@ Maldives,Hungary,visa required
 Maldives,Iceland,visa required
 Maldives,India,90
 Maldives,Indonesia,visa on arrival
-Maldives,Iran,visa on arrival
+Maldives,Iran,e-visa
 Maldives,Iraq,e-visa
 Maldives,Ireland,90
 Maldives,Israel,e-visa
@@ -21258,7 +21258,7 @@ Maldives,South Africa,30
 Maldives,South Korea,e-visa
 Maldives,South Sudan,e-visa
 Maldives,Spain,visa required
-Maldives,Sri Lanka,visa on arrival
+Maldives,Sri Lanka,e-visa
 Maldives,Saint Vincent and the Grenadines,90
 Maldives,Sudan,visa required
 Maldives,Suriname,visa required
@@ -21325,7 +21325,7 @@ Mali,Canada,visa required
 Mali,Cape Verde,visa free
 Mali,Central African Republic,visa required
 Mali,Chad,90
-Mali,Chile,visa required
+Mali,Chile,e-visa
 Mali,China,visa required
 Mali,Colombia,e-visa
 Mali,Comoros,visa on arrival
@@ -21356,7 +21356,7 @@ Mali,Gabon,e-visa
 Mali,Gambia,90
 Mali,Georgia,visa required
 Mali,Germany,visa required
-Mali,Ghana,e-visa
+Mali,Ghana,90
 Mali,Greece,visa required
 Mali,Grenada,visa required
 Mali,Guatemala,visa required
@@ -21370,7 +21370,7 @@ Mali,Hungary,visa required
 Mali,Iceland,visa required
 Mali,India,e-visa
 Mali,Indonesia,e-visa
-Mali,Iran,visa on arrival
+Mali,Iran,e-visa
 Mali,Iraq,e-visa
 Mali,Ireland,visa required
 Mali,Israel,e-visa
@@ -21457,7 +21457,7 @@ Mali,South Africa,e-visa
 Mali,South Korea,e-visa
 Mali,South Sudan,e-visa
 Mali,Spain,visa required
-Mali,Sri Lanka,visa on arrival
+Mali,Sri Lanka,e-visa
 Mali,Saint Vincent and the Grenadines,90
 Mali,Sudan,visa required
 Mali,Suriname,visa required
@@ -21569,7 +21569,7 @@ Malta,Hungary,visa free
 Malta,Iceland,visa free
 Malta,India,e-visa
 Malta,Indonesia,visa on arrival
-Malta,Iran,visa on arrival
+Malta,Iran,e-visa
 Malta,Iraq,e-visa
 Malta,Ireland,visa free
 Malta,Israel,e-visa
@@ -21582,7 +21582,7 @@ Malta,Kenya,e-visa
 Malta,Kiribati,90
 Malta,Kosovo,90
 Malta,Kuwait,visa on arrival
-Malta,Kyrgyzstan,60
+Malta,Kyrgyzstan,30
 Malta,Laos,visa on arrival
 Malta,Latvia,visa free
 Malta,Lebanon,visa on arrival
@@ -21656,7 +21656,7 @@ Malta,South Africa,90
 Malta,South Korea,90
 Malta,South Sudan,e-visa
 Malta,Spain,visa free
-Malta,Sri Lanka,visa on arrival
+Malta,Sri Lanka,e-visa
 Malta,Saint Vincent and the Grenadines,90
 Malta,Sudan,visa required
 Malta,Suriname,visa required
@@ -21723,7 +21723,7 @@ Marshall Islands,Canada,visa required
 Marshall Islands,Cape Verde,visa on arrival
 Marshall Islands,Central African Republic,visa required
 Marshall Islands,Chad,e-visa
-Marshall Islands,Chile,visa required
+Marshall Islands,Chile,e-visa
 Marshall Islands,China,visa required
 Marshall Islands,Colombia,90
 Marshall Islands,Comoros,visa on arrival
@@ -21768,7 +21768,7 @@ Marshall Islands,Hungary,90
 Marshall Islands,Iceland,90
 Marshall Islands,India,e-visa
 Marshall Islands,Indonesia,e-visa
-Marshall Islands,Iran,visa on arrival
+Marshall Islands,Iran,e-visa
 Marshall Islands,Iraq,e-visa
 Marshall Islands,Ireland,visa required
 Marshall Islands,Israel,e-visa
@@ -21855,7 +21855,7 @@ Marshall Islands,South Africa,visa required
 Marshall Islands,South Korea,30
 Marshall Islands,South Sudan,e-visa
 Marshall Islands,Spain,90
-Marshall Islands,Sri Lanka,visa on arrival
+Marshall Islands,Sri Lanka,e-visa
 Marshall Islands,Saint Vincent and the Grenadines,90
 Marshall Islands,Sudan,visa required
 Marshall Islands,Suriname,visa required
@@ -21922,7 +21922,7 @@ Mauritania,Canada,visa required
 Mauritania,Cape Verde,visa free
 Mauritania,Central African Republic,visa required
 Mauritania,Chad,90
-Mauritania,Chile,visa required
+Mauritania,Chile,e-visa
 Mauritania,China,visa required
 Mauritania,Colombia,e-visa
 Mauritania,Comoros,visa on arrival
@@ -22054,7 +22054,7 @@ Mauritania,South Africa,visa required
 Mauritania,South Korea,e-visa
 Mauritania,South Sudan,e-visa
 Mauritania,Spain,visa required
-Mauritania,Sri Lanka,visa on arrival
+Mauritania,Sri Lanka,e-visa
 Mauritania,Saint Vincent and the Grenadines,90
 Mauritania,Sudan,visa required
 Mauritania,Suriname,visa required
@@ -22253,7 +22253,7 @@ Mauritius,South Africa,30
 Mauritius,South Korea,e-visa
 Mauritius,South Sudan,e-visa
 Mauritius,Spain,90
-Mauritius,Sri Lanka,visa on arrival
+Mauritius,Sri Lanka,e-visa
 Mauritius,Saint Vincent and the Grenadines,90
 Mauritius,Sudan,visa required
 Mauritius,Suriname,visa required
@@ -22452,7 +22452,7 @@ Mexico,South Africa,e-visa
 Mexico,South Korea,e-visa
 Mexico,South Sudan,e-visa
 Mexico,Spain,90
-Mexico,Sri Lanka,visa on arrival
+Mexico,Sri Lanka,e-visa
 Mexico,Saint Vincent and the Grenadines,90
 Mexico,Sudan,visa required
 Mexico,Suriname,visa required
@@ -22519,7 +22519,7 @@ Micronesia,Canada,visa required
 Micronesia,Cape Verde,visa on arrival
 Micronesia,Central African Republic,visa required
 Micronesia,Chad,e-visa
-Micronesia,Chile,visa required
+Micronesia,Chile,e-visa
 Micronesia,China,visa required
 Micronesia,Colombia,90
 Micronesia,Comoros,visa on arrival
@@ -22564,7 +22564,7 @@ Micronesia,Hungary,90
 Micronesia,Iceland,90
 Micronesia,India,e-visa
 Micronesia,Indonesia,e-visa
-Micronesia,Iran,visa on arrival
+Micronesia,Iran,e-visa
 Micronesia,Iraq,e-visa
 Micronesia,Ireland,visa required
 Micronesia,Israel,e-visa
@@ -22651,7 +22651,7 @@ Micronesia,South Africa,visa required
 Micronesia,South Korea,30
 Micronesia,South Sudan,e-visa
 Micronesia,Spain,90
-Micronesia,Sri Lanka,visa on arrival
+Micronesia,Sri Lanka,e-visa
 Micronesia,Saint Vincent and the Grenadines,90
 Micronesia,Sudan,visa required
 Micronesia,Suriname,visa required
@@ -22763,7 +22763,7 @@ Moldova,Hungary,90
 Moldova,Iceland,90
 Moldova,India,e-visa
 Moldova,Indonesia,e-visa
-Moldova,Iran,visa on arrival
+Moldova,Iran,e-visa
 Moldova,Iraq,e-visa
 Moldova,Ireland,visa required
 Moldova,Israel,e-visa
@@ -22850,7 +22850,7 @@ Moldova,South Africa,visa required
 Moldova,South Korea,e-visa
 Moldova,South Sudan,e-visa
 Moldova,Spain,90
-Moldova,Sri Lanka,visa on arrival
+Moldova,Sri Lanka,e-visa
 Moldova,Saint Vincent and the Grenadines,90
 Moldova,Sudan,visa required
 Moldova,Suriname,visa required
@@ -22962,7 +22962,7 @@ Monaco,Hungary,90
 Monaco,Iceland,90
 Monaco,India,e-visa
 Monaco,Indonesia,visa on arrival
-Monaco,Iran,visa on arrival
+Monaco,Iran,e-visa
 Monaco,Iraq,e-visa
 Monaco,Ireland,90
 Monaco,Israel,e-visa
@@ -23049,7 +23049,7 @@ Monaco,South Africa,90
 Monaco,South Korea,30
 Monaco,South Sudan,e-visa
 Monaco,Spain,90
-Monaco,Sri Lanka,visa on arrival
+Monaco,Sri Lanka,e-visa
 Monaco,Saint Vincent and the Grenadines,90
 Monaco,Sudan,visa required
 Monaco,Suriname,visa required
@@ -23161,7 +23161,7 @@ Mongolia,Hungary,visa required
 Mongolia,Iceland,visa required
 Mongolia,India,e-visa
 Mongolia,Indonesia,visa on arrival
-Mongolia,Iran,visa on arrival
+Mongolia,Iran,e-visa
 Mongolia,Iraq,e-visa
 Mongolia,Ireland,visa required
 Mongolia,Israel,e-visa
@@ -23248,7 +23248,7 @@ Mongolia,South Africa,visa required
 Mongolia,South Korea,e-visa
 Mongolia,South Sudan,e-visa
 Mongolia,Spain,visa required
-Mongolia,Sri Lanka,visa on arrival
+Mongolia,Sri Lanka,e-visa
 Mongolia,Saint Vincent and the Grenadines,90
 Mongolia,Sudan,visa required
 Mongolia,Suriname,visa required
@@ -23360,7 +23360,7 @@ Montenegro,Hungary,90
 Montenegro,Iceland,90
 Montenegro,India,e-visa
 Montenegro,Indonesia,e-visa
-Montenegro,Iran,visa on arrival
+Montenegro,Iran,e-visa
 Montenegro,Iraq,e-visa
 Montenegro,Ireland,visa required
 Montenegro,Israel,e-visa
@@ -23447,7 +23447,7 @@ Montenegro,South Africa,visa required
 Montenegro,South Korea,e-visa
 Montenegro,South Sudan,e-visa
 Montenegro,Spain,90
-Montenegro,Sri Lanka,visa on arrival
+Montenegro,Sri Lanka,visa required
 Montenegro,Saint Vincent and the Grenadines,90
 Montenegro,Sudan,visa required
 Montenegro,Suriname,visa required
@@ -23514,7 +23514,7 @@ Morocco,Canada,visa required
 Morocco,Cape Verde,90
 Morocco,Central African Republic,visa required
 Morocco,Chad,e-visa
-Morocco,Chile,visa required
+Morocco,Chile,e-visa
 Morocco,China,visa required
 Morocco,Colombia,90
 Morocco,Comoros,visa on arrival
@@ -23559,7 +23559,7 @@ Morocco,Hungary,visa required
 Morocco,Iceland,visa required
 Morocco,India,e-visa
 Morocco,Indonesia,visa on arrival
-Morocco,Iran,visa on arrival
+Morocco,Iran,e-visa
 Morocco,Iraq,e-visa
 Morocco,Ireland,visa required
 Morocco,Israel,e-visa
@@ -23646,7 +23646,7 @@ Morocco,South Africa,e-visa
 Morocco,South Korea,e-visa
 Morocco,South Sudan,e-visa
 Morocco,Spain,visa required
-Morocco,Sri Lanka,visa on arrival
+Morocco,Sri Lanka,e-visa
 Morocco,Saint Vincent and the Grenadines,90
 Morocco,Sudan,visa required
 Morocco,Suriname,visa required
@@ -23713,7 +23713,7 @@ Mozambique,Canada,visa required
 Mozambique,Cape Verde,visa on arrival
 Mozambique,Central African Republic,visa required
 Mozambique,Chad,e-visa
-Mozambique,Chile,visa required
+Mozambique,Chile,e-visa
 Mozambique,China,visa required
 Mozambique,Colombia,e-visa
 Mozambique,Comoros,visa on arrival
@@ -23758,7 +23758,7 @@ Mozambique,Hungary,visa required
 Mozambique,Iceland,visa required
 Mozambique,India,e-visa
 Mozambique,Indonesia,visa on arrival
-Mozambique,Iran,visa on arrival
+Mozambique,Iran,e-visa
 Mozambique,Iraq,e-visa
 Mozambique,Ireland,visa required
 Mozambique,Israel,e-visa
@@ -23845,7 +23845,7 @@ Mozambique,South Africa,30
 Mozambique,South Korea,e-visa
 Mozambique,South Sudan,e-visa
 Mozambique,Spain,visa required
-Mozambique,Sri Lanka,visa on arrival
+Mozambique,Sri Lanka,e-visa
 Mozambique,Saint Vincent and the Grenadines,90
 Mozambique,Sudan,visa required
 Mozambique,Suriname,visa required
@@ -23893,7 +23893,7 @@ Myanmar,Bahamas,e-visa
 Myanmar,Bahrain,e-visa
 Myanmar,Bangladesh,visa required
 Myanmar,Barbados,visa required
-Myanmar,Belarus,visa required
+Myanmar,Belarus,30
 Myanmar,Belgium,visa required
 Myanmar,Belize,visa required
 Myanmar,Benin,e-visa
@@ -23912,7 +23912,7 @@ Myanmar,Canada,visa required
 Myanmar,Cape Verde,visa required
 Myanmar,Central African Republic,visa required
 Myanmar,Chad,e-visa
-Myanmar,Chile,visa required
+Myanmar,Chile,e-visa
 Myanmar,China,visa required
 Myanmar,Colombia,e-visa
 Myanmar,Comoros,visa on arrival
@@ -23957,7 +23957,7 @@ Myanmar,Hungary,visa required
 Myanmar,Iceland,visa required
 Myanmar,India,e-visa
 Myanmar,Indonesia,30
-Myanmar,Iran,visa on arrival
+Myanmar,Iran,e-visa
 Myanmar,Iraq,e-visa
 Myanmar,Ireland,visa required
 Myanmar,Israel,e-visa
@@ -24044,7 +24044,7 @@ Myanmar,South Africa,visa required
 Myanmar,South Korea,e-visa
 Myanmar,South Sudan,e-visa
 Myanmar,Spain,visa required
-Myanmar,Sri Lanka,visa on arrival
+Myanmar,Sri Lanka,visa required
 Myanmar,Saint Vincent and the Grenadines,90
 Myanmar,Sudan,visa required
 Myanmar,Suriname,visa required
@@ -24111,7 +24111,7 @@ Namibia,Canada,visa required
 Namibia,Cape Verde,visa required
 Namibia,Central African Republic,visa required
 Namibia,Chad,e-visa
-Namibia,Chile,visa required
+Namibia,Chile,e-visa
 Namibia,China,visa required
 Namibia,Colombia,e-visa
 Namibia,Comoros,visa on arrival
@@ -24156,7 +24156,7 @@ Namibia,Hungary,visa required
 Namibia,Iceland,visa required
 Namibia,India,e-visa
 Namibia,Indonesia,e-visa
-Namibia,Iran,visa on arrival
+Namibia,Iran,e-visa
 Namibia,Iraq,e-visa
 Namibia,Ireland,visa required
 Namibia,Israel,e-visa
@@ -24243,7 +24243,7 @@ Namibia,South Africa,90
 Namibia,South Korea,e-visa
 Namibia,South Sudan,e-visa
 Namibia,Spain,visa required
-Namibia,Sri Lanka,visa on arrival
+Namibia,Sri Lanka,e-visa
 Namibia,Saint Vincent and the Grenadines,90
 Namibia,Sudan,visa required
 Namibia,Suriname,visa required
@@ -24310,7 +24310,7 @@ Nauru,Canada,visa required
 Nauru,Cape Verde,visa required
 Nauru,Central African Republic,visa required
 Nauru,Chad,e-visa
-Nauru,Chile,visa required
+Nauru,Chile,e-visa
 Nauru,China,visa required
 Nauru,Colombia,e-visa
 Nauru,Comoros,visa on arrival
@@ -24355,7 +24355,7 @@ Nauru,Hungary,visa required
 Nauru,Iceland,visa required
 Nauru,India,e-visa
 Nauru,Indonesia,e-visa
-Nauru,Iran,visa on arrival
+Nauru,Iran,e-visa
 Nauru,Iraq,e-visa
 Nauru,Ireland,visa required
 Nauru,Israel,e-visa
@@ -24380,7 +24380,7 @@ Nauru,Lithuania,visa required
 Nauru,Luxembourg,visa required
 Nauru,Macao,visa on arrival
 Nauru,Madagascar,visa on arrival
-Nauru,Malawi,e-visa
+Nauru,Malawi,90
 Nauru,Malaysia,visa free
 Nauru,Maldives,visa on arrival
 Nauru,Mali,visa required
@@ -24442,7 +24442,7 @@ Nauru,South Africa,visa required
 Nauru,South Korea,30
 Nauru,South Sudan,e-visa
 Nauru,Spain,visa required
-Nauru,Sri Lanka,visa on arrival
+Nauru,Sri Lanka,e-visa
 Nauru,Saint Vincent and the Grenadines,90
 Nauru,Sudan,visa required
 Nauru,Suriname,visa required
@@ -24509,7 +24509,7 @@ Nepal,Canada,visa required
 Nepal,Cape Verde,visa required
 Nepal,Central African Republic,visa required
 Nepal,Chad,e-visa
-Nepal,Chile,visa required
+Nepal,Chile,e-visa
 Nepal,China,visa required
 Nepal,Colombia,e-visa
 Nepal,Comoros,visa on arrival
@@ -24554,7 +24554,7 @@ Nepal,Hungary,visa required
 Nepal,Iceland,visa required
 Nepal,India,visa free
 Nepal,Indonesia,e-visa
-Nepal,Iran,visa on arrival
+Nepal,Iran,e-visa
 Nepal,Iraq,e-visa
 Nepal,Ireland,visa required
 Nepal,Israel,e-visa
@@ -24641,7 +24641,7 @@ Nepal,South Africa,visa required
 Nepal,South Korea,e-visa
 Nepal,South Sudan,e-visa
 Nepal,Spain,visa required
-Nepal,Sri Lanka,visa on arrival
+Nepal,Sri Lanka,e-visa
 Nepal,Saint Vincent and the Grenadines,90
 Nepal,Sudan,visa required
 Nepal,Suriname,e-visa
@@ -24753,7 +24753,7 @@ Netherlands,Hungary,visa free
 Netherlands,Iceland,visa free
 Netherlands,India,e-visa
 Netherlands,Indonesia,visa on arrival
-Netherlands,Iran,visa on arrival
+Netherlands,Iran,e-visa
 Netherlands,Iraq,e-visa
 Netherlands,Ireland,visa free
 Netherlands,Israel,e-visa
@@ -24766,7 +24766,7 @@ Netherlands,Kenya,e-visa
 Netherlands,Kiribati,90
 Netherlands,Kosovo,90
 Netherlands,Kuwait,visa on arrival
-Netherlands,Kyrgyzstan,60
+Netherlands,Kyrgyzstan,30
 Netherlands,Laos,visa on arrival
 Netherlands,Latvia,visa free
 Netherlands,Lebanon,visa on arrival
@@ -24840,7 +24840,7 @@ Netherlands,South Africa,90
 Netherlands,South Korea,90
 Netherlands,South Sudan,e-visa
 Netherlands,Spain,visa free
-Netherlands,Sri Lanka,visa on arrival
+Netherlands,Sri Lanka,e-visa
 Netherlands,Saint Vincent and the Grenadines,90
 Netherlands,Sudan,visa required
 Netherlands,Suriname,visa required
@@ -24952,7 +24952,7 @@ New Zealand,Hungary,90
 New Zealand,Iceland,90
 New Zealand,India,e-visa
 New Zealand,Indonesia,visa on arrival
-New Zealand,Iran,visa on arrival
+New Zealand,Iran,e-visa
 New Zealand,Iraq,e-visa
 New Zealand,Ireland,90
 New Zealand,Israel,e-visa
@@ -25039,7 +25039,7 @@ New Zealand,South Africa,90
 New Zealand,South Korea,90
 New Zealand,South Sudan,e-visa
 New Zealand,Spain,90
-New Zealand,Sri Lanka,visa on arrival
+New Zealand,Sri Lanka,e-visa
 New Zealand,Saint Vincent and the Grenadines,90
 New Zealand,Sudan,visa required
 New Zealand,Suriname,visa required
@@ -25151,7 +25151,7 @@ Nicaragua,Hungary,90
 Nicaragua,Iceland,90
 Nicaragua,India,e-visa
 Nicaragua,Indonesia,e-visa
-Nicaragua,Iran,visa on arrival
+Nicaragua,Iran,e-visa
 Nicaragua,Iraq,e-visa
 Nicaragua,Ireland,visa required
 Nicaragua,Israel,e-visa
@@ -25238,7 +25238,7 @@ Nicaragua,South Africa,visa required
 Nicaragua,South Korea,e-visa
 Nicaragua,South Sudan,e-visa
 Nicaragua,Spain,90
-Nicaragua,Sri Lanka,visa on arrival
+Nicaragua,Sri Lanka,e-visa
 Nicaragua,Saint Vincent and the Grenadines,90
 Nicaragua,Sudan,visa required
 Nicaragua,Suriname,visa required
@@ -25305,7 +25305,7 @@ Niger,Canada,visa required
 Niger,Cape Verde,visa free
 Niger,Central African Republic,90
 Niger,Chad,90
-Niger,Chile,visa required
+Niger,Chile,e-visa
 Niger,China,visa required
 Niger,Colombia,e-visa
 Niger,Comoros,visa on arrival
@@ -25336,7 +25336,7 @@ Niger,Gabon,e-visa
 Niger,Gambia,90
 Niger,Georgia,visa required
 Niger,Germany,visa required
-Niger,Ghana,e-visa
+Niger,Ghana,90
 Niger,Greece,visa required
 Niger,Grenada,visa required
 Niger,Guatemala,visa required
@@ -25350,7 +25350,7 @@ Niger,Hungary,visa required
 Niger,Iceland,visa required
 Niger,India,e-visa
 Niger,Indonesia,e-visa
-Niger,Iran,visa on arrival
+Niger,Iran,e-visa
 Niger,Iraq,e-visa
 Niger,Ireland,visa required
 Niger,Israel,e-visa
@@ -25437,7 +25437,7 @@ Niger,South Africa,e-visa
 Niger,South Korea,e-visa
 Niger,South Sudan,e-visa
 Niger,Spain,visa required
-Niger,Sri Lanka,visa on arrival
+Niger,Sri Lanka,e-visa
 Niger,Saint Vincent and the Grenadines,90
 Niger,Sudan,visa required
 Niger,Suriname,visa required
@@ -25504,7 +25504,7 @@ Nigeria,Canada,visa required
 Nigeria,Cape Verde,visa free
 Nigeria,Central African Republic,visa required
 Nigeria,Chad,90
-Nigeria,Chile,visa required
+Nigeria,Chile,e-visa
 Nigeria,China,visa required
 Nigeria,Colombia,e-visa
 Nigeria,Comoros,visa on arrival
@@ -25535,7 +25535,7 @@ Nigeria,Gabon,e-visa
 Nigeria,Gambia,90
 Nigeria,Georgia,visa required
 Nigeria,Germany,visa required
-Nigeria,Ghana,e-visa
+Nigeria,Ghana,90
 Nigeria,Greece,visa required
 Nigeria,Grenada,visa required
 Nigeria,Guatemala,visa required
@@ -25549,7 +25549,7 @@ Nigeria,Hungary,visa required
 Nigeria,Iceland,visa required
 Nigeria,India,visa required
 Nigeria,Indonesia,e-visa
-Nigeria,Iran,visa on arrival
+Nigeria,Iran,e-visa
 Nigeria,Iraq,e-visa
 Nigeria,Ireland,visa required
 Nigeria,Israel,e-visa
@@ -25703,7 +25703,7 @@ North Korea,Canada,visa required
 North Korea,Cape Verde,visa required
 North Korea,Central African Republic,visa required
 North Korea,Chad,e-visa
-North Korea,Chile,visa required
+North Korea,Chile,e-visa
 North Korea,China,visa required
 North Korea,Colombia,e-visa
 North Korea,Comoros,visa on arrival
@@ -25748,7 +25748,7 @@ North Korea,Hungary,visa required
 North Korea,Iceland,visa required
 North Korea,India,visa required
 North Korea,Indonesia,e-visa
-North Korea,Iran,visa on arrival
+North Korea,Iran,e-visa
 North Korea,Iraq,e-visa
 North Korea,Ireland,visa required
 North Korea,Israel,e-visa
@@ -25947,7 +25947,7 @@ North Macedonia,Hungary,90
 North Macedonia,Iceland,90
 North Macedonia,India,e-visa
 North Macedonia,Indonesia,e-visa
-North Macedonia,Iran,visa on arrival
+North Macedonia,Iran,e-visa
 North Macedonia,Iraq,e-visa
 North Macedonia,Ireland,visa required
 North Macedonia,Israel,e-visa
@@ -26034,7 +26034,7 @@ North Macedonia,South Africa,visa required
 North Macedonia,South Korea,e-visa
 North Macedonia,South Sudan,e-visa
 North Macedonia,Spain,90
-North Macedonia,Sri Lanka,visa on arrival
+North Macedonia,Sri Lanka,e-visa
 North Macedonia,Saint Vincent and the Grenadines,90
 North Macedonia,Sudan,visa required
 North Macedonia,Suriname,visa required
@@ -26146,7 +26146,7 @@ Norway,Hungary,visa free
 Norway,Iceland,visa free
 Norway,India,e-visa
 Norway,Indonesia,visa on arrival
-Norway,Iran,visa on arrival
+Norway,Iran,e-visa
 Norway,Iraq,e-visa
 Norway,Ireland,visa free
 Norway,Israel,e-visa
@@ -26233,7 +26233,7 @@ Norway,South Africa,90
 Norway,South Korea,90
 Norway,South Sudan,e-visa
 Norway,Spain,visa free
-Norway,Sri Lanka,visa on arrival
+Norway,Sri Lanka,e-visa
 Norway,Saint Vincent and the Grenadines,90
 Norway,Sudan,visa required
 Norway,Suriname,visa required
@@ -26300,7 +26300,7 @@ Oman,Canada,visa required
 Oman,Cape Verde,visa required
 Oman,Central African Republic,visa required
 Oman,Chad,e-visa
-Oman,Chile,visa required
+Oman,Chile,e-visa
 Oman,China,30
 Oman,Colombia,90
 Oman,Comoros,visa on arrival
@@ -26432,7 +26432,7 @@ Oman,South Africa,e-visa
 Oman,South Korea,30
 Oman,South Sudan,e-visa
 Oman,Spain,visa required
-Oman,Sri Lanka,visa on arrival
+Oman,Sri Lanka,e-visa
 Oman,Saint Vincent and the Grenadines,90
 Oman,Sudan,visa required
 Oman,Suriname,visa required
@@ -26499,7 +26499,7 @@ Pakistan,Canada,visa required
 Pakistan,Cape Verde,visa required
 Pakistan,Central African Republic,visa required
 Pakistan,Chad,e-visa
-Pakistan,Chile,visa required
+Pakistan,Chile,e-visa
 Pakistan,China,visa required
 Pakistan,Colombia,e-visa
 Pakistan,Comoros,visa on arrival
@@ -26631,7 +26631,7 @@ Pakistan,South Africa,e-visa
 Pakistan,South Korea,e-visa
 Pakistan,South Sudan,e-visa
 Pakistan,Spain,visa required
-Pakistan,Sri Lanka,visa on arrival
+Pakistan,Sri Lanka,e-visa
 Pakistan,Saint Vincent and the Grenadines,90
 Pakistan,Sudan,visa required
 Pakistan,Suriname,e-visa
@@ -26698,7 +26698,7 @@ Palau,Canada,visa required
 Palau,Cape Verde,visa required
 Palau,Central African Republic,visa required
 Palau,Chad,e-visa
-Palau,Chile,visa required
+Palau,Chile,e-visa
 Palau,China,visa required
 Palau,Colombia,90
 Palau,Comoros,visa on arrival
@@ -26743,7 +26743,7 @@ Palau,Hungary,90
 Palau,Iceland,90
 Palau,India,e-visa
 Palau,Indonesia,e-visa
-Palau,Iran,visa on arrival
+Palau,Iran,e-visa
 Palau,Iraq,e-visa
 Palau,Ireland,visa required
 Palau,Israel,e-visa
@@ -26830,7 +26830,7 @@ Palau,South Africa,visa required
 Palau,South Korea,30
 Palau,South Sudan,e-visa
 Palau,Spain,90
-Palau,Sri Lanka,visa on arrival
+Palau,Sri Lanka,e-visa
 Palau,Saint Vincent and the Grenadines,90
 Palau,Sudan,visa required
 Palau,Suriname,visa required
@@ -26897,7 +26897,7 @@ Palestine,Canada,visa required
 Palestine,Cape Verde,visa required
 Palestine,Central African Republic,visa required
 Palestine,Chad,e-visa
-Palestine,Chile,visa required
+Palestine,Chile,e-visa
 Palestine,China,visa required
 Palestine,Colombia,e-visa
 Palestine,Comoros,visa on arrival
@@ -26942,7 +26942,7 @@ Palestine,Hungary,visa required
 Palestine,Iceland,visa required
 Palestine,India,e-visa
 Palestine,Indonesia,visa on arrival
-Palestine,Iran,visa on arrival
+Palestine,Iran,e-visa
 Palestine,Iraq,e-visa
 Palestine,Ireland,visa required
 Palestine,Israel,e-visa
@@ -27029,7 +27029,7 @@ Palestine,South Africa,visa required
 Palestine,South Korea,e-visa
 Palestine,South Sudan,e-visa
 Palestine,Spain,visa required
-Palestine,Sri Lanka,visa on arrival
+Palestine,Sri Lanka,e-visa
 Palestine,Saint Vincent and the Grenadines,visa required
 Palestine,Sudan,visa required
 Palestine,Suriname,visa required
@@ -27141,7 +27141,7 @@ Panama,Hungary,90
 Panama,Iceland,90
 Panama,India,e-visa
 Panama,Indonesia,e-visa
-Panama,Iran,visa on arrival
+Panama,Iran,e-visa
 Panama,Iraq,e-visa
 Panama,Ireland,90
 Panama,Israel,e-visa
@@ -27228,7 +27228,7 @@ Panama,South Africa,90
 Panama,South Korea,e-visa
 Panama,South Sudan,e-visa
 Panama,Spain,90
-Panama,Sri Lanka,visa on arrival
+Panama,Sri Lanka,e-visa
 Panama,Saint Vincent and the Grenadines,90
 Panama,Sudan,visa required
 Panama,Suriname,visa required
@@ -27295,7 +27295,7 @@ Papua New Guinea,Canada,e-visa
 Papua New Guinea,Cape Verde,visa required
 Papua New Guinea,Central African Republic,visa required
 Papua New Guinea,Chad,e-visa
-Papua New Guinea,Chile,visa required
+Papua New Guinea,Chile,e-visa
 Papua New Guinea,China,visa required
 Papua New Guinea,Colombia,90
 Papua New Guinea,Comoros,visa on arrival
@@ -27340,7 +27340,7 @@ Papua New Guinea,Hungary,visa required
 Papua New Guinea,Iceland,visa required
 Papua New Guinea,India,e-visa
 Papua New Guinea,Indonesia,visa on arrival
-Papua New Guinea,Iran,visa on arrival
+Papua New Guinea,Iran,e-visa
 Papua New Guinea,Iraq,e-visa
 Papua New Guinea,Ireland,visa required
 Papua New Guinea,Israel,e-visa
@@ -27427,7 +27427,7 @@ Papua New Guinea,South Africa,visa required
 Papua New Guinea,South Korea,e-visa
 Papua New Guinea,South Sudan,e-visa
 Papua New Guinea,Spain,visa required
-Papua New Guinea,Sri Lanka,visa on arrival
+Papua New Guinea,Sri Lanka,e-visa
 Papua New Guinea,Saint Vincent and the Grenadines,90
 Papua New Guinea,Sudan,visa required
 Papua New Guinea,Suriname,visa required
@@ -27539,7 +27539,7 @@ Paraguay,Hungary,90
 Paraguay,Iceland,90
 Paraguay,India,e-visa
 Paraguay,Indonesia,e-visa
-Paraguay,Iran,visa on arrival
+Paraguay,Iran,e-visa
 Paraguay,Iraq,e-visa
 Paraguay,Ireland,90
 Paraguay,Israel,e-visa
@@ -27626,7 +27626,7 @@ Paraguay,South Africa,90
 Paraguay,South Korea,e-visa
 Paraguay,South Sudan,e-visa
 Paraguay,Spain,90
-Paraguay,Sri Lanka,visa on arrival
+Paraguay,Sri Lanka,e-visa
 Paraguay,Saint Vincent and the Grenadines,90
 Paraguay,Sudan,visa required
 Paraguay,Suriname,visa required
@@ -27825,7 +27825,7 @@ Peru,South Africa,30
 Peru,South Korea,e-visa
 Peru,South Sudan,e-visa
 Peru,Spain,90
-Peru,Sri Lanka,visa on arrival
+Peru,Sri Lanka,e-visa
 Peru,Saint Vincent and the Grenadines,90
 Peru,Sudan,visa required
 Peru,Suriname,visa required
@@ -27892,7 +27892,7 @@ Philippines,Canada,visa required
 Philippines,Cape Verde,visa required
 Philippines,Central African Republic,visa required
 Philippines,Chad,e-visa
-Philippines,Chile,visa required
+Philippines,Chile,e-visa
 Philippines,China,visa required
 Philippines,Colombia,90
 Philippines,Comoros,visa on arrival
@@ -27937,7 +27937,7 @@ Philippines,Hungary,visa required
 Philippines,Iceland,visa required
 Philippines,India,e-visa
 Philippines,Indonesia,30
-Philippines,Iran,visa on arrival
+Philippines,Iran,e-visa
 Philippines,Iraq,e-visa
 Philippines,Ireland,visa required
 Philippines,Israel,e-visa
@@ -28024,7 +28024,7 @@ Philippines,South Africa,e-visa
 Philippines,South Korea,e-visa
 Philippines,South Sudan,e-visa
 Philippines,Spain,visa required
-Philippines,Sri Lanka,visa on arrival
+Philippines,Sri Lanka,e-visa
 Philippines,Saint Vincent and the Grenadines,90
 Philippines,Sudan,visa required
 Philippines,Suriname,30
@@ -28136,7 +28136,7 @@ Poland,Hungary,visa free
 Poland,Iceland,visa free
 Poland,India,e-visa
 Poland,Indonesia,visa on arrival
-Poland,Iran,visa on arrival
+Poland,Iran,e-visa
 Poland,Iraq,e-visa
 Poland,Ireland,visa free
 Poland,Israel,e-visa
@@ -28149,7 +28149,7 @@ Poland,Kenya,e-visa
 Poland,Kiribati,90
 Poland,Kosovo,90
 Poland,Kuwait,visa on arrival
-Poland,Kyrgyzstan,60
+Poland,Kyrgyzstan,30
 Poland,Laos,visa on arrival
 Poland,Latvia,visa free
 Poland,Lebanon,visa on arrival
@@ -28223,7 +28223,7 @@ Poland,South Africa,30
 Poland,South Korea,90
 Poland,South Sudan,e-visa
 Poland,Spain,visa free
-Poland,Sri Lanka,visa on arrival
+Poland,Sri Lanka,e-visa
 Poland,Saint Vincent and the Grenadines,90
 Poland,Sudan,visa required
 Poland,Suriname,visa required
@@ -28335,7 +28335,7 @@ Portugal,Hungary,visa free
 Portugal,Iceland,visa free
 Portugal,India,e-visa
 Portugal,Indonesia,visa on arrival
-Portugal,Iran,visa on arrival
+Portugal,Iran,e-visa
 Portugal,Iraq,e-visa
 Portugal,Ireland,visa free
 Portugal,Israel,e-visa
@@ -28348,7 +28348,7 @@ Portugal,Kenya,e-visa
 Portugal,Kiribati,90
 Portugal,Kosovo,90
 Portugal,Kuwait,visa on arrival
-Portugal,Kyrgyzstan,60
+Portugal,Kyrgyzstan,30
 Portugal,Laos,visa on arrival
 Portugal,Latvia,visa free
 Portugal,Lebanon,visa on arrival
@@ -28422,7 +28422,7 @@ Portugal,South Africa,90
 Portugal,South Korea,90
 Portugal,South Sudan,e-visa
 Portugal,Spain,visa free
-Portugal,Sri Lanka,visa on arrival
+Portugal,Sri Lanka,e-visa
 Portugal,Saint Vincent and the Grenadines,90
 Portugal,Sudan,visa required
 Portugal,Suriname,visa required
@@ -28489,7 +28489,7 @@ Qatar,Canada,e-visa
 Qatar,Cape Verde,visa on arrival
 Qatar,Central African Republic,visa required
 Qatar,Chad,e-visa
-Qatar,Chile,visa required
+Qatar,Chile,e-visa
 Qatar,China,30
 Qatar,Colombia,90
 Qatar,Comoros,visa on arrival
@@ -28621,7 +28621,7 @@ Qatar,South Africa,90
 Qatar,South Korea,90
 Qatar,South Sudan,e-visa
 Qatar,Spain,visa required
-Qatar,Sri Lanka,visa on arrival
+Qatar,Sri Lanka,e-visa
 Qatar,Saint Vincent and the Grenadines,90
 Qatar,Sudan,30
 Qatar,Suriname,visa required
@@ -28733,7 +28733,7 @@ Romania,Hungary,visa free
 Romania,Iceland,visa free
 Romania,India,e-visa
 Romania,Indonesia,visa on arrival
-Romania,Iran,visa on arrival
+Romania,Iran,e-visa
 Romania,Iraq,e-visa
 Romania,Ireland,visa free
 Romania,Israel,e-visa
@@ -28746,7 +28746,7 @@ Romania,Kenya,e-visa
 Romania,Kiribati,90
 Romania,Kosovo,90
 Romania,Kuwait,visa on arrival
-Romania,Kyrgyzstan,60
+Romania,Kyrgyzstan,30
 Romania,Laos,visa on arrival
 Romania,Latvia,visa free
 Romania,Lebanon,visa on arrival
@@ -28820,7 +28820,7 @@ Romania,South Africa,90
 Romania,South Korea,90
 Romania,South Sudan,e-visa
 Romania,Spain,visa free
-Romania,Sri Lanka,visa on arrival
+Romania,Sri Lanka,e-visa
 Romania,Saint Vincent and the Grenadines,90
 Romania,Sudan,visa required
 Romania,Suriname,visa required
@@ -28932,7 +28932,7 @@ Russia,Hungary,visa required
 Russia,Iceland,visa required
 Russia,India,e-visa
 Russia,Indonesia,visa on arrival
-Russia,Iran,visa on arrival
+Russia,Iran,e-visa
 Russia,Iraq,e-visa
 Russia,Ireland,visa required
 Russia,Israel,e-visa
@@ -29019,14 +29019,14 @@ Russia,South Africa,90
 Russia,South Korea,e-visa
 Russia,South Sudan,e-visa
 Russia,Spain,visa required
-Russia,Sri Lanka,visa on arrival
+Russia,Sri Lanka,e-visa
 Russia,Saint Vincent and the Grenadines,90
 Russia,Sudan,visa required
 Russia,Suriname,visa required
 Russia,Sweden,visa required
 Russia,Switzerland,visa required
 Russia,Syria,e-visa
-Russia,Taiwan,visa required
+Russia,Taiwan,e-visa
 Russia,Tajikistan,visa free
 Russia,Tanzania,visa on arrival
 Russia,Thailand,visa free
@@ -29086,7 +29086,7 @@ Rwanda,Canada,visa required
 Rwanda,Cape Verde,visa required
 Rwanda,Central African Republic,90
 Rwanda,Chad,90
-Rwanda,Chile,visa required
+Rwanda,Chile,e-visa
 Rwanda,China,visa required
 Rwanda,Colombia,e-visa
 Rwanda,Comoros,visa on arrival
@@ -29131,7 +29131,7 @@ Rwanda,Hungary,visa required
 Rwanda,Iceland,visa required
 Rwanda,India,e-visa
 Rwanda,Indonesia,visa on arrival
-Rwanda,Iran,visa on arrival
+Rwanda,Iran,e-visa
 Rwanda,Iraq,e-visa
 Rwanda,Ireland,visa required
 Rwanda,Israel,e-visa
@@ -29218,7 +29218,7 @@ Rwanda,South Africa,visa required
 Rwanda,South Korea,e-visa
 Rwanda,South Sudan,visa on arrival
 Rwanda,Spain,visa required
-Rwanda,Sri Lanka,visa on arrival
+Rwanda,Sri Lanka,e-visa
 Rwanda,Saint Vincent and the Grenadines,90
 Rwanda,Sudan,visa required
 Rwanda,Suriname,visa required
@@ -29330,7 +29330,7 @@ Saint Kitts and Nevis,Hungary,90
 Saint Kitts and Nevis,Iceland,90
 Saint Kitts and Nevis,India,e-visa
 Saint Kitts and Nevis,Indonesia,e-visa
-Saint Kitts and Nevis,Iran,visa on arrival
+Saint Kitts and Nevis,Iran,e-visa
 Saint Kitts and Nevis,Iraq,e-visa
 Saint Kitts and Nevis,Ireland,visa required
 Saint Kitts and Nevis,Israel,e-visa
@@ -29355,7 +29355,7 @@ Saint Kitts and Nevis,Lithuania,90
 Saint Kitts and Nevis,Luxembourg,90
 Saint Kitts and Nevis,Macao,visa on arrival
 Saint Kitts and Nevis,Madagascar,visa on arrival
-Saint Kitts and Nevis,Malawi,e-visa
+Saint Kitts and Nevis,Malawi,90
 Saint Kitts and Nevis,Malaysia,visa free
 Saint Kitts and Nevis,Maldives,visa on arrival
 Saint Kitts and Nevis,Mali,visa required
@@ -29417,7 +29417,7 @@ Saint Kitts and Nevis,South Africa,visa required
 Saint Kitts and Nevis,South Korea,e-visa
 Saint Kitts and Nevis,South Sudan,e-visa
 Saint Kitts and Nevis,Spain,90
-Saint Kitts and Nevis,Sri Lanka,visa on arrival
+Saint Kitts and Nevis,Sri Lanka,e-visa
 Saint Kitts and Nevis,Saint Vincent and the Grenadines,visa free
 Saint Kitts and Nevis,Sudan,visa required
 Saint Kitts and Nevis,Suriname,180
@@ -29529,7 +29529,7 @@ Saint Lucia,Hungary,90
 Saint Lucia,Iceland,90
 Saint Lucia,India,e-visa
 Saint Lucia,Indonesia,e-visa
-Saint Lucia,Iran,visa on arrival
+Saint Lucia,Iran,e-visa
 Saint Lucia,Iraq,e-visa
 Saint Lucia,Ireland,visa required
 Saint Lucia,Israel,e-visa
@@ -29616,7 +29616,7 @@ Saint Lucia,South Africa,visa required
 Saint Lucia,South Korea,e-visa
 Saint Lucia,South Sudan,e-visa
 Saint Lucia,Spain,90
-Saint Lucia,Sri Lanka,visa on arrival
+Saint Lucia,Sri Lanka,e-visa
 Saint Lucia,Saint Vincent and the Grenadines,visa free
 Saint Lucia,Sudan,visa required
 Saint Lucia,Suriname,180
@@ -29683,7 +29683,7 @@ Samoa,Canada,e-visa
 Samoa,Cape Verde,visa required
 Samoa,Central African Republic,visa required
 Samoa,Chad,e-visa
-Samoa,Chile,visa required
+Samoa,Chile,e-visa
 Samoa,China,30
 Samoa,Colombia,90
 Samoa,Comoros,visa on arrival
@@ -29728,7 +29728,7 @@ Samoa,Hungary,90
 Samoa,Iceland,90
 Samoa,India,e-visa
 Samoa,Indonesia,e-visa
-Samoa,Iran,visa on arrival
+Samoa,Iran,e-visa
 Samoa,Iraq,e-visa
 Samoa,Ireland,90
 Samoa,Israel,e-visa
@@ -29753,7 +29753,7 @@ Samoa,Lithuania,90
 Samoa,Luxembourg,90
 Samoa,Macao,30
 Samoa,Madagascar,visa on arrival
-Samoa,Malawi,e-visa
+Samoa,Malawi,90
 Samoa,Malaysia,visa free
 Samoa,Maldives,visa on arrival
 Samoa,Mali,visa required
@@ -29815,7 +29815,7 @@ Samoa,South Africa,visa required
 Samoa,South Korea,30
 Samoa,South Sudan,e-visa
 Samoa,Spain,90
-Samoa,Sri Lanka,visa on arrival
+Samoa,Sri Lanka,e-visa
 Samoa,Saint Vincent and the Grenadines,90
 Samoa,Sudan,visa required
 Samoa,Suriname,visa required
@@ -29927,7 +29927,7 @@ San Marino,Hungary,90
 San Marino,Iceland,90
 San Marino,India,e-visa
 San Marino,Indonesia,visa on arrival
-San Marino,Iran,visa on arrival
+San Marino,Iran,e-visa
 San Marino,Iraq,e-visa
 San Marino,Ireland,90
 San Marino,Israel,e-visa
@@ -30014,7 +30014,7 @@ San Marino,South Africa,90
 San Marino,South Korea,30
 San Marino,South Sudan,e-visa
 San Marino,Spain,90
-San Marino,Sri Lanka,visa on arrival
+San Marino,Sri Lanka,e-visa
 San Marino,Saint Vincent and the Grenadines,90
 San Marino,Sudan,visa required
 San Marino,Suriname,visa required
@@ -30081,7 +30081,7 @@ Sao Tome and Principe,Canada,visa required
 Sao Tome and Principe,Cape Verde,visa on arrival
 Sao Tome and Principe,Central African Republic,visa required
 Sao Tome and Principe,Chad,e-visa
-Sao Tome and Principe,Chile,visa required
+Sao Tome and Principe,Chile,e-visa
 Sao Tome and Principe,China,visa required
 Sao Tome and Principe,Colombia,e-visa
 Sao Tome and Principe,Comoros,visa on arrival
@@ -30126,7 +30126,7 @@ Sao Tome and Principe,Hungary,visa required
 Sao Tome and Principe,Iceland,visa required
 Sao Tome and Principe,India,visa required
 Sao Tome and Principe,Indonesia,e-visa
-Sao Tome and Principe,Iran,visa on arrival
+Sao Tome and Principe,Iran,e-visa
 Sao Tome and Principe,Iraq,e-visa
 Sao Tome and Principe,Ireland,visa required
 Sao Tome and Principe,Israel,e-visa
@@ -30213,7 +30213,7 @@ Sao Tome and Principe,South Africa,90
 Sao Tome and Principe,South Korea,e-visa
 Sao Tome and Principe,South Sudan,e-visa
 Sao Tome and Principe,Spain,visa required
-Sao Tome and Principe,Sri Lanka,visa on arrival
+Sao Tome and Principe,Sri Lanka,e-visa
 Sao Tome and Principe,Saint Vincent and the Grenadines,90
 Sao Tome and Principe,Sudan,visa required
 Sao Tome and Principe,Suriname,visa required
@@ -30280,7 +30280,7 @@ Saudi Arabia,Canada,visa required
 Saudi Arabia,Cape Verde,visa on arrival
 Saudi Arabia,Central African Republic,visa required
 Saudi Arabia,Chad,e-visa
-Saudi Arabia,Chile,visa required
+Saudi Arabia,Chile,e-visa
 Saudi Arabia,China,30
 Saudi Arabia,Colombia,e-visa
 Saudi Arabia,Comoros,visa on arrival
@@ -30391,7 +30391,7 @@ Saudi Arabia,Poland,visa required
 Saudi Arabia,Portugal,visa required
 Saudi Arabia,Qatar,visa free
 Saudi Arabia,Romania,visa required
-Saudi Arabia,Russia,60
+Saudi Arabia,Russia,90
 Saudi Arabia,Rwanda,visa on arrival
 Saudi Arabia,Saint Kitts and Nevis,e-visa
 Saudi Arabia,Saint Lucia,visa required
@@ -30412,7 +30412,7 @@ Saudi Arabia,South Africa,90
 Saudi Arabia,South Korea,30
 Saudi Arabia,South Sudan,e-visa
 Saudi Arabia,Spain,visa required
-Saudi Arabia,Sri Lanka,visa on arrival
+Saudi Arabia,Sri Lanka,e-visa
 Saudi Arabia,Saint Vincent and the Grenadines,90
 Saudi Arabia,Sudan,visa required
 Saudi Arabia,Suriname,visa required
@@ -30479,7 +30479,7 @@ Senegal,Canada,visa required
 Senegal,Cape Verde,visa free
 Senegal,Central African Republic,90
 Senegal,Chad,90
-Senegal,Chile,visa required
+Senegal,Chile,e-visa
 Senegal,China,visa required
 Senegal,Colombia,e-visa
 Senegal,Comoros,visa on arrival
@@ -30510,7 +30510,7 @@ Senegal,Gabon,e-visa
 Senegal,Gambia,90
 Senegal,Georgia,visa required
 Senegal,Germany,visa required
-Senegal,Ghana,e-visa
+Senegal,Ghana,90
 Senegal,Greece,visa required
 Senegal,Grenada,visa required
 Senegal,Guatemala,visa required
@@ -30524,7 +30524,7 @@ Senegal,Hungary,visa required
 Senegal,Iceland,visa required
 Senegal,India,e-visa
 Senegal,Indonesia,e-visa
-Senegal,Iran,visa on arrival
+Senegal,Iran,e-visa
 Senegal,Iraq,e-visa
 Senegal,Ireland,visa required
 Senegal,Israel,e-visa
@@ -30611,7 +30611,7 @@ Senegal,South Africa,e-visa
 Senegal,South Korea,e-visa
 Senegal,South Sudan,e-visa
 Senegal,Spain,visa required
-Senegal,Sri Lanka,visa on arrival
+Senegal,Sri Lanka,e-visa
 Senegal,Saint Vincent and the Grenadines,90
 Senegal,Sudan,visa required
 Senegal,Suriname,visa required
@@ -30810,7 +30810,7 @@ Serbia,South Africa,visa required
 Serbia,South Korea,e-visa
 Serbia,South Sudan,e-visa
 Serbia,Spain,90
-Serbia,Sri Lanka,visa on arrival
+Serbia,Sri Lanka,e-visa
 Serbia,Saint Vincent and the Grenadines,90
 Serbia,Sudan,visa required
 Serbia,Suriname,30
@@ -30877,7 +30877,7 @@ Seychelles,Canada,visa required
 Seychelles,Cape Verde,visa on arrival
 Seychelles,Central African Republic,visa required
 Seychelles,Chad,e-visa
-Seychelles,Chile,visa required
+Seychelles,Chile,e-visa
 Seychelles,China,30
 Seychelles,Colombia,e-visa
 Seychelles,Comoros,visa on arrival
@@ -31009,7 +31009,7 @@ Seychelles,South Africa,30
 Seychelles,South Korea,e-visa
 Seychelles,South Sudan,e-visa
 Seychelles,Spain,90
-Seychelles,Sri Lanka,visa on arrival
+Seychelles,Sri Lanka,e-visa
 Seychelles,Saint Vincent and the Grenadines,90
 Seychelles,Sudan,visa required
 Seychelles,Suriname,visa required
@@ -31076,7 +31076,7 @@ Sierra Leone,Canada,visa required
 Sierra Leone,Cape Verde,visa free
 Sierra Leone,Central African Republic,visa required
 Sierra Leone,Chad,e-visa
-Sierra Leone,Chile,visa required
+Sierra Leone,Chile,e-visa
 Sierra Leone,China,visa required
 Sierra Leone,Colombia,e-visa
 Sierra Leone,Comoros,visa on arrival
@@ -31107,7 +31107,7 @@ Sierra Leone,Gabon,e-visa
 Sierra Leone,Gambia,90
 Sierra Leone,Georgia,visa required
 Sierra Leone,Germany,visa required
-Sierra Leone,Ghana,e-visa
+Sierra Leone,Ghana,90
 Sierra Leone,Greece,visa required
 Sierra Leone,Grenada,90
 Sierra Leone,Guatemala,visa required
@@ -31121,7 +31121,7 @@ Sierra Leone,Hungary,visa required
 Sierra Leone,Iceland,visa required
 Sierra Leone,India,e-visa
 Sierra Leone,Indonesia,e-visa
-Sierra Leone,Iran,visa on arrival
+Sierra Leone,Iran,e-visa
 Sierra Leone,Iraq,e-visa
 Sierra Leone,Ireland,visa required
 Sierra Leone,Israel,e-visa
@@ -31208,7 +31208,7 @@ Sierra Leone,South Africa,visa required
 Sierra Leone,South Korea,e-visa
 Sierra Leone,South Sudan,e-visa
 Sierra Leone,Spain,visa required
-Sierra Leone,Sri Lanka,visa on arrival
+Sierra Leone,Sri Lanka,e-visa
 Sierra Leone,Saint Vincent and the Grenadines,90
 Sierra Leone,Sudan,visa required
 Sierra Leone,Suriname,visa required
@@ -31251,7 +31251,7 @@ Singapore,Argentina,90
 Singapore,Armenia,180
 Singapore,Australia,e-visa
 Singapore,Austria,90
-Singapore,Azerbaijan,visa on arrival
+Singapore,Azerbaijan,30
 Singapore,Bahamas,90
 Singapore,Bahrain,visa on arrival
 Singapore,Bangladesh,visa on arrival
@@ -31407,7 +31407,7 @@ Singapore,South Africa,90
 Singapore,South Korea,90
 Singapore,South Sudan,e-visa
 Singapore,Spain,90
-Singapore,Sri Lanka,visa on arrival
+Singapore,Sri Lanka,e-visa
 Singapore,Saint Vincent and the Grenadines,90
 Singapore,Sudan,visa required
 Singapore,Suriname,visa required
@@ -31519,7 +31519,7 @@ Slovakia,Hungary,visa free
 Slovakia,Iceland,visa free
 Slovakia,India,e-visa
 Slovakia,Indonesia,visa on arrival
-Slovakia,Iran,visa on arrival
+Slovakia,Iran,e-visa
 Slovakia,Iraq,e-visa
 Slovakia,Ireland,visa free
 Slovakia,Israel,e-visa
@@ -31532,7 +31532,7 @@ Slovakia,Kenya,e-visa
 Slovakia,Kiribati,90
 Slovakia,Kosovo,90
 Slovakia,Kuwait,visa on arrival
-Slovakia,Kyrgyzstan,60
+Slovakia,Kyrgyzstan,30
 Slovakia,Laos,visa on arrival
 Slovakia,Latvia,visa free
 Slovakia,Lebanon,visa on arrival
@@ -31606,7 +31606,7 @@ Slovakia,South Africa,90
 Slovakia,South Korea,90
 Slovakia,South Sudan,e-visa
 Slovakia,Spain,visa free
-Slovakia,Sri Lanka,visa on arrival
+Slovakia,Sri Lanka,e-visa
 Slovakia,Saint Vincent and the Grenadines,90
 Slovakia,Sudan,visa required
 Slovakia,Suriname,visa required
@@ -31718,7 +31718,7 @@ Slovenia,Hungary,visa free
 Slovenia,Iceland,visa free
 Slovenia,India,e-visa
 Slovenia,Indonesia,visa on arrival
-Slovenia,Iran,visa on arrival
+Slovenia,Iran,e-visa
 Slovenia,Iraq,e-visa
 Slovenia,Ireland,visa free
 Slovenia,Israel,e-visa
@@ -31731,7 +31731,7 @@ Slovenia,Kenya,e-visa
 Slovenia,Kiribati,90
 Slovenia,Kosovo,90
 Slovenia,Kuwait,visa on arrival
-Slovenia,Kyrgyzstan,60
+Slovenia,Kyrgyzstan,30
 Slovenia,Laos,visa on arrival
 Slovenia,Latvia,visa free
 Slovenia,Lebanon,visa on arrival
@@ -31805,7 +31805,7 @@ Slovenia,South Africa,90
 Slovenia,South Korea,90
 Slovenia,South Sudan,e-visa
 Slovenia,Spain,visa free
-Slovenia,Sri Lanka,visa on arrival
+Slovenia,Sri Lanka,e-visa
 Slovenia,Saint Vincent and the Grenadines,90
 Slovenia,Sudan,visa required
 Slovenia,Suriname,visa required
@@ -31872,7 +31872,7 @@ Solomon Islands,Canada,e-visa
 Solomon Islands,Cape Verde,visa on arrival
 Solomon Islands,Central African Republic,visa required
 Solomon Islands,Chad,e-visa
-Solomon Islands,Chile,visa required
+Solomon Islands,Chile,e-visa
 Solomon Islands,China,30
 Solomon Islands,Colombia,90
 Solomon Islands,Comoros,visa on arrival
@@ -31917,7 +31917,7 @@ Solomon Islands,Hungary,90
 Solomon Islands,Iceland,90
 Solomon Islands,India,e-visa
 Solomon Islands,Indonesia,e-visa
-Solomon Islands,Iran,visa on arrival
+Solomon Islands,Iran,e-visa
 Solomon Islands,Iraq,e-visa
 Solomon Islands,Ireland,90
 Solomon Islands,Israel,e-visa
@@ -32004,7 +32004,7 @@ Solomon Islands,South Africa,visa required
 Solomon Islands,South Korea,e-visa
 Solomon Islands,South Sudan,e-visa
 Solomon Islands,Spain,90
-Solomon Islands,Sri Lanka,visa on arrival
+Solomon Islands,Sri Lanka,e-visa
 Solomon Islands,Saint Vincent and the Grenadines,90
 Solomon Islands,Sudan,visa required
 Solomon Islands,Suriname,visa required
@@ -32071,7 +32071,7 @@ Somalia,Canada,no admission
 Somalia,Cape Verde,visa required
 Somalia,Central African Republic,visa required
 Somalia,Chad,e-visa
-Somalia,Chile,visa required
+Somalia,Chile,e-visa
 Somalia,China,visa required
 Somalia,Colombia,e-visa
 Somalia,Comoros,visa on arrival
@@ -32125,7 +32125,7 @@ Somalia,Jamaica,visa required
 Somalia,Japan,visa required
 Somalia,Jordan,visa required
 Somalia,Kazakhstan,e-visa
-Somalia,Kenya,60
+Somalia,Kenya,e-visa
 Somalia,Kiribati,visa required
 Somalia,Kosovo,visa required
 Somalia,Kuwait,visa required
@@ -32203,7 +32203,7 @@ Somalia,South Africa,visa required
 Somalia,South Korea,e-visa
 Somalia,South Sudan,e-visa
 Somalia,Spain,visa required
-Somalia,Sri Lanka,visa on arrival
+Somalia,Sri Lanka,e-visa
 Somalia,Saint Vincent and the Grenadines,90
 Somalia,Sudan,visa required
 Somalia,Suriname,e-visa
@@ -32315,7 +32315,7 @@ South Africa,Hungary,visa required
 South Africa,Iceland,visa required
 South Africa,India,e-visa
 South Africa,Indonesia,visa on arrival
-South Africa,Iran,visa on arrival
+South Africa,Iran,e-visa
 South Africa,Iraq,e-visa
 South Africa,Ireland,visa required
 South Africa,Israel,e-visa
@@ -32402,7 +32402,7 @@ South Africa,South Africa,-1
 South Africa,South Korea,e-visa
 South Africa,South Sudan,e-visa
 South Africa,Spain,visa required
-South Africa,Sri Lanka,visa on arrival
+South Africa,Sri Lanka,e-visa
 South Africa,Saint Vincent and the Grenadines,90
 South Africa,Sudan,visa required
 South Africa,Suriname,e-visa
@@ -32445,7 +32445,7 @@ South Korea,Argentina,90
 South Korea,Armenia,180
 South Korea,Australia,e-visa
 South Korea,Austria,90
-South Korea,Azerbaijan,visa on arrival
+South Korea,Azerbaijan,30
 South Korea,Bahamas,90
 South Korea,Bahrain,visa on arrival
 South Korea,Bangladesh,visa on arrival
@@ -32514,7 +32514,7 @@ South Korea,Hungary,90
 South Korea,Iceland,90
 South Korea,India,visa on arrival
 South Korea,Indonesia,visa on arrival
-South Korea,Iran,visa on arrival
+South Korea,Iran,e-visa
 South Korea,Iraq,e-visa
 South Korea,Ireland,90
 South Korea,Israel,e-visa
@@ -32601,7 +32601,7 @@ South Korea,South Africa,30
 South Korea,South Korea,-1
 South Korea,South Sudan,e-visa
 South Korea,Spain,90
-South Korea,Sri Lanka,visa on arrival
+South Korea,Sri Lanka,e-visa
 South Korea,Saint Vincent and the Grenadines,90
 South Korea,Sudan,visa required
 South Korea,Suriname,visa required
@@ -32668,7 +32668,7 @@ South Sudan,Canada,visa required
 South Sudan,Cape Verde,visa required
 South Sudan,Central African Republic,visa required
 South Sudan,Chad,e-visa
-South Sudan,Chile,visa required
+South Sudan,Chile,e-visa
 South Sudan,China,visa required
 South Sudan,Colombia,e-visa
 South Sudan,Comoros,visa on arrival
@@ -32713,7 +32713,7 @@ South Sudan,Hungary,visa required
 South Sudan,Iceland,visa required
 South Sudan,India,visa required
 South Sudan,Indonesia,e-visa
-South Sudan,Iran,visa on arrival
+South Sudan,Iran,e-visa
 South Sudan,Iraq,e-visa
 South Sudan,Ireland,visa required
 South Sudan,Israel,e-visa
@@ -32800,7 +32800,7 @@ South Sudan,South Africa,visa required
 South Sudan,South Korea,e-visa
 South Sudan,South Sudan,-1
 South Sudan,Spain,visa required
-South Sudan,Sri Lanka,visa on arrival
+South Sudan,Sri Lanka,e-visa
 South Sudan,Saint Vincent and the Grenadines,90
 South Sudan,Sudan,visa required
 South Sudan,Suriname,visa required
@@ -32912,7 +32912,7 @@ Spain,Hungary,visa free
 Spain,Iceland,visa free
 Spain,India,e-visa
 Spain,Indonesia,visa on arrival
-Spain,Iran,visa on arrival
+Spain,Iran,e-visa
 Spain,Iraq,e-visa
 Spain,Ireland,visa free
 Spain,Israel,e-visa
@@ -32925,7 +32925,7 @@ Spain,Kenya,e-visa
 Spain,Kiribati,90
 Spain,Kosovo,90
 Spain,Kuwait,visa on arrival
-Spain,Kyrgyzstan,60
+Spain,Kyrgyzstan,30
 Spain,Laos,visa on arrival
 Spain,Latvia,visa free
 Spain,Lebanon,visa on arrival
@@ -32999,7 +32999,7 @@ Spain,South Africa,90
 Spain,South Korea,90
 Spain,South Sudan,e-visa
 Spain,Spain,-1
-Spain,Sri Lanka,visa on arrival
+Spain,Sri Lanka,e-visa
 Spain,Saint Vincent and the Grenadines,90
 Spain,Sudan,visa required
 Spain,Suriname,visa required
@@ -33066,7 +33066,7 @@ Sri Lanka,Canada,visa required
 Sri Lanka,Cape Verde,visa required
 Sri Lanka,Central African Republic,visa required
 Sri Lanka,Chad,e-visa
-Sri Lanka,Chile,visa required
+Sri Lanka,Chile,e-visa
 Sri Lanka,China,visa required
 Sri Lanka,Colombia,e-visa
 Sri Lanka,Comoros,visa on arrival
@@ -33111,7 +33111,7 @@ Sri Lanka,Hungary,visa required
 Sri Lanka,Iceland,visa required
 Sri Lanka,India,e-visa
 Sri Lanka,Indonesia,e-visa
-Sri Lanka,Iran,visa on arrival
+Sri Lanka,Iran,e-visa
 Sri Lanka,Iraq,e-visa
 Sri Lanka,Ireland,visa required
 Sri Lanka,Israel,e-visa
@@ -33310,7 +33310,7 @@ Saint Vincent and the Grenadines,Hungary,90
 Saint Vincent and the Grenadines,Iceland,90
 Saint Vincent and the Grenadines,India,e-visa
 Saint Vincent and the Grenadines,Indonesia,e-visa
-Saint Vincent and the Grenadines,Iran,visa on arrival
+Saint Vincent and the Grenadines,Iran,e-visa
 Saint Vincent and the Grenadines,Iraq,e-visa
 Saint Vincent and the Grenadines,Ireland,90
 Saint Vincent and the Grenadines,Israel,e-visa
@@ -33397,7 +33397,7 @@ Saint Vincent and the Grenadines,South Africa,90
 Saint Vincent and the Grenadines,South Korea,e-visa
 Saint Vincent and the Grenadines,South Sudan,e-visa
 Saint Vincent and the Grenadines,Spain,90
-Saint Vincent and the Grenadines,Sri Lanka,visa on arrival
+Saint Vincent and the Grenadines,Sri Lanka,e-visa
 Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,-1
 Saint Vincent and the Grenadines,Sudan,visa required
 Saint Vincent and the Grenadines,Suriname,180
@@ -33464,7 +33464,7 @@ Sudan,Canada,visa required
 Sudan,Cape Verde,visa required
 Sudan,Central African Republic,visa required
 Sudan,Chad,e-visa
-Sudan,Chile,visa required
+Sudan,Chile,e-visa
 Sudan,China,visa required
 Sudan,Colombia,e-visa
 Sudan,Comoros,visa on arrival
@@ -33509,7 +33509,7 @@ Sudan,Hungary,visa required
 Sudan,Iceland,visa required
 Sudan,India,visa required
 Sudan,Indonesia,e-visa
-Sudan,Iran,visa on arrival
+Sudan,Iran,e-visa
 Sudan,Iraq,e-visa
 Sudan,Ireland,visa required
 Sudan,Israel,e-visa
@@ -33596,7 +33596,7 @@ Sudan,South Africa,visa required
 Sudan,South Korea,e-visa
 Sudan,South Sudan,e-visa
 Sudan,Spain,visa required
-Sudan,Sri Lanka,visa on arrival
+Sudan,Sri Lanka,e-visa
 Sudan,Saint Vincent and the Grenadines,90
 Sudan,Sudan,-1
 Sudan,Suriname,visa required
@@ -33663,7 +33663,7 @@ Suriname,Canada,visa required
 Suriname,Cape Verde,visa required
 Suriname,Central African Republic,visa required
 Suriname,Chad,e-visa
-Suriname,Chile,visa required
+Suriname,Chile,e-visa
 Suriname,China,30
 Suriname,Colombia,90
 Suriname,Comoros,visa on arrival
@@ -33708,7 +33708,7 @@ Suriname,Hungary,visa required
 Suriname,Iceland,visa required
 Suriname,India,e-visa
 Suriname,Indonesia,30
-Suriname,Iran,visa on arrival
+Suriname,Iran,e-visa
 Suriname,Iraq,e-visa
 Suriname,Ireland,visa required
 Suriname,Israel,e-visa
@@ -33795,7 +33795,7 @@ Suriname,South Africa,visa required
 Suriname,South Korea,e-visa
 Suriname,South Sudan,e-visa
 Suriname,Spain,visa required
-Suriname,Sri Lanka,visa on arrival
+Suriname,Sri Lanka,e-visa
 Suriname,Saint Vincent and the Grenadines,90
 Suriname,Sudan,visa required
 Suriname,Suriname,-1
@@ -33907,7 +33907,7 @@ Sweden,Hungary,visa free
 Sweden,Iceland,visa free
 Sweden,India,e-visa
 Sweden,Indonesia,visa on arrival
-Sweden,Iran,visa on arrival
+Sweden,Iran,e-visa
 Sweden,Iraq,e-visa
 Sweden,Ireland,visa free
 Sweden,Israel,e-visa
@@ -33920,7 +33920,7 @@ Sweden,Kenya,e-visa
 Sweden,Kiribati,90
 Sweden,Kosovo,90
 Sweden,Kuwait,visa on arrival
-Sweden,Kyrgyzstan,60
+Sweden,Kyrgyzstan,30
 Sweden,Laos,visa on arrival
 Sweden,Latvia,visa free
 Sweden,Lebanon,visa on arrival
@@ -33994,7 +33994,7 @@ Sweden,South Africa,90
 Sweden,South Korea,90
 Sweden,South Sudan,e-visa
 Sweden,Spain,visa free
-Sweden,Sri Lanka,visa on arrival
+Sweden,Sri Lanka,e-visa
 Sweden,Saint Vincent and the Grenadines,90
 Sweden,Sudan,visa required
 Sweden,Suriname,visa required
@@ -34106,7 +34106,7 @@ Switzerland,Hungary,visa free
 Switzerland,Iceland,visa free
 Switzerland,India,e-visa
 Switzerland,Indonesia,visa on arrival
-Switzerland,Iran,visa on arrival
+Switzerland,Iran,e-visa
 Switzerland,Iraq,e-visa
 Switzerland,Ireland,visa free
 Switzerland,Israel,e-visa
@@ -34193,7 +34193,7 @@ Switzerland,South Africa,90
 Switzerland,South Korea,90
 Switzerland,South Sudan,e-visa
 Switzerland,Spain,visa free
-Switzerland,Sri Lanka,visa on arrival
+Switzerland,Sri Lanka,e-visa
 Switzerland,Saint Vincent and the Grenadines,90
 Switzerland,Sudan,visa required
 Switzerland,Suriname,visa required
@@ -34260,7 +34260,7 @@ Syria,Canada,visa required
 Syria,Cape Verde,visa required
 Syria,Central African Republic,visa required
 Syria,Chad,e-visa
-Syria,Chile,visa required
+Syria,Chile,e-visa
 Syria,China,visa required
 Syria,Colombia,e-visa
 Syria,Comoros,visa on arrival
@@ -34504,7 +34504,7 @@ Taiwan,Hungary,90
 Taiwan,Iceland,90
 Taiwan,India,e-visa
 Taiwan,Indonesia,visa on arrival
-Taiwan,Iran,visa on arrival
+Taiwan,Iran,e-visa
 Taiwan,Iraq,e-visa
 Taiwan,Ireland,90
 Taiwan,Israel,e-visa
@@ -34591,7 +34591,7 @@ Taiwan,South Africa,visa required
 Taiwan,South Korea,90
 Taiwan,South Sudan,e-visa
 Taiwan,Spain,90
-Taiwan,Sri Lanka,visa on arrival
+Taiwan,Sri Lanka,e-visa
 Taiwan,Saint Vincent and the Grenadines,90
 Taiwan,Sudan,visa required
 Taiwan,Suriname,visa required
@@ -34658,7 +34658,7 @@ Tajikistan,Canada,visa required
 Tajikistan,Cape Verde,visa required
 Tajikistan,Central African Republic,visa required
 Tajikistan,Chad,e-visa
-Tajikistan,Chile,visa required
+Tajikistan,Chile,e-visa
 Tajikistan,China,visa required
 Tajikistan,Colombia,e-visa
 Tajikistan,Comoros,visa on arrival
@@ -34790,7 +34790,7 @@ Tajikistan,South Africa,visa required
 Tajikistan,South Korea,e-visa
 Tajikistan,South Sudan,e-visa
 Tajikistan,Spain,visa required
-Tajikistan,Sri Lanka,visa on arrival
+Tajikistan,Sri Lanka,e-visa
 Tajikistan,Saint Vincent and the Grenadines,90
 Tajikistan,Sudan,visa required
 Tajikistan,Suriname,visa required
@@ -34857,12 +34857,12 @@ Tanzania,Canada,visa required
 Tanzania,Cape Verde,visa required
 Tanzania,Central African Republic,visa required
 Tanzania,Chad,e-visa
-Tanzania,Chile,visa required
+Tanzania,Chile,e-visa
 Tanzania,China,visa required
 Tanzania,Colombia,e-visa
 Tanzania,Comoros,visa on arrival
 Tanzania,Congo,visa required
-Tanzania,DR Congo,visa on arrival
+Tanzania,DR Congo,visa free
 Tanzania,Costa Rica,visa required
 Tanzania,Ivory Coast,e-visa
 Tanzania,Croatia,visa required
@@ -34989,7 +34989,7 @@ Tanzania,South Africa,90
 Tanzania,South Korea,e-visa
 Tanzania,South Sudan,visa free
 Tanzania,Spain,visa required
-Tanzania,Sri Lanka,visa on arrival
+Tanzania,Sri Lanka,visa required
 Tanzania,Saint Vincent and the Grenadines,90
 Tanzania,Sudan,visa required
 Tanzania,Suriname,visa required
@@ -35101,7 +35101,7 @@ Thailand,Hungary,visa required
 Thailand,Iceland,visa required
 Thailand,India,e-visa
 Thailand,Indonesia,30
-Thailand,Iran,visa on arrival
+Thailand,Iran,e-visa
 Thailand,Iraq,e-visa
 Thailand,Ireland,visa required
 Thailand,Israel,e-visa
@@ -35188,7 +35188,7 @@ Thailand,South Africa,30
 Thailand,South Korea,e-visa
 Thailand,South Sudan,e-visa
 Thailand,Spain,visa required
-Thailand,Sri Lanka,visa on arrival
+Thailand,Sri Lanka,e-visa
 Thailand,Saint Vincent and the Grenadines,90
 Thailand,Sudan,visa required
 Thailand,Suriname,visa required
@@ -35255,7 +35255,7 @@ Timor-Leste,Canada,visa required
 Timor-Leste,Cape Verde,visa on arrival
 Timor-Leste,Central African Republic,visa required
 Timor-Leste,Chad,e-visa
-Timor-Leste,Chile,visa required
+Timor-Leste,Chile,e-visa
 Timor-Leste,China,visa required
 Timor-Leste,Colombia,e-visa
 Timor-Leste,Comoros,visa on arrival
@@ -35300,7 +35300,7 @@ Timor-Leste,Hungary,90
 Timor-Leste,Iceland,90
 Timor-Leste,India,e-visa
 Timor-Leste,Indonesia,30
-Timor-Leste,Iran,visa on arrival
+Timor-Leste,Iran,e-visa
 Timor-Leste,Iraq,e-visa
 Timor-Leste,Ireland,visa required
 Timor-Leste,Israel,e-visa
@@ -35387,7 +35387,7 @@ Timor-Leste,South Africa,visa required
 Timor-Leste,South Korea,e-visa
 Timor-Leste,South Sudan,e-visa
 Timor-Leste,Spain,90
-Timor-Leste,Sri Lanka,visa on arrival
+Timor-Leste,Sri Lanka,e-visa
 Timor-Leste,Saint Vincent and the Grenadines,90
 Timor-Leste,Sudan,visa required
 Timor-Leste,Suriname,visa required
@@ -35454,7 +35454,7 @@ Togo,Canada,visa required
 Togo,Cape Verde,visa free
 Togo,Central African Republic,visa required
 Togo,Chad,90
-Togo,Chile,visa required
+Togo,Chile,e-visa
 Togo,China,visa required
 Togo,Colombia,e-visa
 Togo,Comoros,visa on arrival
@@ -35485,7 +35485,7 @@ Togo,Gabon,e-visa
 Togo,Gambia,90
 Togo,Georgia,e-visa
 Togo,Germany,visa required
-Togo,Ghana,e-visa
+Togo,Ghana,90
 Togo,Greece,visa required
 Togo,Grenada,visa required
 Togo,Guatemala,visa required
@@ -35499,7 +35499,7 @@ Togo,Hungary,visa required
 Togo,Iceland,visa required
 Togo,India,e-visa
 Togo,Indonesia,e-visa
-Togo,Iran,visa on arrival
+Togo,Iran,e-visa
 Togo,Iraq,e-visa
 Togo,Ireland,visa required
 Togo,Israel,e-visa
@@ -35586,7 +35586,7 @@ Togo,South Africa,visa required
 Togo,South Korea,e-visa
 Togo,South Sudan,e-visa
 Togo,Spain,visa required
-Togo,Sri Lanka,visa on arrival
+Togo,Sri Lanka,e-visa
 Togo,Saint Vincent and the Grenadines,90
 Togo,Sudan,visa required
 Togo,Suriname,visa required
@@ -35698,7 +35698,7 @@ Tonga,Hungary,90
 Tonga,Iceland,90
 Tonga,India,e-visa
 Tonga,Indonesia,e-visa
-Tonga,Iran,visa on arrival
+Tonga,Iran,e-visa
 Tonga,Iraq,e-visa
 Tonga,Ireland,90
 Tonga,Israel,e-visa
@@ -35785,7 +35785,7 @@ Tonga,South Africa,visa required
 Tonga,South Korea,30
 Tonga,South Sudan,e-visa
 Tonga,Spain,90
-Tonga,Sri Lanka,visa on arrival
+Tonga,Sri Lanka,visa required
 Tonga,Saint Vincent and the Grenadines,90
 Tonga,Sudan,visa required
 Tonga,Suriname,visa required
@@ -35897,7 +35897,7 @@ Trinidad and Tobago,Hungary,90
 Trinidad and Tobago,Iceland,90
 Trinidad and Tobago,India,e-visa
 Trinidad and Tobago,Indonesia,e-visa
-Trinidad and Tobago,Iran,visa on arrival
+Trinidad and Tobago,Iran,e-visa
 Trinidad and Tobago,Iraq,e-visa
 Trinidad and Tobago,Ireland,visa required
 Trinidad and Tobago,Israel,e-visa
@@ -35984,7 +35984,7 @@ Trinidad and Tobago,South Africa,90
 Trinidad and Tobago,South Korea,e-visa
 Trinidad and Tobago,South Sudan,e-visa
 Trinidad and Tobago,Spain,90
-Trinidad and Tobago,Sri Lanka,visa on arrival
+Trinidad and Tobago,Sri Lanka,e-visa
 Trinidad and Tobago,Saint Vincent and the Grenadines,180
 Trinidad and Tobago,Sudan,visa required
 Trinidad and Tobago,Suriname,180
@@ -36051,7 +36051,7 @@ Tunisia,Canada,visa required
 Tunisia,Cape Verde,visa required
 Tunisia,Central African Republic,visa required
 Tunisia,Chad,e-visa
-Tunisia,Chile,visa required
+Tunisia,Chile,e-visa
 Tunisia,China,visa required
 Tunisia,Colombia,e-visa
 Tunisia,Comoros,visa on arrival
@@ -36183,7 +36183,7 @@ Tunisia,South Africa,90
 Tunisia,South Korea,e-visa
 Tunisia,South Sudan,e-visa
 Tunisia,Spain,visa required
-Tunisia,Sri Lanka,visa on arrival
+Tunisia,Sri Lanka,e-visa
 Tunisia,Saint Vincent and the Grenadines,90
 Tunisia,Sudan,visa required
 Tunisia,Suriname,e-visa
@@ -36382,7 +36382,7 @@ Turkey,South Africa,30
 Turkey,South Korea,e-visa
 Turkey,South Sudan,e-visa
 Turkey,Spain,visa required
-Turkey,Sri Lanka,visa on arrival
+Turkey,Sri Lanka,e-visa
 Turkey,Saint Vincent and the Grenadines,90
 Turkey,Sudan,visa on arrival
 Turkey,Suriname,visa required
@@ -36449,7 +36449,7 @@ Turkmenistan,Canada,visa required
 Turkmenistan,Cape Verde,visa required
 Turkmenistan,Central African Republic,visa required
 Turkmenistan,Chad,e-visa
-Turkmenistan,Chile,visa required
+Turkmenistan,Chile,e-visa
 Turkmenistan,China,visa required
 Turkmenistan,Colombia,e-visa
 Turkmenistan,Comoros,visa on arrival
@@ -36494,7 +36494,7 @@ Turkmenistan,Hungary,visa required
 Turkmenistan,Iceland,visa required
 Turkmenistan,India,visa required
 Turkmenistan,Indonesia,e-visa
-Turkmenistan,Iran,visa on arrival
+Turkmenistan,Iran,e-visa
 Turkmenistan,Iraq,e-visa
 Turkmenistan,Ireland,visa required
 Turkmenistan,Israel,e-visa
@@ -36581,7 +36581,7 @@ Turkmenistan,South Africa,visa required
 Turkmenistan,South Korea,e-visa
 Turkmenistan,South Sudan,e-visa
 Turkmenistan,Spain,visa required
-Turkmenistan,Sri Lanka,visa on arrival
+Turkmenistan,Sri Lanka,e-visa
 Turkmenistan,Saint Vincent and the Grenadines,90
 Turkmenistan,Sudan,visa required
 Turkmenistan,Suriname,visa required
@@ -36648,7 +36648,7 @@ Tuvalu,Canada,visa required
 Tuvalu,Cape Verde,visa required
 Tuvalu,Central African Republic,visa required
 Tuvalu,Chad,e-visa
-Tuvalu,Chile,visa required
+Tuvalu,Chile,e-visa
 Tuvalu,China,visa required
 Tuvalu,Colombia,e-visa
 Tuvalu,Comoros,visa on arrival
@@ -36693,7 +36693,7 @@ Tuvalu,Hungary,90
 Tuvalu,Iceland,90
 Tuvalu,India,e-visa
 Tuvalu,Indonesia,e-visa
-Tuvalu,Iran,visa on arrival
+Tuvalu,Iran,e-visa
 Tuvalu,Iraq,e-visa
 Tuvalu,Ireland,90
 Tuvalu,Israel,e-visa
@@ -36718,7 +36718,7 @@ Tuvalu,Lithuania,90
 Tuvalu,Luxembourg,90
 Tuvalu,Macao,visa on arrival
 Tuvalu,Madagascar,visa on arrival
-Tuvalu,Malawi,e-visa
+Tuvalu,Malawi,90
 Tuvalu,Malaysia,visa free
 Tuvalu,Maldives,visa on arrival
 Tuvalu,Mali,visa required
@@ -36780,7 +36780,7 @@ Tuvalu,South Africa,visa required
 Tuvalu,South Korea,30
 Tuvalu,South Sudan,e-visa
 Tuvalu,Spain,90
-Tuvalu,Sri Lanka,visa on arrival
+Tuvalu,Sri Lanka,e-visa
 Tuvalu,Saint Vincent and the Grenadines,90
 Tuvalu,Sudan,visa required
 Tuvalu,Suriname,visa required
@@ -36847,12 +36847,12 @@ Uganda,Canada,visa required
 Uganda,Cape Verde,visa required
 Uganda,Central African Republic,visa required
 Uganda,Chad,e-visa
-Uganda,Chile,visa required
+Uganda,Chile,e-visa
 Uganda,China,visa required
 Uganda,Colombia,e-visa
 Uganda,Comoros,visa on arrival
 Uganda,Congo,visa required
-Uganda,DR Congo,e-visa
+Uganda,DR Congo,visa free
 Uganda,Costa Rica,visa required
 Uganda,Ivory Coast,e-visa
 Uganda,Croatia,visa required
@@ -36892,7 +36892,7 @@ Uganda,Hungary,visa required
 Uganda,Iceland,visa required
 Uganda,India,e-visa
 Uganda,Indonesia,e-visa
-Uganda,Iran,visa on arrival
+Uganda,Iran,e-visa
 Uganda,Iraq,e-visa
 Uganda,Ireland,visa required
 Uganda,Israel,e-visa
@@ -36979,7 +36979,7 @@ Uganda,South Africa,e-visa
 Uganda,South Korea,e-visa
 Uganda,South Sudan,visa free
 Uganda,Spain,visa required
-Uganda,Sri Lanka,visa on arrival
+Uganda,Sri Lanka,e-visa
 Uganda,Saint Vincent and the Grenadines,90
 Uganda,Sudan,visa required
 Uganda,Suriname,visa required
@@ -37091,7 +37091,7 @@ Ukraine,Hungary,90
 Ukraine,Iceland,90
 Ukraine,India,e-visa
 Ukraine,Indonesia,visa on arrival
-Ukraine,Iran,visa on arrival
+Ukraine,Iran,e-visa
 Ukraine,Iraq,e-visa
 Ukraine,Ireland,90
 Ukraine,Israel,e-visa
@@ -37178,7 +37178,7 @@ Ukraine,South Africa,visa required
 Ukraine,South Korea,e-visa
 Ukraine,South Sudan,e-visa
 Ukraine,Spain,90
-Ukraine,Sri Lanka,visa on arrival
+Ukraine,Sri Lanka,e-visa
 Ukraine,Saint Vincent and the Grenadines,90
 Ukraine,Sudan,visa required
 Ukraine,Suriname,visa required
@@ -37377,7 +37377,7 @@ United Arab Emirates,South Africa,90
 United Arab Emirates,South Korea,90
 United Arab Emirates,South Sudan,e-visa
 United Arab Emirates,Spain,90
-United Arab Emirates,Sri Lanka,visa on arrival
+United Arab Emirates,Sri Lanka,e-visa
 United Arab Emirates,Saint Vincent and the Grenadines,90
 United Arab Emirates,Sudan,visa free
 United Arab Emirates,Suriname,visa required
@@ -37562,7 +37562,7 @@ United Kingdom,Saint Lucia,42
 United Kingdom,Samoa,visa on arrival
 United Kingdom,San Marino,90
 United Kingdom,Sao Tome and Principe,15
-United Kingdom,Saudi Arabia,visa on arrival
+United Kingdom,Saudi Arabia,e-visa
 United Kingdom,Senegal,90
 United Kingdom,Serbia,90
 United Kingdom,Seychelles,90
@@ -37576,7 +37576,7 @@ United Kingdom,South Africa,90
 United Kingdom,South Korea,90
 United Kingdom,South Sudan,e-visa
 United Kingdom,Spain,90
-United Kingdom,Sri Lanka,visa on arrival
+United Kingdom,Sri Lanka,e-visa
 United Kingdom,Saint Vincent and the Grenadines,180
 United Kingdom,Sudan,visa required
 United Kingdom,Suriname,visa required
@@ -37775,7 +37775,7 @@ United States,South Africa,90
 United States,South Korea,90
 United States,South Sudan,e-visa
 United States,Spain,90
-United States,Sri Lanka,visa on arrival
+United States,Sri Lanka,e-visa
 United States,Saint Vincent and the Grenadines,180
 United States,Sudan,visa required
 United States,Suriname,visa required
@@ -37887,7 +37887,7 @@ Uruguay,Hungary,90
 Uruguay,Iceland,90
 Uruguay,India,e-visa
 Uruguay,Indonesia,e-visa
-Uruguay,Iran,visa on arrival
+Uruguay,Iran,e-visa
 Uruguay,Iraq,e-visa
 Uruguay,Ireland,90
 Uruguay,Israel,e-visa
@@ -37974,7 +37974,7 @@ Uruguay,South Africa,90
 Uruguay,South Korea,e-visa
 Uruguay,South Sudan,e-visa
 Uruguay,Spain,90
-Uruguay,Sri Lanka,visa on arrival
+Uruguay,Sri Lanka,e-visa
 Uruguay,Saint Vincent and the Grenadines,90
 Uruguay,Sudan,visa required
 Uruguay,Suriname,visa required
@@ -38041,7 +38041,7 @@ Uzbekistan,Canada,visa required
 Uzbekistan,Cape Verde,visa required
 Uzbekistan,Central African Republic,visa required
 Uzbekistan,Chad,e-visa
-Uzbekistan,Chile,visa required
+Uzbekistan,Chile,e-visa
 Uzbekistan,China,30
 Uzbekistan,Colombia,e-visa
 Uzbekistan,Comoros,visa on arrival
@@ -38173,7 +38173,7 @@ Uzbekistan,South Africa,visa required
 Uzbekistan,South Korea,e-visa
 Uzbekistan,South Sudan,e-visa
 Uzbekistan,Spain,visa required
-Uzbekistan,Sri Lanka,visa on arrival
+Uzbekistan,Sri Lanka,visa required
 Uzbekistan,Saint Vincent and the Grenadines,90
 Uzbekistan,Sudan,visa required
 Uzbekistan,Suriname,visa required
@@ -38240,7 +38240,7 @@ Vanuatu,Canada,visa required
 Vanuatu,Cape Verde,visa required
 Vanuatu,Central African Republic,visa required
 Vanuatu,Chad,e-visa
-Vanuatu,Chile,visa required
+Vanuatu,Chile,e-visa
 Vanuatu,China,visa required
 Vanuatu,Colombia,e-visa
 Vanuatu,Comoros,visa on arrival
@@ -38285,7 +38285,7 @@ Vanuatu,Hungary,visa required
 Vanuatu,Iceland,visa required
 Vanuatu,India,e-visa
 Vanuatu,Indonesia,e-visa
-Vanuatu,Iran,visa on arrival
+Vanuatu,Iran,e-visa
 Vanuatu,Iraq,e-visa
 Vanuatu,Ireland,visa required
 Vanuatu,Israel,e-visa
@@ -38372,7 +38372,7 @@ Vanuatu,South Africa,visa required
 Vanuatu,South Korea,e-visa
 Vanuatu,South Sudan,e-visa
 Vanuatu,Spain,visa required
-Vanuatu,Sri Lanka,visa on arrival
+Vanuatu,Sri Lanka,e-visa
 Vanuatu,Saint Vincent and the Grenadines,90
 Vanuatu,Sudan,visa required
 Vanuatu,Suriname,visa required
@@ -38484,7 +38484,7 @@ Vatican,Hungary,90
 Vatican,Iceland,90
 Vatican,India,e-visa
 Vatican,Indonesia,visa on arrival
-Vatican,Iran,visa on arrival
+Vatican,Iran,e-visa
 Vatican,Iraq,e-visa
 Vatican,Ireland,90
 Vatican,Israel,e-visa
@@ -38571,7 +38571,7 @@ Vatican,South Africa,visa required
 Vatican,South Korea,30
 Vatican,South Sudan,e-visa
 Vatican,Spain,90
-Vatican,Sri Lanka,visa on arrival
+Vatican,Sri Lanka,e-visa
 Vatican,Saint Vincent and the Grenadines,90
 Vatican,Sudan,visa required
 Vatican,Suriname,visa required
@@ -38638,7 +38638,7 @@ Venezuela,Canada,visa required
 Venezuela,Cape Verde,visa required
 Venezuela,Central African Republic,visa required
 Venezuela,Chad,e-visa
-Venezuela,Chile,visa required
+Venezuela,Chile,e-visa
 Venezuela,China,visa required
 Venezuela,Colombia,90
 Venezuela,Comoros,visa on arrival
@@ -38770,7 +38770,7 @@ Venezuela,South Africa,90
 Venezuela,South Korea,e-visa
 Venezuela,South Sudan,e-visa
 Venezuela,Spain,90
-Venezuela,Sri Lanka,visa on arrival
+Venezuela,Sri Lanka,e-visa
 Venezuela,Saint Vincent and the Grenadines,90
 Venezuela,Sudan,visa required
 Venezuela,Suriname,e-visa
@@ -38969,7 +38969,7 @@ Vietnam,South Africa,visa required
 Vietnam,South Korea,e-visa
 Vietnam,South Sudan,e-visa
 Vietnam,Spain,visa required
-Vietnam,Sri Lanka,visa on arrival
+Vietnam,Sri Lanka,e-visa
 Vietnam,Saint Vincent and the Grenadines,90
 Vietnam,Sudan,visa required
 Vietnam,Suriname,visa required
@@ -39036,7 +39036,7 @@ Yemen,Canada,visa required
 Yemen,Cape Verde,visa required
 Yemen,Central African Republic,visa required
 Yemen,Chad,e-visa
-Yemen,Chile,visa required
+Yemen,Chile,e-visa
 Yemen,China,visa required
 Yemen,Colombia,e-visa
 Yemen,Comoros,visa on arrival
@@ -39081,7 +39081,7 @@ Yemen,Hungary,visa required
 Yemen,Iceland,visa required
 Yemen,India,visa required
 Yemen,Indonesia,e-visa
-Yemen,Iran,visa on arrival
+Yemen,Iran,e-visa
 Yemen,Iraq,e-visa
 Yemen,Ireland,visa required
 Yemen,Israel,e-visa
@@ -39168,7 +39168,7 @@ Yemen,South Africa,visa required
 Yemen,South Korea,e-visa
 Yemen,South Sudan,e-visa
 Yemen,Spain,visa required
-Yemen,Sri Lanka,visa on arrival
+Yemen,Sri Lanka,visa required
 Yemen,Saint Vincent and the Grenadines,90
 Yemen,Sudan,30
 Yemen,Suriname,visa required
@@ -39235,7 +39235,7 @@ Zambia,Canada,visa required
 Zambia,Cape Verde,visa required
 Zambia,Central African Republic,visa required
 Zambia,Chad,e-visa
-Zambia,Chile,visa required
+Zambia,Chile,e-visa
 Zambia,China,visa required
 Zambia,Colombia,e-visa
 Zambia,Comoros,visa on arrival
@@ -39280,7 +39280,7 @@ Zambia,Hungary,visa required
 Zambia,Iceland,visa required
 Zambia,India,e-visa
 Zambia,Indonesia,e-visa
-Zambia,Iran,visa on arrival
+Zambia,Iran,e-visa
 Zambia,Iraq,e-visa
 Zambia,Ireland,visa required
 Zambia,Israel,e-visa
@@ -39367,7 +39367,7 @@ Zambia,South Africa,90
 Zambia,South Korea,e-visa
 Zambia,South Sudan,e-visa
 Zambia,Spain,visa required
-Zambia,Sri Lanka,visa on arrival
+Zambia,Sri Lanka,e-visa
 Zambia,Saint Vincent and the Grenadines,90
 Zambia,Sudan,visa required
 Zambia,Suriname,e-visa
@@ -39434,7 +39434,7 @@ Zimbabwe,Canada,visa required
 Zimbabwe,Cape Verde,visa required
 Zimbabwe,Central African Republic,visa required
 Zimbabwe,Chad,e-visa
-Zimbabwe,Chile,visa required
+Zimbabwe,Chile,e-visa
 Zimbabwe,China,visa required
 Zimbabwe,Colombia,e-visa
 Zimbabwe,Comoros,visa on arrival
@@ -39566,7 +39566,7 @@ Zimbabwe,South Africa,90
 Zimbabwe,South Korea,e-visa
 Zimbabwe,South Sudan,e-visa
 Zimbabwe,Spain,visa required
-Zimbabwe,Sri Lanka,visa on arrival
+Zimbabwe,Sri Lanka,e-visa
 Zimbabwe,Saint Vincent and the Grenadines,90
 Zimbabwe,Sudan,visa required
 Zimbabwe,Suriname,visa required
