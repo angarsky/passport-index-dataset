@@ -290,7 +290,7 @@ Albania,Kiribati,visa required
 Albania,Kosovo,90
 Albania,Kuwait,visa required
 Albania,Kyrgyzstan,60
-Albania,Laos,visa on arrival
+Albania,Laos,e-visa
 Albania,Latvia,90
 Albania,Lebanon,visa required
 Albania,Lesotho,visa required
@@ -315,7 +315,7 @@ Albania,Moldova,90
 Albania,Monaco,90
 Albania,Mongolia,e-visa
 Albania,Montenegro,90
-Albania,Morocco,visa required
+Albania,Morocco,90
 Albania,Mozambique,visa on arrival
 Albania,Myanmar,e-visa
 Albania,Namibia,e-visa
@@ -373,7 +373,7 @@ Albania,Syria,e-visa
 Albania,Taiwan,90
 Albania,Tajikistan,e-visa
 Albania,Tanzania,visa on arrival
-Albania,Thailand,visa free
+Albania,Thailand,e-visa
 Albania,Timor-Leste,visa on arrival
 Albania,Togo,e-visa
 Albania,Tonga,visa required
@@ -688,7 +688,7 @@ Andorra,Kiribati,visa required
 Andorra,Kosovo,90
 Andorra,Kuwait,visa on arrival
 Andorra,Kyrgyzstan,60
-Andorra,Laos,visa on arrival
+Andorra,Laos,e-visa
 Andorra,Latvia,90
 Andorra,Lebanon,visa on arrival
 Andorra,Lesotho,visa required
@@ -771,7 +771,7 @@ Andorra,Syria,e-visa
 Andorra,Taiwan,90
 Andorra,Tajikistan,30
 Andorra,Tanzania,visa on arrival
-Andorra,Thailand,visa free
+Andorra,Thailand,e-visa
 Andorra,Timor-Leste,visa on arrival
 Andorra,Togo,e-visa
 Andorra,Tonga,visa required
@@ -887,7 +887,7 @@ Angola,Kiribati,visa required
 Angola,Kosovo,visa required
 Angola,Kuwait,visa required
 Angola,Kyrgyzstan,e-visa
-Angola,Laos,visa on arrival
+Angola,Laos,e-visa
 Angola,Latvia,visa required
 Angola,Lebanon,visa required
 Angola,Lesotho,visa required
@@ -1058,7 +1058,7 @@ Antigua and Barbuda,Gabon,e-visa
 Antigua and Barbuda,Gambia,90
 Antigua and Barbuda,Georgia,360
 Antigua and Barbuda,Germany,90
-Antigua and Barbuda,Ghana,e-visa
+Antigua and Barbuda,Ghana,60
 Antigua and Barbuda,Greece,90
 Antigua and Barbuda,Grenada,visa free
 Antigua and Barbuda,Guatemala,90
@@ -1086,7 +1086,7 @@ Antigua and Barbuda,Kiribati,90
 Antigua and Barbuda,Kosovo,90
 Antigua and Barbuda,Kuwait,visa required
 Antigua and Barbuda,Kyrgyzstan,e-visa
-Antigua and Barbuda,Laos,visa on arrival
+Antigua and Barbuda,Laos,e-visa
 Antigua and Barbuda,Latvia,90
 Antigua and Barbuda,Lebanon,visa on arrival
 Antigua and Barbuda,Lesotho,90
@@ -1285,7 +1285,7 @@ Argentina,Kiribati,90
 Argentina,Kosovo,90
 Argentina,Kuwait,visa required
 Argentina,Kyrgyzstan,60
-Argentina,Laos,visa on arrival
+Argentina,Laos,e-visa
 Argentina,Latvia,90
 Argentina,Lebanon,visa on arrival
 Argentina,Lesotho,visa required
@@ -1484,7 +1484,7 @@ Armenia,Kiribati,visa required
 Armenia,Kosovo,visa required
 Armenia,Kuwait,visa required
 Armenia,Kyrgyzstan,visa free
-Armenia,Laos,visa on arrival
+Armenia,Laos,e-visa
 Armenia,Latvia,visa required
 Armenia,Lebanon,visa on arrival
 Armenia,Lesotho,visa required
@@ -1683,7 +1683,7 @@ Australia,Kiribati,90
 Australia,Kosovo,90
 Australia,Kuwait,visa on arrival
 Australia,Kyrgyzstan,60
-Australia,Laos,visa on arrival
+Australia,Laos,e-visa
 Australia,Latvia,90
 Australia,Lebanon,visa on arrival
 Australia,Lesotho,visa free
@@ -1882,7 +1882,7 @@ Austria,Kiribati,90
 Austria,Kosovo,90
 Austria,Kuwait,visa on arrival
 Austria,Kyrgyzstan,30
-Austria,Laos,visa on arrival
+Austria,Laos,e-visa
 Austria,Latvia,visa free
 Austria,Lebanon,visa on arrival
 Austria,Lesotho,14
@@ -2081,7 +2081,7 @@ Azerbaijan,Kiribati,visa required
 Azerbaijan,Kosovo,visa required
 Azerbaijan,Kuwait,visa required
 Azerbaijan,Kyrgyzstan,30
-Azerbaijan,Laos,visa on arrival
+Azerbaijan,Laos,e-visa
 Azerbaijan,Latvia,visa required
 Azerbaijan,Lebanon,visa on arrival
 Azerbaijan,Lesotho,visa required
@@ -2164,7 +2164,7 @@ Azerbaijan,Syria,visa on arrival
 Azerbaijan,Taiwan,visa required
 Azerbaijan,Tajikistan,90
 Azerbaijan,Tanzania,90
-Azerbaijan,Thailand,e-visa
+Azerbaijan,Thailand,visa on arrival
 Azerbaijan,Timor-Leste,visa on arrival
 Azerbaijan,Togo,e-visa
 Azerbaijan,Tonga,visa required
@@ -2280,7 +2280,7 @@ Bahamas,Kiribati,90
 Bahamas,Kosovo,90
 Bahamas,Kuwait,visa required
 Bahamas,Kyrgyzstan,e-visa
-Bahamas,Laos,visa on arrival
+Bahamas,Laos,e-visa
 Bahamas,Latvia,90
 Bahamas,Lebanon,visa on arrival
 Bahamas,Lesotho,90
@@ -2479,7 +2479,7 @@ Bahrain,Kiribati,visa required
 Bahrain,Kosovo,90
 Bahrain,Kuwait,visa free
 Bahrain,Kyrgyzstan,60
-Bahrain,Laos,visa on arrival
+Bahrain,Laos,e-visa
 Bahrain,Latvia,visa required
 Bahrain,Lebanon,180
 Bahrain,Lesotho,visa required
@@ -2877,7 +2877,7 @@ Barbados,Kiribati,90
 Barbados,Kosovo,90
 Barbados,Kuwait,visa required
 Barbados,Kyrgyzstan,e-visa
-Barbados,Laos,visa on arrival
+Barbados,Laos,e-visa
 Barbados,Latvia,90
 Barbados,Lebanon,visa on arrival
 Barbados,Lesotho,90
@@ -3076,7 +3076,7 @@ Belarus,Kiribati,visa required
 Belarus,Kosovo,visa required
 Belarus,Kuwait,visa required
 Belarus,Kyrgyzstan,visa free
-Belarus,Laos,visa on arrival
+Belarus,Laos,e-visa
 Belarus,Latvia,visa required
 Belarus,Lebanon,visa on arrival
 Belarus,Lesotho,visa required
@@ -3275,7 +3275,7 @@ Belgium,Kiribati,90
 Belgium,Kosovo,90
 Belgium,Kuwait,visa on arrival
 Belgium,Kyrgyzstan,30
-Belgium,Laos,visa on arrival
+Belgium,Laos,e-visa
 Belgium,Latvia,visa free
 Belgium,Lebanon,visa on arrival
 Belgium,Lesotho,14
@@ -3474,7 +3474,7 @@ Belize,Kiribati,90
 Belize,Kosovo,90
 Belize,Kuwait,visa required
 Belize,Kyrgyzstan,e-visa
-Belize,Laos,visa on arrival
+Belize,Laos,e-visa
 Belize,Latvia,visa required
 Belize,Lebanon,visa on arrival
 Belize,Lesotho,90
@@ -3673,7 +3673,7 @@ Benin,Kiribati,visa required
 Benin,Kosovo,visa required
 Benin,Kuwait,visa required
 Benin,Kyrgyzstan,e-visa
-Benin,Laos,visa on arrival
+Benin,Laos,e-visa
 Benin,Latvia,visa required
 Benin,Lebanon,visa required
 Benin,Lesotho,visa required
@@ -3872,7 +3872,7 @@ Bhutan,Kiribati,visa required
 Bhutan,Kosovo,visa required
 Bhutan,Kuwait,visa on arrival
 Bhutan,Kyrgyzstan,e-visa
-Bhutan,Laos,visa on arrival
+Bhutan,Laos,e-visa
 Bhutan,Latvia,visa required
 Bhutan,Lebanon,visa on arrival
 Bhutan,Lesotho,visa required
@@ -4071,7 +4071,7 @@ Bolivia,Kiribati,90
 Bolivia,Kosovo,visa required
 Bolivia,Kuwait,visa required
 Bolivia,Kyrgyzstan,e-visa
-Bolivia,Laos,visa on arrival
+Bolivia,Laos,e-visa
 Bolivia,Latvia,visa required
 Bolivia,Lebanon,visa required
 Bolivia,Lesotho,visa required
@@ -4270,7 +4270,7 @@ Bosnia and Herzegovina,Kiribati,visa required
 Bosnia and Herzegovina,Kosovo,visa required
 Bosnia and Herzegovina,Kuwait,visa required
 Bosnia and Herzegovina,Kyrgyzstan,60
-Bosnia and Herzegovina,Laos,visa on arrival
+Bosnia and Herzegovina,Laos,e-visa
 Bosnia and Herzegovina,Latvia,90
 Bosnia and Herzegovina,Lebanon,visa required
 Bosnia and Herzegovina,Lesotho,visa required
@@ -4469,7 +4469,7 @@ Botswana,Kiribati,90
 Botswana,Kosovo,90
 Botswana,Kuwait,visa required
 Botswana,Kyrgyzstan,e-visa
-Botswana,Laos,visa on arrival
+Botswana,Laos,e-visa
 Botswana,Latvia,visa required
 Botswana,Lebanon,visa required
 Botswana,Lesotho,visa free
@@ -4668,7 +4668,7 @@ Brazil,Kiribati,90
 Brazil,Kosovo,90
 Brazil,Kuwait,visa required
 Brazil,Kyrgyzstan,60
-Brazil,Laos,visa on arrival
+Brazil,Laos,e-visa
 Brazil,Latvia,90
 Brazil,Lebanon,visa on arrival
 Brazil,Lesotho,visa required
@@ -5066,7 +5066,7 @@ Bulgaria,Kiribati,90
 Bulgaria,Kosovo,90
 Bulgaria,Kuwait,visa on arrival
 Bulgaria,Kyrgyzstan,30
-Bulgaria,Laos,visa on arrival
+Bulgaria,Laos,e-visa
 Bulgaria,Latvia,visa free
 Bulgaria,Lebanon,visa on arrival
 Bulgaria,Lesotho,14
@@ -5265,7 +5265,7 @@ Burkina Faso,Kiribati,visa required
 Burkina Faso,Kosovo,visa required
 Burkina Faso,Kuwait,visa required
 Burkina Faso,Kyrgyzstan,e-visa
-Burkina Faso,Laos,visa on arrival
+Burkina Faso,Laos,e-visa
 Burkina Faso,Latvia,visa required
 Burkina Faso,Lebanon,visa required
 Burkina Faso,Lesotho,visa required
@@ -6061,7 +6061,7 @@ Canada,Kiribati,90
 Canada,Kosovo,90
 Canada,Kuwait,visa on arrival
 Canada,Kyrgyzstan,60
-Canada,Laos,visa on arrival
+Canada,Laos,e-visa
 Canada,Latvia,90
 Canada,Lebanon,visa on arrival
 Canada,Lesotho,visa free
@@ -6260,7 +6260,7 @@ Cape Verde,Kiribati,visa required
 Cape Verde,Kosovo,visa required
 Cape Verde,Kuwait,visa required
 Cape Verde,Kyrgyzstan,e-visa
-Cape Verde,Laos,visa on arrival
+Cape Verde,Laos,e-visa
 Cape Verde,Latvia,visa required
 Cape Verde,Lebanon,visa required
 Cape Verde,Lesotho,visa required
@@ -6459,7 +6459,7 @@ Central African Republic,Kiribati,visa required
 Central African Republic,Kosovo,visa required
 Central African Republic,Kuwait,visa required
 Central African Republic,Kyrgyzstan,e-visa
-Central African Republic,Laos,visa on arrival
+Central African Republic,Laos,e-visa
 Central African Republic,Latvia,visa required
 Central African Republic,Lebanon,visa required
 Central African Republic,Lesotho,visa required
@@ -6658,7 +6658,7 @@ Chad,Kiribati,visa required
 Chad,Kosovo,visa required
 Chad,Kuwait,visa required
 Chad,Kyrgyzstan,e-visa
-Chad,Laos,visa on arrival
+Chad,Laos,e-visa
 Chad,Latvia,visa required
 Chad,Lebanon,visa required
 Chad,Lesotho,visa required
@@ -6857,7 +6857,7 @@ Chile,Kiribati,90
 Chile,Kosovo,90
 Chile,Kuwait,visa required
 Chile,Kyrgyzstan,60
-Chile,Laos,visa on arrival
+Chile,Laos,e-visa
 Chile,Latvia,90
 Chile,Lebanon,visa on arrival
 Chile,Lesotho,visa required
@@ -7056,7 +7056,7 @@ China,Kiribati,90
 China,Kosovo,visa required
 China,Kuwait,visa required
 China,Kyrgyzstan,e-visa
-China,Laos,visa on arrival
+China,Laos,e-visa
 China,Latvia,visa required
 China,Lebanon,visa on arrival
 China,Lesotho,visa required
@@ -7255,7 +7255,7 @@ Colombia,Kiribati,90
 Colombia,Kosovo,90
 Colombia,Kuwait,visa required
 Colombia,Kyrgyzstan,e-visa
-Colombia,Laos,visa on arrival
+Colombia,Laos,e-visa
 Colombia,Latvia,90
 Colombia,Lebanon,visa required
 Colombia,Lesotho,visa required
@@ -7338,7 +7338,7 @@ Colombia,Syria,e-visa
 Colombia,Taiwan,e-visa
 Colombia,Tajikistan,e-visa
 Colombia,Tanzania,visa on arrival
-Colombia,Thailand,visa free
+Colombia,Thailand,e-visa
 Colombia,Timor-Leste,visa on arrival
 Colombia,Togo,e-visa
 Colombia,Tonga,visa required
@@ -7454,7 +7454,7 @@ Comoros,Kiribati,visa required
 Comoros,Kosovo,visa required
 Comoros,Kuwait,visa required
 Comoros,Kyrgyzstan,e-visa
-Comoros,Laos,visa on arrival
+Comoros,Laos,e-visa
 Comoros,Latvia,visa required
 Comoros,Lebanon,visa on arrival
 Comoros,Lesotho,visa required
@@ -8051,7 +8051,7 @@ Costa Rica,Kiribati,90
 Costa Rica,Kosovo,90
 Costa Rica,Kuwait,visa required
 Costa Rica,Kyrgyzstan,e-visa
-Costa Rica,Laos,visa on arrival
+Costa Rica,Laos,e-visa
 Costa Rica,Latvia,90
 Costa Rica,Lebanon,visa on arrival
 Costa Rica,Lesotho,visa required
@@ -8449,7 +8449,7 @@ Croatia,Kiribati,90
 Croatia,Kosovo,90
 Croatia,Kuwait,visa on arrival
 Croatia,Kyrgyzstan,30
-Croatia,Laos,visa on arrival
+Croatia,Laos,e-visa
 Croatia,Latvia,visa free
 Croatia,Lebanon,visa on arrival
 Croatia,Lesotho,14
@@ -8648,7 +8648,7 @@ Cuba,Kiribati,90
 Cuba,Kosovo,visa required
 Cuba,Kuwait,visa required
 Cuba,Kyrgyzstan,visa free
-Cuba,Laos,visa on arrival
+Cuba,Laos,e-visa
 Cuba,Latvia,visa required
 Cuba,Lebanon,visa required
 Cuba,Lesotho,visa required
@@ -8731,7 +8731,7 @@ Cuba,Syria,e-visa
 Cuba,Taiwan,visa required
 Cuba,Tajikistan,30
 Cuba,Tanzania,visa on arrival
-Cuba,Thailand,visa free
+Cuba,Thailand,e-visa
 Cuba,Timor-Leste,visa on arrival
 Cuba,Togo,e-visa
 Cuba,Tonga,visa required
@@ -8847,7 +8847,7 @@ Cyprus,Kiribati,90
 Cyprus,Kosovo,90
 Cyprus,Kuwait,visa on arrival
 Cyprus,Kyrgyzstan,30
-Cyprus,Laos,visa on arrival
+Cyprus,Laos,e-visa
 Cyprus,Latvia,visa free
 Cyprus,Lebanon,visa on arrival
 Cyprus,Lesotho,14
@@ -9046,7 +9046,7 @@ Czech Republic,Kiribati,90
 Czech Republic,Kosovo,90
 Czech Republic,Kuwait,visa on arrival
 Czech Republic,Kyrgyzstan,30
-Czech Republic,Laos,visa on arrival
+Czech Republic,Laos,e-visa
 Czech Republic,Latvia,visa free
 Czech Republic,Lebanon,visa on arrival
 Czech Republic,Lesotho,14
@@ -9245,7 +9245,7 @@ Denmark,Kiribati,90
 Denmark,Kosovo,90
 Denmark,Kuwait,visa on arrival
 Denmark,Kyrgyzstan,30
-Denmark,Laos,visa on arrival
+Denmark,Laos,e-visa
 Denmark,Latvia,visa free
 Denmark,Lebanon,visa on arrival
 Denmark,Lesotho,14
@@ -9444,7 +9444,7 @@ Djibouti,Kiribati,visa required
 Djibouti,Kosovo,visa required
 Djibouti,Kuwait,visa required
 Djibouti,Kyrgyzstan,e-visa
-Djibouti,Laos,visa on arrival
+Djibouti,Laos,e-visa
 Djibouti,Latvia,visa required
 Djibouti,Lebanon,visa on arrival
 Djibouti,Lesotho,visa required
@@ -9643,7 +9643,7 @@ Dominica,Kiribati,90
 Dominica,Kosovo,90
 Dominica,Kuwait,visa required
 Dominica,Kyrgyzstan,e-visa
-Dominica,Laos,visa on arrival
+Dominica,Laos,e-visa
 Dominica,Latvia,90
 Dominica,Lebanon,visa required
 Dominica,Lesotho,90
@@ -9726,7 +9726,7 @@ Dominica,Syria,e-visa
 Dominica,Taiwan,e-visa
 Dominica,Tajikistan,30
 Dominica,Tanzania,90
-Dominica,Thailand,visa free
+Dominica,Thailand,e-visa
 Dominica,Timor-Leste,visa on arrival
 Dominica,Togo,e-visa
 Dominica,Tonga,visa on arrival
@@ -9836,13 +9836,13 @@ Dominican Republic,Italy,visa required
 Dominican Republic,Jamaica,180
 Dominican Republic,Japan,90
 Dominican Republic,Jordan,visa on arrival
-Dominican Republic,Kazakhstan,e-visa
+Dominican Republic,Kazakhstan,90
 Dominican Republic,Kenya,e-visa
 Dominican Republic,Kiribati,90
 Dominican Republic,Kosovo,visa required
 Dominican Republic,Kuwait,visa required
 Dominican Republic,Kyrgyzstan,e-visa
-Dominican Republic,Laos,visa on arrival
+Dominican Republic,Laos,e-visa
 Dominican Republic,Latvia,visa required
 Dominican Republic,Lebanon,visa on arrival
 Dominican Republic,Lesotho,visa required
@@ -9925,7 +9925,7 @@ Dominican Republic,Syria,e-visa
 Dominican Republic,Taiwan,30
 Dominican Republic,Tajikistan,30
 Dominican Republic,Tanzania,visa on arrival
-Dominican Republic,Thailand,visa free
+Dominican Republic,Thailand,e-visa
 Dominican Republic,Timor-Leste,visa on arrival
 Dominican Republic,Togo,e-visa
 Dominican Republic,Tonga,visa required
@@ -10041,7 +10041,7 @@ Ecuador,Kiribati,visa required
 Ecuador,Kosovo,visa required
 Ecuador,Kuwait,visa required
 Ecuador,Kyrgyzstan,e-visa
-Ecuador,Laos,visa on arrival
+Ecuador,Laos,e-visa
 Ecuador,Latvia,visa required
 Ecuador,Lebanon,visa required
 Ecuador,Lesotho,visa required
@@ -10124,7 +10124,7 @@ Ecuador,Syria,e-visa
 Ecuador,Taiwan,e-visa
 Ecuador,Tajikistan,30
 Ecuador,Tanzania,visa on arrival
-Ecuador,Thailand,visa free
+Ecuador,Thailand,e-visa
 Ecuador,Timor-Leste,visa on arrival
 Ecuador,Togo,e-visa
 Ecuador,Tonga,visa required
@@ -10240,7 +10240,7 @@ Egypt,Kiribati,90
 Egypt,Kosovo,visa required
 Egypt,Kuwait,visa required
 Egypt,Kyrgyzstan,e-visa
-Egypt,Laos,visa on arrival
+Egypt,Laos,e-visa
 Egypt,Latvia,visa required
 Egypt,Lebanon,visa required
 Egypt,Lesotho,visa required
@@ -10439,7 +10439,7 @@ El Salvador,Kiribati,90
 El Salvador,Kosovo,90
 El Salvador,Kuwait,visa required
 El Salvador,Kyrgyzstan,e-visa
-El Salvador,Laos,visa on arrival
+El Salvador,Laos,e-visa
 El Salvador,Latvia,90
 El Salvador,Lebanon,visa required
 El Salvador,Lesotho,visa required
@@ -10638,7 +10638,7 @@ Equatorial Guinea,Kiribati,visa required
 Equatorial Guinea,Kosovo,visa required
 Equatorial Guinea,Kuwait,visa required
 Equatorial Guinea,Kyrgyzstan,e-visa
-Equatorial Guinea,Laos,visa on arrival
+Equatorial Guinea,Laos,e-visa
 Equatorial Guinea,Latvia,visa required
 Equatorial Guinea,Lebanon,visa required
 Equatorial Guinea,Lesotho,visa required
@@ -10837,7 +10837,7 @@ Eritrea,Kiribati,visa required
 Eritrea,Kosovo,visa required
 Eritrea,Kuwait,visa required
 Eritrea,Kyrgyzstan,e-visa
-Eritrea,Laos,visa on arrival
+Eritrea,Laos,e-visa
 Eritrea,Latvia,visa required
 Eritrea,Lebanon,visa required
 Eritrea,Lesotho,visa required
@@ -11036,7 +11036,7 @@ Estonia,Kiribati,90
 Estonia,Kosovo,90
 Estonia,Kuwait,visa on arrival
 Estonia,Kyrgyzstan,30
-Estonia,Laos,visa on arrival
+Estonia,Laos,e-visa
 Estonia,Latvia,visa free
 Estonia,Lebanon,visa on arrival
 Estonia,Lesotho,14
@@ -11434,7 +11434,7 @@ Ethiopia,Kiribati,visa required
 Ethiopia,Kosovo,visa required
 Ethiopia,Kuwait,visa required
 Ethiopia,Kyrgyzstan,e-visa
-Ethiopia,Laos,visa on arrival
+Ethiopia,Laos,e-visa
 Ethiopia,Latvia,visa required
 Ethiopia,Lebanon,visa required
 Ethiopia,Lesotho,visa required
@@ -11633,7 +11633,7 @@ Fiji,Kiribati,90
 Fiji,Kosovo,90
 Fiji,Kuwait,visa required
 Fiji,Kyrgyzstan,e-visa
-Fiji,Laos,visa on arrival
+Fiji,Laos,e-visa
 Fiji,Latvia,visa required
 Fiji,Lebanon,visa required
 Fiji,Lesotho,visa required
@@ -11832,7 +11832,7 @@ Finland,Kiribati,90
 Finland,Kosovo,90
 Finland,Kuwait,visa on arrival
 Finland,Kyrgyzstan,30
-Finland,Laos,visa on arrival
+Finland,Laos,e-visa
 Finland,Latvia,visa free
 Finland,Lebanon,visa on arrival
 Finland,Lesotho,14
@@ -12031,7 +12031,7 @@ France,Kiribati,90
 France,Kosovo,90
 France,Kuwait,visa on arrival
 France,Kyrgyzstan,30
-France,Laos,visa on arrival
+France,Laos,e-visa
 France,Latvia,visa free
 France,Lebanon,visa on arrival
 France,Lesotho,14
@@ -12230,7 +12230,7 @@ Gabon,Kiribati,90
 Gabon,Kosovo,visa required
 Gabon,Kuwait,visa required
 Gabon,Kyrgyzstan,e-visa
-Gabon,Laos,visa on arrival
+Gabon,Laos,e-visa
 Gabon,Latvia,visa required
 Gabon,Lebanon,visa required
 Gabon,Lesotho,visa required
@@ -12429,7 +12429,7 @@ Gambia,Kiribati,90
 Gambia,Kosovo,visa required
 Gambia,Kuwait,visa required
 Gambia,Kyrgyzstan,e-visa
-Gambia,Laos,visa on arrival
+Gambia,Laos,e-visa
 Gambia,Latvia,visa required
 Gambia,Lebanon,visa required
 Gambia,Lesotho,90
@@ -12628,7 +12628,7 @@ Georgia,Kiribati,visa required
 Georgia,Kosovo,visa required
 Georgia,Kuwait,visa on arrival
 Georgia,Kyrgyzstan,360
-Georgia,Laos,visa on arrival
+Georgia,Laos,e-visa
 Georgia,Latvia,90
 Georgia,Lebanon,visa on arrival
 Georgia,Lesotho,visa required
@@ -12827,7 +12827,7 @@ Germany,Kiribati,90
 Germany,Kosovo,90
 Germany,Kuwait,visa on arrival
 Germany,Kyrgyzstan,30
-Germany,Laos,visa on arrival
+Germany,Laos,e-visa
 Germany,Latvia,visa free
 Germany,Lebanon,visa on arrival
 Germany,Lesotho,14
@@ -13225,7 +13225,7 @@ Greece,Kiribati,90
 Greece,Kosovo,90
 Greece,Kuwait,visa on arrival
 Greece,Kyrgyzstan,30
-Greece,Laos,visa on arrival
+Greece,Laos,e-visa
 Greece,Latvia,visa free
 Greece,Lebanon,visa on arrival
 Greece,Lesotho,14
@@ -13424,7 +13424,7 @@ Grenada,Kiribati,90
 Grenada,Kosovo,90
 Grenada,Kuwait,visa required
 Grenada,Kyrgyzstan,e-visa
-Grenada,Laos,visa on arrival
+Grenada,Laos,e-visa
 Grenada,Latvia,90
 Grenada,Lebanon,visa required
 Grenada,Lesotho,90
@@ -13623,7 +13623,7 @@ Guatemala,Kiribati,90
 Guatemala,Kosovo,90
 Guatemala,Kuwait,visa required
 Guatemala,Kyrgyzstan,e-visa
-Guatemala,Laos,visa on arrival
+Guatemala,Laos,e-visa
 Guatemala,Latvia,90
 Guatemala,Lebanon,visa required
 Guatemala,Lesotho,visa required
@@ -13706,7 +13706,7 @@ Guatemala,Syria,e-visa
 Guatemala,Taiwan,90
 Guatemala,Tajikistan,e-visa
 Guatemala,Tanzania,visa on arrival
-Guatemala,Thailand,visa free
+Guatemala,Thailand,e-visa
 Guatemala,Timor-Leste,visa on arrival
 Guatemala,Togo,e-visa
 Guatemala,Tonga,visa required
@@ -13822,7 +13822,7 @@ Guinea,Kiribati,visa required
 Guinea,Kosovo,visa required
 Guinea,Kuwait,visa required
 Guinea,Kyrgyzstan,e-visa
-Guinea,Laos,visa on arrival
+Guinea,Laos,e-visa
 Guinea,Latvia,visa required
 Guinea,Lebanon,visa required
 Guinea,Lesotho,visa required
@@ -14220,7 +14220,7 @@ Guyana,Kiribati,90
 Guyana,Kosovo,90
 Guyana,Kuwait,visa required
 Guyana,Kyrgyzstan,e-visa
-Guyana,Laos,visa on arrival
+Guyana,Laos,e-visa
 Guyana,Latvia,visa required
 Guyana,Lebanon,visa required
 Guyana,Lesotho,90
@@ -14279,7 +14279,7 @@ Guyana,Saint Lucia,42
 Guyana,Samoa,visa on arrival
 Guyana,San Marino,visa required
 Guyana,Sao Tome and Principe,e-visa
-Guyana,Saudi Arabia,e-visa
+Guyana,Saudi Arabia,visa on arrival
 Guyana,Senegal,visa required
 Guyana,Serbia,e-visa
 Guyana,Seychelles,90
@@ -14419,7 +14419,7 @@ Haiti,Kiribati,90
 Haiti,Kosovo,visa required
 Haiti,Kuwait,visa required
 Haiti,Kyrgyzstan,e-visa
-Haiti,Laos,visa on arrival
+Haiti,Laos,e-visa
 Haiti,Latvia,visa required
 Haiti,Lebanon,visa required
 Haiti,Lesotho,visa required
@@ -14618,7 +14618,7 @@ Honduras,Kiribati,90
 Honduras,Kosovo,90
 Honduras,Kuwait,visa required
 Honduras,Kyrgyzstan,e-visa
-Honduras,Laos,visa on arrival
+Honduras,Laos,e-visa
 Honduras,Latvia,90
 Honduras,Lebanon,visa required
 Honduras,Lesotho,visa required
@@ -14884,7 +14884,7 @@ Hong Kong,Sierra Leone,e-visa
 Hong Kong,Singapore,visa free
 Hong Kong,Slovakia,90
 Hong Kong,Slovenia,90
-Hong Kong,Solomon Islands,visa required
+Hong Kong,Solomon Islands,30
 Hong Kong,Somalia,e-visa
 Hong Kong,South Africa,30
 Hong Kong,South Korea,90
@@ -15016,7 +15016,7 @@ Hungary,Kiribati,90
 Hungary,Kosovo,90
 Hungary,Kuwait,visa on arrival
 Hungary,Kyrgyzstan,30
-Hungary,Laos,visa on arrival
+Hungary,Laos,e-visa
 Hungary,Latvia,visa free
 Hungary,Lebanon,visa on arrival
 Hungary,Lesotho,14
@@ -15215,7 +15215,7 @@ Iceland,Kiribati,90
 Iceland,Kosovo,90
 Iceland,Kuwait,visa on arrival
 Iceland,Kyrgyzstan,60
-Iceland,Laos,visa on arrival
+Iceland,Laos,e-visa
 Iceland,Latvia,visa free
 Iceland,Lebanon,visa on arrival
 Iceland,Lesotho,14
@@ -15414,7 +15414,7 @@ India,Kiribati,90
 India,Kosovo,visa required
 India,Kuwait,visa required
 India,Kyrgyzstan,e-visa
-India,Laos,visa on arrival
+India,Laos,e-visa
 India,Latvia,visa required
 India,Lebanon,visa required
 India,Lesotho,visa required
@@ -16011,7 +16011,7 @@ Iraq,Kiribati,visa required
 Iraq,Kosovo,visa required
 Iraq,Kuwait,visa required
 Iraq,Kyrgyzstan,e-visa
-Iraq,Laos,visa on arrival
+Iraq,Laos,e-visa
 Iraq,Latvia,visa required
 Iraq,Lebanon,visa on arrival
 Iraq,Lesotho,visa required
@@ -16210,7 +16210,7 @@ Ireland,Kiribati,90
 Ireland,Kosovo,90
 Ireland,Kuwait,visa on arrival
 Ireland,Kyrgyzstan,30
-Ireland,Laos,visa on arrival
+Ireland,Laos,e-visa
 Ireland,Latvia,visa free
 Ireland,Lebanon,visa on arrival
 Ireland,Lesotho,90
@@ -16352,7 +16352,7 @@ Israel,Central African Republic,90
 Israel,Chad,e-visa
 Israel,Chile,90
 Israel,China,visa required
-Israel,Colombia,e-visa
+Israel,Colombia,90
 Israel,Comoros,visa on arrival
 Israel,Congo,visa required
 Israel,DR Congo,e-visa
@@ -16409,7 +16409,7 @@ Israel,Kiribati,90
 Israel,Kosovo,90
 Israel,Kuwait,visa required
 Israel,Kyrgyzstan,60
-Israel,Laos,visa on arrival
+Israel,Laos,e-visa
 Israel,Latvia,90
 Israel,Lebanon,no admission
 Israel,Lesotho,90
@@ -16608,7 +16608,7 @@ Italy,Kiribati,90
 Italy,Kosovo,90
 Italy,Kuwait,visa on arrival
 Italy,Kyrgyzstan,30
-Italy,Laos,visa on arrival
+Italy,Laos,e-visa
 Italy,Latvia,visa free
 Italy,Lebanon,visa on arrival
 Italy,Lesotho,14
@@ -16807,7 +16807,7 @@ Jamaica,Kiribati,90
 Jamaica,Kosovo,visa required
 Jamaica,Kuwait,visa required
 Jamaica,Kyrgyzstan,e-visa
-Jamaica,Laos,visa on arrival
+Jamaica,Laos,e-visa
 Jamaica,Latvia,visa required
 Jamaica,Lebanon,visa required
 Jamaica,Lesotho,90
@@ -16890,7 +16890,7 @@ Jamaica,Syria,e-visa
 Jamaica,Taiwan,visa required
 Jamaica,Tajikistan,30
 Jamaica,Tanzania,90
-Jamaica,Thailand,visa free
+Jamaica,Thailand,e-visa
 Jamaica,Timor-Leste,visa on arrival
 Jamaica,Togo,e-visa
 Jamaica,Tonga,visa required
@@ -17210,7 +17210,7 @@ Jordan,Latvia,visa required
 Jordan,Lebanon,180
 Jordan,Lesotho,visa required
 Jordan,Liberia,e-visa
-Jordan,Libya,e-visa
+Jordan,Libya,visa on arrival
 Jordan,Liechtenstein,visa required
 Jordan,Lithuania,visa required
 Jordan,Luxembourg,visa required
@@ -17404,7 +17404,7 @@ Kazakhstan,Kiribati,visa required
 Kazakhstan,Kosovo,visa required
 Kazakhstan,Kuwait,visa required
 Kazakhstan,Kyrgyzstan,visa free
-Kazakhstan,Laos,visa on arrival
+Kazakhstan,Laos,e-visa
 Kazakhstan,Latvia,visa required
 Kazakhstan,Lebanon,visa required
 Kazakhstan,Lesotho,visa required
@@ -17603,7 +17603,7 @@ Kenya,Kiribati,90
 Kenya,Kosovo,visa required
 Kenya,Kuwait,visa required
 Kenya,Kyrgyzstan,e-visa
-Kenya,Laos,visa on arrival
+Kenya,Laos,e-visa
 Kenya,Latvia,visa required
 Kenya,Lebanon,visa required
 Kenya,Lesotho,90
@@ -17802,7 +17802,7 @@ Kiribati,Kiribati,-1
 Kiribati,Kosovo,90
 Kiribati,Kuwait,visa required
 Kiribati,Kyrgyzstan,e-visa
-Kiribati,Laos,visa on arrival
+Kiribati,Laos,e-visa
 Kiribati,Latvia,90
 Kiribati,Lebanon,visa required
 Kiribati,Lesotho,90
@@ -18001,7 +18001,7 @@ Kosovo,Kiribati,visa required
 Kosovo,Kosovo,-1
 Kosovo,Kuwait,visa required
 Kosovo,Kyrgyzstan,visa required
-Kosovo,Laos,visa on arrival
+Kosovo,Laos,e-visa
 Kosovo,Latvia,90
 Kosovo,Lebanon,visa required
 Kosovo,Lesotho,visa required
@@ -18060,10 +18060,10 @@ Kosovo,Saint Lucia,visa required
 Kosovo,Samoa,visa on arrival
 Kosovo,San Marino,90
 Kosovo,Sao Tome and Principe,e-visa
-Kosovo,Saudi Arabia,e-visa
+Kosovo,Saudi Arabia,visa on arrival
 Kosovo,Senegal,visa required
 Kosovo,Serbia,visa free
-Kosovo,Seychelles,no admission
+Kosovo,Seychelles,90
 Kosovo,Sierra Leone,e-visa
 Kosovo,Singapore,e-visa
 Kosovo,Slovakia,90
@@ -18084,7 +18084,7 @@ Kosovo,Syria,e-visa
 Kosovo,Taiwan,90
 Kosovo,Tajikistan,visa required
 Kosovo,Tanzania,visa on arrival
-Kosovo,Thailand,visa free
+Kosovo,Thailand,e-visa
 Kosovo,Timor-Leste,visa on arrival
 Kosovo,Togo,e-visa
 Kosovo,Tonga,visa required
@@ -18200,7 +18200,7 @@ Kuwait,Kiribati,visa required
 Kuwait,Kosovo,90
 Kuwait,Kuwait,-1
 Kuwait,Kyrgyzstan,60
-Kuwait,Laos,visa on arrival
+Kuwait,Laos,e-visa
 Kuwait,Latvia,visa required
 Kuwait,Lebanon,180
 Kuwait,Lesotho,visa required
@@ -18399,7 +18399,7 @@ Kyrgyzstan,Kiribati,visa required
 Kyrgyzstan,Kosovo,visa required
 Kyrgyzstan,Kuwait,visa required
 Kyrgyzstan,Kyrgyzstan,-1
-Kyrgyzstan,Laos,visa on arrival
+Kyrgyzstan,Laos,e-visa
 Kyrgyzstan,Latvia,visa required
 Kyrgyzstan,Lebanon,visa on arrival
 Kyrgyzstan,Lesotho,visa required
@@ -18482,7 +18482,7 @@ Kyrgyzstan,Syria,visa on arrival
 Kyrgyzstan,Taiwan,visa required
 Kyrgyzstan,Tajikistan,visa free
 Kyrgyzstan,Tanzania,e-visa
-Kyrgyzstan,Thailand,visa on arrival
+Kyrgyzstan,Thailand,visa free
 Kyrgyzstan,Timor-Leste,visa on arrival
 Kyrgyzstan,Togo,e-visa
 Kyrgyzstan,Tonga,visa required
@@ -18797,7 +18797,7 @@ Latvia,Kiribati,90
 Latvia,Kosovo,90
 Latvia,Kuwait,visa on arrival
 Latvia,Kyrgyzstan,30
-Latvia,Laos,visa on arrival
+Latvia,Laos,e-visa
 Latvia,Latvia,-1
 Latvia,Lebanon,visa on arrival
 Latvia,Lesotho,14
@@ -18996,7 +18996,7 @@ Lebanon,Kiribati,visa required
 Lebanon,Kosovo,visa required
 Lebanon,Kuwait,visa required
 Lebanon,Kyrgyzstan,e-visa
-Lebanon,Laos,visa on arrival
+Lebanon,Laos,e-visa
 Lebanon,Latvia,visa required
 Lebanon,Lebanon,-1
 Lebanon,Lesotho,visa required
@@ -19792,7 +19792,7 @@ Liechtenstein,Kiribati,90
 Liechtenstein,Kosovo,90
 Liechtenstein,Kuwait,visa on arrival
 Liechtenstein,Kyrgyzstan,60
-Liechtenstein,Laos,visa on arrival
+Liechtenstein,Laos,e-visa
 Liechtenstein,Latvia,visa free
 Liechtenstein,Lebanon,visa on arrival
 Liechtenstein,Lesotho,visa required
@@ -19991,7 +19991,7 @@ Lithuania,Kiribati,90
 Lithuania,Kosovo,90
 Lithuania,Kuwait,visa on arrival
 Lithuania,Kyrgyzstan,30
-Lithuania,Laos,visa on arrival
+Lithuania,Laos,e-visa
 Lithuania,Latvia,visa free
 Lithuania,Lebanon,visa on arrival
 Lithuania,Lesotho,14
@@ -20389,7 +20389,7 @@ Macao,Kiribati,90
 Macao,Kosovo,90
 Macao,Kuwait,visa required
 Macao,Kyrgyzstan,30
-Macao,Laos,visa on arrival
+Macao,Laos,e-visa
 Macao,Latvia,90
 Macao,Lebanon,visa on arrival
 Macao,Lesotho,visa required
@@ -20588,7 +20588,7 @@ Madagascar,Kiribati,visa required
 Madagascar,Kosovo,visa required
 Madagascar,Kuwait,visa required
 Madagascar,Kyrgyzstan,e-visa
-Madagascar,Laos,visa on arrival
+Madagascar,Laos,e-visa
 Madagascar,Latvia,visa required
 Madagascar,Lebanon,visa required
 Madagascar,Lesotho,90
@@ -20787,7 +20787,7 @@ Malawi,Kiribati,90
 Malawi,Kosovo,90
 Malawi,Kuwait,visa required
 Malawi,Kyrgyzstan,e-visa
-Malawi,Laos,visa on arrival
+Malawi,Laos,e-visa
 Malawi,Latvia,visa required
 Malawi,Lebanon,visa required
 Malawi,Lesotho,90
@@ -20991,7 +20991,7 @@ Malaysia,Latvia,90
 Malaysia,Lebanon,visa on arrival
 Malaysia,Lesotho,90
 Malaysia,Liberia,e-visa
-Malaysia,Libya,e-visa
+Malaysia,Libya,visa on arrival
 Malaysia,Liechtenstein,90
 Malaysia,Lithuania,90
 Malaysia,Luxembourg,90
@@ -21157,7 +21157,7 @@ Maldives,Gabon,e-visa
 Maldives,Gambia,90
 Maldives,Georgia,e-visa
 Maldives,Germany,visa required
-Maldives,Ghana,e-visa
+Maldives,Ghana,30
 Maldives,Greece,visa required
 Maldives,Grenada,90
 Maldives,Guatemala,visa required
@@ -21185,7 +21185,7 @@ Maldives,Kiribati,90
 Maldives,Kosovo,90
 Maldives,Kuwait,visa required
 Maldives,Kyrgyzstan,30
-Maldives,Laos,visa on arrival
+Maldives,Laos,e-visa
 Maldives,Latvia,visa required
 Maldives,Lebanon,visa required
 Maldives,Lesotho,90
@@ -21384,7 +21384,7 @@ Mali,Kiribati,visa required
 Mali,Kosovo,visa required
 Mali,Kuwait,visa required
 Mali,Kyrgyzstan,e-visa
-Mali,Laos,visa on arrival
+Mali,Laos,e-visa
 Mali,Latvia,visa required
 Mali,Lebanon,visa required
 Mali,Lesotho,visa required
@@ -21583,7 +21583,7 @@ Malta,Kiribati,90
 Malta,Kosovo,90
 Malta,Kuwait,visa on arrival
 Malta,Kyrgyzstan,30
-Malta,Laos,visa on arrival
+Malta,Laos,e-visa
 Malta,Latvia,visa free
 Malta,Lebanon,visa on arrival
 Malta,Lesotho,14
@@ -21782,7 +21782,7 @@ Marshall Islands,Kiribati,90
 Marshall Islands,Kosovo,90
 Marshall Islands,Kuwait,visa required
 Marshall Islands,Kyrgyzstan,e-visa
-Marshall Islands,Laos,visa on arrival
+Marshall Islands,Laos,e-visa
 Marshall Islands,Latvia,90
 Marshall Islands,Lebanon,visa required
 Marshall Islands,Lesotho,visa required
@@ -21981,7 +21981,7 @@ Mauritania,Kiribati,visa required
 Mauritania,Kosovo,visa required
 Mauritania,Kuwait,visa required
 Mauritania,Kyrgyzstan,e-visa
-Mauritania,Laos,visa on arrival
+Mauritania,Laos,e-visa
 Mauritania,Latvia,visa required
 Mauritania,Lebanon,visa on arrival
 Mauritania,Lesotho,visa required
@@ -22180,7 +22180,7 @@ Mauritius,Kiribati,90
 Mauritius,Kosovo,90
 Mauritius,Kuwait,visa required
 Mauritius,Kyrgyzstan,e-visa
-Mauritius,Laos,visa on arrival
+Mauritius,Laos,e-visa
 Mauritius,Latvia,90
 Mauritius,Lebanon,visa required
 Mauritius,Lesotho,90
@@ -22379,7 +22379,7 @@ Mexico,Kiribati,90
 Mexico,Kosovo,90
 Mexico,Kuwait,visa required
 Mexico,Kyrgyzstan,60
-Mexico,Laos,visa on arrival
+Mexico,Laos,e-visa
 Mexico,Latvia,90
 Mexico,Lebanon,visa on arrival
 Mexico,Lesotho,visa required
@@ -22462,7 +22462,7 @@ Mexico,Syria,e-visa
 Mexico,Taiwan,visa required
 Mexico,Tajikistan,30
 Mexico,Tanzania,visa on arrival
-Mexico,Thailand,visa free
+Mexico,Thailand,e-visa
 Mexico,Timor-Leste,visa on arrival
 Mexico,Togo,e-visa
 Mexico,Tonga,visa required
@@ -22578,7 +22578,7 @@ Micronesia,Kiribati,90
 Micronesia,Kosovo,90
 Micronesia,Kuwait,visa required
 Micronesia,Kyrgyzstan,e-visa
-Micronesia,Laos,visa on arrival
+Micronesia,Laos,e-visa
 Micronesia,Latvia,90
 Micronesia,Lebanon,visa required
 Micronesia,Lesotho,visa required
@@ -22777,7 +22777,7 @@ Moldova,Kiribati,visa required
 Moldova,Kosovo,visa required
 Moldova,Kuwait,visa required
 Moldova,Kyrgyzstan,visa free
-Moldova,Laos,visa on arrival
+Moldova,Laos,e-visa
 Moldova,Latvia,90
 Moldova,Lebanon,visa on arrival
 Moldova,Lesotho,visa required
@@ -22976,7 +22976,7 @@ Monaco,Kiribati,visa required
 Monaco,Kosovo,90
 Monaco,Kuwait,visa on arrival
 Monaco,Kyrgyzstan,60
-Monaco,Laos,visa on arrival
+Monaco,Laos,e-visa
 Monaco,Latvia,90
 Monaco,Lebanon,visa on arrival
 Monaco,Lesotho,visa required
@@ -23059,7 +23059,7 @@ Monaco,Syria,visa on arrival
 Monaco,Taiwan,90
 Monaco,Tajikistan,30
 Monaco,Tanzania,visa on arrival
-Monaco,Thailand,visa free
+Monaco,Thailand,e-visa
 Monaco,Timor-Leste,visa on arrival
 Monaco,Togo,e-visa
 Monaco,Tonga,visa on arrival
@@ -23374,7 +23374,7 @@ Montenegro,Kiribati,visa required
 Montenegro,Kosovo,90
 Montenegro,Kuwait,visa required
 Montenegro,Kyrgyzstan,60
-Montenegro,Laos,visa on arrival
+Montenegro,Laos,e-visa
 Montenegro,Latvia,90
 Montenegro,Lebanon,visa on arrival
 Montenegro,Lesotho,visa required
@@ -23573,7 +23573,7 @@ Morocco,Kiribati,90
 Morocco,Kosovo,visa required
 Morocco,Kuwait,visa required
 Morocco,Kyrgyzstan,e-visa
-Morocco,Laos,visa on arrival
+Morocco,Laos,e-visa
 Morocco,Latvia,visa required
 Morocco,Lebanon,visa on arrival
 Morocco,Lesotho,visa required
@@ -23656,7 +23656,7 @@ Morocco,Syria,visa free
 Morocco,Taiwan,visa required
 Morocco,Tajikistan,visa on arrival
 Morocco,Tanzania,visa on arrival
-Morocco,Thailand,visa free
+Morocco,Thailand,e-visa
 Morocco,Timor-Leste,visa on arrival
 Morocco,Togo,30
 Morocco,Tonga,visa required
@@ -24170,7 +24170,7 @@ Namibia,Kiribati,90
 Namibia,Kosovo,90
 Namibia,Kuwait,visa required
 Namibia,Kyrgyzstan,e-visa
-Namibia,Laos,visa on arrival
+Namibia,Laos,e-visa
 Namibia,Latvia,visa required
 Namibia,Lebanon,visa required
 Namibia,Lesotho,90
@@ -24568,7 +24568,7 @@ Nepal,Kiribati,visa required
 Nepal,Kosovo,visa required
 Nepal,Kuwait,visa required
 Nepal,Kyrgyzstan,e-visa
-Nepal,Laos,visa on arrival
+Nepal,Laos,e-visa
 Nepal,Latvia,visa required
 Nepal,Lebanon,visa required
 Nepal,Lesotho,visa required
@@ -24767,7 +24767,7 @@ Netherlands,Kiribati,90
 Netherlands,Kosovo,90
 Netherlands,Kuwait,visa on arrival
 Netherlands,Kyrgyzstan,30
-Netherlands,Laos,visa on arrival
+Netherlands,Laos,e-visa
 Netherlands,Latvia,visa free
 Netherlands,Lebanon,visa on arrival
 Netherlands,Lesotho,14
@@ -24966,7 +24966,7 @@ New Zealand,Kiribati,90
 New Zealand,Kosovo,90
 New Zealand,Kuwait,visa on arrival
 New Zealand,Kyrgyzstan,60
-New Zealand,Laos,visa on arrival
+New Zealand,Laos,e-visa
 New Zealand,Latvia,90
 New Zealand,Lebanon,visa on arrival
 New Zealand,Lesotho,14
@@ -25146,7 +25146,7 @@ Nicaragua,Guinea-Bissau,visa on arrival
 Nicaragua,Guyana,e-visa
 Nicaragua,Haiti,90
 Nicaragua,Honduras,90
-Nicaragua,Hong Kong,e-visa
+Nicaragua,Hong Kong,30
 Nicaragua,Hungary,90
 Nicaragua,Iceland,90
 Nicaragua,India,e-visa
@@ -25165,7 +25165,7 @@ Nicaragua,Kiribati,visa required
 Nicaragua,Kosovo,90
 Nicaragua,Kuwait,visa required
 Nicaragua,Kyrgyzstan,e-visa
-Nicaragua,Laos,visa on arrival
+Nicaragua,Laos,e-visa
 Nicaragua,Latvia,90
 Nicaragua,Lebanon,visa required
 Nicaragua,Lesotho,visa required
@@ -25762,7 +25762,7 @@ North Korea,Kiribati,visa required
 North Korea,Kosovo,visa required
 North Korea,Kuwait,visa required
 North Korea,Kyrgyzstan,visa free
-North Korea,Laos,visa on arrival
+North Korea,Laos,e-visa
 North Korea,Latvia,visa required
 North Korea,Lebanon,visa required
 North Korea,Lesotho,visa required
@@ -25961,7 +25961,7 @@ North Macedonia,Kiribati,visa required
 North Macedonia,Kosovo,90
 North Macedonia,Kuwait,visa required
 North Macedonia,Kyrgyzstan,60
-North Macedonia,Laos,visa on arrival
+North Macedonia,Laos,e-visa
 North Macedonia,Latvia,90
 North Macedonia,Lebanon,visa on arrival
 North Macedonia,Lesotho,visa required
@@ -26160,7 +26160,7 @@ Norway,Kiribati,90
 Norway,Kosovo,90
 Norway,Kuwait,visa on arrival
 Norway,Kyrgyzstan,60
-Norway,Laos,visa on arrival
+Norway,Laos,e-visa
 Norway,Latvia,visa free
 Norway,Lebanon,visa on arrival
 Norway,Lesotho,14
@@ -26359,7 +26359,7 @@ Oman,Kiribati,visa required
 Oman,Kosovo,90
 Oman,Kuwait,visa free
 Oman,Kyrgyzstan,60
-Oman,Laos,visa on arrival
+Oman,Laos,e-visa
 Oman,Latvia,visa required
 Oman,Lebanon,180
 Oman,Lesotho,visa required
@@ -26757,7 +26757,7 @@ Palau,Kiribati,90
 Palau,Kosovo,90
 Palau,Kuwait,visa required
 Palau,Kyrgyzstan,e-visa
-Palau,Laos,visa on arrival
+Palau,Laos,e-visa
 Palau,Latvia,90
 Palau,Lebanon,visa required
 Palau,Lesotho,visa required
@@ -26956,7 +26956,7 @@ Palestine,Kiribati,visa required
 Palestine,Kosovo,visa required
 Palestine,Kuwait,visa required
 Palestine,Kyrgyzstan,e-visa
-Palestine,Laos,visa on arrival
+Palestine,Laos,e-visa
 Palestine,Latvia,visa required
 Palestine,Lebanon,visa required
 Palestine,Lesotho,visa required
@@ -27155,7 +27155,7 @@ Panama,Kiribati,90
 Panama,Kosovo,90
 Panama,Kuwait,visa required
 Panama,Kyrgyzstan,e-visa
-Panama,Laos,visa on arrival
+Panama,Laos,e-visa
 Panama,Latvia,90
 Panama,Lebanon,visa on arrival
 Panama,Lesotho,visa required
@@ -27238,7 +27238,7 @@ Panama,Syria,e-visa
 Panama,Taiwan,e-visa
 Panama,Tajikistan,e-visa
 Panama,Tanzania,visa on arrival
-Panama,Thailand,visa free
+Panama,Thailand,e-visa
 Panama,Timor-Leste,visa on arrival
 Panama,Togo,e-visa
 Panama,Tonga,visa required
@@ -27354,7 +27354,7 @@ Papua New Guinea,Kiribati,90
 Papua New Guinea,Kosovo,90
 Papua New Guinea,Kuwait,visa required
 Papua New Guinea,Kyrgyzstan,e-visa
-Papua New Guinea,Laos,visa on arrival
+Papua New Guinea,Laos,e-visa
 Papua New Guinea,Latvia,visa required
 Papua New Guinea,Lebanon,visa required
 Papua New Guinea,Lesotho,90
@@ -27437,7 +27437,7 @@ Papua New Guinea,Syria,e-visa
 Papua New Guinea,Taiwan,visa required
 Papua New Guinea,Tajikistan,e-visa
 Papua New Guinea,Tanzania,90
-Papua New Guinea,Thailand,visa free
+Papua New Guinea,Thailand,e-visa
 Papua New Guinea,Timor-Leste,visa on arrival
 Papua New Guinea,Togo,e-visa
 Papua New Guinea,Tonga,visa on arrival
@@ -27553,7 +27553,7 @@ Paraguay,Kiribati,90
 Paraguay,Kosovo,90
 Paraguay,Kuwait,visa required
 Paraguay,Kyrgyzstan,e-visa
-Paraguay,Laos,visa on arrival
+Paraguay,Laos,e-visa
 Paraguay,Latvia,90
 Paraguay,Lebanon,visa on arrival
 Paraguay,Lesotho,visa required
@@ -27752,7 +27752,7 @@ Peru,Kiribati,90
 Peru,Kosovo,visa required
 Peru,Kuwait,visa required
 Peru,Kyrgyzstan,e-visa
-Peru,Laos,visa on arrival
+Peru,Laos,e-visa
 Peru,Latvia,90
 Peru,Lebanon,visa on arrival
 Peru,Lesotho,visa required
@@ -28150,7 +28150,7 @@ Poland,Kiribati,90
 Poland,Kosovo,90
 Poland,Kuwait,visa on arrival
 Poland,Kyrgyzstan,30
-Poland,Laos,visa on arrival
+Poland,Laos,e-visa
 Poland,Latvia,visa free
 Poland,Lebanon,visa on arrival
 Poland,Lesotho,14
@@ -28349,7 +28349,7 @@ Portugal,Kiribati,90
 Portugal,Kosovo,90
 Portugal,Kuwait,visa on arrival
 Portugal,Kyrgyzstan,30
-Portugal,Laos,visa on arrival
+Portugal,Laos,e-visa
 Portugal,Latvia,visa free
 Portugal,Lebanon,visa on arrival
 Portugal,Lesotho,14
@@ -28548,7 +28548,7 @@ Qatar,Kiribati,90
 Qatar,Kosovo,90
 Qatar,Kuwait,visa free
 Qatar,Kyrgyzstan,60
-Qatar,Laos,visa on arrival
+Qatar,Laos,e-visa
 Qatar,Latvia,visa required
 Qatar,Lebanon,180
 Qatar,Lesotho,visa required
@@ -28594,7 +28594,7 @@ Qatar,Palestine,visa free
 Qatar,Panama,90
 Qatar,Papua New Guinea,e-visa
 Qatar,Paraguay,visa on arrival
-Qatar,Peru,visa required
+Qatar,Peru,180
 Qatar,Philippines,30
 Qatar,Poland,visa required
 Qatar,Portugal,visa required
@@ -28747,7 +28747,7 @@ Romania,Kiribati,90
 Romania,Kosovo,90
 Romania,Kuwait,visa on arrival
 Romania,Kyrgyzstan,30
-Romania,Laos,visa on arrival
+Romania,Laos,e-visa
 Romania,Latvia,visa free
 Romania,Lebanon,visa on arrival
 Romania,Lesotho,14
@@ -29145,7 +29145,7 @@ Rwanda,Kiribati,90
 Rwanda,Kosovo,visa required
 Rwanda,Kuwait,visa required
 Rwanda,Kyrgyzstan,e-visa
-Rwanda,Laos,visa on arrival
+Rwanda,Laos,e-visa
 Rwanda,Latvia,visa required
 Rwanda,Lebanon,visa required
 Rwanda,Lesotho,visa required
@@ -29316,7 +29316,7 @@ Saint Kitts and Nevis,Gabon,e-visa
 Saint Kitts and Nevis,Gambia,90
 Saint Kitts and Nevis,Georgia,90
 Saint Kitts and Nevis,Germany,90
-Saint Kitts and Nevis,Ghana,e-visa
+Saint Kitts and Nevis,Ghana,90
 Saint Kitts and Nevis,Greece,90
 Saint Kitts and Nevis,Grenada,visa free
 Saint Kitts and Nevis,Guatemala,90
@@ -29344,7 +29344,7 @@ Saint Kitts and Nevis,Kiribati,90
 Saint Kitts and Nevis,Kosovo,90
 Saint Kitts and Nevis,Kuwait,visa required
 Saint Kitts and Nevis,Kyrgyzstan,e-visa
-Saint Kitts and Nevis,Laos,visa on arrival
+Saint Kitts and Nevis,Laos,e-visa
 Saint Kitts and Nevis,Latvia,90
 Saint Kitts and Nevis,Lebanon,visa on arrival
 Saint Kitts and Nevis,Lesotho,90
@@ -29402,7 +29402,7 @@ Saint Kitts and Nevis,Saint Kitts and Nevis,-1
 Saint Kitts and Nevis,Saint Lucia,visa free
 Saint Kitts and Nevis,Samoa,visa on arrival
 Saint Kitts and Nevis,San Marino,90
-Saint Kitts and Nevis,Sao Tome and Principe,e-visa
+Saint Kitts and Nevis,Sao Tome and Principe,visa free
 Saint Kitts and Nevis,Saudi Arabia,visa on arrival
 Saint Kitts and Nevis,Senegal,visa on arrival
 Saint Kitts and Nevis,Serbia,90
@@ -29543,7 +29543,7 @@ Saint Lucia,Kiribati,90
 Saint Lucia,Kosovo,90
 Saint Lucia,Kuwait,visa required
 Saint Lucia,Kyrgyzstan,e-visa
-Saint Lucia,Laos,visa on arrival
+Saint Lucia,Laos,e-visa
 Saint Lucia,Latvia,90
 Saint Lucia,Lebanon,visa required
 Saint Lucia,Lesotho,90
@@ -29742,7 +29742,7 @@ Samoa,Kiribati,90
 Samoa,Kosovo,90
 Samoa,Kuwait,visa required
 Samoa,Kyrgyzstan,e-visa
-Samoa,Laos,visa on arrival
+Samoa,Laos,e-visa
 Samoa,Latvia,90
 Samoa,Lebanon,visa on arrival
 Samoa,Lesotho,90
@@ -29941,7 +29941,7 @@ San Marino,Kiribati,visa required
 San Marino,Kosovo,90
 San Marino,Kuwait,visa on arrival
 San Marino,Kyrgyzstan,60
-San Marino,Laos,visa on arrival
+San Marino,Laos,e-visa
 San Marino,Latvia,90
 San Marino,Lebanon,visa on arrival
 San Marino,Lesotho,90
@@ -30024,7 +30024,7 @@ San Marino,Syria,e-visa
 San Marino,Taiwan,90
 San Marino,Tajikistan,30
 San Marino,Tanzania,visa on arrival
-San Marino,Thailand,visa free
+San Marino,Thailand,e-visa
 San Marino,Timor-Leste,visa on arrival
 San Marino,Togo,e-visa
 San Marino,Tonga,visa required
@@ -30140,7 +30140,7 @@ Sao Tome and Principe,Kiribati,visa required
 Sao Tome and Principe,Kosovo,90
 Sao Tome and Principe,Kuwait,visa required
 Sao Tome and Principe,Kyrgyzstan,e-visa
-Sao Tome and Principe,Laos,visa on arrival
+Sao Tome and Principe,Laos,e-visa
 Sao Tome and Principe,Latvia,visa required
 Sao Tome and Principe,Lebanon,visa required
 Sao Tome and Principe,Lesotho,visa required
@@ -30339,7 +30339,7 @@ Saudi Arabia,Kiribati,90
 Saudi Arabia,Kosovo,90
 Saudi Arabia,Kuwait,visa free
 Saudi Arabia,Kyrgyzstan,60
-Saudi Arabia,Laos,visa on arrival
+Saudi Arabia,Laos,e-visa
 Saudi Arabia,Latvia,visa required
 Saudi Arabia,Lebanon,180
 Saudi Arabia,Lesotho,visa required
@@ -30737,7 +30737,7 @@ Serbia,Kiribati,visa required
 Serbia,Kosovo,90
 Serbia,Kuwait,e-visa
 Serbia,Kyrgyzstan,90
-Serbia,Laos,visa on arrival
+Serbia,Laos,e-visa
 Serbia,Latvia,90
 Serbia,Lebanon,visa on arrival
 Serbia,Lesotho,visa required
@@ -30936,7 +30936,7 @@ Seychelles,Kiribati,90
 Seychelles,Kosovo,90
 Seychelles,Kuwait,visa required
 Seychelles,Kyrgyzstan,e-visa
-Seychelles,Laos,visa on arrival
+Seychelles,Laos,e-visa
 Seychelles,Latvia,90
 Seychelles,Lebanon,visa required
 Seychelles,Lesotho,90
@@ -31533,7 +31533,7 @@ Slovakia,Kiribati,90
 Slovakia,Kosovo,90
 Slovakia,Kuwait,visa on arrival
 Slovakia,Kyrgyzstan,30
-Slovakia,Laos,visa on arrival
+Slovakia,Laos,e-visa
 Slovakia,Latvia,visa free
 Slovakia,Lebanon,visa on arrival
 Slovakia,Lesotho,14
@@ -31732,7 +31732,7 @@ Slovenia,Kiribati,90
 Slovenia,Kosovo,90
 Slovenia,Kuwait,visa on arrival
 Slovenia,Kyrgyzstan,30
-Slovenia,Laos,visa on arrival
+Slovenia,Laos,e-visa
 Slovenia,Latvia,visa free
 Slovenia,Lebanon,visa on arrival
 Slovenia,Lesotho,14
@@ -31912,7 +31912,7 @@ Solomon Islands,Guinea-Bissau,visa on arrival
 Solomon Islands,Guyana,e-visa
 Solomon Islands,Haiti,90
 Solomon Islands,Honduras,90
-Solomon Islands,Hong Kong,e-visa
+Solomon Islands,Hong Kong,30
 Solomon Islands,Hungary,90
 Solomon Islands,Iceland,90
 Solomon Islands,India,e-visa
@@ -31931,7 +31931,7 @@ Solomon Islands,Kiribati,90
 Solomon Islands,Kosovo,90
 Solomon Islands,Kuwait,visa required
 Solomon Islands,Kyrgyzstan,e-visa
-Solomon Islands,Laos,visa on arrival
+Solomon Islands,Laos,e-visa
 Solomon Islands,Latvia,90
 Solomon Islands,Lebanon,visa required
 Solomon Islands,Lesotho,90
@@ -32130,7 +32130,7 @@ Somalia,Kiribati,visa required
 Somalia,Kosovo,visa required
 Somalia,Kuwait,visa required
 Somalia,Kyrgyzstan,e-visa
-Somalia,Laos,visa on arrival
+Somalia,Laos,e-visa
 Somalia,Latvia,visa required
 Somalia,Lebanon,visa on arrival
 Somalia,Lesotho,visa required
@@ -32329,7 +32329,7 @@ South Africa,Kiribati,90
 South Africa,Kosovo,visa required
 South Africa,Kuwait,visa required
 South Africa,Kyrgyzstan,visa on arrival
-South Africa,Laos,visa on arrival
+South Africa,Laos,e-visa
 South Africa,Latvia,visa required
 South Africa,Lebanon,visa required
 South Africa,Lesotho,visa free
@@ -32727,7 +32727,7 @@ South Sudan,Kiribati,visa required
 South Sudan,Kosovo,visa required
 South Sudan,Kuwait,visa required
 South Sudan,Kyrgyzstan,e-visa
-South Sudan,Laos,visa on arrival
+South Sudan,Laos,e-visa
 South Sudan,Latvia,visa required
 South Sudan,Lebanon,visa required
 South Sudan,Lesotho,visa required
@@ -32926,7 +32926,7 @@ Spain,Kiribati,90
 Spain,Kosovo,90
 Spain,Kuwait,visa on arrival
 Spain,Kyrgyzstan,30
-Spain,Laos,visa on arrival
+Spain,Laos,e-visa
 Spain,Latvia,visa free
 Spain,Lebanon,visa on arrival
 Spain,Lesotho,14
@@ -33125,7 +33125,7 @@ Sri Lanka,Kiribati,90
 Sri Lanka,Kosovo,visa required
 Sri Lanka,Kuwait,visa required
 Sri Lanka,Kyrgyzstan,e-visa
-Sri Lanka,Laos,visa on arrival
+Sri Lanka,Laos,e-visa
 Sri Lanka,Latvia,visa required
 Sri Lanka,Lebanon,visa required
 Sri Lanka,Lesotho,visa free
@@ -33208,7 +33208,7 @@ Sri Lanka,Syria,e-visa
 Sri Lanka,Taiwan,visa required
 Sri Lanka,Tajikistan,30
 Sri Lanka,Tanzania,visa on arrival
-Sri Lanka,Thailand,visa free
+Sri Lanka,Thailand,e-visa
 Sri Lanka,Timor-Leste,visa on arrival
 Sri Lanka,Togo,e-visa
 Sri Lanka,Tonga,visa required
@@ -33324,7 +33324,7 @@ Saint Vincent and the Grenadines,Kiribati,90
 Saint Vincent and the Grenadines,Kosovo,90
 Saint Vincent and the Grenadines,Kuwait,visa required
 Saint Vincent and the Grenadines,Kyrgyzstan,e-visa
-Saint Vincent and the Grenadines,Laos,visa on arrival
+Saint Vincent and the Grenadines,Laos,e-visa
 Saint Vincent and the Grenadines,Latvia,90
 Saint Vincent and the Grenadines,Lebanon,visa required
 Saint Vincent and the Grenadines,Lesotho,90
@@ -33523,7 +33523,7 @@ Sudan,Kiribati,visa required
 Sudan,Kosovo,visa required
 Sudan,Kuwait,visa required
 Sudan,Kyrgyzstan,e-visa
-Sudan,Laos,visa on arrival
+Sudan,Laos,e-visa
 Sudan,Latvia,visa required
 Sudan,Lebanon,visa on arrival
 Sudan,Lesotho,visa required
@@ -33921,7 +33921,7 @@ Sweden,Kiribati,90
 Sweden,Kosovo,90
 Sweden,Kuwait,visa on arrival
 Sweden,Kyrgyzstan,30
-Sweden,Laos,visa on arrival
+Sweden,Laos,e-visa
 Sweden,Latvia,visa free
 Sweden,Lebanon,visa on arrival
 Sweden,Lesotho,14
@@ -34518,7 +34518,7 @@ Taiwan,Kiribati,visa required
 Taiwan,Kosovo,90
 Taiwan,Kuwait,visa required
 Taiwan,Kyrgyzstan,e-visa
-Taiwan,Laos,visa on arrival
+Taiwan,Laos,e-visa
 Taiwan,Latvia,90
 Taiwan,Lebanon,visa required
 Taiwan,Lesotho,visa required
@@ -34547,7 +34547,7 @@ Taiwan,Morocco,visa required
 Taiwan,Mozambique,visa on arrival
 Taiwan,Myanmar,e-visa
 Taiwan,Namibia,e-visa
-Taiwan,Nauru,visa on arrival
+Taiwan,Nauru,visa required
 Taiwan,Nepal,visa on arrival
 Taiwan,Netherlands,90
 Taiwan,New Zealand,e-visa
@@ -34717,7 +34717,7 @@ Tajikistan,Kiribati,visa required
 Tajikistan,Kosovo,visa required
 Tajikistan,Kuwait,visa required
 Tajikistan,Kyrgyzstan,visa free
-Tajikistan,Laos,visa on arrival
+Tajikistan,Laos,e-visa
 Tajikistan,Latvia,visa required
 Tajikistan,Lebanon,visa on arrival
 Tajikistan,Lesotho,visa required
@@ -34916,7 +34916,7 @@ Tanzania,Kiribati,90
 Tanzania,Kosovo,visa required
 Tanzania,Kuwait,visa required
 Tanzania,Kyrgyzstan,e-visa
-Tanzania,Laos,visa on arrival
+Tanzania,Laos,e-visa
 Tanzania,Latvia,visa required
 Tanzania,Lebanon,visa required
 Tanzania,Lesotho,90
@@ -35314,7 +35314,7 @@ Timor-Leste,Kiribati,90
 Timor-Leste,Kosovo,90
 Timor-Leste,Kuwait,visa required
 Timor-Leste,Kyrgyzstan,e-visa
-Timor-Leste,Laos,visa on arrival
+Timor-Leste,Laos,e-visa
 Timor-Leste,Latvia,90
 Timor-Leste,Lebanon,visa required
 Timor-Leste,Lesotho,visa required
@@ -35513,7 +35513,7 @@ Togo,Kiribati,90
 Togo,Kosovo,visa required
 Togo,Kuwait,visa required
 Togo,Kyrgyzstan,e-visa
-Togo,Laos,visa on arrival
+Togo,Laos,e-visa
 Togo,Latvia,visa required
 Togo,Lebanon,visa required
 Togo,Lesotho,visa required
@@ -35795,7 +35795,7 @@ Tonga,Syria,e-visa
 Tonga,Taiwan,visa required
 Tonga,Tajikistan,visa required
 Tonga,Tanzania,90
-Tonga,Thailand,visa free
+Tonga,Thailand,e-visa
 Tonga,Timor-Leste,visa on arrival
 Tonga,Togo,e-visa
 Tonga,Tonga,-1
@@ -35911,7 +35911,7 @@ Trinidad and Tobago,Kiribati,90
 Trinidad and Tobago,Kosovo,90
 Trinidad and Tobago,Kuwait,visa required
 Trinidad and Tobago,Kyrgyzstan,e-visa
-Trinidad and Tobago,Laos,visa on arrival
+Trinidad and Tobago,Laos,e-visa
 Trinidad and Tobago,Latvia,90
 Trinidad and Tobago,Lebanon,visa required
 Trinidad and Tobago,Lesotho,90
@@ -35994,7 +35994,7 @@ Trinidad and Tobago,Syria,e-visa
 Trinidad and Tobago,Taiwan,visa required
 Trinidad and Tobago,Tajikistan,e-visa
 Trinidad and Tobago,Tanzania,90
-Trinidad and Tobago,Thailand,visa free
+Trinidad and Tobago,Thailand,e-visa
 Trinidad and Tobago,Timor-Leste,visa on arrival
 Trinidad and Tobago,Togo,e-visa
 Trinidad and Tobago,Tonga,visa required
@@ -36110,7 +36110,7 @@ Tunisia,Kiribati,visa required
 Tunisia,Kosovo,visa required
 Tunisia,Kuwait,visa required
 Tunisia,Kyrgyzstan,e-visa
-Tunisia,Laos,visa on arrival
+Tunisia,Laos,e-visa
 Tunisia,Latvia,visa required
 Tunisia,Lebanon,visa on arrival
 Tunisia,Lesotho,visa required
@@ -36309,7 +36309,7 @@ Turkey,Kiribati,visa required
 Turkey,Kosovo,90
 Turkey,Kuwait,visa on arrival
 Turkey,Kyrgyzstan,90
-Turkey,Laos,visa on arrival
+Turkey,Laos,e-visa
 Turkey,Latvia,visa required
 Turkey,Lebanon,visa on arrival
 Turkey,Lesotho,visa required
@@ -36508,7 +36508,7 @@ Turkmenistan,Kiribati,visa required
 Turkmenistan,Kosovo,visa required
 Turkmenistan,Kuwait,visa required
 Turkmenistan,Kyrgyzstan,e-visa
-Turkmenistan,Laos,visa on arrival
+Turkmenistan,Laos,e-visa
 Turkmenistan,Latvia,visa required
 Turkmenistan,Lebanon,visa on arrival
 Turkmenistan,Lesotho,visa required
@@ -36707,7 +36707,7 @@ Tuvalu,Kiribati,90
 Tuvalu,Kosovo,90
 Tuvalu,Kuwait,visa required
 Tuvalu,Kyrgyzstan,e-visa
-Tuvalu,Laos,visa on arrival
+Tuvalu,Laos,e-visa
 Tuvalu,Latvia,90
 Tuvalu,Lebanon,visa required
 Tuvalu,Lesotho,90
@@ -36906,7 +36906,7 @@ Uganda,Kiribati,90
 Uganda,Kosovo,visa required
 Uganda,Kuwait,visa required
 Uganda,Kyrgyzstan,e-visa
-Uganda,Laos,visa on arrival
+Uganda,Laos,e-visa
 Uganda,Latvia,visa required
 Uganda,Lebanon,visa required
 Uganda,Lesotho,90
@@ -37105,7 +37105,7 @@ Ukraine,Kiribati,90
 Ukraine,Kosovo,90
 Ukraine,Kuwait,visa on arrival
 Ukraine,Kyrgyzstan,90
-Ukraine,Laos,visa on arrival
+Ukraine,Laos,e-visa
 Ukraine,Latvia,90
 Ukraine,Lebanon,visa on arrival
 Ukraine,Lesotho,visa required
@@ -37304,7 +37304,7 @@ United Arab Emirates,Kiribati,90
 United Arab Emirates,Kosovo,90
 United Arab Emirates,Kuwait,visa free
 United Arab Emirates,Kyrgyzstan,60
-United Arab Emirates,Laos,visa on arrival
+United Arab Emirates,Laos,e-visa
 United Arab Emirates,Latvia,90
 United Arab Emirates,Lebanon,180
 United Arab Emirates,Lesotho,visa required
@@ -37503,7 +37503,7 @@ United Kingdom,Kiribati,90
 United Kingdom,Kosovo,90
 United Kingdom,Kuwait,visa on arrival
 United Kingdom,Kyrgyzstan,60
-United Kingdom,Laos,visa on arrival
+United Kingdom,Laos,e-visa
 United Kingdom,Latvia,90
 United Kingdom,Lebanon,visa on arrival
 United Kingdom,Lesotho,visa free
@@ -37702,7 +37702,7 @@ United States,Kiribati,90
 United States,Kosovo,90
 United States,Kuwait,visa on arrival
 United States,Kyrgyzstan,60
-United States,Laos,visa on arrival
+United States,Laos,e-visa
 United States,Latvia,90
 United States,Lebanon,visa on arrival
 United States,Lesotho,visa free
@@ -37901,7 +37901,7 @@ Uruguay,Kiribati,90
 Uruguay,Kosovo,90
 Uruguay,Kuwait,visa required
 Uruguay,Kyrgyzstan,e-visa
-Uruguay,Laos,visa on arrival
+Uruguay,Laos,e-visa
 Uruguay,Latvia,90
 Uruguay,Lebanon,visa on arrival
 Uruguay,Lesotho,visa required
@@ -37984,7 +37984,7 @@ Uruguay,Syria,e-visa
 Uruguay,Taiwan,visa required
 Uruguay,Tajikistan,e-visa
 Uruguay,Tanzania,visa on arrival
-Uruguay,Thailand,visa free
+Uruguay,Thailand,e-visa
 Uruguay,Timor-Leste,visa on arrival
 Uruguay,Togo,e-visa
 Uruguay,Tonga,visa required
@@ -38100,7 +38100,7 @@ Uzbekistan,Kiribati,visa required
 Uzbekistan,Kosovo,visa required
 Uzbekistan,Kuwait,visa required
 Uzbekistan,Kyrgyzstan,60
-Uzbekistan,Laos,visa on arrival
+Uzbekistan,Laos,e-visa
 Uzbekistan,Latvia,visa required
 Uzbekistan,Lebanon,visa on arrival
 Uzbekistan,Lesotho,visa required
@@ -38183,7 +38183,7 @@ Uzbekistan,Syria,visa on arrival
 Uzbekistan,Taiwan,visa required
 Uzbekistan,Tajikistan,30
 Uzbekistan,Tanzania,e-visa
-Uzbekistan,Thailand,visa free
+Uzbekistan,Thailand,e-visa
 Uzbekistan,Timor-Leste,visa on arrival
 Uzbekistan,Togo,e-visa
 Uzbekistan,Tonga,visa required
@@ -38299,7 +38299,7 @@ Vanuatu,Kiribati,90
 Vanuatu,Kosovo,90
 Vanuatu,Kuwait,visa required
 Vanuatu,Kyrgyzstan,e-visa
-Vanuatu,Laos,visa on arrival
+Vanuatu,Laos,e-visa
 Vanuatu,Latvia,visa required
 Vanuatu,Lebanon,visa required
 Vanuatu,Lesotho,90
@@ -38498,7 +38498,7 @@ Vatican,Kiribati,visa required
 Vatican,Kosovo,90
 Vatican,Kuwait,visa on arrival
 Vatican,Kyrgyzstan,60
-Vatican,Laos,visa on arrival
+Vatican,Laos,e-visa
 Vatican,Latvia,90
 Vatican,Lebanon,visa required
 Vatican,Lesotho,visa required
@@ -38697,7 +38697,7 @@ Venezuela,Kiribati,90
 Venezuela,Kosovo,90
 Venezuela,Kuwait,visa required
 Venezuela,Kyrgyzstan,visa on arrival
-Venezuela,Laos,visa on arrival
+Venezuela,Laos,e-visa
 Venezuela,Latvia,90
 Venezuela,Lebanon,visa on arrival
 Venezuela,Lesotho,visa required
@@ -38854,7 +38854,7 @@ Vietnam,Djibouti,visa on arrival
 Vietnam,Dominica,21
 Vietnam,Dominican Republic,visa required
 Vietnam,Ecuador,e-visa
-Vietnam,Egypt,visa required
+Vietnam,Egypt,visa on arrival
 Vietnam,El Salvador,e-visa
 Vietnam,Equatorial Guinea,e-visa
 Vietnam,Eritrea,visa required
@@ -38987,7 +38987,7 @@ Vietnam,Trinidad and Tobago,e-visa
 Vietnam,Tunisia,visa required
 Vietnam,Turkmenistan,visa required
 Vietnam,Tuvalu,visa on arrival
-Vietnam,Turkey,visa required
+Vietnam,Turkey,e-visa
 Vietnam,Uganda,e-visa
 Vietnam,Ukraine,visa required
 Vietnam,United Arab Emirates,e-visa
@@ -39095,7 +39095,7 @@ Yemen,Kiribati,visa required
 Yemen,Kosovo,visa required
 Yemen,Kuwait,visa required
 Yemen,Kyrgyzstan,e-visa
-Yemen,Laos,visa on arrival
+Yemen,Laos,e-visa
 Yemen,Latvia,visa required
 Yemen,Lebanon,visa on arrival
 Yemen,Lesotho,visa required
@@ -39266,7 +39266,7 @@ Zambia,Gabon,e-visa
 Zambia,Gambia,90
 Zambia,Georgia,e-visa
 Zambia,Germany,visa required
-Zambia,Ghana,e-visa
+Zambia,Ghana,30
 Zambia,Greece,visa required
 Zambia,Grenada,90
 Zambia,Guatemala,visa required
